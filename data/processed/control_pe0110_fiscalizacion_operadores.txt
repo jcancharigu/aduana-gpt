@@ -1,0 +1,714 @@
+Procedimientos de Prevención del Contrabando y Control Fronterizo - LEGISLACION
+
+
+FISCALIZACIÓN Y PREVENCIÓN DEL CONTRABANDO Y CONTROL FRONTERIZO
+PROCEDIMIENTO ESPECIFICO:
+
+
+CONTROL-PE.01.10:
+ FISCALIZACIÓN
+
+ADUANERA
+
+A OPERADORES DE COMERCIO EXTERIOR Y OPERADORES INTERVINIENTES
+
+
+ <-- Retroceder
+
+
+
+
+
+Proc:
+
+
+
+CONTROL-PE.01.10
+
+
+FISCALIZACIÓN ADUANERA
+
+						A OPERADORES DE COMERCIO EXTERIOR Y OPERADORES
+
+						INTERVINIENTES
+
+
+Versión:
+ 2
+
+
+Publicación:
+ 31.05.2025
+
+
+Resolución:
+
+
+					  0177-2025 / SUNAT
+
+
+Fecha Res.:
+  30.05.2025
+
+
+Vigencia:
+
+
+ 01.07.2025
+
+
+
+Lista:
+ Maestra
+
+
+Circulares Anexas
+
+
+Control de
+
+ Cambios
+
+
+
+
+
+I. OBJETIVO
+
+
+		  Establecer las pautas a seguir para la programación y ejecución de las
+
+		  acciones de fiscalización aduanera a los operadores de comercio
+
+		  exterior y operadores intervinientes con la finalidad de verificar el
+
+		  cumplimiento de los requisitos exigidos para ser autorizados a operar
+
+		  como tales y de las obligaciones administrativas previstas en la
+
+		  normatividad aduanera y otras normas vigentes.
+
+
+I
+I
+.
+
+
+
+ALCANCE
+
+
+		  Está dirigido al personal de la Superintendencia Nacional de Aduanas y
+
+		  de Administración Tributaria - SUNAT, a los operadores de comercio
+
+		  exterior y a los operadores intervinientes.
+
+
+I
+II
+.
+
+
+
+RESPONSABILIDAD
+
+
+		  La aplicación, cumplimiento y seguimiento de lo establecido en el
+
+		  presente procedimiento es responsabilidad del Intendente Nacional de
+
+		  Control Aduanero, del Intendente Nacional de Desarrollo e Innovación
+
+		  Aduanera, del Intendente Nacional de Sistemas de Información, de los
+
+		  intendentes de aduana de la República, y de las jefaturas y personal
+
+		  de las distintas unidades de organización intervinientes.
+
+
+I
+V
+.
+
+
+
+DEFINICIONES
+
+
+		  Y ABREVIATURAS
+
+
+Para efectos del presente
+
+		  procedimiento, se entiende por:
+
+
+1. Agente fiscalizador:
+ Al o los trabajadores de la
+
+		  SUNAT que realizan la función de fiscalizar.
+2. Buzón
+
+		  electrónico:
+ A la sección ubicada en SUNAT Operaciones en
+
+		  Línea (www.sunat.gob.pe) asignada al administrado, en la que se pueden
+
+		  depositar los actos administrativos y las comunicaciones, entre otros,
+
+		  a que se refiere el artículo 2 de la Resolución de Superintendencia
+
+		  N.° 014-2008/SUNAT.
+3. Fiscalización aduanera:
+ Al
+
+		  procedimiento mediante el cual la Administración Aduanera programa y
+
+		  ejecuta acciones de control extraordinario para verificar el
+
+		  cumplimiento de las obligaciones administrativas de los sujetos
+
+		  fiscalizados y de los requisitos exigidos para la autorización de los
+
+		  operadores de comercio exterior.
+4. MPV-SUNAT:
+ A
+
+		  la mesa de partes virtual de la SUNAT, consistente en una plataforma
+
+		  informática disponible en el portal de la SUNAT que facilita la
+
+		  presentación virtual de los documentos.
+5. Orden de
+
+		  fiscalización (OF):
+ Al documento cuya numeración identifica
+
+		  una acción de fiscalización.
+6. Programador:
+ Al
+
+		  trabajador de la División de Inteligencia Aduanera de la Gerencia de
+
+		  Gestión de Riesgos e Investigaciones Aduaneras que realiza la función
+
+		  de programar las acciones de fiscalización.
+7. RSIRAT:
+
+
+		  A la plataforma informática Rediseño del Sistema Integrado de
+
+		  Recaudación de la Administración Tributaria, la cual tiene por
+
+		  objetivo dar apoyo a las tareas de las áreas de fiscalización de la
+
+		  SUNAT.
+8. Sujeto fiscalizado:
+ Al operador de
+
+		  comercio exterior y al operador interviniente comprendidos en el
+
+		  presente procedimiento.
+
+
+V
+.
+
+
+
+		  BASE LEGAL
+
+
+		  	- Ley de los Delitos Aduaneros, Ley N.° 28008, publicada el
+
+			  19.06.2003, y modificatorias.
+- Ley General de Aduanas, Decreto
+
+			  Legislativo N.° 1053, publicado el 27.06.2008, y modificatorias.
+
+
+			  - Reglamento de la Ley de los Delitos Aduaneros, aprobado por
+
+			  Decreto Supremo N.° 121-2003-EF, publicado el 27.08.2003, y
+
+			  modificatorias.
+- Reglamento del Decreto Legislativo N.° 1053,
+
+			  Ley General de Aduanas, aprobado por Decreto Supremo N.°
+
+			  010-2009-EF, publicado el 16.01.2009, y modificatorias.
+- Texto
+
+			  Único Ordenado del Código Tributario, aprobado por Decreto Supremo
+
+			  N.° 133-2013-EF, publicado el 22.06.2013, y modificatorias.
+-
+
+			  Texto Único Ordenado de la Ley del Procedimiento Administrativo
+
+			  General, aprobado por Decreto Supremo N.° 004-2019-JUS, publicado
+
+			  el 25.01.2019, y modificatorias. En adelante, TUO de la LPAG.
+-
+
+			  Tabla de Sanciones aplicables a las infracciones previstas en la
+
+			  Ley General de Aduanas, aprobada por Decreto Supremo N.°
+
+			  418-2019-EF, publicado el 31.12.2019, y modificatorias.
+-
+
+			  Resolución de Superintendencia N.° 014-2008/SUNAT que regula la
+
+			  notificación de actos administrativos por medio electrónico,
+
+			  publicada el 08.02.2008, y modificatorias.
+- Resolución SBS N.°
+
+			  4197-2016, que aprueba la Norma para la prevención del lavado de
+
+			  activos y del financiamiento del terrorismo aplicable a los
+
+			  agentes de aduana autorizados para operar como despachadores de
+
+			  aduana, publicada el 20.08.2016
+- Resolución de
+
+			  Superintendencia N.° 023-2020/SUNAT que aprueba el procedimiento
+
+			  general “Autorización y categorización de operadores de comercio
+
+			  exterior” DESPA-PG.24 (versión 4), publicada el 30.01.2020.
+-
+
+			  Resolución de Superintendencia N.° 077-2020/SUNAT que crea la mesa
+
+			  de partes virtual de la SUNAT, publicada el 08.05.2020, y
+
+			  modificatoria.
+
+
+VI
+.
+
+
+
+DISPOSICIONES GENERALES
+
+
+		  1. El presente procedimiento se aplica a:
+
+
+		  a) Los operadores de comercio exterior:
+
+
+		  a.1) despachador de aduana,
+a.2) transportista o su representante
+
+		  en el país,
+a.3) agente de carga internacional,
+a.4) almacén
+
+		  aduanero,
+a.5) empresa de servicio postal,
+a.6) empresa de
+
+		  servicio de entrega rápida,
+a.7) almacén libre (Duty Free),
+a.8)
+
+		  beneficiario de material para uso aeronáutico,
+a.9) operador de
+
+		  transporte multimodal internacional,
+a.10) asociación
+
+		  garantizadora,
+a.11) asociación expedidora.
+
+
+		  b) Los operadores intervinientes:
+
+
+		  b.1) administrador o concesionario de las instalaciones portuarias,
+
+		  aeroportuarias o terminales terrestres internacionales,
+b.2)
+
+		  operador de base fija,
+b.3) laboratorio,
+b.4) proveedor de
+
+		  precinto.
+
+
+		  2. El presente procedimiento regula la fiscalización aduanera que se
+
+		  realice a los sujetos fiscalizados para verificar el cumplimiento de:
+
+
+		  a) Los requisitos y condiciones exigidos a los operadores de comercio
+
+		  exterior para ser autorizados a operar como tales.
+b) Las
+
+		  obligaciones administrativas de los operadores de comercio exterior y
+
+		  operadores intervinientes.
+c) Las obligaciones administrativas bajo
+
+		  supervisión de la SUNAT establecidas en las normas para la prevención
+
+		  del lavado de activos y del financiamiento del terrorismo, aplicables
+
+		  a los agentes de aduana autorizados para operar como despachadores de
+
+		  aduana.
+
+
+		  3. La Gerencia de Fiscalización y Recaudación Aduanera (GFRA) de la
+
+		  Intendencia Nacional de Control Aduanero (INCA) es la encargada de
+
+		  conducir las acciones de fiscalización aduanera.
+
+
+		  4. La programación de la fiscalización aduanera está a cargo de la
+
+		  División de Inteligencia Aduanera (DIA) de la Gerencia de Gestión de
+
+		  Riesgo e Investigaciones Aduaneras (GGRIA) y la ejecución está a cargo
+
+		  de la División de Fiscalización Posterior (DFP) de la GFRA de la INCA.
+
+
+		  5. Las intendencias de aduana de la República pueden solicitar la
+
+		  programación de fiscalizaciones aduaneras.
+
+
+		  Para tal efecto remiten, a través del Sistema Informático de Gestión
+
+		  Documental e-Chaski, la solicitud de programación de acciones de
+
+		  fiscalización con el sustento correspondiente a la GGRIA, para su
+
+		  evaluación conforme al literal A de la sección VII.
+
+
+		  6. Por razones sustentadas en la distancia geográfica, la capacidad
+
+		  operativa o de otra índole, la GFRA puede encargar a las intendencias
+
+		  de aduana de la República la realización de ciertas tareas de la
+
+		  fiscalización aduanera, con excepción de su conclusión y la
+
+		  determinación de infracciones previstas por la Ley General de Aduanas
+
+		  y otras normas vigentes. Este encargo se efectúa mediante memorándum y
+
+		  debe mencionar en forma expresa la tarea que se está encargando y el
+
+		  plazo en el que debe ejecutarse.
+
+
+VII
+.
+
+
+
+DESCRIPCIÓN
+
+
+A. PROGRAMACIÓN
+
+
+		  1. La programación de la fiscalización aduanera se realiza en base a
+
+		  la gestión de indicadores de riesgo, denuncias y alertas.
+2. El
+
+		  jefe de la DIA coordina con el jefe de la DFP la asignación del agente
+
+		  fiscalizador responsable de la ejecución de la OF y lo comunica al
+
+		  programador.
+3. El programador registra en el RSIRAT la
+
+		  asignación del agente fiscalizador, el tipo de actuación a realizar y
+
+		  los demás datos necesarios, con lo cual se genera la OF.
+
+
+B. EJECUCIÓN
+
+
+		  1. El agente fiscalizador se apersona al domicilio o local autorizado
+
+		  del sujeto fiscalizado para notificar el inicio de la fiscalización
+
+		  aduanera, se acredita con la carta de presentación (anexo I) y el
+
+		  primer requerimiento (anexo II), y se identifica con su documento de
+
+		  identificación institucional o, en su defecto, con su documento
+
+		  nacional de identidad.
+La diligencia se inicia el mismo día de
+
+		  la notificación por tratarse de la verificación del mantenimiento o
+
+		  adecuación de los requisitos y condiciones exigidos para obtener la
+
+		  autorización para operar y el cumplimiento de las obligaciones
+
+		  administrativas de los sujetos fiscalizados, las cuales son de
+
+		  cumplimiento permanente.
+El agente fiscalizador se entrevista
+
+		  con el representante aduanero o representante legal según corresponda,
+
+		  le indica el motivo y alcance de la visita, y solicita la designación
+
+		  del personal encargado de la atención y suministro de los documentos e
+
+		  información que se detallan en el primer requerimiento (anexo II). Si
+
+		  el representante aduanero o representante legal no se encuentra, se
+
+		  deja constancia de ello en el acta y se prosigue con la diligencia.
+
+
+Durante la verificación, el agente fiscalizador constata los
+
+		  hechos y, de ser necesario, requiere información adicional a la
+
+		  solicitada en el primer requerimiento. Concluida la acción se emite el
+
+		  acta de visita en la que se deja constancia de las acciones y
+
+		  observaciones efectuadas, la cual es suscrita por el representante
+
+		  aduanero, el representante legal o por el personal encargado para la
+
+		  atención de la diligencia y por el agente fiscalizador.
+De no
+
+		  concluirse la verificación en el mismo día de la diligencia, el agente
+
+		  fiscalizador puede realizar visitas posteriores hasta su conclusión,
+
+		  en cuyo caso emite un acta por cada una de estas visitas.
+2. El
+
+		  agente fiscalizador realiza el trabajo de gabinete, que consiste en la
+
+		  evaluación y procesamiento de la información recopilada en la
+
+		  programación o la ejecución de la fiscalización aduanera, el cual
+
+		  puede incluir el cruce de información y requerimientos a terceros, así
+
+		  como solicitudes de información a entidades públicas o privadas del
+
+		  país o del extranjero.
+3. Como consecuencia de la fiscalización
+
+		  aduanera, el agente fiscalizador emite el resultado del requerimiento,
+
+		  el cual puede ser:
+
+
+		  a) Sin incidencia.
+b) Con incidencia: cuando se determina el
+
+		  incumplimiento de requisitos, condiciones u obligaciones
+
+		  administrativas de los sujetos fiscalizados, o la existencia de
+
+		  indicios de delito aduanero u otro ilícito penal.
+
+
+		  4. Para la emisión del resultado del requerimiento al que se refiere
+
+		  el numeral anterior, se formulan y notifican los siguientes
+
+		  documentos, según corresponda:
+
+
+		  a) resultado de requerimiento,
+b) resolución de multa,
+c)
+
+		  resolución de división,
+d) informe final de instrucción,
+e)
+
+		  resolución de gerencia,
+f) liquidación de cobranza.
+
+
+		  5. Cuando se determine la existencia de infracciones sancionables con
+
+		  cancelación, la DFP remite un informe a la GFRA para la emisión de la
+
+		  resolución y su notificación. Una vez notificada, la resolución se
+
+		  comunica mediante memorándum a la División de Autorización de
+
+		  Operadores para su ejecución y registro.
+6. Cuando en una
+
+		  fiscalización aduanera se detecte el incumplimiento de obligaciones de
+
+		  carácter tributario aduanero, se ponen los hechos en conocimiento de
+
+		  la GGRIA para las acciones de su competencia.
+7. En caso de
+
+		  presunción de delito aduanero u otro ilícito penal, el agente
+
+		  fiscalizador emite el informe de indicio de delito aduanero. El
+
+		  informe es comunicado a las unidades de organización que correspondan
+
+		  para las acciones de su competencia en el plazo establecido por la
+
+		  SUNAT.
+8. Cuando la unidad de organización que resuelve las
+
+		  impugnaciones, el Tribunal Fiscal o el Poder Judicial declaran la
+
+		  nulidad o un fallo equivalente, y sea necesario el reinicio de la
+
+		  fiscalización, la DIA genera una nueva OF.
+9. Si durante la
+
+		  fiscalización aduanera el sujeto fiscalizado decide autoliquidarse por
+
+		  la incidencia encontrada, se comunica con el agente fiscalizador
+
+		  mediante la MPV-SUNAT para que genere la liquidación de cobranza que
+
+		  corresponda y el sujeto fiscalizado pueda hacer efectivo el pago.
+
+
+10. La GFRA comunica el resultado de la fiscalización aduanera a
+
+		  las intendencias de aduana en cuya jurisdicción se haya llevado a cabo
+
+		  las tareas de fiscalización.
+
+
+C. NOTIFICACIÓN POR MEDIOS ELECTRÓNICOS
+
+
+		  1. El agente fiscalizador o el funcionario aduanero, según sus
+
+		  competencias, notifica en el buzón electrónico los siguientes actos
+
+		  administrativos:
+
+
+		  a) Emitidos en la programación:
+
+
+		  a.1) requerimientos o solicitudes de información,
+a.2) carta.
+
+
+		  b) Emitidos en la ejecución:
+
+
+		  b.1) carta,
+b.2) requerimiento,
+b.3) resultado del
+
+		  requerimiento,
+b.4) resolución de multa,
+b.5) resolución de
+
+		  división,
+b.6) resolución de gerencia,
+b.7) informe final de
+
+		  instrucción.
+
+
+		  2. Para la notificación en el buzón electrónico de los actos referidos
+
+		  en el numeral anterior se debe considerar lo siguiente:
+
+
+		  a) El sujeto fiscalizado debe contar con su código de usuario y clave
+
+		  SOL.
+b) La Administración Aduanera debe contar con el
+
+		  consentimiento expreso del sujeto fiscalizado.
+c) El agente
+
+		  fiscalizador o el funcionario aduanero, según sus competencias,
+
+		  deposita en el buzón electrónico el acto administrativo emitido, las
+
+		  comunicaciones u otros, en un archivo en formato de documento portátil
+
+		  (PDF).
+d) El sujeto fiscalizado debe consultar periódicamente el
+
+		  buzón electrónico.
+e) La notificación se considera efectuada en la
+
+		  fecha de depósito del documento y surte efecto al día que conste haber
+
+		  sido recibida o, en el caso de multas administrativas, conforme al
+
+		  artículo 106 del TUO de Código Tributario. La confirmación de la
+
+		  entrega se realiza por la misma vía electrónica.
+
+
+VIII
+.
+
+
+
+		  VIGENCIA
+
+
+		  El presente procedimiento entra en vigencia el 01 de julio de 2025.
+
+
+I
+X.
+
+
+ANEXOS
+
+
+
+
+		  -
+
+
+Anexo I:
+
+
+Modelo de carta de
+
+		  presentación
+
+
+		  -
+
+
+Anexo II:
+
+
+Modelo de
+
+		  requerimiento.

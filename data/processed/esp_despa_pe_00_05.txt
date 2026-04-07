@@ -1,0 +1,214 @@
+Despacho - Procedimientos Asociados
+
+
+PROCEDIMIENTO ESPECIFICO: SUSPENSION DE
+PLAZO
+
+
+Proc:
+
+
+
+DESPA-PE.00.05
+
+
+Suspensión de Plazo
+
+
+Versión:
+
+ 3
+
+
+Publicación:
+
+ 04.02.2010
+
+
+Resolución:
+ 0050 / 2010
+
+
+Fecha Res.:
+
+02/02/2010
+
+
+Vigencia:
+ 01/06/2010
+
+
+
+Lista:
+
+
+Maestra
+
+
+Circulares Anexas
+
+
+Control de
+ Cambios
+
+
+
+
+
+
+I. OBJETIVO
+
+
+				Establecer las pautas para la aplicación de la suspensión del
+				plazo de los trámites y regímenes, de conformidad con el
+				artículo 138º de la Ley General de Aduanas, aprobada por el
+				Decreto Legislativo N.° 1053.
+
+
+II. ALCANCE
+
+
+				Todas las dependencias de la Superintendencia Nacional de
+				Administración Tributarias – SUNAT y a los operadores de
+				comercio exterior.
+
+
+III. RESPONSABILIDAD
+
+
+				La aplicación, cumplimiento y seguimiento de lo establecido en
+				el presente Procedimiento es de responsabilidad de la
+				Intendencia de Fiscalización y Gestión de Recaudación Aduanera,
+				de la Intendencia Nacional de Sistemas de Información, de la
+				Intendencia Nacional de Técnica Aduanera, de la Intendencia de
+				Prevención del Contrabando y Control Fronterizo y de las
+				intendencias de aduana de la República.
+
+
+IV. VIGENCIA
+
+
+				El presente procedimiento entrará en vigencia conforme a lo
+				dispuesto por el artículo 2° del Decreto Supremo N.° 10-2009-EF,
+				modificado por el Decreto Supremo N.° 319-2009-EF.
+
+
+V. BASE LEGAL
+
+
+				- Ley General de Aduanas, aprobada por Decreto Legislativo N.º
+				1053 publicada el 27.6.2008 y modificatoria.
+
+				- Reglamento de la Ley General de Aduanas, aprobado por Decreto
+				Supremo N.° 010-2009-EF publicado el 16.1.2009 y modificatorias.
+
+
+				- Texto Único Ordenado del Código Tributario, Decreto Supremo
+				N.º 135-99-EF publicado el 19.8.1999 y modificatorias.
+
+				- Ley del Procedimiento Administrativo General, Ley N.º 27444
+				publicada el 11.4.2001 y modificatorias.
+
+				- Reglamento de Organización y Funciones de la Superintendencia
+				Nacional de Administración Tributaria, aprobado por Decreto
+				Supremo N.º 115-2002-PCM publicado el 28.10.2002.
+
+
+VI. NORMAS GENERALES
+
+
+				1. El plazo de los trámites y regímenes se suspenderá mientras
+				las entidades públicas o privadas obligadas no entreguen al
+				interesado la documentación requerida para el cumplimiento de
+				sus obligaciones aduaneras, por causas no imputables a él.
+
+				2. La suspensión del plazo puede ser de oficio o a petición de
+				parte. Cuando la suspensión es a petición de parte, la solicitud
+				debe ser presentada durante la vigencia del plazo de los
+				trámites o regímenes.
+
+				3. Cuando el documento pendiente de emisión deba ser expedido
+				por entidades públicas o privadas, se suspende el plazo hasta
+				que dicha entidad emita el documento requerido.
+
+				4. Cuando se trate de suspensión de plazo por procesos
+				judiciales, la suspensión se otorga hasta que se resuelva el
+				proceso judicial.
+
+
+VII. DESCRIPCIÓN DEL TRÁMITE
+
+
+				1. La solicitud de suspensión de plazo debe ser presentada ante
+				el área de trámite documentario de las intendencias de aduanas,
+				en original y copia, adjuntando el cargo de la solicitud con la
+				que se requirió el documento, para el cumplimiento de la
+				obligación aduanera.
+
+				2. El funcionario aduanero del área de trámite documentario
+				numera el expediente, entrega al usuario copia numerada y deriva
+				el expediente al área encargada del trámite o régimen cuyo plazo
+				se solicita suspender.
+
+				3. El jefe del área encargada del trámite o régimen designa al
+				funcionario aduanero que evaluará la procedencia de la
+				suspensión.
+
+				4. Si la suspensión está vinculada a la presentación de una
+				garantía, el funcionario aduanero debe solicitar a la entidad
+				financiera información respecto a la situación del trámite
+				iniciado por el usuario aduanero.
+
+				5. De proceder la suspensión del plazo, el funcionario aduanero
+				designado registra en el SIGAD dicho acto, cuando corresponda.
+
+				6. El funcionario aduanero designado notifica al usuario la
+				procedencia o rechazo de la solicitud.
+
+				7. El documento que motivó la suspensión o la denegatoria de
+				éste debe ser presentado a la Administración Aduanera dentro del
+				plazo de cinco (05) días hábiles contados a partir de la fecha
+				en que el citado documento es puesto a disposición del usuario
+				aduanero.
+
+
+VIII. FLUJOGRAMA
+
+
+				No aplica.
+
+
+IX. INFRACCIONES, SANCIONES Y DELITOS
+
+
+				Es aplicable lo dispuesto en la Ley General de Aduanas aprobada
+				por Decreto Legislativo N.° 1053, su Tabla de Sanciones aprobada
+				por el Decreto Supremo N.° 031-2009-EF, la Ley de Delitos
+				Aduaneros aprobada mediante la Ley N.° 28008, su Reglamento
+				aprobado por Decreto Supremo N.° 121-2003-EF y otras normas
+				aplicables.
+
+
+X. REGISTROS
+
+
+				Expediente-Solicitudes de Suspensión del plazo
+
+				Código : RC-01-DESPA-PE.00.05
+
+				Tipo de Almacenamiento : Electrónico
+
+				Tiempo de Conservación : Permanente
+
+				Ubicación : SIGAD
+
+				Responsable : Intendencia de Aduana Operativa
+
+
+XI. DEFINICIONES Y ABREVIATURAS
+
+
+				Funcionario Aduanero: Personal de la SUNAT que ha sido designado
+				o encargado para desempeñar actividades o funciones en su
+				representación, ejerciendo la potestad aduanera de acuerdo a su
+				competencia.

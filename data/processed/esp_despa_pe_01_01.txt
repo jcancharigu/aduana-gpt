@@ -1,0 +1,2404 @@
+Procedimientos - IMPORTACION DEFINITIVA
+
+
+IMPORTACION PARA EL CONSUMO
+
+
+PROCEDIMIENTO ESPECIFICO: DESPACHO SIMPLIFICADO DE
+
+IMPORTACION
+
+
+Proc:
+
+
+ DESPA-PE.01.01
+
+
+Despacho
+
+ Simplificado de Importación
+
+
+Versión:
+
+
+ 3
+
+
+Publicación:
+
+
+ 06/10/2005
+
+
+Resolución:
+
+
+ 000423
+
+
+Fecha Res.:
+
+
+07/09/2005
+
+
+Vigencia:
+
+
+ 18/11/2005
+
+
+
+Lista:
+
+
+ Maestra
+
+
+Circulares
+
+ Anexas
+
+
+Control de Cambios
+
+
+
+
+
+I.OBJETIVO
+
+
+Establecer las pautas para el despacho simplificado
+
+ de importación, con la finalidad de lograr un trámite ágil y
+
+ oportuno  para el retiro de las mercancías y el correcto
+
+ cumplimiento de las normas que lo regulan.
+
+
+II.
+
+
+ALCANCE
+
+
+Está dirigido al personal de la
+
+						Superintendencia Nacional de Aduanas y de Administración
+
+						Tributaria - SUNAT, a los operadores del comercio
+
+						exterior y a los operadores intervinientes que
+
+						participan en el proceso de despacho del régimen de
+
+						importación para el consumo con declaración
+
+						simplificada
+.
+
+
+(RS N° 25-2022/SUNAT-14.02.2022)
+
+
+III.
+
+
+
+RESPONSABILIDAD
+
+
+La aplicación, cumplimiento y
+
+						seguimiento de lo dispuesto en el presente procedimiento
+
+						es de responsabilidad del Intendente Nacional de
+
+						Desarrollo e Innovación Aduanera, del Intendente
+
+						Nacional de Sistemas de Información, del Intendente
+
+						Nacional de Control Aduanero, de los intendentes de
+
+						aduana de la República y de las jefaturas y personal de
+
+						las distintas unidades de organización que intervienen
+
+						en el presente procedimiento
+.
+
+
+
+
+(RS N° 25-2022/SUNAT-14.02.2022)
+
+
+IV. DEFINICIONES Y ABREVIATURAS
+
+
+(RS N° 25-2022/SUNAT-14.02.2022)
+
+
+Para
+
+						efectos del presente procedimiento se entiende como
+:
+
+
+1.
+
+
+
+
+
+Funcionario aduanero
+: Al
+
+						personal de la SUNAT que ha sido designado o encargado
+
+						para desempeñar actividades o funciones en su
+
+						representación, ejerciendo la potestad aduanera de
+
+						acuerdo con su competencia
+.
+
+
+
+2.
+
+
+
+
+MPV-SUNAT
+: A la mesa de partes virtual de la SUNAT
+
+						consistente en una plataforma informática disponible en
+
+						el portal de la SUNAT (www.sunat.gob.pe) que facilita la
+
+						presentación virtual de documentos
+.
+
+
+3.
+
+
+
+RUC
+: Al Registro Único de Contribuyentes a cargo de
+
+						la Superintendencia Nacional de Aduanas y Administración
+
+						Tributaria - SUNAT
+.
+
+
+V. BASE LEGAL
+
+
+
+
+
+(RS N° 25-2022/SUNAT-14.02.2022)
+
+
+-
+
+
+
+Ley General de Aduanas, Decreto Legislativo N° 1053,
+
+						publicado el 27.6.2008, y modificatorias
+.
+
+
+-
+
+
+Reglamento del Decreto Legislativo N° 1053, Ley
+
+						General de Aduanas, aprobado por Decreto Supremo N°
+
+						010-2009-EF, publicado el 16.1.2009, y modificatorias
+.
+
+
+-
+
+
+Tabla de sanciones aplicables a las infracciones
+
+						previstas en la Ley General de Aduanas, aprobada por
+
+						Decreto Supremo N° 418-2019-EF, publicado el 31.12.2019
+
+						y modificatoria
+.
+
+
+-
+
+
+
+
+Arancel de
+
+						Aduanas, aprobado por Decreto Supremo N° 404-2021-EF,
+
+						publicado el 31.12.2021
+.
+
+
+-
+
+
+
+
+Ley de
+
+						los delitos aduaneros, Ley N° 28008, publicada el
+
+						19.6.2003, y modificatorias
+.
+
+
+
+-
+
+						R
+eglamento de la Ley de los delitos aduaneros, aprobado
+
+						por Decreto Supremo N° 121-2003-EF, publicado el
+
+						27.8.2003, y modificatorias
+.
+
+
+-
+
+
+
+
+Ley que establece la determinación del valor aduanero a
+
+						cargo de la SUNAT, Ley Nº 27973, publicada el 27.5.2003,
+
+						y modificatoria
+.
+
+
+-
+
+
+
+
+Texto Único
+
+						Ordenado de las normas con rango de ley emitidas en
+
+						relación a los CETICOS, aprobado por Decreto Supremo N°
+
+						112-97-EF, publicado el 3.9.1997 y modificatorias
+.
+
+
+
+
+-
+
+
+
+Ley de zona franca y zona
+
+						comercial de Tacna, Ley N° 27688, publicada el 28.3.2002
+
+						y modificatorias
+.
+
+
+-
+
+
+
+
+Texto Único
+
+						Ordenado del Código Tributario, aprobado por Decreto
+
+						Supremo N° 133-2013-EF, publicado el 22.6.2013, y
+
+						modificatorias; en adelante, Código Tributario
+.
+
+
+
+
+- T
+exto Único Ordenado de la Ley
+
+						N° 27444 - Ley del Procedimiento Administrativo General,
+
+						aprobado por Decreto Supremo N° 004-2019-JUS, publicado
+
+						el 25.1.2019 y modificatorias
+.
+
+
+
+-
+
+
+
+
+Disposiciones reglamentarias del Decreto Legislativo N°
+
+						943 que aprobó la Ley de Registro Único de
+
+						Contribuyentes, aprobadas por Resolución de
+
+						Superintendencia N° 210-2004/SUNAT, publicada el
+
+						18.9.2004, y modificatorias
+.
+
+
+
+-
+
+
+
+
+Reglamento de Comprobantes de Pago, aprobado por
+
+						Resolución de Superintendencia N° 007-99/SUNAT,
+
+						publicada el 24.1.1999, y modificatorias
+.
+
+
+-
+
+
+Resolución de Superintendencia N° 077-2020/SUNAT, que
+
+						aprueba la creación de la mesa de partes virtual de la
+
+						SUNAT, publicada el 8.5.2020 y modificatorias
+.
+
+
+
+
+-
+
+
+
+Norma que aprueba el formato y
+
+						cartilla de instrucciones del documento aduanero
+
+						“Declaración Simplificada”, Resolución de Intendencia
+
+						Nacional Nº 003270 publicada el 3.12.1997
+.
+
+
+- D
+isposiciones para el correcto llenado del formato
+
+						aduanero “Declaración Simplificada”, Circular Nº
+
+						46-08-98-ADUANAS/INTA publicada el 13.2.1998
+.
+
+
+
+VI. DISPOSICIONES GENERALES
+
+
+
+(RS N° 25-2022/SUNAT-14.02.2022)
+
+
+Identificación del importador,
+
+						dueño o consignatario
+
+
+
+
+1.
+
+
+
+El importador, dueño o
+
+						consignatario debe contar con el RUC activo y no tener
+
+						la condición de no hallado o no habido para la
+
+						importación de las mercancías. Los datos relativos al
+
+						número del RUC, nombre o denominación social, código y
+
+						dirección del local del importador se deben consignar
+
+						exactamente de acuerdo a su inscripción en la SUNAT; en
+
+						caso contrario, el sistema informático rechaza la
+
+						numeración de la declaración
+.
+
+
+Los sujetos no obligados a
+
+						inscribirse en el RUC, de acuerdo a lo dispuesto en el
+
+						artículo 3 de la Resolución de Superintendencia N°
+
+						210-2004/SUNAT, pueden solicitar la destinación aduanera
+
+						utilizando su documento nacional de identidad (DNI) en
+
+						el caso de peruanos, o carné de extranjería, pasaporte o
+
+						salvoconducto tratándose de extranjeros, considerándose
+
+						entre estos
+:
+
+
+a)
+
+
+
+
+Las personas
+
+						naturales que realizan en forma ocasional importaciones
+
+						de mercancías cuyo valor FOB por operación no exceda de
+
+						un mil dólares de Estados Unidos de América (US $ 1
+
+						000,00) y siempre que registren hasta tres (3)
+
+						importaciones anuales como máximo
+.
+
+
+b)
+
+
+Las personas naturales que por única vez, en un año
+
+						calendario, importen mercancías cuyo valor FOB exceda de
+
+						un mil dólares de los Estados Unidos de América (US $ 1
+
+						000,00) y hasta dos mil dólares de los Estados Unidos de
+
+						América (US $ 2 000,00)
+.
+
+
+c)
+
+
+
+
+Los
+
+						sujetos que reciban envíos o paquetes postales de uso
+
+						personal y exclusivo del destinatario
+.
+
+
+d)
+
+
+Los miembros acreditados del servicio diplomático
+
+						nacional o extranjero, y los funcionarios de organismos
+
+						internacionales, que en ejercicio de sus derechos
+
+						establecidos en las disposiciones legales destinen su
+
+						menaje de casa.
+
+
+
+(RS N° 25-2022/SUNAT-14.02.2022)
+
+
+Mercancías que se acogen al
+
+						despacho simplificado de importación
+
+
+2.
+
+
+
+La importación de mercancías
+
+						que por su valor no tengan fines comerciales, o si los
+
+						tuvieren no son significativos para la economía del
+
+						país, se puede solicitar mediante una declaración
+
+						simplificada de importación (DS)
+.
+
+
+
+
+Este
+
+						despacho comprende
+:
+
+
+a)
+
+
+
+
+Las
+
+						muestras sin valor comercial, conforme a lo establecido
+
+						en las Reglas para la Aplicación del Arancel de Aduanas
+.
+
+
+b)
+
+
+Los obsequios cuyo valor FOB no exceda de un mil
+
+						dólares de los Estados Unidos de América (US$ 1 000,00)
+.
+
+
+c)
+
+
+Las mercancías cuyo valor
+
+		FOB no exceda de dos mil dólares de los Estados Unidos de América (US $
+
+		2 000,00), incluyendo las importaciones liberadas.
+
+
+d)
+
+
+Los medicamentos para el
+
+		tratamiento de enfermedades oncológicas, VIH/SIDA y diabetes, importados
+
+		por persona natural en tratamiento médico debidamente acreditado, por un
+
+		valor FOB que no exceda de diez mil dólares de los Estados Unidos de
+
+		América (US $ 10 000,00), incluso si se realiza a través de los
+
+		regímenes aduaneros especiales del tráfico de envíos postales o envíos
+
+		de entrega rápida. La declaración debe ser exclusiva para la importación
+
+		de dichos medicamentos y, para efectos de la inafectación del impuesto
+
+		general a las ventas y de los derechos arancelarios, debe utilizarse los
+
+		códigos liberatorios 4439 (medicamentos para enfermedades oncológicas y
+
+		VIH/SIDA) y 4450 (medicamentos para la diabetes).
+
+
+e)
+
+
+Las donaciones,
+
+		independientemente de su valor.
+
+
+f)
+
+
+Las mercancías procedentes
+
+		de las zonas especiales de desarrollo (ZED) cuyo valor FOB no exceda de
+
+		dos mil dólares de los Estados Unidos de América (US $ 2 000,00),
+
+		incluso si se trata de despachos parciales de mercancías ingresadas a la
+
+		ZED por un valor superior y que correspondan a uno o más manifiestos de
+
+		carga.
+
+
+g)
+
+
+
+
+
+		Los envíos postales remitidos por el servicio postal hasta por un valor
+
+		FOB de dos mil dólares de los Estados Unidos de América (US $ 2 000,00).
+
+
+h)
+
+Los envíos de entrega rápida hasta por un
+
+		valor FOB de dos mil dólares de los Estados Unidos de América (US $ 2
+
+		000,00).
+
+
+i)
+
+
+Los bienes comprendidos
+
+		como equipaje y menaje de casa.
+
+
+j)
+
+
+
+
+Las mercancías almacenadas en la Zona Franca
+
+		de Tacna (ZOFRATACNA) y vendidas hasta por un valor FOB máximo de dos
+
+		mil dólares de los Estados Unidos de América (US $ 2 000,00),
+
+		independientemente que la mercancía haya ingresado a dicha zona franca
+
+		con un valor superior y que correspondan a uno o más manifiestos de
+
+		carga, siempre que la factura emitida por el usuario de la ZOFRATACNA
+
+		ampare una sola transacción comercial y se adjunte copia digitalizada de
+
+		la factura de ingreso de la mercancía a la ZOFRATACNA.
+
+
+(RS N° 25-2022/SUNAT-14.02.2022)
+
+
+
+3.
+
+
+El despacho de las importaciones liberadas y de las donaciones, así como el ingreso de mercancías en los casos de los regímenes aduaneros especiales o de excepción deben adecuarse a lo establecido en los procedimientos generales y específicos
+
+ respectivos
+.
+(RIN
+
+ Nº 26-2016-SUNAT/5F0000-30.07.2016)
+
+
+4.
+Las mercancías que excedan los montos señalados en los incisos c), d),
+
+	  f), g), h) y j) del numeral 2 de la presente sección, se someten al procedimiento
+
+	  general "Importación para el consumo" DESPA-PG.01
+
+
+(RS N° 25-2022/SUNAT-14.02.2022)
+
+
+5.
+
+Las mercancías amparadas en distintas
+
+	  facturas, consignadas a un mismo comprador, emitidas por un mismo
+
+	  proveedor extranjero y que arriben en un mismo vehículo transportador,
+
+	  cuyo valor en conjunto sea mayor a dos mil dólares de los Estados Unidos
+
+	  de América (US$ 2 000,00), se rigen por lo establecido en el procedimiento
+
+	  general “Importación para el consumo” DESPA-PG.01.
+
+
+La transferencia de bienes antes
+
+						de su destinación a consumo no exime del cumplimiento de
+
+						lo indicado en el párrafo anterior.
+
+
+(RS N° 25-2022/SUNAT-14.02.2022)
+
+
+Mercancías restringidas y
+
+						prohibidas
+
+
+
+(RS N° 25-2022/SUNAT-14.02.2022)
+
+
+6.
+
+
+
+
+
+		Para la numeración de la DS que ampare mercancías restringidas se debe
+
+		contar con la documentación exigida por las normas específicas, salvo
+
+		que la normatividad del sector competente disponga que la referida
+
+		documentación se obtenga luego de numerada la declaración.
+
+
+Las mercancías de importación
+
+						prohibida no deben ser destinadas.
+
+
+El tratamiento de mercancías
+
+						restringidas y prohibidas se regula por el procedimiento
+
+						específico “Control de mercancías restringidas y
+
+						prohibidas” DESPA-PE.00.06.
+
+
+La relación referencial de
+
+						mercancías restringidas o prohibidas se encuentra
+
+						disponible para su consulta en el portal de la SUNAT.
+
+
+(RS N° 25-2022/SUNAT-14.02.2022)
+
+
+Plazos para solicitar las
+
+						mercancías a despacho
+
+
+7.
+
+
+
+
+
+		La DS se tramita bajo la modalidad de despacho diferido y se numera
+
+		dentro del plazo de quince días calendario siguientes al término de la
+
+		descarga.
+
+
+
+El importador, dueño o
+
+						consignatario puede solicitar la prórroga del citado
+
+						plazo, en casos debidamente justificados, dentro de los
+
+						quince días calendario contados a partir del término de
+
+						la descarga, por una sola vez y por un plazo adicional
+
+						de quince días calendario.
+
+
+Vencido estos plazos, las
+
+						mercancías caen en abandono legal y pueden ser
+
+						destinadas mediante DS hasta antes que la Administración
+
+						Aduanera efectivice su disposición.
+
+
+La DS de mercancías procedentes
+
+						de la ZED o ZOFRATACNA se numera dentro del plazo
+
+						concedido conforme a la normativa específica.
+
+
+
+
+(RS N° 25-2022/SUNAT-14.02.2022)
+
+
+Personas
+
+						que pueden solicitar el despacho simplificado de
+
+						importación
+
+
+
+
+8.
+
+
+
+
+
+		El despacho simplificado de importación puede ser solicitado:
+
+
+a)
+
+
+Directamente por el
+
+		importador, dueño o consignatario de la mercancía, sin la intervención
+
+		de un agente de aduanas. En este caso, está obligado a llenar solo los
+
+		rubros de información general (fondo blanco de la DS).
+
+
+b)
+
+
+
+
+
+		A través de los despachadores de aduana, quienes deben cumplir en sus
+
+		intervenciones con todas las obligaciones derivadas de su función como
+
+		auxiliar de la función pública, señaladas en la Ley General de Aduanas,
+
+		su reglamento y la normatividad emitida por la SUNAT.
+
+
+(RS N° 25-2022/SUNAT-14.02.2022)
+
+
+Requisitos que deben cumplir las
+
+						mercancías amparadas en una DS
+
+
+ 9.
+
+
+
+
+ Las mercancías amparadas en una DS deben cumplir con los requisitos
+
+		señalados en los numerales 1 al 3 del literal F de la sección VI, del
+
+		procedimiento general “Importación para el consumo” DESPA-PG.01.
+
+
+(RS N° 25-2022/SUNAT-14.02.2022)
+
+
+Mercancías
+
+ no encontradas en el reconocimiento físico
+
+
+10.
+
+
+Derogado
+(RS N° 25-2022/SUNAT-14.02.2022)
+
+
+Canal de control
+
+
+(RS N° 25-2022/SUNAT-14.02.2022)
+
+
+11.
+
+
+
+
+
+	  El sistema informático, en aplicación de técnicas de gestión de riesgo,
+
+	  selecciona las DS numeradas a los siguientes canales de control:
+
+
+a)
+
+
+Naranja: revisión
+
+	  documentaria.
+
+
+b)
+
+
+Rojo: reconocimiento
+
+	  físico.
+
+
+(RS N° 25-2022/SUNAT-14.02.2022)
+
+
+Valoración de mercancías
+
+
+
+
+12.
+
+
+
+
+El valor en aduana de las mercancías se
+
+		verifica y determina conforme a las siguientes normas:
+
+
+a) Acuerdo sobre Valoración en
+
+						Aduana de la Organización Mundial de Comercio - OMC,
+
+						aprobado por Resolución Legislativa N° 26407,
+
+
+
+
+b) Decisión 571 de la Comunidad
+
+						Andina “Valor en aduana de las mercancías importadas”,
+
+
+
+
+c) Resolución 1684 de la
+
+						Comunidad Andina - Reglamento Comunitario de la Decisión
+
+						571,
+
+
+
+d) Resolución 1456 de la
+
+						Comunidad Andina - Casos especiales de valoración
+
+						aduanera,
+
+
+
+e) Reglamento para la
+
+						valoración de mercancías según el Acuerdo sobre
+
+						Valoración en Aduana de la OMC, aprobado por Decreto
+
+						Supremo N° 186-99-EF y modificatorias y,
+
+
+f) Procedimiento específico “Valoración de mercancías
+
+						según el acuerdo del valor de la OMC” DESPA-PE.01.10a.
+
+
+(RS N° 25-2022/SUNAT-14.02.2022)
+
+
+13.
+
+Cuando el valor
+
+		de las mercancías, como resultado de un ajuste de valor, supere los dos
+
+		mil dólares de los Estados Unidos de América (US$ 2 000,00) y no exceda
+
+		los tres mil dólares de los Estados Unidos de América (US$ 3 000,00)
+
+		inclusive, el área que tramitó originalmente la DS prosigue con el
+
+		despacho. En caso contrario, se emite el informe y la respectiva
+
+		resolución, disponiendo el legajamiento de la DS y la aplicación en su
+
+		integridad del procedimiento general “Importación para el consumo”
+
+		DESPA-PG.01
+.
+
+
+(RS N° 25-2022/SUNAT-14.02.2022)
+
+
+Legajamiento de las declaraciones
+
+
+14.
+
+
+
+
+
+		El trámite a seguirse para el legajamiento de las DS se rige por lo
+
+		establecido en el procedimiento específico “Legajamiento de la
+
+		declaración” DESPA-PE.00.07.
+
+
+
+(RS N° 25-2022/SUNAT-14.02.2022)
+
+
+Uso de medios informáticos
+
+
+
+
+15.
+
+
+
+
+La DS transmitida a través de medios
+
+		electrónicos es aceptada para la numeración de la declaración aduanera.
+
+		Los datos transmitidos por medios electrónicos para la formulación de la
+
+		DS gozan de plena validez legal.
+
+
+(RS N° 25-2022/SUNAT-14.02.2022)
+
+
+16.
+
+
+
+Cada intendencia de aduana debe establecer los horarios de atención
+
+ para los despachos simplificados de importación y puede facultar, de
+
+ ser el caso, la atención fuera del horario normal o en días inhábiles
+
+ a cargo del personal de oficiales de aduana u otro personal designado.
+
+
+Notificaciones a través del buzón
+
+						electrónico
+
+
+(RS N° 25-2022/SUNAT-14.02.2022)
+
+
+17.
+
+
+
+
+Los siguientes actos administrativos pueden
+
+		ser notificados a través del buzón electrónico:
+
+
+a)
+
+
+Requerimiento de
+
+		información o documentación.
+
+
+b)
+
+
+
+
+Resolución de determinación o multa.
+
+
+c)
+
+El que declara la procedencia en parte o
+
+		improcedencia de una solicitud.
+
+
+d)
+
+
+El que declara la
+
+		procedencia, cuya ejecución se encuentra sujeta al cumplimiento de
+
+		requerimientos de la Administración Aduanera.
+
+
+e)
+
+El emitido de oficio por la Administración
+
+		Aduanera.
+
+
+(RS N° 25-2022/SUNAT-14.02.2022)
+
+
+18.
+
+
+
+
+Para la notificación a través del buzón
+
+		electrónico se debe considerar que:
+
+
+a)
+
+
+El Operador de
+
+		Comercio Exterior (OCE) o el OI (Operador Interviniente) cuente con
+
+		número de RUC y clave SOL.
+
+
+b)
+
+
+
+
+El acto administrativo que se genera
+
+		automáticamente por el sistema informático sea transmitido al buzón
+
+		electrónico del OCE o del OI, según corresponda.
+
+
+c)
+
+Cuando el acto administrativo no se genera
+
+		automáticamente, el funcionario aduanero designado deposita en el buzón
+
+		electrónico del OCE o del OI un archivo en formato digital.
+
+
+d)
+
+La notificación surte efecto al día hábil
+
+		siguiente a la fecha de depósito del documento. La confirmación de la
+
+		entrega se realiza por la misma vía electrónica.
+
+
+
+
+
+ (RS N° 25-2022/SUNAT-14.02.2022)
+
+
+19.
+
+
+
+
+La Administración Aduanera puede utilizar,
+
+		indistintamente, las otras formas de notificación establecidas en el
+
+		artículo 104 del Código Tributario.
+
+
+(RS N° 25-2022/SUNAT-14.02.2022)
+
+
+Comunicaciones a la dirección del
+
+						correo electrónico consignado en la MPV-SUNAT
+
+
+
+(RS N° 25-2022/SUNAT-14.02.2022)
+
+
+20.
+
+
+Cuando el OCE o
+
+		el OI presenta su solicitud a través de la MPV-SUNAT y registra una
+
+		dirección de correo electrónico, se obliga a:
+
+
+a)
+
+
+Asegurar que la
+
+		capacidad del buzón del correo electrónico permita recibir las
+
+		comunicaciones que la Administración Aduanera envíe.
+
+
+b)
+
+Activar la opción de respuesta automática
+
+		de recepción.
+
+
+c)
+
+
+
+
+Mantener activa la dirección del correo
+
+		electrónico hasta la culminación del trámite.
+
+
+d)
+
+Revisar continuamente el correo
+
+		electrónico, incluyendo la bandeja de spam o de correo no deseado.
+
+
+(RS N° 25-2022/SUNAT-14.02.2022)
+
+
+21.
+
+
+
+
+Con el registro de la mencionada dirección
+
+		del correo electrónico en la MPV-SUNAT, se autoriza expresamente a la
+
+		Administración Aduanera a enviar, a través de esta, las comunicaciones
+
+		que se generen en el trámite de su solicitud.
+
+
+(RS N° 25-2022/SUNAT-14.02.2022)
+
+
+22.
+
+
+La respuesta del
+
+		OCE o del OI a las comunicaciones realizadas por la Administración
+
+		Aduanera se presenta a través de la MPV-SUNAT.
+
+
+(RS N° 25-2022/SUNAT-14.02.2022)
+
+
+23.
+
+
+En tanto no se
+
+		implemente la transmisión de documentos digitalizados por el portal de
+
+		la SUNAT, la remisión de la documentación se realiza a través de la
+
+		MPV-SUNAT.
+
+
+(RS N° 25-2022/SUNAT-14.02.2022)
+
+
+VII.
+
+
+
+DESCRIPCIÓN
+
+
+NUMERACIÓN DE LA Ds MEDIANTE TRANSMISIÓN ELECTRÓNICA DE LA INFORMACIÓN
+
+ EFECTUADA POR EL DESPACHADOR DE ADUANA:
+
+
+1.
+
+
+El despachador de aduana, dentro del horario establecido,
+
+
+solicita la destinación aduanera ante la intendencia de aduana,
+
+ transmitiendo por vía electrónica los datos correspondientes
+
+
+a la DS, observando las instrucciones para su llenado contenidas en
+
+ la respectiva cartilla; así como la información
+
+
+
+del comprobante de pago o, en su defecto, la Declaración Jurada
+
+ del Valor en los casos debidamente justificados, utilizando la clave
+
+ electrónica que le ha sido asignada, la misma que reemplaza a la firma
+
+ manuscrita.
+
+
+2.
+
+
+La destinación aduanera se solicita consignando en la DS:
+
+
+a) En el recuadro de importación el código 18, correspondiente al referido régimen.
+
+
+b) En el rubro 1 –modalidad- A1, de acuerdo al tipo de despacho:
+
+
+01 Equipaje no acompañado
+
+
+02 Equipaje retenido
+
+
+03 Menaje de casa
+
+
+04 Muestras
+
+
+05 Obsequios
+
+
+10 Liberación
+
+
+11 Donación
+
+
+12 Otras mercancías
+
+
+c) En el rubro 10 del formato A1: el nombre, número de R.U.C. u otro documento que identifique al comprador inicial, cuando se efectúen transferencias de bienes antes de su nacionalización.
+
+
+d) En el rubro 6.1 ó 5.11 del formato A1, según sea el despachador de aduana o el dueño: se consigna el documento que acredite el trato preferencial o liberatorio y nombre del sector competente o entidad autorizante.
+
+
+(RIN
+
+ Nº 26-2016-SUNAT/5F0000-30.07.2016)
+
+
+3.
+
+
+De encontrarse conforme, el
+
+						sistema informático transmite electrónicamente el número
+
+						correspondiente a la DS, la asignación del canal y la
+
+						respectiva liquidación de tributos, y remite al buzón
+
+						electrónico del despachador de aduanas el requerimiento
+
+						de los documentos digitalizados.
+
+
+En caso contrario, comunica
+
+						inmediatamente por el mismo medio para las correcciones
+
+						pertinentes.
+
+
+
+(RS N° 25-2022/SUNAT-14.02.2022)
+
+
+4.
+
+
+
+Derogado
+
+
+(RS N° 25-2022/SUNAT-14.02.2022)
+
+
+NUMERACIÓN Y RECEPCIÓN DE LA DS EFECTUADA POR EL
+
+ IMPORTADOR, DUEÑO O CONSIGNATARIO:
+
+
+5.
+
+El importador, dueño o consignatario
+
+		solicita la numeración de la DS a la intendencia de aduana por donde
+
+		arriban las mercancías con la transmisión de la DS y de los documentos
+
+		sustentatorios digitalizados. La transmisión se hace a través de la
+
+		MPV-SUNAT o en forma presencial dentro del horario establecido en la
+
+		respectiva intendencia de aduana.
+
+
+El formato de la DS se
+
+						encuentra en la dirección:
+
+						https://www.sunat.gob.pe/mapaweb/mapa_aduanas.html.
+
+
+Los documentos sustentatorios
+
+						son:
+
+
+
+a)
+
+
+Documento de
+
+		transporte.
+
+
+
+En la
+
+						vía terrestre, cuando la mercancía es transportada
+
+						directamente por el importador, dueño o consignatario,
+
+						el documento de transporte puede ser reemplazado por una
+
+						declaración jurada simple, de acuerdo al modelo
+
+						referencial del anexo I.
+
+
+b)
+
+Factura, ticket de pago, boleta de venta u
+
+		otro documento equivalente del proveedor.
+
+
+Para efectos de una correcta clasificación arancelaria,
+
+						este documento debe contar con la siguiente información
+
+						mínima; en caso contrario, la complementa con la
+
+						declaración jurada respectiva:
+
+
+b.1
+
+
+Nombre o razón social del
+
+		proveedor.
+
+
+b.2
+
+
+Nombre o razón social del
+
+		importador.
+
+
+b.3
+
+
+País de origen,
+
+		entendiéndose por tal el país en que sea producida.
+
+
+b.4
+
+Descripción detallada de las mercancías,
+
+		indicándose: número de serie, código, marca, modelo, unidad de medida,
+
+		características técnicas, estado (nueva o usada), año de fabricación u
+
+		otros signos de identificación si los hubiere.
+
+
+b.5
+
+Valor FOB unitario y valor FOB total de
+
+		las mercancías, según la forma de comercialización en el mercado de
+
+		origen sea por medida, peso, cantidad u otras formas.
+
+
+Cuando el importador, dueño o consignatario no cuente
+
+						con los documentos señalados, puede aceptarse la
+
+						Declaración Jurada del Valor conforme al modelo
+
+						referencial del anexo II.
+
+
+c)
+
+Comprobante de pago, en la transferencia
+
+		de bienes antes de su nacionalización, excepto cuando:
+
+
+c.1
+
+
+Una entidad del sistema
+
+		financiero nacional haya endosado el documento de transporte a favor del
+
+		importador.
+c.2
+
+
+
+
+La transferencia sea a título gratuito por
+
+		una entidad del sector público (excepto empresas del Estado) o por la
+
+		Iglesia Católica.
+
+
+c.3
+
+
+Es emitido utilizando un
+
+		medio informático autorizado o proporcionado por la SUNAT.
+
+
+d)
+
+Carta poder notarial, cuando el despacho
+
+		simplificado lo realice un tercero en representación del importador,
+
+		dueño o consignatario, la cual sólo tiene validez para el despacho en el
+
+		cual se presenta. En caso de que el importador, dueño o consignatario
+
+		sea una persona jurídica, la carta poder y la DS deben estar suscritas
+
+		por el representante legal, debidamente acreditado. Para la presentación
+
+		de la carta poder se podrá tomar como referencia los modelos contenidos
+
+		en los anexos III y IV.
+
+
+e)
+
+Cuando las características, cantidad o
+
+		diversidad de las mercancías lo ameriten, la autoridad aduanera
+
+		adicionalmente y en forma excepcional puede solicitar información
+
+		contenida en el volante de despacho, lista de empaque, cartas
+
+		aclaratorias del proveedor o fabricante, contratos y sus adendas,
+
+		documentos bancarios o financieros, documentos oficiales y documentos
+
+		aclaratorios referidos al transporte, seguro y aspectos técnicos de la
+
+		mercancía.
+
+
+f)
+
+Documento nacional de identidad (DNI) en
+
+		el caso de peruanos, o carné de extranjería, pasaporte, carné de permiso
+
+		temporal de permanencia o salvoconducto tratándose de extranjeros;
+
+		tratándose de declaraciones numeradas con RUC, el documento de identidad
+
+		del representante legal.
+
+
+g)
+
+Seguro de transporte, de corresponder.
+
+
+h)
+
+La autorización o el documento de control
+
+		del sector competente en la regulación de la mercancía restringida,
+
+		cuando no son gestionados a través de la ventanilla única de comercio
+
+		exterior (VUCE) o una declaración jurada suscrita por el importador
+
+		cuando la norma específica lo señale.
+
+
+i)
+
+Certificado de origen, de corresponder.
+
+
+j)
+
+Comprobante de custodia u otros que se
+
+		requieran según la naturaleza del despacho o disposiciones específicas.
+
+
+(RS N° 25-2022/SUNAT-14.02.2022)
+
+
+6.
+
+El funcionario aduanero designado verifica
+
+		que los documentos sustentatorios presentados o transmitidos se
+
+		encuentren completos, así como su consistencia con relación a la DS
+
+		presentada o transmitida.
+
+
+
+De ser conforme, registra la
+
+						recepción de los documentos en el sistema informático y
+
+						numera la declaración; en caso contrario, comunica al
+
+						importador, dueño o consignatario las observaciones que
+
+						motivan el rechazo, quien puede volver a presentar la
+
+						documentación sustentatoria.
+
+
+(RS N° 25-2022/SUNAT-14.02.2022)
+
+
+7.
+
+
+
+Derogado
+
+
+(RS N° 25-2022/SUNAT-14.02.2022)
+
+
+8.
+
+La intendencia de aduana, de
+
+						acuerdo a la cantidad de DS presentadas o transmitidas
+
+						por la MPV-SUNAT y al personal asignado, puede disponer
+
+						que las acciones del numeral 6 sean ejecutadas por
+
+						diferentes funcionarios aduaneros.
+
+
+
+(RS N° 25-2022/SUNAT-14.02.2022)
+
+
+DE LA CANCELACIÓN
+
+
+9.
+
+
+
+La cancelación de la deuda
+
+						tributaria aduanera, recargos y percepción del IGV, de
+
+						corresponder, se realiza conforme lo establecido en el
+
+						procedimiento específico “Extinción de deudas por pago”
+
+						RECA-PE.02.01.
+
+
+(RS N° 25-2022/SUNAT-14.02.2022)
+
+
+10.
+
+
+Dejado sin efecto
+
+
+
+(RIN
+
+ Nº 26-2016-SUNAT/5F0000-30.07.2016)
+
+
+11.
+
+
+Dejado sin efecto
+
+
+
+(RIN
+
+ Nº 26-2016-SUNAT/5F0000-30.07.2016)
+
+
+DE LA RECEPCIÓN Y REGISTRO DE
+
+						DOCUMENTOS CORRESPONDIENTES A LA DS PRESENTADA POR LOS
+
+						DESPACHADORES DE ADUANAS
+
+
+12.
+
+
+
+Cancelada o afianzada la
+
+						deuda tributaria aduanera, recargos y percepción del
+
+						IGV, de corresponder, el despachador de aduanas
+
+						transmite los documentos sustentatorios de manera
+
+						digitalizada a través del portal de la SUNAT. En tanto
+
+						se implemente dicha transmisión, estos serán remitidos a
+
+						través de la MPV-SUNAT.
+
+
+Los documentos sustentatorios
+
+						son:
+
+
+a)
+
+
+
+
+Documento de transporte.
+
+
+En la vía terrestre, cuando la
+
+						mercancía es transportada directamente por sus
+
+						propietarios, el documento de transporte puede ser
+
+						reemplazado por una declaración jurada.
+
+
+b)
+
+
+
+
+
+		Factura, documento equivalente y/o declaración jurada de valor,
+
+		conteniendo la información mínima siguiente:
+
+
+b.1
+
+
+Nombre o razón social del
+
+		proveedor.
+
+
+b.2
+
+
+Domicilio legal.
+
+
+b.3
+
+Número de orden, lugar y fecha de su
+
+		formulación.
+
+
+b.4
+
+
+Nombre o razón social del
+
+		importador y su domicilio.
+
+
+b.5
+
+
+País de origen,
+
+		entendiéndose por tal el país en que la mercancía sea producida.
+
+
+b.6
+
+Descripción detallada de las mercancías,
+
+		indicándose: número de serie, código, marca, modelo, unidad de medida,
+
+		características técnicas, estado (nueva o usada), año de fabricación u
+
+		otros signos de identificación si los hubiere.
+
+
+b.7
+
+
+Valor FOB unitario y
+
+		valor FOB total de las mercancías, según la forma de comercialización en
+
+		el mercado de origen sea por medida, peso, cantidad u otras formas.
+
+
+Cuando la factura
+
+						comercial no consigne todos estos datos o éstos no sean
+
+						precisos para su clasificación arancelaria, esta
+
+						información debe detallarse con la declaración jurada
+
+						respectiva.
+
+
+c)
+
+
+
+
+
+		Comprobante de pago, en la transferencia de bienes antes de su
+
+		nacionalización, excepto cuando:
+
+
+
+c.1
+
+
+Una entidad del sistema
+
+		financiero nacional haya endosado el documento de transporte a favor del
+
+		importador.
+c.2
+
+
+
+
+La transferencia sea a título gratuito por
+
+		una entidad del sector público (excepto empresas del Estado) o por la
+
+		Iglesia Católica.
+
+
+c.3
+
+
+Es emitido utilizando un
+
+		medio informático autorizado o proporcionado por la SUNAT.
+
+
+d)
+
+
+Cuando
+
+		las características, cantidad o diversidad de las mercancías lo
+
+		ameriten, la autoridad aduanera -adicionalmente y en forma excepcional-
+
+		puede solicitar información contenida en el volante de despacho, lista
+
+		de empaque, cartas aclaratorias del proveedor o fabricante, contratos y
+
+		sus adendas, documentos bancarios o financieros, documentos oficiales y
+
+		documentos aclaratorios referidos al transporte, seguro y aspectos
+
+		técnicos de la mercancía.
+
+
+e)
+
+
+Seguro de
+
+		transporte, de corresponder. En el caso de una póliza global o flotante,
+
+		el documento que acredite la cobertura de las mercancías sujetas a
+
+		despacho.
+
+
+f)
+
+
+La
+
+		autorización o el documento de control del sector competente en la
+
+		regulación de la mercancía restringida, cuando no son gestionados a
+
+		través de la ventanilla única de comercio exterior (VUCE) o una
+
+		declaración jurada suscrita por el importador cuando la norma específica
+
+		lo señale.
+
+
+g)
+
+
+		Certificado de origen, de corresponder.
+
+
+h)
+
+
+
+
+
+		Comprobante de custodia u otros que se requieran según la naturaleza del
+
+		despacho y/o disposiciones específicas.
+
+
+(RS N° 25-2022/SUNAT-14.02.2022)
+
+
+13.
+
+
+
+Derogado
+
+
+(RS N° 25-2022/SUNAT-14.02.2022)
+
+
+DE LA REVISIÓN DOCUMENTARIA
+
+
+14.
+
+
+
+En la revisión documentaria
+
+						se aplica, en lo que corresponda, las acciones
+
+						contempladas en el literal A.6 de la sección VII del
+
+						procedimiento general “Importación para el consumo”
+
+						DESPA-PG.01.
+
+
+Cuando la DS ha sido:
+
+
+a)
+
+
+Transmitida por el
+
+		despachador de aduanas, el funcionario aduanero designado registra los
+
+		datos de la diligencia en el sistema informático y formula la
+
+		liquidación de cobranza por el diferencial de la deuda tributaria
+
+		aduanera, recargos y percepción del IGV, en caso corresponda.
+
+
+b)
+
+
+
+Presentada por
+
+		el importador, dueño o consignatario, el funcionario aduanero designado
+
+		completa la información de la declaración y los datos de la diligencia
+
+		en el sistema informático, imprime la liquidación de la deuda tributaria
+
+		aduanera, recargos y percepción del IGV, de corresponder, y notifica al
+
+		importador, dueño o consignatario.
+
+
+(RS N° 25-2022/SUNAT-14.02.2022)
+
+
+DEL RECONOCIMIENTO FÍSICO
+
+
+15.
+
+
+
+
+
+		Está sujeta a reconocimiento físico la DS seleccionada a canal rojo o a
+
+		canal naranja que ha sido inducida a reconocimiento físico por el
+
+		funcionario aduanero designado, previa autorización del jefe del área
+
+		encargada de atender el reconocimiento físico.
+
+
+El despachador de aduanas que ha transmitido la DS
+
+						presenta la solicitud de reconocimiento físico a través
+
+						de la MPV-SUNAT.
+
+
+
+El importador, dueño o
+
+						consignatario que ha presentado la DS solicita el
+
+						reconocimiento físico a través de la MPV-SUNAT y la
+
+						Administración Aduanera coordina la realización.
+
+
+(RS N° 25-2022/SUNAT-14.02.2022)
+
+
+16.
+
+
+El despachador
+
+		de aduanas, importador, dueño o consignatario se presenta al almacén
+
+		aduanero o a los lugares habilitados para la diligencia del
+
+		reconocimiento físico.
+(RS N° 25-2022/SUNAT-14.02.2022)
+
+
+17.
+
+
+
+
+
+		El funcionario aduanero designado efectúa el reconocimiento físico de
+
+		acuerdo a lo establecido en el procedimiento general “Importación para
+
+		el consumo” DESPA-PG.01, en lo que corresponda, y en el procedimiento
+
+		específico “Reconocimiento físico - extracción y análisis de muestras”
+
+		DESPA-PE.00.03; y registra la diligencia en el sistema informático.
+
+
+(RS N° 25-2022/SUNAT-14.02.2022)
+
+
+18.
+
+
+
+
+
+		Cuando la DS ha sido presentada por el importador, dueño o
+
+		consignatario, el funcionario aduanero designado completa la información
+
+		de la declaración, registra la diligencia en el sistema informático,
+
+		imprime las liquidaciones de la deuda tributaria aduanera, recargos y
+
+		percepción del IGV, según corresponda, y luego las notifica.
+(RS N° 25-2022/SUNAT-14.02.2022)
+
+
+19.
+
+
+Cuando el
+
+		despacho ha sido tramitado por el importador, dueño o consignatario y no
+
+		ha concluido la diligencia por falta del boletín químico o por haberse
+
+		cursado notificación por documentación faltante, la jefatura de la
+
+		unidad orgánica responsable o la persona que designe mantiene la DS
+
+		hasta la emisión del boletín o la presentación de los documentos
+
+		respectivos, según corresponda.
+
+
+
+(RS N° 25-2022/SUNAT-14.02.2022)
+
+
+
+
+
+DEL LEVANTE DE LAS MERCANCÍAS
+
+
+20.
+
+
+
+El funcionario aduanero
+
+						designado otorga el levante de las DS conforme a lo
+
+						establecido en el procedimiento general “Importación
+
+						para el consumo” DESPA-PG.01, en lo que corresponda.
+
+
+		(
+(RS N° 25-2022/SUNAT-14.02.2022)
+
+
+21.
+
+
+
+El personal designado remite
+
+						periódicamente al área de archivo las DS tramitadas
+
+						directamente y en forma presencial por el importador,
+
+						dueño o consignatario que cuenten con levante
+
+						autorizado.
+
+
+
+(RS N° 25-2022/SUNAT-14.02.2022)
+
+
+22.
+
+
+Dejado sin efecto
+
+
+(RIN
+
+ Nº 26-2016-SUNAT/5F0000-30.07.2016)
+
+
+23.
+
+
+
+Derogado
+
+
+(RS N° 25-2022/SUNAT-14.02.2022)
+
+
+24.
+
+
+Derogado
+
+
+(RS N° 25-2022/SUNAT-14.02.2022)
+
+
+DEL RETIRO DE LAS MERCANCÍAS
+
+
+25.
+
+
+
+El retiro de las mercancías
+
+						de los almacenes aduaneros, zonas especiales de
+
+						desarrollo (ZED) o ZOFRATACNA se permite previa
+
+						verificación en el portal de la SUNAT del otorgamiento
+
+						del levante de las mercancías y de que -de ser el caso-
+
+						se haya dejado sin efecto la medida preventiva o el
+
+						bloqueo de salida del punto de llegada dispuesta por la
+
+						autoridad aduanera. La SUNAT puede comunicar a estos a
+
+						través del correo, mensaje o aviso electrónico las
+
+						acciones de control aduanero que impiden el retiro de la
+
+						mercancía.
+
+
+El almacén aduanero, la ZED o la
+
+						ZOFRATACNA registran la fecha y hora de salida de la
+
+						mercancía utilizando los servicios electrónicos que la
+
+						SUNAT pone a disposición.
+
+
+Se exime al almacén aduanero del
+
+						citado registro cuando la mercancía cuenta con levante y
+
+						es retirada de su recinto después de haber permanecido
+
+						bajo almacenamiento simple, siempre que esta condición
+
+						haya sido registrada en el sistema informático que lleva
+
+						de conformidad con el literal C.3 del anexo I del
+
+						Reglamento de la Ley General de Aduanas.
+
+
+(RS N° 25-2022/SUNAT-14.02.2022)
+
+
+VIII. VIGENCIA
+
+
+(RS N° 25-2022/SUNAT-14.02.2022)
+
+
+A los
+
+						treinta días hábiles contados a partir del día siguiente
+
+						de su publicación.
+
+
+I
+X. ANEXOS
+
+
+Anexo I
+
+						:
+Declaración Jurada de Transporte.
+
+
+Anexo II :
+
+
+Declaración Jurada del Valor.
+
+
+Anexo III :
+ Carta Poder Notarial (persona natural).
+
+
+Anexo IV :
+ Carta Poder Notarial (persona jurídica).
+
+
+X.
+
+
+
+REGISTROS
+
+
+Derogado
+
+
+
+
+(RS N° 25-2022/SUNAT-14.02.2022)

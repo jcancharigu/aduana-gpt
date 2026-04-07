@@ -1,0 +1,21 @@
+venv/
+.env
+__pycache__/
+*.pyc
+data/vectorstore/
+.DS_Store
+*.egg-info/
+dist/
+build/
+
+# ADUANA-GPT específico
+data/raw/
+data/processed/
+data/vectorstore/
+data/evaluacion_resultados.json
+venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+src/**/__pycache__/

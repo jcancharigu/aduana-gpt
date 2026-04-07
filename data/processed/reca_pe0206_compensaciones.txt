@@ -1,0 +1,390 @@
+Procedimientos de Recaudación
+
+
+RECAUDACIÓN
+
+
+PROCEDIMIENTO ESPECÍFICO
+
+RECA-PE.02.06:
+  COMPENSACIONES AL AMPARO DE LA LEY N° 28625
+
+
+ <-- Retroceder
+
+
+
+
+
+Proc:
+
+
+
+RECA-PE.02.06
+
+
+(antes
+FGRA-PE.38)
+
+
+COMPENSACIONES
+ AL AMPARO DE LA LEY Nº  28625
+
+
+Versión:
+
+ 1
+
+
+Publicación:
+
+ 28/03/2007
+
+
+Resolución:
+
+ 000180-2007
+
+
+Fecha Res.:
+  27/03/2007
+
+
+Vigencia:
+
+ 28/03/2007
+
+
+
+Lista:
+
+
+Complementaria
+
+
+Circulares Anexas
+
+
+Control de Cambios
+
+
+
+
+
+
+  I.
+ OBJETIVO
+
+
+Establecer el procedimiento para la compensación
+ automática de las deudas tributarias aduaneras de acuerdo a la Ley N°
+ 28625, su Reglamento y la Resolución de Superintendencia N°
+ 051-2007/SUNAT.
+
+
+II.            ALCANCE
+
+
+ Está dirigido a la Intendencia de Fiscalización
+ y Gestión de Recaudación Aduanera (IFGRA), intendencias de aduana de
+ la República, y beneficiarios de la Ley N° 28625.
+
+
+III.           RESPONSABILIDAD
+
+
+La aplicación y el cumplimiento de lo
+ establecido en el presente procedimiento es de responsabilidad de los
+ intendentes, funcionarios y personal de la Superintendencia Nacional
+ Adjunta de Aduanas a cargo de la determinación, cobranza y recaudación
+ de las deudas tributarias aduaneras.
+
+
+IV.           VIGENCIA
+
+
+El día de su publicación en el diario
+ oficial El Peruano.
+
+
+V.           BASE LEGAL
+
+
+Ley de
+ Fortalecimiento del Servicio de Transporte Internacional de Carga y/o
+ Pasajeros en los Sectores Marítimo y Aéreo, Ley N° 28462, publicada el 13.01.2005, sus normas reglamentarias y modificatorias.
+
+
+Ley de
+ Procedimiento Complementario de Extinción de la Deuda Tributaria de
+ la Ley N° 28462, Ley de Fortalecimiento del Servicio de Transporte
+ Internacional de Carga y/o Pasajeros en los Sectores Marítimo y Aéreo,
+ Ley N° 28625 , publicada el 18.11.2005.
+
+
+Normas
+ Reglamentarias para la aplicación del beneficio dispuesto por la Ley
+ N° 28625, Decreto Supremo N° 099-2006-EF, publicado el 06.07.2006 y
+ su modificatoria.
+
+
+Texto Único
+ Ordenado de la Ley General de Aduanas, aprobado por el Decreto Supremo
+ N° 129-2004-EF, publicado el 12.09.2004, y sus modificatorias.
+
+
+Texto Único
+ Ordenado del Código Tributario, aprobado por el Decreto Supremo N°
+ 135-99-EF, publicado el 19.08.1999, y sus modificatorias.
+
+
+Reglamento de
+ la Ley General de Aduanas aprobado por el Decreto Supremo N°
+ 011-2005-EF, publicado el 26.01.2005, y su modificatoria.
+
+
+Resolución de
+ Superintendencia N° 051–2007/SUNAT – Disposiciones para la
+ aplicación del beneficio establecido por la Ley N° 28625 y aprobación
+ de formularios virtuales, publicada el 13.03.2007.
+
+
+VI.
+ NORMAS GENERALES
+
+
+1.     La compensación de la deuda tributaria aduanera (DTA) se
+ inicia a pedido del contribuyente mediante la presentación del primer
+ Formulario Virtual N° 1651 - Formulario de Compensación Automática
+ – Ley N° 28625 vía SUNAT - Operaciones en Línea, presentación
+ que se realiza con posterioridad a la del Formulario
+ Virtual N° 1650 – Declaración Jurada Determinativa del Crédito
+ para Compensar – Ley N° 28625.
+
+
+2.     El
+ departamento de recaudación de las intendencias de aduana, la
+ División de Control de Recaudación de la IFGRA o el Departamento de
+ Técnica Aduanera de la Agencia de Aduanera de Desaguadero
+ (en adelante área de recaudación) es el encargado de atender la
+ compensación automática a que se refiere el presente procedimiento.
+
+
+3.
+ Puede compensarse la DTA correspondiente a tributos que sean ingresos del
+ Tesoro Público y sus intereses respecto de los cuales el beneficiario
+ tenga la condición de contribuyente.
+
+
+No
+ están comprendidos en la compensación el Impuesto de Promoción
+ Municipal, las sanciones
+ ni las tasas.
+
+
+Los
+ tributos e intereses se compensan al cien por ciento (100%) del
+ importe determinado por el beneficiario y comprende tanto el monto
+ destinado al Tesoro Público así como el que correspondería a las
+ demás entidades.
+
+
+VII.
+ DESCRIPCIÓN
+
+
+1.     El jefe del área de recaudación recibe un correo electrónico
+ del administrador del WebServer que le informa sobre la presentación
+ del Formulario Virtual N° 1651, indicando la razón social o nombre
+ del beneficiario, el número de Registro Único de Contribuyentes
+ (RUC), el número de identificación de los Formularios Virtuales N°s
+ 1650 y 1651, y el monto a compensar.
+
+
+2.     El mismo día de la recepción del correo electrónico, el jefe
+ del área de recaudación recibe un SIGED proveniente del área de
+ control de la deuda de la dependencia de Tributos Internos a cuyo
+ directorio pertenece el RUC del beneficiario, en el cual se comunica
+ el crédito existente en la “Cuenta del Crédito para Compensar –
+ Ley N° 28625”.
+
+
+3.     El
+ jefe retransmite el correo electrónico y el SIGED al personal
+ designado para el ingreso de la compensación en el SIGAD, y le remite
+ la impresión del Formulario Virtual N° 1651 obtenida del módulo de
+ intranet: Trabajo en Línea / Tributario / Formularios / Consulta de
+ Constancias.
+
+
+4.     El
+ personal designado consulta en el módulo de importaciones, módulo de
+ importación simplificada o de liquidaciones de cobranza, según
+ corresponda, para determinar si la compensación cubre el íntegro del
+ importe liquidado en la DUA, DSI o liquidación de cobranza.
+
+
+5.    Si
+ la compensación cubre el íntegro del monto liquidado, el personal
+ encargado ingresa la información del Formulario Virtual N° 1651 y
+ del documento a cancelar al módulo Documentos Valorados, y procesa la
+ cancelación obteniendo el comprobante de cancelación que debe ser
+ notificado al beneficiario.
+
+
+6.     Si
+ la compensación no cubre el íntegro del monto liquidado se procede
+ de la siguiente forma:
+
+
+a.     En caso el beneficiario se apersone al área de recaudación
+ (ventanilla de caja de la aduana) el mismo día de presentado el
+ Formulario Virtual N° 1651 para cancelar la diferencia en efectivo,
+ cheque de gerencia o cheque certificado, o cheque simple emitido
+ por el agente de aduana o concesionario postales a cargo del
+ despacho, se procede conforme a lo
+ indicado en el numeral 5 tratándose como un pago mixto.
+
+
+b.     Si el beneficiario no se apersona el día de presentado el
+ precitado formulario, o si apersonándose no cancela la diferencia
+ pendiente, se prosigue conforme a lo siguiente:
+
+
+b.1 El personal designado efectúa la compensación antes de culminada la
+ jornada laboral, para tal efecto:
+
+
+i.   Tratándose de deudas liquidadas en DSI o formato C de la DUA:
+
+
+Genera
+ una liquidación de cobranza tipo 0010 - Liquidación de Tributos.
+
+
+ii. Tratándose de deudas registradas en liquidaciones de cobranza:
+
+
+Genera una liquidación de cobranza tipo 0015 - Pago a
+ Cuenta.
+
+
+En la liquidación que genere, consigna los conceptos
+ compensables y los importes considerados por el beneficiario en el
+ formulario, y como documento asociado la DUA, DSI o liquidación de
+ cobranza, según corresponda, liquidación que será cancelada el
+ mismo día ingresando al módulo Documentos Valorados, como se
+ menciona en el numeral 5.
+
+
+b.2 Para la cancelación de la diferencia pendiente de pago se procede
+ como sigue:
+
+
+i.   Tratándose de deudas liquidadas en DSI o formato C de la
+ DUA:
+
+
+El
+ beneficiario emite una autoliquidación de adeudos de acuerdo al
+ procedimiento IFGRA-PE.11 por el importe correspondiente, generándose
+ una liquidación de cobranza tipo 0026 -Autoliquidación Tributos, la
+ que es cancelada en la forma establecida por el procedimiento vigente.
+
+
+ii. Tratándose de deudas registradas en liquidaciones de cobranza:
+
+
+El área de recaudación, a petición del
+ beneficiario genera una liquidación de cobranza tipo 0015 - Pago a
+ Cuenta, verificándose su pago y la regularización automática de la
+ liquidación de cobranza inicial.
+
+
+b.3
+ Para dar por
+ cancelada la deuda consignada en la DUA o DSI, el personal encargado
+ del área de contabilidad de las intendencias de aduana, según
+ corresponda, verifica la cancelación del monto compensado y del saldo
+ no compensado de la deuda. De ser conforme, registra la regularización
+ de la deuda a través del módulo
+ Regularización de Cancelación considerándola como una regularización
+ normal y registra como S (sí) en el campo “Contable” a fin de
+ revertir la doble acotación.
+
+
+7.     En caso que el beneficiario presente su Formulario Virtual N°
+ 1651 fuera del horario de trabajo, su tramitación se efectuará el día
+ hábil siguiente considerando las pautas previstas en los numerales
+ precedentes así como el tipo de cambio e intereses correspondientes
+ al día de la presentación.
+
+
+8.     Para la compensación de las deudas registradas en dólares de
+ los Estados Unidos de América, se aplicará el tipo de cambio
+ registrado en el módulo Documentos Valorados. En consecuencia, el
+ personal encargado debe realizar la compensación por el monto que
+ resulta del mencionado módulo,
+ luego de ingresar los datos requeridos para tal efecto.
+
+
+9.     El jefe del área de recaudación, el mismo día de presentado
+ el Formulario Virtual N° 1651 o al día hábil siguiente tratándose
+ de la situación mencionada en el numeral 7, responde el SIGED al jefe
+ del área de control de la deuda de la dependencia de Tributos
+ Internos indicando el importe compensado en moneda nacional, para
+ efectos de la actualización de la cuenta corriente, y, de ser el
+ caso, la diferencia del monto a compensar entre el declarado por el
+ beneficiario y el determinado por la aduana, ocasionada por la
+ aplicación del tipo de cambio. Asimismo informa cuando el
+ Formulario Virtual N° 1651 no surte efectos según lo establecido en
+ la Resolución de Superintendencia N° 051-2007/SUNAT.
+
+
+10.  Para la emisión del Detalle de Depósito, generación del
+ reporte R2 y el Detalle de Recaudación se siguen las pautas
+ establecidas en los numerales 8, 9 y 10 del procedimiento IFGRA-PE.15
+ Pago - Extinción de Adeudos.
+
+
+11.  Si al final del proceso existen saldos pendientes de pago
+ correspondientes a la DUA, DSI o liquidación de cobranza inicial, se
+ prosiguen las acciones de cobranza, de corresponder, a las deudas
+ registradas en dichos documentos no siendo necesaria la generación de
+ liquidación por el saldo.
+
+
+VIII.        FLUJOGRAMA
+
+
+Ver Página
+ 6
+.
+
+
+IX.          INFRACCIONES, SANCIONES Y DELITOS
+
+
+No
+ aplica.
+
+
+X.           REGISTRO
+
+
+Formulario Virtual N° 1651 Formulario de Compensación
+ Automática – Ley N° 28625
+
+
+Tipo de
+ almacenamiento: Magnético.
+
+
+Tiempo de conservación: Permanente.
+
+
+Responsable:
+ Intendencia Nacional de Sistemas de Información (INSI).
+
+
+---------------

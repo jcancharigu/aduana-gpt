@@ -1,0 +1,2311 @@
+Procedimientos - DEPOSITO
+
+
+DEPOSITO ADUANERO
+
+
+PROCEDIMIENTO GENERAL
+
+
+
+
+
+
+
+Proc:
+
+
+DESPA-PG.03
+
+
+Depósito
+
+ Aduanero
+
+
+Vigencia:
+
+
+ 31.05.2021
+
+
+Publicación:
+
+
+					  29/05/2021
+
+
+Resolución:
+
+
+ 073-2021/SUNAT
+
+
+Fecha Res.:
+
+
+27/05/2021
+
+
+Versión:
+
+
+ 6
+
+
+Circulares:
+
+Anexas
+
+
+Lista:
+
+
+Maestra
+
+
+Control de Cambios
+
+
+
+
+
+
+
+ 	I. OBJETIVO
+Establecer las pautas a seguir para
+
+				  el despacho aduanero de las mercancías destinadas al régimen
+
+				  de depósito aduanero con la finalidad de lograr el
+
+				  cumplimiento de las normas que lo regulan.
+II.
+
+				  ALCANCE
+Está dirigido al personal de la
+
+				  Superintendencia Nacional de Aduanas y de Administración
+
+				  Tributaria - SUNAT, a los operadores del comercio exterior
+
+				  (OCE) y a los operadores intervinientes (OI) que participan en
+
+				  el proceso de despacho del régimen de depósito aduanero.
+
+
+III. RESPONSABILIDAD
+La
+
+				  aplicación, cumplimiento y seguimiento de lo dispuesto en el
+
+				  presente procedimiento es de responsabilidad del Intendente
+
+				  Nacional de Desarrollo e Innovación Aduanera, del Intendente
+
+				  Nacional de Sistemas de Información, del Intendente Nacional
+
+				  de Control Aduanero, de los intendentes de aduana de la
+
+				  República, así como de las jefaturas y personal de las
+
+				  distintas unidades de la organización que intervienen.
+
+
+IV. DEFINICIONES Y ABREVIATURAS
+Para
+
+				  efectos del presente procedimiento se entiende como:
+
+
+				  1.
+Buzón electrónico
+: A la sección ubicada
+
+				  dentro del portal de la SUNAT (www.sunat.gob.pe) Operaciones
+
+				  en Línea y asignada al OCE u OI, donde se depositan las copias
+
+				  de los documentos en los cuales constan los actos
+
+				  administrativos que son materia de notificación, así como
+
+				  comunicaciones de tipo informativo.
+2.
+Carga a
+
+				  granel
+: A la mercancía que se transporta en grandes
+
+				  volúmenes y sin envasar.
+3.
+Clave SOL:
+ Al
+
+				  texto conformado por números y letras, de conocimiento
+
+				  exclusivo del OCE u OI, que asociado al código de usuario
+
+				  otorga privacidad en el acceso a SUNAT Operaciones en Línea.
+
+
+				  4
+. DAM
+: A la declaración aduanera de
+
+				  mercancías.
+5.
+Depósito flotante
+: A los
+
+				  que están ubicados en buques, tanques o artefactos navales
+
+				  como barcazas, tanques flotantes u otros.
+6.
+
+
+				  Funcionario aduanero
+: Al personal de la SUNAT que ha
+
+				  sido designado o encargado para desempeñar actividades o
+
+				  funciones en su representación, ejerciendo la potestad
+
+				  aduanera de acuerdo a su competencia.
+7.
+Mercancía
+
+				  perecible
+: A la mercancía con fecha de vencimiento o
+
+				  cuyas condiciones óptimas son poco durables para su consumo,
+
+				  tales como los alimentos, suplementos alimenticios,
+
+				  medicamentos, etc.
+8.
+MPV - SUNAT
+: A la
+
+				  mesa de partes virtual de la SUNAT, consistente en una
+
+				  plataforma informática disponible en el portal de la SUNAT que
+
+				  facilita la presentación virtual de los documentos.
+9.
+
+
+Portal del operador
+: Al componente de
+
+				  interoperabilidad entre Aduanas y un OCE, ubicado en el portal
+
+				  de la SUNAT, que sirve para el trámite y registro de
+
+				  información respecto de un despacho aduanero, utilizando los
+
+				  formularios electrónicos disponibles de acuerdo a cada perfil
+
+				  de usuario.
+V. BASE LEGAL
+- Ley
+
+				  General de Aduanas, Decreto Legislativo N° 1053, publicado el
+
+				  27.6.2008, y modificatorias. En adelante, la Ley.
+-
+
+				  Reglamento del Decreto Legislativo N° 1053, Ley General de
+
+				  Aduanas, aprobado por Decreto Supremo N° 010-2009-EF,
+
+				  publicado el 16.1.2009, y modificatorias. En adelante, el
+
+				  Reglamento.
+- Tabla de sanciones aplicables a las
+
+				  infracciones previstas en la Ley General de Aduanas, aprobada
+
+				  por Decreto Supremo N° 418-2019-EF, publicado el 31.12.2019, y
+
+				  modificatoria. En adelante, la Tabla de Sanciones.
+- Texto
+
+				  Único Ordenado del Código Tributario, aprobado por Decreto
+
+				  Supremo N° 133-2013-EF, publicado el 22.6.2013, y
+
+				  modificatorias. En adelante, el Código Tributario.
+- Texto
+
+				  Único Ordenado de la Ley N° 27444 - Ley del Procedimiento
+
+				  Administrativo General, aprobado por Decreto Supremo N°
+
+				  004-2019-JUS, publicado el 25.1.2019, y modificatorias.
+-
+
+				  Ley de los Delitos Aduaneros, Ley N° 28008, publicada el
+
+				  19.6.2003, y modificatorias.
+- Reglamento de la Ley de los
+
+				  Delitos Aduaneros, aprobado por Decreto Supremo N°
+
+				  121-2003-EF, publicado el 27.8.2003, y modificatorias.
+-
+
+				  Resolución de Superintendencia N° 077-2020/SUNAT, que crea la
+
+				  Mesa de partes virtual de la SUNAT, publicada el 8.5.2020.
+
+
+VI. DISPOSICIONES GENERALES
+A. RÉGIMEN DE
+
+				  DEPÓSITO ADUANERO, IDENTIFICACIÓN DEL DEPOSITANTE Y PLAZOS DEL
+
+				  RÉGIMEN
+1. El régimen de depósito aduanero es
+
+				  aquel que permite que las mercancías que llegan al territorio
+
+				  aduanero puedan ser almacenadas en un depósito aduanero, por
+
+				  un periodo determinado y bajo el control de la aduana, sin el
+
+				  pago de los derechos arancelarios y demás tributos aplicables
+
+				  a la importación para el consumo, siempre que no hayan sido
+
+				  solicitadas a ningún régimen aduanero ni se encuentren en
+
+				  situación de abandono.
+2. Para destinar las mercancías
+
+				  al régimen de depósito aduanero, el dueño o consignatario, en
+
+				  adelante el depositante, debe contar con su número de Registro
+
+				  Único de Contribuyentes (RUC) activo, clave SOL y no tener la
+
+				  condición de no habido.
+3. El régimen de depósito
+
+				  aduanero se autoriza por un plazo máximo de doce meses,
+
+				  computados a partir de la fecha de numeración de la DAM.
+
+
+Tratándose de mercancías perecibles, el plazo no puede
+
+				  exceder su fecha de vencimiento dentro del plazo máximo del
+
+				  régimen.
+B. MERCANCÍAS QUE NO PUEDEN SER
+
+				  DESTINADAS AL RÉGIMEN Y MERCANCÍAS RESTRINGIDAS
+
+
+1. No pueden ser destinadas al régimen de depósito
+
+				  aduanero las siguientes mercancías:
+a) Las que hayan
+
+				  sido solicitadas previamente a un régimen aduanero, con
+
+				  excepción del régimen de exposiciones o ferias internacionales
+
+				  regulado en el Decreto Ley N° 21700 y su reglamento aprobado
+
+				  por Decreto Supremo N° 094-79-EF, o del régimen de tránsito
+
+				  aduanero interno conforme a lo previsto en el artículo 122 del
+
+				  Reglamento.
+b) Las que estén en situación de abandono legal
+
+				  o voluntario.
+c) Las de importación prohibida.
+d) Los
+
+				  explosivos, armas y municiones.
+e) El equipaje y menaje de
+
+				  casa.
+f) Los envíos postales y envíos de entrega rápida.
+
+
+				  g) Los productos pirotécnicos, los fuegos artificiales y los
+
+				  materiales relacionados a estos.
+2. Las mercancías
+
+				  restringidas pueden ser objeto del régimen de depósito
+
+				  aduanero siempre que cumplan con los requisitos exigidos por
+
+				  la normatividad legal específica para su ingreso al país.
+
+
+				  El depositante debe contar con la documentación exigida para
+
+				  las mercancías restringidas cuando la normatividad específica
+
+				  así lo requiera.
+3. El tratamiento de mercancías
+
+				  restringidas y prohibidas se regula por el procedimiento
+
+				  específico “Control de mercancías restringidas y prohibidas”
+
+				  DESPA-PE.00.06. La relación referencial de mercancías
+
+				  restringidas o prohibidas puede ser consultada en el portal de
+
+				  la SUNAT (www.sunat.gob.pe).
+C. MANDATO
+
+
+1. El mandato faculta al agente de aduana a realizar actos
+
+				  y trámites relacionados con el despacho y retiro de las
+
+				  mercancías; entre ellos, numerar, rectificar, regularizar y
+
+				  legajar la DAM.
+2. El depositante otorga el mandato
+
+				  antes de la numeración de la DAM por medio del endose del
+
+				  documento de transporte, mediante poder especial otorgado en
+
+				  instrumento privado ante notario público o por medios
+
+				  electrónicos de acuerdo con lo establecido en el procedimiento
+
+				  específico “Mandato electrónico” DESPA-PE.00.18.
+3.
+
+				  Toda notificación al depositante se entiende realizada al
+
+				  notificarse al agente de aduana durante el despacho y hasta el
+
+				  levante de la mercancía.
+D. MODALIDADES Y
+
+				  PLAZOS PARA DESTINAR LAS MERCANCÍAS
+1. La DAM
+
+				  se tramita bajo las siguientes modalidades de despacho y
+
+				  plazos:
+a) Anticipado: antes de la llegada del medio de
+
+				  transporte.
+b) Diferido: después de la llegada del
+
+				  medio de transporte.
+El depositante, dentro del plazo de
+
+				  quince días calendario siguientes al término de la descarga,
+
+				  puede solicitar la prórroga del plazo del despacho diferido en
+
+				  casos debidamente justificados, por una sola vez y por un
+
+				  plazo adicional de quince días calendario.
+c) Urgente:
+
+				  antes de la llegada del medio de transporte y hasta siete días
+
+				  calendario posteriores a la fecha del término de la descarga.
+
+
+				  Las DAM sujetas a despacho urgente no eximen al declarante de
+
+				  la obligación de cumplir con las formalidades y documentos
+
+				  exigidos por el régimen, excepto en los casos previstos en la
+
+				  normativa especial.
+E. CONDICIONES PARA LA
+
+				  DESTINACIÓN ADUANERA
+1. Las mercancías
+
+				  destinadas en una DAM deben:
+a) Corresponder a un solo
+
+				  consignatario.
+b) Estar consignadas en un solo manifiesto
+
+				  de carga.
+2. Las mercancías transportadas en el mismo
+
+				  viaje del vehículo transportador, consignadas en dos o más
+
+				  documentos de transporte a nombre del mismo consignatario,
+
+				  pueden ser destinadas en una sola DAM incluso si han sido
+
+				  objeto de transferencia antes de su destinación.
+Cuando la
+
+				  mercancía es transferida antes de su destinación se debe
+
+				  transmitir los comprobantes de pago que acrediten la
+
+				  transferencia de mercancías a nombre del depositante.
+
+
+				  3. En la vía terrestre, la DAM puede amparar mercancías
+
+				  consignadas en un mismo documento de transporte a nombre de un
+
+				  solo consignatario y transportadas en varios vehículos,
+
+				  siempre que estos pertenezcan a un mismo transportista
+
+				  autorizado por la SUNAT.
+4. Las mercancías amparadas en
+
+				  un solo documento de transporte pueden ser objeto de despachos
+
+				  parciales siempre que no constituyan una unidad, salvo que
+
+				  estén presentadas en pallets o contenedores.
+5. La
+
+				  mercancía que ingresa por vía terrestre amparada en un solo
+
+				  documento de transporte puede ser sometida al régimen de
+
+				  depósito aduanero conforme vaya siendo descargada.
+6.
+
+				  Procede el despacho anticipado de la mercancía que en forma
+
+				  parcial se destine al régimen de depósito aduanero y a otro
+
+				  régimen, siempre que esta se presente en contenedores y se
+
+				  cumplan las siguientes condiciones:
+a) Que las mercancías
+
+				  transportadas en un contenedor ingresen a un depósito temporal
+
+				  para su apertura y separación.
+b) Que las mercancías
+
+				  transportadas en dos o más contenedores se destinen a nivel de
+
+				  contenedores y se tramiten por el mismo despachador de aduana,
+
+				  sin que sea necesario que sean ingresadas a un depósito
+
+				  temporal.
+F. CANAL DE CONTROL
+
+
+				  1. El sistema informático asigna el canal de control en
+
+				  aplicación de técnicas de gestión de riesgo.
+2. Los
+
+				  canales de control son:
+a) Canal verde: no se requiere la
+
+				  revisión documentaria de la DAM ni el reconocimiento físico de
+
+				  la mercancía.
+b) Canal naranja: la DAM es sometida a
+
+				  revisión documentaria.
+c) Canal rojo: la mercancía se
+
+				  encuentra sujeta a reconocimiento físico de acuerdo con lo
+
+				  previsto en el procedimiento específico “Reconocimiento físico
+
+				  - extracción y análisis de muestras” DESPA-PE.00.03.
+El
+
+				  despachador de aduana puede solicitar el reconocimiento físico
+
+				  de las mercancías de una DAM seleccionada a canal verde o
+
+				  naranja
+cuando estas se encuentran
+
+				  en el depósito temporal o en el depósito aduanero, hasta antes
+
+				  de otorgado el levante
+.
+
+
+(RS
+
+				  N° 124-2021/SUNAT-01.09.2021)
+Si la DAM fue
+
+				  seleccionada a canal verde, el despachador de aduana formula
+
+				  la solicitud a través de la MPV-SUNAT y consigna el código
+
+				  3092 “Solicitud para reconocimiento físico.
+3. El
+
+				  canal de control se asigna de acuerdo con el siguiente
+
+				  detalle:
+a) Anticipado y urgente: luego de la transmisión
+
+				  del manifiesto de carga.
+En la vía terrestre o fluvial, el
+
+				  canal de control se asigna una vez que se cuente con el
+
+				  registro de la llegada del medio de transporte de acuerdo con
+
+				  lo señalado en el procedimiento general “Manifiesto de carga”
+
+				  DESPA-PG.09.
+b) Diferido: con la numeración de la DAM.
+
+
+4. En el despacho anticipado y urgente, la información
+
+				  relacionada al número del manifiesto de carga se transmite al
+
+				  momento de la numeración de la DAM; de no contar con esta
+
+				  información, el despachador de aduana la transmite
+
+				  posteriormente mediante rectificación electrónica.
+5.
+
+				  El canal de control puede ser consultado en el portal de la
+
+				  SUNAT.
+G. AUTORIZACIÓN PARA EL TRASLADO DE LAS
+
+				  MERCANCÍAS HACIA EL DEPÓSITO ADUANERO Y RESPONSABILIDAD DEL
+
+				  DEPOSITANTE
+1. La Administración Aduanera
+
+				  autoriza el traslado de las mercancías hacia el depósito
+
+				  aduanero en los casos y condiciones siguientes:
+a)
+
+				  Despacho anticipado o urgente: con la numeración de la DAM y
+
+				  el canal de control asignado, salvo en los siguientes casos en
+
+				  los que se requiere del previo registro en el sistema de la
+
+				  diligencia de reconocimiento físico:
+a.1 Cuando la
+
+				  autoridad aduanera dispone el reconocimiento físico de las
+
+				  mercancías en el punto de llegada (puerto o terminal de
+
+				  carga).
+a.2 Cuando la DAM es seleccionada a canal rojo y:
+
+
+i. El punto de llegada de la mercancía es un depósito
+
+				  temporal; o
+ii. La mercancía se descarga por tubería,
+
+				  ducto, cable u otros medios, incluso aquellas que se trasladen
+
+				  a un depósito aduanero flotante.
+b) Despacho diferido:
+
+				  con la numeración de la DAM y la asignación de canal naranja o
+
+				  verde o con el registro de la diligencia de reconocimiento
+
+				  físico en caso la DAM cuente con canal rojo.
+2. El
+
+				  depositante es responsable por las mercancías durante su
+
+				  traslado desde que las recibe en el punto de llegada hasta su
+
+				  entrega al depósito aduanero.
+Para efectos del presente
+
+				  numeral, se entiende como punto de llegada al puerto,
+
+				  aeropuerto, terminal terrestre y centro de atención en
+
+				  frontera por donde se realice el ingreso de las mercancías al
+
+				  país, o depósito temporal, según corresponda.
+
+
+				  H. CONDICIONES ESPECIALES PARA EL ALMACENAMIENTO DE MERCANCÍAS
+
+				  Y RESPONSABILIDAD DEL DEPOSITARIO
+1. Las
+
+				  mercancías que por su naturaleza requieran condiciones
+
+				  especiales de almacenamiento, conservación o medidas de
+
+				  seguridad pueden ingresar a depósitos aduaneros que cuenten
+
+				  con:
+a) Recintos o continentes especiales de
+
+				  almacenamiento.
+b) Sistemas o equipos especiales de
+
+				  conservación.
+c) Medidas de seguridad que garanticen la
+
+				  vida y salud de personas, animales y vegetales.
+2. Para
+
+				  efecto de los despachos totales o parciales de las mercancías
+
+				  sometidas al régimen de depósito aduanero se tiene en cuenta
+
+				  el peso registrado al momento de la recepción por el
+
+				  depositario.
+3. El depositario asume la responsabilidad
+
+				  de la deuda tributaria aduanera por las diferencias que
+
+				  pudieran presentarse en función a la variación del peso
+
+				  registrado a la salida de las mercancías del recinto.
+
+				  Tratándose de carga a granel no se toma en cuenta la pérdida
+
+				  de peso por influencia climatológica, evaporización o
+
+				  volatilidad, siempre que esta no exceda del dos por ciento del
+
+				  peso registrado al ingreso de la mercancía al depósito
+
+				  aduanero.
+I. CERTIFICADO DE DEPÓSITO
+
+
+1. El depósito aduanero emite el certificado de
+
+				  depósito por la mercancía ingresada a su recinto, siempre que
+
+				  la DAM que ampara la mercancía cuente con levante.
+
+
+J. DESTINACIÓN ADUANERA DE LAS MERCANCÍAS BAJO EL
+
+				  RÉGIMEN DE DEPÓSITO ADUANERO
+1. Dentro del
+
+				  plazo del régimen de depósito aduanero, la mercancía
+
+				  depositada puede ser destinada total o parcialmente a los
+
+				  siguientes regímenes:
+a) Importación para el consumo.
+b)
+
+				  Reembarque.
+c) Admisión temporal para reexportación en el
+
+				  mismo estado.
+d) Admisión temporal para perfeccionamiento
+
+				  activo.
+K. ABANDONO LEGAL DE LAS MERCANCÍAS
+
+
+1. Se produce el abandono legal cuando las mercancías:
+
+
+				  a) No hayan sido solicitadas a destinación aduanera dentro del
+
+				  plazo establecido para el despacho diferido o dentro del plazo
+
+				  de prórroga otorgado conforme al literal b) del artículo 132
+
+				  de la Ley.
+b) Hayan sido solicitadas al régimen de
+
+				  depósito aduanero y no se ha culminado su trámite:
+b.1.
+
+				  Para el despacho diferido: dentro del plazo de treinta días
+
+				  calendario contados a partir del día siguiente a la numeración
+
+				  de la DAM.
+b.2. Para el despacho anticipado: dentro del
+
+				  plazo de treinta días calendario contados a partir del día
+
+				  siguiente de la fecha del término de la descarga.
+b.3. Para
+
+				  el despacho urgente: dentro del plazo previsto para el
+
+				  despacho anticipado o el despacho diferido, según haya sido
+
+				  destinada antes o después de la fecha de llegada del medio de
+
+				  transporte.
+c) No hayan sido solicitadas a alguno de
+
+				  los regímenes aduaneros señalados en el literal J, dentro del
+
+				  plazo autorizado al régimen de depósito aduanero.
+
+
+L. NOTIFICACIONES Y COMUNICACIONES
+
+
+L.1 Notificaciones a través del buzón electrónico
+
+
+1. Los siguientes actos administrativos
+
+				  pueden ser notificados a través del buzón electrónico:
+a)
+
+				  Requerimiento de información o documentación.
+b) Resolución
+
+				  de determinación o multa.
+c) El que declara la procedencia
+
+				  en parte o improcedencia de una solicitud.
+d) El que
+
+				  declara la procedencia cuya ejecución se encuentra sujeta al
+
+				  cumplimiento de requerimientos de la Administración Aduanera.
+
+
+				  e) El emitido de oficio por la Administración Aduanera.
+
+
+2. Para la notificación a través del buzón electrónico se
+
+				  debe considerar que:
+a) El OCE o el OI cuente con número de
+
+				  RUC y clave SOL.
+b) El acto administrativo que se genera
+
+				  automáticamente por el sistema informático sea transmitido al
+
+				  buzón electrónico del OCE o del OI, según corresponda.
+c)
+
+				  Cuando el acto administrativo no se genera automáticamente, el
+
+				  funcionario aduanero designado deposita en el buzón
+
+				  electrónico del OCE o del OI un archivo en formato digital.
+
+
+				  d) La notificación surte efecto al día hábil siguiente a la
+
+				  fecha de depósito del documento. La confirmación de la entrega
+
+				  se realiza por la misma vía electrónica.
+3. La
+
+				  Administración Aduanera puede utilizar, indistintamente, las
+
+				  otras formas de notificación establecidas en el artículo 104
+
+				  del Código Tributario.
+L.2 Comunicaciones a la
+
+				  dirección de correo electrónico consignado en la MPV-SUNAT
+
+
+1. Cuando el OCE o el OI presenta su solicitud a través de
+
+				  la MPV-SUNAT y registra una dirección de correo electrónico,
+
+				  se obliga a:
+a) Asegurar que la capacidad del buzón del
+
+				  correo electrónico permita recibir las comunicaciones que la
+
+				  Administración Aduanera envíe.
+b) Activar la opción de
+
+				  respuesta automática de recepción.
+c) Mantener activa la
+
+				  dirección de correo electrónico hasta la culminación del
+
+				  trámite.
+d) Revisar continuamente el correo electrónico,
+
+				  incluso la bandeja de spam o de correo no deseado.
+2.
+
+				  Con el registro de la mencionada dirección de correo
+
+				  electrónico en la MPV-SUNAT, se autoriza expresamente a la
+
+				  Administración Aduanera a enviar, a través de esta, las
+
+				  comunicaciones que se generen en el trámite de su solicitud.
+
+
+3. La respuesta del OCE o del OI a las comunicaciones
+
+				  realizadas por la Administración Aduanera se presenta a través
+
+				  de la MPV-SUNAT.
+M. OTRAS DISPOSICIONES
+
+
+1. Las DAM numeradas bajo la modalidad de despacho
+
+				  anticipado pueden ser rectificadas dentro del plazo de quince
+
+				  días calendarios siguientes a la fecha del término de la
+
+				  descarga sin la aplicación de multa, siempre que no exista una
+
+				  medida preventiva dispuesta sobre las mercancías.
+
+
+La solicitud de rectificación
+
+				  electrónica de la DAM es de aprobación automática hasta antes
+
+				  del levante de las mercancías, excepto cuando:
+
+
+a)
+
+				  Exista una medida preventiva pendiente dispuesta sobre las
+
+				  mercancías por la autoridad aduanera.
+
+
+b) La unidad de medida asociada a
+
+				  la subpartida nacional (SPN) declarada corresponda al peso o
+
+				  volumen o a una unidad comercial relacionada al peso o
+
+				  volumen.
+
+
+c) La SPN corresponda a mercancías
+
+				  de insumos químicos y bienes fiscalizados (IQBF).
+
+
+d) Se haya registrado alguna
+
+				  incidencia en la conformidad de recepción.
+
+
+e) Se solicite la rectificación de
+
+				  un dato distinto a los señalados a continuación:
+
+
+i. Código de tipo de punto de
+
+				  llegada.
+
+
+ii. Número del RUC del lugar del
+
+				  punto de llegada.
+
+
+iii. Código de tipo de lugar de
+
+				  descarga.
+
+
+iv. Código del anexo del lugar del
+
+				  punto de llegada.
+
+
+v. RUC del depósito aduanero.
+
+
+vi. Código del anexo del depósito
+
+				  aduanero.
+
+
+vii. Peso bruto total.
+
+
+viii. Peso bruto por serie.
+
+
+ix. Peso neto total.
+
+
+x. Peso neto por serie.
+
+
+				  (RS 124-2021/SUNAT-31.12.2021)
+2.
+
+				  La revisión documentaria y el reconocimiento físico se efectúa
+
+				  en el horario establecido por la intendencia de aduana. En
+
+				  caso de remitirse los documentos sustentatorios del despacho o
+
+				  la solicitud electrónica de reconocimiento físico fuera del
+
+				  horario establecido, las DAM son consideradas para la atención
+
+				  al día hábil siguiente.
+3. La validez o vigencia del
+
+				  certificado de origen emitido sobre las mercancías destinadas
+
+				  al régimen de depósito aduanero se rige por lo establecido en
+
+				  el acuerdo comercial internacional bajo el cual fue emitido.
+
+
+N. APLICACIÓN DE OTROS PROCEDIMIENTOS O
+
+				  INSTRUCTIVO
+Salvo que expresamente se indique
+
+				  algo distinto en este procedimiento, se aplican los siguientes
+
+				  procedimientos o instructivo:
+1. El procedimiento general
+
+				  “Manifiesto de carga” DESPA-PG.09.
+2. El procedimiento
+
+				  específico “Control de mercancías restringidas y prohibidas”
+
+				  DESPA-PE.00.06.
+3. El instructivo “Declaración aduanera de
+
+				  mercancías” DESPA-IT.00.04.
+4. El procedimiento específico
+
+				  “Mandato electrónico” DESPA-PE.00.18.
+5. El procedimiento
+
+				  específico “Solicitud de rectificación electrónica de
+
+				  declaración” DESPA-PE.00.11.
+6. El procedimiento
+
+				  específico “Reconocimiento físico - extracción y análisis de
+
+				  muestras” DESPA-PE.00.03.
+7. El procedimiento específico
+
+				  “Continuación del trámite de despacho” DESPA-PE.00.04.
+8.
+
+				  El procedimiento general “Ejecución de acciones de control
+
+				  extraordinario” CONTROL-PG.02.
+9. El procedimiento
+
+				  específico “Legajamiento de la declaración” DESPA-PE.00.07.
+
+
+				  10. El procedimiento específico “Inmovilización - incautación
+
+				  y determinación legal de mercancías" CONTROL-PE.00.01.
+11.
+
+				  El procedimiento específico “Aplicación de medidas en
+
+				  frontera” DESPA-PE.00.12.
+VII. DESCRIPCIÓN
+
+
+A. TRAMITACIÓN DEL RÉGIMEN
+A.1 Numeración de la DAM
+
+
+1. El despachador de aduana solicita la
+
+				  destinación aduanera al régimen de depósito aduanero mediante
+
+				  la transmisión electrónica de la información requerida por el
+
+				  instructivo “Declaración aduanera de mercancías”
+
+				  DESPA-IT.00.04 y conforme a las estructuras de transmisión de
+
+				  datos publicadas en el portal de la SUNAT utilizando la clave
+
+				  SOL.
+La información transmitida electrónicamente se
+
+				  reconoce legítima y goza de plena validez legal.
+2. La
+
+				  DAM se tramita bajo la modalidad de despacho aduanero:
+
+				  anticipado, urgente o diferido, con los siguientes códigos:
+
+
+2. 1 Despacho anticipado: 1-0
+Código 03 - Punto de
+
+				  llegada: terminal portuario, terminal de carga aéreo, depósito
+
+				  temporal o depósito aduanero.
+2. 2 Despacho urgente:
+
+				  0-1 Despacho de envíos de urgencia
+Las siguientes
+
+				  mercancías pueden ser sometidas a esta modalidad:
+a)
+
+				  Órganos, sangre y plasma sanguíneo de origen humano.
+b)
+
+				  Mercancías y materias perecederas susceptibles de
+
+				  descomposición o deterioro, destinadas a la investigación
+
+				  científica, alimentación u otro tipo de consumo.
+c)
+
+				  Materiales radioactivos.
+d) Animales vivos.
+e)
+
+				  Combustibles y mercancías inflamables.
+f) Documentos,
+
+				  diarios, revistas y publicaciones periódicas.
+g)
+
+				  Medicamentos y vacunas.
+h) Piedras y metales preciosos,
+
+				  billetes, cuños y monedas.
+i) Mercancías a granel.
+j)
+
+				  Maquinarias y equipos de gran peso y volumen, incluso
+
+				  aeronaves.
+k) Partes y piezas o repuestos para maquinaria
+
+				  para no paralizar el proceso productivo, solicitados por el
+
+				  productor.
+l) Carga peligrosa.
+m) Insumos para no
+
+				  paralizar el proceso productivo, solicitados por el productor.
+
+
+				  n) Otras mercancías que a criterio del jefe del área que
+
+				  administra el régimen sean calificadas como envíos de
+
+				  urgencia.
+Para las mercancías previstas en el inciso
+
+				  n), el declarante presenta, a través de la MPV-SUNAT, la
+
+				  “Solicitud de calificación de mercancías como envío de
+
+				  urgencia” (anexo I), en tanto se implemente el registro
+
+				  electrónico a través del portal de la SUNAT. La solicitud debe
+
+				  contener el sustento por el cual la mercancía debe ser
+
+				  considerada como envío de urgencia.
+2. 3 Despacho
+
+				  diferido: 0-0
+3. En la DAM se consigna el tipo de
+
+				  documento de transporte con los siguientes códigos:
+1 =
+
+				  Directo.
+2 = Consolidado.
+3 = Consolidado 1 a 1
+
+				  (mercancía consolidada que pertenece a un solo consignatario y
+
+				  está amparada en un documento de transporte).
+4. El
+
+				  sistema informático valida los datos de la información
+
+				  transmitida; de ser conforme genera el número de la DAM. En
+
+				  caso contrario, el sistema informático comunica al despachador
+
+				  de aduana el motivo del rechazo, para que realice las
+
+				  subsanaciones pertinentes.
+5. Cuando las mercancías se
+
+				  transporten en contenedores, el despachador de aduana
+
+				  transmite el número del contenedor y del precinto de origen o
+
+				  del precinto aduanero, según corresponda.
+6. Las
+
+				  mercancías perecibles declaradas en una serie de la DAM deben
+
+				  corresponder a lotes de producción con la misma fecha de
+
+				  vencimiento.
+La fecha de vencimiento se transmite por
+
+				  cada lote de producción.
+El plazo del régimen se otorga
+
+				  según la fecha de vencimiento del lote de producción más
+
+				  próxima.
+7. Cuando se trate de vehículos usados, en el
+
+				  campo de descripción de la mercancía de la DAM se transmite el
+
+				  año del modelo, el kilometraje, la categoría vehicular y el
+
+				  tipo de encendido que corresponde a cada vehículo declarado.
+
+
+A.2 Retiro autorizado de la mercancía
+
+
+1. El terminal portuario, terminal de carga aéreo,
+
+				  depósito temporal, centro de atención en frontera o complejo
+
+				  aduanero permite el retiro de las mercancías previa
+
+				  verificación del cumplimiento de lo dispuesto en el numeral 1
+
+				  del literal G de la sección VI y de que cuente con “RETIRO
+
+				  AUTORIZADO” por parte de la Administración Aduanera.
+2.
+
+				  El depositante o su representante no debe efectuar el retiro
+
+				  ni el traslado de mercancías que se encuentren en abandono
+
+				  legal, aun cuando la DAM cuente con retiro autorizado.
+
+
+				  3. La autorización de retiro se suspende mientras exista una
+
+				  medida preventiva o acción de control extraordinario sobre la
+
+				  mercancía.
+4. Cuando la mercancía es transportada en
+
+				  contenedores y ha sido sometida a reconocimiento físico,
+
+				  reconocimiento previo o alguna acción de control
+
+				  extraordinario, el depositante coloca el precinto aduanero
+
+				  antes de su traslado desde el depósito temporal hacia el
+
+				  depósito aduanero conforme a lo dispuesto en el procedimiento
+
+				  específico “Uso y control de precintos aduaneros y otras
+
+				  obligaciones que garanticen la integridad de la carga”
+
+				  CONTROL-PE.00.08.
+5. Para la salida o retiro de las
+
+				  mercancías de sus instalaciones, el depósito temporal verifica
+
+				  el cumplimiento de las formalidades aduaneras, así como que
+
+				  exista correspondencia entre los pesos de las mercancías y la
+
+				  cantidad de bultos declarados y los que van a ser retirados.
+
+
+De no ser conforme, comunica al depositante o al
+
+				  despachador de aduana para que realice la rectificación
+
+				  electrónica correspondiente, previo al retiro de las
+
+				  mercancías.
+De ser conforme, registra en el portal del
+
+				  operador la siguiente información:
+a) Número de la DAM.
+
+
+				  b) Cantidad, clase y peso de bultos, en caso de carga suelta.
+
+
+				  c) Número de contenedor.
+d) Número del precinto de origen o
+
+				  del precinto aduanero.
+e) Número de placa del vehículo
+
+				  transportador.
+f) Fecha y hora de salida.
+g)
+
+				  Observaciones, de corresponder.
+6. Como constancia del
+
+				  retiro de la mercancía, el terminal portuario, terminal de
+
+				  carga aéreo, depósito temporal, centro de atención en frontera
+
+				  o complejo aduanero emiten, por cada unidad de transporte en
+
+				  la que se realiza el traslado, el ticket de salida, ticket de
+
+				  pesaje o certificado de peso, que debe contener la cantidad de
+
+				  bultos y peso bruto de la mercancía consignada en la DAM, la
+
+				  fecha y hora de salida, así como el número del contenedor y
+
+				  del precinto de origen o del precinto aduanero, de
+
+				  corresponder.
+7. Tratándose de despachos parciales a
+
+				  diferentes regímenes de mercancías que arriben en un solo
+
+				  contenedor, el depósito temporal consigna únicamente el peso
+
+				  que corresponde a la DAM del régimen de depósito.
+8.
+
+
+Derogado
+.
+
+
+(RS
+
+				  N° 124-2021/SUNAT-01.09.2021)
+A.3
+
+				  Recepción de la mercancía por el depósito aduanero
+
+
+1.
+El depósito aduanero
+
+				  transmite el ingreso del vehículo con la carga al almacén
+
+				  aduanero (IVA) y la información del ingreso y recepción de la
+
+				  mercancía (IRM) en la forma y plazos establecidos en el
+
+				  procedimiento general “Manifiesto de carga” DESPA-PG.09.
+
+				  Cuando el depósito aduanero no puede transmitir la información
+
+				  del IVA, la registra a través del portal del operador dentro
+
+				  del mismo plazo
+.
+
+
+(RS
+
+				  N° 124-2021/SUNAT-01.09.2021)
+2.
+
+
+				  Culminada la recepción de la totalidad de las mercancías
+
+				  declaradas en la DAM, el
+ depósito aduanero registra la
+
+				  conformidad de su recepción en el portal
+
+
+del operador
+ y consigna la
+
+				  siguiente información:
+a) Fecha y hora de término de la
+
+				  recepción.
+b) Cantidad
+de
+
+				  bultos
+ y peso
+bruto
+
+
+				  de bultos recibidos.
+c) Incidencias de la recepción,
+
+
+sustentadas en el acta de
+
+				  inventario
+.
+
+
+
+(RS
+
+				  N° 124-2021/SUNAT-01.09.2021)
+
+
+ 3. Cuando se verifique mercancía no
+
+				  declarada, declarada en exceso o faltante, o mercancía
+
+				  arribada en mala condición exterior o con medidas de seguridad
+
+				  violentadas o adulteradas, el depósito aduanero, junto con el
+
+				  despachador de aduana, formula y suscribe el acta de
+
+				  inventario de la mercancía,
+según
+
+				  el formato del Anexo IX del procedimiento general “Manifiesto
+
+				  de carga” DESPA-PG.09
+.
+El depósito aduanero debe
+
+				  separar la mercancía que carece de la documentación aduanera
+
+				  del resto de mercancía.
+
+
+(RS
+
+				  N° 124-2021/SUNAT-01.09.2021)
+
+
+				  A.4 Transmisión de documentos para revisión documentaria o
+
+				  reconocimiento físico
+1. El sistema
+
+				  informático notifica al buzón electrónico del despachador de
+
+				  aduana y del depositante el requerimiento de la documentación
+
+				  sustentatoria de la DAM asignada al canal naranja o rojo.
+
+
+2. El despachador de aduana adjunta de manera
+
+				  digitalizada, a través del portal del operador, los siguientes
+
+				  documentos sustentatorios:
+a) Documento de transporte.
+
+
+				  En la vía terrestre, cuando la mercancía sea transportada
+
+				  directamente por sus propietarios, el documento de transporte
+
+				  puede ser reemplazado por una declaración jurada.
+b)
+
+				  Factura, documento equivalente o contrato.
+Cuando la
+
+				  factura, documento equivalente o contrato haya sido
+
+				  transmitido por medios electrónicos, el correo electrónico del
+
+				  proveedor debe consignarse en el campo observación de la DAM.
+
+
+				  c) Seguro de transporte, de corresponder.
+En el caso de
+
+				  una póliza global o flotante, adjuntar el documento que
+
+				  acredite la cobertura de las mercancías sujetas a despacho.
+
+
+				  d) La autorización o el documento de control del sector
+
+				  competente en la regulación de la mercancía restringida,
+
+				  cuando no son gestionados a través de la ventanilla única de
+
+				  comercio exterior (VUCE), o una declaración jurada suscrita
+
+				  por el importador cuando la norma específica lo señale.
+En
+
+				  caso de vehículos usados se adjunta la ficha técnica vehicular
+
+				  y el reporte de gases contaminantes prevista por el artículo
+
+				  94 del Reglamento Nacional de Vehículos, aprobado por Decreto
+
+				  Supremo N° 058-2003-MTC.
+e) Ticket de salida, ticket de
+
+				  pesaje o certificado de peso del terminal portuario, del
+
+				  terminal de carga o del depósito temporal, según corresponda.
+
+				  Se exceptúa del registro de peso por el terminal portuario o
+
+				  el terminal de carga cuando se trate de vehículos automóviles
+
+				  nuevos que salen de dichos terminales por sus propios medios.
+
+
+				  f) Ticket de ingreso, ticket de pesaje o certificado de peso
+
+				  emitido por el depósito aduanero.
+g) El acta de inventario
+
+				  y el acta de apertura de contenedores, de corresponder.
+h)
+
+				  Los que hubieran sido solicitados por la autoridad aduanera en
+
+				  forma excepcional cuando las características, cantidad o
+
+				  diversidad de las mercancías lo ameriten, tales como volante
+
+				  de despacho, lista de empaque, cartas aclaratorias del
+
+				  proveedor o fabricante, contratos y sus adendas, documentos
+
+				  bancarios o financieros, documentos oficiales y documentos
+
+				  aclaratorios referidos al transporte, seguro y aspectos
+
+				  técnicos de la mercancía.
+3. Para las declaraciones
+
+				  seleccionadas a canal naranja, la asignación al funcionario
+
+				  aduanero encargado de la revisión se realiza con la recepción
+
+				  de los documentos sustentatorios digitalizados.
+
+
+A.5 Revisión documentaria
+1. El
+
+				  funcionario aduanero asignado para la revisión documentaria
+
+				  verifica lo siguiente:
+a) El riesgo de la mercancía.
+
+
+				  b) Que la documentación corresponda a la DAM, sirva para
+
+				  sustentar los datos consignados en ella y además cumpla con
+
+				  las formalidades aduaneras.
+c) La clasificación
+
+				  arancelaria de la mercancía.
+d) Que las mercancías puedan
+
+				  acogerse al régimen de depósito aduanero.
+e) Cuando se
+
+				  trate de mercancías restringidas, que cuenten con los
+
+				  documentos de control emitidos por las entidades competentes.
+
+
+f) La correcta descripción de las mercancías: marca,
+
+				  modelo, estado, cantidad comercial, calidad, origen, entre
+
+				  otros, según corresponda.
+g) Que los códigos consignados en
+
+				  la DAM se encuentren sustentados.
+h) La información
+
+				  registrada por el depósito aduanero respecto del ingreso y
+
+				  recepción de las mercancías, acta de inventario o acta de
+
+				  apertura de contenedor, cuando corresponda.
+i) Otros datos
+
+				  según la naturaleza u origen de las mercancías u otra
+
+				  información exigida por norma expresa.
+2. De ser
+
+				  conforme la revisión documentaria, el funcionario aduanero
+
+				  registra la diligencia de despacho en el sistema informático.
+
+
+3. De no ser conforme, el funcionario aduanero:
+a)
+
+				  Notifica al despachador de aduana y al depositante, a través
+
+				  del buzón electrónico, el requerimiento de la documentación
+
+				  que subsane las incidencias encontradas.
+La documentación
+
+				  que subsana la incidencia se remite de manera digitalizada a
+
+				  través del portal del operador, para su evaluación.
+b)
+
+				  Efectúa de oficio las rectificaciones correspondientes o, de
+
+				  ser el caso, requiere al despachador de aduana la transmisión
+
+				  de la solicitud de rectificación electrónica conforme a lo
+
+				  dispuesto en el procedimiento específico “Solicitud de
+
+				  rectificación electrónica de declaración” DESPA-PE.00.11.
+
+
+4. El jefe del área que administra el régimen puede
+
+				  disponer el reconocimiento físico de la mercancía cuando el
+
+				  funcionario aduanero encargado de la revisión documentaria lo
+
+				  solicite.
+A.6 Transmisión de la solicitud
+
+				  electrónica de reconocimiento físico -SERF y reconocimiento
+
+				  físico
+1. Para las declaraciones seleccionadas
+
+				  a canal rojo, luego de enviar los documentos digitalizados que
+
+				  sustentan el despacho, el despachador de aduana solicita el
+
+				  reconocimiento físico de la mercancía mediante la transmisión
+
+				  de la SERF a través del portal de la SUNAT.
+2. El
+
+				  funcionario aduanero verifica los documentos sustentatorios
+
+				  señalados en el numeral 2 del literal A.4 y procede de acuerdo
+
+				  con lo señalado en el literal A.5 precedente, en lo que
+
+				  corresponda, así como con lo estipulado en el procedimiento
+
+				  específico “Reconocimiento físico - extracción y análisis de
+
+				  muestras” DESPA-PE.00.03.
+3. El reconocimiento físico
+
+				  de las mercancías con declaraciones numeradas bajo la
+
+				  modalidad de despacho anticipado se realiza en el depósito
+
+				  aduanero o en el depósito temporal cuando éste último sea
+
+				  designado como punto de llegada, sin perjuicio de que la
+
+				  autoridad aduanera pueda ordenar que el reconocimiento físico
+
+				  se efectúe en el puerto, terminal de carga o complejo
+
+				  aduanero, cuando se disponga una acción de control
+
+				  extraordinario.
+4. El reconocimiento físico de las
+
+				  mercancías solicitadas bajo la modalidad de despacho diferido
+
+				  se realiza en el depósito temporal.
+5. El
+
+				  reconocimiento físico de la mercancía con descarga por
+
+				  tuberías, ductos, cables u otros medios se realiza antes de la
+
+				  descarga a efectos de cumplir con lo señalado en el numeral 8
+
+				  literal E de la sección VII del procedimiento específico
+
+				  “Reconocimiento físico - extracción y análisis de muestras”
+
+				  DESPA-PE.00.03.
+A.7 Levante de la mercancía
+
+
+1. Para autorizar el levante, el sistema informático
+
+				  verifica que:
+a) Se haya producido la llegada del medio de
+
+				  transporte.
+b) La DAM seleccionada a canal rojo o naranja
+
+				  cuente con diligencia de despacho.
+c) El depósito aduanero
+
+				  autorizado haya registrado la conformidad de la recepción de
+
+				  la mercancía y no exista un acta de inventario vinculada que
+
+				  se encuentre pendiente de verificación.
+d) No existan
+
+				  diferencias entre los pesos y bultos recibidos por el depósito
+
+				  aduanero y lo registrado en la DAM.
+e) No existan medidas
+
+				  preventivas o acciones de control extraordinario pendientes.
+
+
+				  f) No existan rectificaciones pendientes de evaluar.
+De
+
+				  ser conforme, el sistema informático otorga el levante
+
+				  autorizado.
+2. Cuando existan diferencias entre la
+
+				  información de los bultos y pesos de la mercancía consignada
+
+				  en la DAM y la que ingresó al depósito aduanero, el
+
+				  despachador de aduana presenta el sustento de las diferencias
+
+				  y, de corresponder, solicita las rectificaciones conforme a lo
+
+				  dispuesto en el procedimiento específico “Solicitud de
+
+				  rectificación electrónica de la declaración” DESPA-PE.00.11, a
+
+				  efectos de obtener el levante.
+3. Cuando el depósito
+
+				  aduanero reporta la existencia de un acta de inventario, el
+
+				  despachador de aduana presenta el sustento ante la
+
+				  Administración Aduanera con el fin de proseguir con el proceso
+
+				  de levante.
+4. Sin perjuicio de las acciones señaladas
+
+				  en los numerales 2 y 3 precedentes, el funcionario aduanero
+
+				  puede verificar la información reportada en la salida de la
+
+				  mercancía del terminal portuario, terminal de carga aéreo o
+
+				  del depósito temporal y la que ingresó al depósito aduanero,
+
+				  evaluar las diferencias y solicitar el sustento pertinente.
+
+
+5. Cuando la rectificación del peso implique una
+
+				  diferencia de valor, se modifica el valor FOB declarado, así
+
+				  como el valor del seguro cuando sea aplicable la Tabla de
+
+				  porcentajes promedio de seguros. En caso la modificación del
+
+				  peso implique un menor valor, se aplican las sanciones
+
+				  correspondientes.
+B. CASOS ESPECIALES
+
+
+				  B.1 Descarga directa por tuberías, ductos, cables u otros
+
+				  medios
+1. A solicitud del depositante y a su
+
+				  costo, la descarga por tuberías, ductos, cables u otros medios
+
+				  a través de la modalidad de despacho anticipado o urgente
+
+				  puede realizarse en los lugares autorizados para el embarque y
+
+				  desembarque de este tipo de mercancías, siempre que las
+
+				  necesidades de la industria así lo requieran.
+2. El
+
+				  depositario solicita por única vez, a través de la MPV-SUNAT,
+
+				  autorización para realizar operaciones de descarga por
+
+				  tuberías, ductos, cables u otros medios. Para tal efecto
+
+				  remite la solicitud de autorización de descarga y los
+
+				  documentos en los que:
+a) Se autorice la instalación del
+
+				  equipo para operaciones de carga y descarga de fluidos a
+
+				  granel por tuberías, emitido por la Dirección de Capitanía y
+
+				  Guardacostas o por la Autoridad Portuaria Nacional, según sea
+
+				  el caso.
+b) Se otorgue conformidad a las tablas de
+
+				  cubicación de los tanques que almacenan hidrocarburos, emitido
+
+				  por el Organismo Supervisor de la Inversión en Energía y
+
+				  Minería (OSINERGMIN).
+c) Conste la prestación de servicios
+
+				  metrológicos de descarga de fluido a granel por tuberías que
+
+				  cuenten con patrones de medición calibrados por el Instituto
+
+				  Nacional de Calidad (INACAL).
+Con la remisión de la
+
+				  solicitud y los documentos sustentatorios se tiene por
+
+				  autorizada la operación de descarga directa por tuberías,
+
+				  ductos, cables u otros medios.
+3. El depósito aduanero
+
+				  que almacene mercancías líquidas a granel en tanques o
+
+				  similares debe mantener las mercancías líquidas extranjeras y
+
+				  nacionalizadas en tanques o depósitos equivalentes, diferentes
+
+				  de aquellos en las que se almacenan las mercancías nacionales.
+
+
+4. El reporte que acredita el registro de la descarga de
+
+				  los fluidos a granel por tuberías o hacia un depósito flotante
+
+				  debe indicar la fecha y hora de inicio, el término de la
+
+				  descarga y la cantidad neta descargada.
+5. El
+
+				  despachador de aduana transmite en forma digitalizada el
+
+				  reporte que acredita el registro de la descarga de los fluidos
+
+				  a granel por tuberías dentro del plazo de tres días siguientes
+
+				  de culminada la recepción.
+B.2 Traslado de
+
+				  mercancías de un depósito aduanero a otro
+1.
+
+				  Dentro del plazo del régimen, el despachador de aduana o el
+
+				  depósito aduanero pueden solicitar el traslado del total o del
+
+				  saldo de las mercancías, destinadas al régimen de depósito
+
+				  aduanero al amparo de una sola DAM, hacia otro depósito
+
+				  aduanero ubicado dentro o fuera de la misma circunscripción
+
+				  aduanera.
+2. Las mercancías depositadas que han sido
+
+				  objeto de garantía mediante la expedición de warrant no pueden
+
+				  ser trasladadas a otro depósito aduanero.
+3. El
+
+				  traslado se solicita a la intendencia de aduana que autorizó
+
+				  el régimen de depósito aduanero a través de la MPV-SUNAT con
+
+				  el formato del anexo II “Solicitud de traslado de un depósito
+
+				  aduanero a otro”, el cual se trasmite junto con el certificado
+
+				  de depósito y los documentos sustentatorios, de corresponder.
+
+
+4. El funcionario aduanero designado verifica que la
+
+				  documentación corresponda a lo declarado en la solicitud. De
+
+				  ser conforme, ingresa los datos al sistema informático y
+
+				  numera la solicitud de traslado. En caso contrario, rechaza la
+
+				  solicitud, notifica al despachador de aduana o al depósito
+
+				  aduanero, según corresponda, a través del buzón electrónico
+
+				  para la subsanación y registra en el sistema el motivo del
+
+				  rechazo.
+5. Numerada la solicitud en el sistema
+
+				  informático, el funcionario aduanero notifica al despachador
+
+				  de aduana y al depósito aduanero, a través del buzón
+
+				  electrónico, el plazo que se otorga para que se realice el
+
+				  traslado y entrega de la mercancía al depósito aduanero de
+
+				  destino considerando la distancia y el medio de transporte
+
+				  utilizado. El plazo otorgado no puede exceder de treinta días
+
+				  calendario contados a partir de la fecha de numeración de la
+
+				  solicitud.
+6. La autorización de traslado no implica
+
+				  la numeración de una nueva DAM ni la concesión de un nuevo
+
+				  plazo para el régimen de depósito aduanero.
+7. El
+
+				  depósito aduanero de origen es el responsable del traslado de
+
+				  la mercancía hasta su entrega al depósito aduanero de destino.
+
+				  Cuando la mercancía es trasladada en contenedores, el depósito
+
+				  aduanero de origen coloca el precinto aduanero antes del
+
+				  traslado hacia el depósito aduanero de destino.
+8. A
+
+				  la salida de la mercancía, el depósito de origen emite el
+
+				  ticket de salida de la mercancía de sus recintos con la
+
+				  información del número de bultos, pesos, fecha y hora de
+
+				  salida, número de contenedor y precinto aduanero, y registra
+
+				  la información en la “Solicitud de traslado de un depósito
+
+				  aduanero a otro (anexo II), conforme a lo indicado en el
+
+				  instructivo respectivo.
+9. Concluida la recepción de
+
+				  la mercancía por el depósito aduanero de destino, y de
+
+				  encontrar bultos en mal estado o con diferencias de peso,
+
+				  procede a levantar un acta de inventario con el detalle de la
+
+				  mercancía recibida, la cual es suscrita por ambos depósitos
+
+				  aduaneros.
+El depósito aduanero de destino emite el
+
+				  ticket de ingreso de mercancía que contiene como mínimo la
+
+				  información del número de bultos, pesos, fecha y hora de
+
+				  ingreso, número de contenedor y precinto aduanero, y deja
+
+				  constancia de la recepción de las mercancías en el anexo II,
+
+				  conforme a lo indicado en el instructivo respectivo.
+
+
+				  10. Culminadas las acciones descritas en el numeral anterior,
+
+				  el depósito aduanero de origen o el despachador de aduana
+
+				  remite a la intendencia de aduana que concedió el régimen, a
+
+				  través de la MPV-SUNAT, el anexo II, el ticket de salida del
+
+				  depósito aduanero de origen y el ticket de ingreso del
+
+				  depósito aduanero de destino, dentro de los cinco días hábiles
+
+				  siguientes del término de la recepción de la mercancía.
+
+
+11. El funcionario aduanero designado verifica que lo
+
+				  declarado corresponda a lo registrado en el sistema
+
+				  informático y a lo recibido por el depósito aduanero de
+
+				  destino. De ser conforme, registra dicha información en el
+
+				  sistema informático y lo comunica al despachador de aduana.
+
+
+12. De no ser conforme, notifica al despachador de
+
+				  aduana o al depósito aduanero, a través del buzón electrónico,
+
+				  el motivo del rechazo para su subsanación.
+13. En caso
+
+				  el depósito aduanero de destino haya recibido menor peso que
+
+				  el declarado en la solicitud de traslado y, en consecuencia,
+
+				  menor cantidad de mercancía, el funcionario aduanero formula
+
+				  el informe técnico para la determinación de las sanciones
+
+				  correspondientes por el faltante o la pérdida de mercancías.
+
+
+14. El depósito aduanero de destino es responsable de
+
+				  llevar la cuenta corriente e informar a la intendencia de
+
+				  aduana de su circunscripción sobre la mercancía que se
+
+				  encuentra en abandono legal.
+B.3 Traslado de
+
+				  mercancías entre locales de un mismo depósito aduanero
+
+
+1. Dentro del plazo del régimen de depósito aduanero y
+
+				  con el consentimiento del depositante, el depósito aduanero
+
+				  puede solicitar autorización para trasladar las mercancías a
+
+				  un local anexo autorizado del depositario, para lo cual es de
+
+				  aplicación lo señalado en el literal B.2 precedente, según
+
+				  corresponda.
+2. La constancia del consentimiento es
+
+				  conservada por tres meses computados desde el día siguiente de
+
+				  vencido el plazo autorizado para el régimen.
+
+
+				  B.4 Prórroga del plazo autorizado
+1. El
+
+				  despachador de aduana, a través de la MPV-SUNAT, solicita la
+
+				  ampliación del plazo autorizado ante la intendencia de aduana
+
+				  que concedió el régimen.
+2. Si el plazo autorizado
+
+				  fuese menor al plazo máximo del régimen y menor a la fecha de
+
+				  vencimiento de las mercancías perecibles, el despachador de
+
+				  aduana puede solicitar prórrogas siempre que en conjunto no
+
+				  excedan los límites legalmente establecidos en cada caso.
+
+
+3. El funcionario aduanero registra en el sistema
+
+				  informático la nueva fecha de vencimiento del régimen, la cual
+
+				  se visualiza en el portal de la SUNAT.
+B.5
+
+				  Operaciones permitidas durante el plazo del régimen
+
+
+1. El depositante, con la autorización del depósito
+
+				  aduanero y bajo su responsabilidad, puede someter la mercancía
+
+				  a cualquiera de las siguientes operaciones, usuales y
+
+				  necesarias para su conservación o correcta declaración:
+a)
+
+				  Cambio, trasiego, reembalaje y reparación de envases
+
+				  necesarios para su conservación.
+b) Reunión de bultos y
+
+				  formación de lotes.
+c) Clasificación de mercancías.
+d)
+
+				  Reacondicionamiento para el transporte.
+e) Mantenimiento de
+
+				  vehículos para su operatividad normal: lavado, control y
+
+				  pintado, solo cuando se trate de vehículos automotores.
+f)
+
+				  Extracción de muestras, conforme al procedimiento específico
+
+				  “Reconocimiento físico - extracción y análisis de muestras”
+
+				  DESPA-PE.00.03.
+g) Rotulado de mercancías, conforme a lo
+
+				  establecido en la normativa específica.
+Estas
+
+				  operaciones no conllevan al cambio de la clasificación
+
+				  arancelaria de la mercancía.
+2. El lavado, control y
+
+				  pintado de los vehículos automotores destinados al régimen de
+
+				  depósito aduanero consiste en:
+a) Lavado del vehículo:
+
+				  eliminación de la capa de cera protectora mediante el uso de
+
+				  instrumentos adecuados al caso y secado manual del vehículo.
+
+
+				  b) Control del vehículo: verificación del arranque y del nivel
+
+				  de aceite del motor, los fusibles del sistema eléctrico para
+
+				  su reposición o cambio, de ser necesario, y el estado del
+
+				  electrolito de la batería; así como el ajuste de pernos,
+
+				  tuercas, juntas y similares con uso de herramienta manual.
+
+				  Dentro del control del vehículo no se permitirá el afinamiento
+
+				  al vehículo.
+c) Pintado del vehículo: corrección de rayas
+
+				  superficiales y abolladuras en las chapas exteriores, molduras
+
+				  o paragolpes.
+3. Respecto de las operaciones usuales,
+
+				  el depósito aduanero procede conforme a lo dispuesto en el
+
+				  literal C de la sección VII del procedimiento general
+
+				  “Manifiesto de carga” DESPA-PG.09.
+4. En ningún caso
+
+				  la mercancía debe ser sometida a reparaciones, reagrupamiento
+
+				  para la conformación de kits, armado o desarmado, extracción o
+
+				  incorporación de partes o accesorios, ni modificaciones que
+
+				  produzcan alteraciones a la materia constitutiva, naturaleza o
+
+				  valor.
+C. CONTROL DE SALDOS Y CONCLUSIÓN DEL
+
+				  RÉGIMEN
+C.1 Control de saldos
+1. Una
+
+				  vez autorizado el régimen, el sistema informático abre una
+
+				  cuenta corriente por cada serie de la DAM sobre la base del
+
+				  peso bruto y las unidades físicas recibidas por el depósito
+
+				  aduanero, en la que se mantiene actualizado el saldo de las
+
+				  mercancías depositadas.
+2. El sistema informático
+
+				  realiza el descargo parcial o total de la cuenta corriente,
+
+				  con la sola numeración de la DAM destinada a algún régimen
+
+				  aduanero señalado en el numeral 1 del literal J de la sección
+
+				  VI. En esta DAM se consigna el número de la DAM del régimen de
+
+				  depósito aduanero precedente y el peso bruto de la mercancía
+
+				  declarada en la serie que corresponda. El peso bruto debe
+
+				  coincidir con el peso del ticket de pesaje emitido por el
+
+				  depósito aduanero; en caso contrario, el despachador de aduana
+
+				  solicita la rectificación del peso.
+3. El depósito
+
+				  aduanero es responsable que el peso bruto de la mercancía a
+
+				  entregar sea el consignado en la DAM citada en el numeral
+
+				  precedente, para lo cual efectúa las consultas
+
+				  correspondientes en el portal de la SUNAT.
+4. La cuenta
+
+				  corriente es afectada por las destinaciones aduaneras, pero no
+
+				  por los traslados de un depósito aduanero a otro o entre
+
+				  locales del mismo depósito.
+5. El despachador de aduana
+
+				  que efectúe el último despacho parcial verifica en el portal
+
+				  de la SUNAT que el resultado de peso y unidades físicas sea
+
+				  igual a cero; de haber saldo, solicita la rectificación de la
+
+				  DAM.
+C.2 Conclusión del régimen
+
+
+1. El funcionario aduanero asignado lleva un control
+
+				  periódico de la cuenta corriente y saldos de las
+
+				  declaraciones, a fin de dar por concluido el régimen.
+
+
+				  2. Para efecto de los despachos totales o parciales de las
+
+				  mercancías sometidas al régimen de depósito aduanero, se tiene
+
+				  en cuenta el peso registrado al momento de la recepción por el
+
+				  depósito aduanero.
+3. El depósito aduanero asume la
+
+				  responsabilidad de la deuda tributaria aduanera por las
+
+				  diferencias que pudieran presentarse en función a la variación
+
+				  del peso registrado entre las mercancías recibidas y las que
+
+				  salieron de sus recintos, cuando estas incidan en la cantidad
+
+				  de las unidades comerciales. En los casos que se verifiquen
+
+				  faltantes de peso o bultos con incidencia tributaria se emite
+
+				  el informe técnico respectivo para determinar las sanciones
+
+				  correspondientes.
+Lo señalado en el párrafo anterior no
+
+				  es aplicable para la carga a granel en caso de pérdida de peso
+
+				  por efecto de influencia climatológica, evaporación o
+
+				  volatilidad, siempre y cuando la pérdida del peso no exceda
+
+				  del dos por ciento del peso registrado al ingreso de la
+
+				  mercancía al depósito aduanero.
+4. Si al vencimiento
+
+				  del plazo autorizado existen saldos, las mercancías caen en
+
+				  abandono legal.
+El funcionario aduanero asignado,
+
+				  dentro del plazo de cinco días de vencido el régimen, notifica
+
+				  al depositante respecto de las mercancías en situación de
+
+				  abandono legal para que proceda a su nacionalización.
+
+
+				  El jefe o funcionario aduanero designado, dentro de los cinco
+
+				  primeros días del mes siguiente a la fecha de recepción de la
+
+				  notificación, comunica al área encargada de la disposición de
+
+				  las mercancías para que realice las acciones de su competencia
+
+				  respecto de aquellas que se encuentran en abandono legal.
+
+
+VIII. VIGENCIA
+El presente
+
+				  procedimiento entra en vigencia a partir del 31 de mayo de
+
+				  2021.
+I
+X. ANEXOS
+Anexo
+
+				  I
+ :
+
+
+
+
+				  Solicitud de calificación de mercancías como envío de
+
+				  urgencia.
+Anexo II
+ :
+
+
+
+
+				  Solicitud de traslado de un depósito aduanero a otro.

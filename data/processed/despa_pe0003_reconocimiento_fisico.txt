@@ -1,0 +1,3144 @@
+Despacho - Procedimientos Asociados
+
+
+RECONOCIMIENTO FISICO - EXTRACCION Y
+
+ANALISIS DE MUESTRAS
+
+
+PROCEDIMIENTO ESPECIFICO
+
+
+
+
+
+Proc:
+
+DESPA-PE.00.03
+
+
+Reconocimiento Físico - Extracción y Análisis
+
+ de Muestras
+
+
+Versión:
+
+
+ 4
+
+
+Publicación:
+
+
+ 09/07/2022
+
+
+Resolución:
+ 120/2022
+
+
+Fecha Res.:
+
+
+10/07/2022
+
+
+F. Vigencia:
+ 10.07.2022,
+
+								salvo lo dispuesto en el subliteral B.4 del
+
+								literal B de la sección VII, el cual entra en
+
+								vigencia:
+a) Para el régimen de importación
+
+								para el consumo:
+     i.
+
+								En la IAMC, a partir del 14.9.2022.
+
+
+								ii.En la IAAP, a partir del 3.10.2022.
+b)
+
+								Para el régimen de exportación definitiva:
+
+
+								i. En la IAMC, a partir del 3.5.2023.
+
+
+								ii.En la IAAP, a partir del 5.6.2023.
+
+
+
+Lista:
+
+
+Maestra
+
+
+Circulares Anexas
+
+
+Control de
+
+ Cambios
+
+
+
+I. OBJETIVO
+
+
+Establecer las pautas a seguir en el reconocimiento físico y en la
+
+		  extracción y análisis de muestras, con la finalidad de lograr el
+
+		  cumplimiento de las normas que lo regulan.
+II. ALCANCE
+
+
+Está dirigido al personal de la Superintendencia Nacional de
+
+		  Aduanas y de Administración Tributaria - SUNAT, a los operadores de
+
+		  comercio exterior y a los operadores intervinientes que participan en
+
+		  el proceso de reconocimiento físico y en la extracción y análisis de
+
+		  muestras.
+III. RESPONSABILIDAD
+La
+
+		  aplicación, cumplimiento y seguimiento de lo dispuesto en el presente
+
+		  procedimiento es de responsabilidad del Intendente Nacional de
+
+		  Desarrollo e Innovación Aduanera, del Intendente Nacional de Sistemas
+
+		  de Información, del Intendente Nacional de Control Aduanero, de los
+
+		  intendentes de aduana de la República y de las jefaturas y personal de
+
+		  las distintas unidades de organización que intervienen en el presente
+
+		  procedimiento.
+I
+V. DEFINICIONES Y ABREVIATURAS
+
+
+Para efectos del presente procedimiento se entiende como:
+
+
+		  1.
+Ambiente estéril
+: Al ambiente que reúne las
+
+		  condiciones adecuadas para evitar la contaminación de un producto al
+
+		  manipularlo.
+2.
+ASTM
+: A la American Society for
+
+		  Testing Materials.
+3.
+Bulto
+: A la unidad de un
+
+		  conjunto de mercancías o de una mercancía acondicionada para su
+
+		  transporte cualquiera sea la forma de presentación: contenedor,
+
+		  cisterna, tanque, paleta, plataforma, jaula, huacal, caja, cartón,
+
+		  saco, bala, bolsa, fardo, cilindro, tambor, barril, bidón, botella,
+
+		  bobina, rollo, paquete, atado, plancha, lata, sobre, entre otros.
+
+		  Cuando es carga presentada suelta o a granel, para efectos de su
+
+		  descripción e identificación se considera la cantidad de unidades
+
+		  físicas (u, kg, m3, l, kwh, etc.) que conforman el lote.
+4.
+
+
+		  Cm
+: A la unidad de longitud centímetro.
+5.
+
+
+		  Contramuestra
+: A la parte de la muestra extraída durante el
+
+		  reconocimiento físico que se conserva en custodia para ser utilizada
+
+		  en una eventual repetición de ensayos. En el caso de concentrados de
+
+		  minerales metalíferos es aquella muestra representativa extraída por
+
+		  un laboratorio acreditado por el INACAL.
+6.
+DCI
+:
+
+		  A la denominación común internacional conocida también como nombre
+
+		  genérico, asignada por la Organización Mundial de la Salud, para
+
+		  identificar principios activos farmacéuticos, medicamentos o drogas.
+
+
+7.
+Decantación
+: A la separación de las fases
+
+		  líquida y sólida por gravedad, en una suspensión.
+8.
+
+
+		  Declaración
+: A la declaración aduanera de mercancías.
+9.
+
+
+Desechos y desperdicios de las naves
+: A los residuos
+
+		  de mezclas oleosas (lastres sucios, aguas de sentina, aguas de lavado
+
+		  de tanques de carga de petróleo, aguas con residuos de hidrocarburos),
+
+		  aguas sucias, basuras, barredura de muelle, limpieza de silos,
+
+		  material de trinca o embalaje, provenientes de las faenas domésticas y
+
+		  trabajos rutinarios de las naves en condiciones normales de servicio.
+
+
+		  10.
+Dispersión
+: Al sistema de dos fases, donde una
+
+		  fase se compone de partículas finamente divididas, distribuidas en una
+
+		  sustancia de base. Ejemplos: gas/líquido (espuma), sólido/gas
+
+		  (aerosol), líquido/gas (niebla), líquido/líquido (emulsiones), etc.
+
+
+		  11.
+Documento de control
+: Al documento emitido por la
+
+		  entidad competente o por quien esta haya delegado dicha función de
+
+		  acuerdo a su normativa, que permite el ingreso, tránsito o salida del
+
+		  territorio nacional de las mercancías restringidas.
+12.
+
+
+		  Emulsión
+: A la mezcla estable de dos o más líquidos
+
+		  inmiscibles
+13.
+Etiqueta
+: A cualquier marbete,
+
+		  marca u otra materia descriptiva o gráfica que se haya escrito,
+
+		  impreso, estarcido, marcado en relieve o en bajo relieve o adherido al
+
+		  producto, su envase o empaque, que contiene la información exigida en
+
+		  el artículo 3 de la Ley de etiquetado y verificación de los
+
+		  reglamentos técnicos de los productos industriales manufacturados,
+
+		  aprobado con Decreto Legislativo N° 1304. La referencia al término
+
+		  rótulo en el presente procedimiento se debe entender como etiqueta.
+
+
+		  14.
+Funcionario aduanero
+: Al personal de la SUNAT que
+
+		  ha sido designado o encargado para desempeñar actividades o funciones
+
+		  en su representación, ejerciendo la potestad aduanera de acuerdo con
+
+		  su competencia.
+15.
+Funcionario aduanero asignado
+:
+
+		  Al funcionario aduanero a quien se asigna la declaración y es
+
+		  responsable del despacho.
+16.
+Funcionario aduanero delegado
+:
+
+		  Al funcionario aduanero que apoya de manera presencial el
+
+		  reconocimiento físico remoto bajo las instrucciones del funcionario
+
+		  aduanero asignado y se encuentra autorizado para tal efecto. Puede
+
+		  pertenecer a una unidad de organización distinta a la del funcionario
+
+		  aduanero asignado.
+17.
+G
+: A la unidad de masa
+
+		  gramo.
+18.
+Granel
+: A la carga que se transporta en
+
+		  grandes cantidades sin empaquetar ni embalar, siendo el propio medio
+
+		  de transporte el que cumple la función de recipiente.
+19.
+
+
+		  Incidencia
+: A la discrepancia o no conformidad de los
+
+		  documentos sustentatorios del despacho aduanero o de los datos
+
+		  consignados en la declaración, entre los mismos o con lo reconocido
+
+		  físicamente, respecto a la clasificación arancelaria, valor declarado,
+
+		  asignación indebida de códigos con beneficio tributario, mercancías en
+
+		  exceso o con falta de contenido, mercancía que no se puede acoger al
+
+		  régimen solicitado, mercancía restringida sin el respectivo documento
+
+		  de control y mercancía prohibida, entre otros.
+20.
+
+
+		  Información técnica
+: A las características cualitativas y
+
+		  cuantitativas (propiedades y composición química), forma de
+
+		  presentación, estado, dosificación y uso de un producto.
+21.
+
+
+INN
+: Al International Nonproprietary Name.
+22.
+
+
+ISO
+: Al International Organization for
+
+		  Standarization.
+23.
+IUPAC
+: Al International Union
+
+		  of Pure and Applied Chemistry.
+24.
+Kg
+: A la unidad
+
+		  de masa kilogramo.
+25.
+Kw
+: A la unidad de potencia
+
+		  kilowatt o kilovatio.
+26.
+l:
+ A la unidad de
+
+		  volumen litro.
+27.
+LAC
+: A lo laminado en caliente.
+
+
+		  28.
+LAF
+: A lo laminado en frío.
+29.
+
+
+		  Literatura técnica
+: A la información impresa o escrita
+
+		  proporcionada por el fabricante o proveedor de un producto, donde se
+
+		  indica sus características, propiedades y funciones. Para el caso de
+
+		  productos químicos: composición química, propiedades físicas y usos de
+
+		  este.
+30.
+M
+: A la unidad de longitud metro.
+31.
+
+
+Ml:
+ A la unidad de volumen mililitro.
+32.
+
+
+		  Mm
+: A la unidad de longitud milímetro.
+33.
+
+
+		  MPV-SUNAT
+: A la mesa de partes virtual de la SUNAT
+
+		  consistente en una plataforma informática disponible en el portal de
+
+		  la SUNAT (www.sunat.gob.pe) que facilita la presentación virtual de
+
+		  documentos.
+34.
+NTP
+: A la Norma Técnica Peruana.
+
+
+		  35.
+Pictograma
+: Al símbolo utilizado en los envases
+
+		  de ciertos productos que indica su clasificación toxicológica y
+
+		  propiedades físicas de los productos.
+36.
+Plumilla
+:
+
+		  A la herramienta para la extracción de muestras sólidas tales como
+
+		  granos o harinas, entre otros.
+37.
+Reconocimiento físico
+:
+
+		  A la operación que consiste en verificar lo declarado, mediante una o
+
+		  varias de las siguientes actuaciones: reconocer las mercancías y
+
+		  verificar su naturaleza, origen, estado, cantidad, calidad, valor,
+
+		  peso, medida, o clasificación arancelaria.
+38.
+
+
+		  Reconocimiento previo
+: A la facultad del dueño, consignatario
+
+		  o sus comitentes de realizar la constatación y verificación de las
+
+		  mercancías o extraer muestras de las mismas, antes de la numeración o
+
+		  presentación de la declaración.
+39.
+Suspensión
+: A
+
+		  las pequeñas partículas sólidas dispersadas en un medio líquido.
+
+
+		  40.
+Zona de reconocimiento
+: Al área designada por la
+
+		  Administración Aduanera dentro de la zona primaria destinada al
+
+		  reconocimiento físico de las mercancías, de acuerdo con la Ley General
+
+		  de Aduanas.
+V. BASE LEGAL
+- Ley General
+
+		  de Aduanas, Decreto Legislativo N° 1053, publicado el 27.6.2008, y
+
+		  modificatorias; en adelante LGA.
+- Reglamento del Decreto
+
+		  Legislativo N° 1053, Ley General de Aduanas, aprobado por Decreto
+
+		  Supremo Nº 010-2009-EF, publicado el 16.1.2009, y modificatorias.
+-
+
+		  Texto Único Ordenado de la Ley N° 27444, Ley del Procedimiento
+
+		  Administrativo General, aprobado por Decreto Supremo N° 004-2019-JUS,
+
+		  publicado el 25.1.2019, y modificatorias.
+- Arancel de Aduanas
+
+		  2022, aprobado por Decreto Supremo N° 404-2021-EF, publicado el
+
+		  31.12.2021.
+- Resolución de Superintendencia N° 077-2020/SUNAT, que
+
+		  crea la mesa de partes virtual de la SUNAT (MPV-SUNAT), publicada el
+
+		  8.5.2020, y modificatoria.
+VI. DISPOSICIONES GENERALES
+
+
+1. El presente procedimiento es de aplicación a los regímenes
+
+		  aduaneros que regulan el ingreso de mercancías al país y, en cuanto
+
+		  sea aplicable, a los regímenes que regulan la salida y tránsito de
+
+		  mercancías del país.
+2. El reconocimiento físico puede
+
+		  realizarse a pedido de parte o de oficio, en forma presencial o
+
+		  remota.
+3.
+Cuando la mercancía es seleccionada a inspección no
+
+		  intrusiva se procede conforme al procedimiento específico “Inspección
+
+		  no intrusiva de mercancía” CONTROL-PE.00.10. Los supuestos en los que la inspección no
+
+		  intrusiva constituye el examen físico de las mercancías se regulan en
+
+		  el citado procedimiento.
+
+
+		  (RS-131-2022/SUNAT-28.08.2024)
+VII. DESCRIPCIÓN
+A.
+
+		  RECONOCIMIENTO PREVIO
+1. El dueño, consignatario o
+
+		  despachador de aduana efectúa el reconocimiento previo de las
+
+		  mercancías conforme al presente procedimiento y, en lo no previsto,
+
+		  según el procedimiento general "Manifiesto de carga" DESPA-PG.09.
+
+
+2. El reconocimiento previo se solicita
+
+
+		  antes de la numeración o de la presentación de la declaración
+.
+
+
+(RS
+
+		  N° 281-2024/SUNAT-16.12.2024)
+3.
+
+
+El reconocimiento previo se realiza en
+
+		  presencia del personal responsable del almacén aduanero, previo aviso
+
+		  a la autoridad aduanera
+.
+
+
+(RS N°
+
+		  281-2024/SUNAT-16.12.2024)
+4. Culminado el
+
+		  reconocimiento previo,
+el almacén aduanero
+
+
+		  emite el acta correspondiente (anexo III del procedimiento general
+
+		  Manifiesto de carga DESPA-PG.09), la cual es suscrita por los
+
+
+intervinientes
+ y por el funcionario
+
+		  aduanero en los casos que participe.
+
+
+(RS N°
+
+		  281-2024/SUNAT-16.12.2024)
+B.
+
+		  RECONOCIMIENTO FÍSICO
+B.1 RECONOCIMIENTO FÍSICO PRESENCIAL
+
+
+1. El dueño, consignatario, consignante o el despachador de aduana
+
+		  solicita el reconocimiento físico de las mercancías mediante solicitud
+
+		  electrónica o a través de la MPV-SUNAT y, según corresponda, remite
+
+		  los documentos sustentatorios de la declaración, sin enmendaduras,
+
+		  conforme con lo previsto en el procedimiento de cada régimen.
+
+
+		  Cuando la normatividad específica requiera reconocimiento físico
+
+		  conjunto con otra entidad competente para emitir el documento de
+
+		  control, el declarante gestiona la presencia del representante de esa
+
+		  entidad. Sin su presencia, no se realiza el reconocimiento físico.
+
+
+La autoridad aduanera puede efectuar coordinaciones con el sector
+
+		  competente para la realización conjunta del reconocimiento físico,
+
+		  cuando lo estime necesario.
+2.
+El
+
+		  reconocimiento físico se realiza en el terminal portuario, terminal de
+
+		  carga del transportista aéreo, almacén aduanero, local con
+
+		  autorización especial de zona primaria, ZOFRATACNA, ZED o Centro de
+
+		  Atención en Frontera en la medida que cuentan con zonas habilitadas
+
+		  para dicho fin, según lo previsto por el procedimiento de cada régimen
+.
+
+
+(RS
+
+		  N° 281-2024/SUNAT-16.12.2024)
+Estos operadores deben:
+
+
+		  a) Proporcionar el servicio logístico para realizar el reconocimiento
+
+		  físico.
+b) Filmar, grabar y conservar el archivo audio visual
+
+		  obtenido a través de las videocámaras más cercanas a la zona de
+
+		  reconocimiento físico, archivo que pone a disposición de la autoridad
+
+		  aduanera cuando esta lo requiera.
+3. Cuando el reconocimiento
+
+		  físico se efectúa en el depósito temporal, este se realiza en el área
+
+		  autorizada por la Administración Aduanera o en un local con
+
+		  autorización especial de zona primaria, atendiendo a la naturaleza o
+
+		  volumen de la mercancía, al riesgo que representa contra la salud o el
+
+		  medio ambiente, o a si su manipulación requiere de maniobras o equipos
+
+		  especiales u otros.
+4. Cuando el reconocimiento físico de las
+
+		  mercancías se realiza en un local con autorización especial de zona
+
+		  primaria, el dueño, consignatario o consignante debe garantizar que el
+
+		  lugar tenga las condiciones necesarias para que la mercancía no se
+
+		  deteriore.
+El despachador de aduanas se hace cargo del traslado
+
+		  y retorno del funcionario aduanero.
+5. Cuando el
+
+		  reconocimiento físico de los despachos urgentes se realiza fuera del
+
+		  horario administrativo, el despachador de aduana se presenta ante el
+
+		  funcionario aduanero conforme a las disposiciones que establece cada
+
+		  intendencia para la atención correspondiente.
+6. Las
+
+		  disposiciones sobre el reconocimiento físico presencial se aplican al
+
+		  reconocimiento de oficio, remoto y único en lo que corresponda.
+
+
+B.1.1 Acciones previas
+1. El funcionario
+
+		  aduanero asignado accede al sistema informático y verifica:
+a) La
+
+		  relación de declaraciones que le han sido asignadas para realizar el
+
+		  reconocimiento físico.
+b) Los criterios y motivos de selección a
+
+		  control de la mercancía.
+c) La existencia de comunicaciones
+
+		  referidas a alertas y de medidas en frontera y, de ser el caso,
+
+		  considera los resultados o su estado en el reconocimiento físico.
+
+
+		  d) Si la mercancía ha sido objeto de inspección no intrusiva, a fin de
+
+		  considerar los resultados de esta inspección.
+e) Si la
+
+		  documentación presentada corresponde a lo consignado en la
+
+		  declaración.
+f) Si el reconocimiento físico se realiza en forma
+
+		  presencial o remota.
+2. El funcionario aduanero identifica al
+
+		  despachador de aduana, dueño, consignatario o consignante, a través de
+
+		  su documento nacional de identidad (DNI), carné de extranjería, carné
+
+		  de permiso temporal de permanencia o pasaporte, según corresponda.
+
+
+		  En el caso del despachador de aduana adicionalmente verifica que se
+
+		  encuentre autorizado para operar.
+B.1.2 Examen físico
+
+		  de la mercancía
+1. El examen físico se realiza en
+
+		  presencia del despachador de aduana, el transportista que actúa como
+
+		  declarante, el dueño, el consignatario o el consignante, según
+
+		  corresponda.
+Estos operadores son responsables de gestionar la
+
+		  movilización y traslado de la mercancía hasta la zona de
+
+		  reconocimiento físico con la debida anticipación.
+2. El
+
+		  funcionario aduanero se apersona a la zona de reconocimiento y
+
+		  verifica la condición exterior de los bultos, marcas, contramarcas,
+
+		  número y tipo de bultos, y número del documento de transporte, del
+
+		  contenedor y del precinto de seguridad, confrontándolos con lo
+
+		  declarado en la documentación sustentatoria y en la declaración.
+
+
+3. El funcionario aduanero reconoce físicamente no menos del cinco
+
+		  por ciento del total de los bultos en forma aleatoria, según la
+
+		  naturaleza y presentación de la mercancía. La mercancía a granel o
+
+		  descargada por tubería se reconoce físicamente al cien por ciento.
+
+
+4. El funcionario aduanero realiza las siguientes actuaciones,
+
+		  según corresponda:
+a) Verifica la cantidad de la mercancía.
+b)
+
+		  Verifica la descripción de la mercancía (marca, modelo, etc.), estado
+
+		  (usado, desarmado, deteriorado, etc.), su naturaleza (perecible,
+
+		  peligrosa, restringida) y calidad, entre otros.
+c) Verifica que el
+
+		  ingreso y salida de la mercancía hacia y desde el territorio aduanero
+
+		  no se encuentre prohibido o restringido. Cuando es mercancía
+
+		  restringida, comprueba que cuente con los documentos de control y se
+
+		  cumpla con los requisitos exigidos por la normativa del sector
+
+		  competente.
+d) Extrae muestra de la mercancía, cuando sea necesario
+
+		  para verificar su clasificación y facilitar su identificación o
+
+		  valoración.
+e) Efectúa tomas fotográficas o videos de las
+
+		  mercancías, de considerarlo pertinente.
+f) Aplica las medidas en
+
+		  frontera ante mercancías presuntamente falsificadas, pirateadas o
+
+		  confusamente similares.
+g) Otras dispuestas por norma expresa o de
+
+		  acuerdo a los controles excepcionales determinados en el proceso de
+
+		  despacho.
+5. Si el funcionario aduanero encuentra las
+
+		  siguientes incidencias, procede como se indica a continuación:
+a)
+
+		  Tratándose de mercancía cuyo ingreso o salida hacia o desde el
+
+		  territorio aduanero está prohibido o restringido y no cuenta con el
+
+		  documento de control o no cumple con los requisitos exigidos por la
+
+		  normativa del sector competente: Elabora el acta de
+
+		  inmovilización-incautación.
+b) Tratándose de mercancía no
+
+		  declarada: Elabora el acta de inmovilización-incautación, de
+
+		  corresponder, en concordancia con lo previsto en el tercer párrafo del
+
+		  artículo 145 de la LGA.
+c) Tratándose de mercancía que no puede ser
+
+		  destinada a los regímenes de admisión temporal para reexportación en
+
+		  el mismo estado, admisión temporal para perfeccionamiento activo o
+
+		  depósito aduanero: Elabora el acta de separación.
+d) De existir
+
+		  elementos razonables para presumir que se trata de mercancía
+
+		  falsificada, pirateada o confusamente similar: Suspende el levante,
+
+		  conforme a la legislación sobre medidas en frontera.
+e) Ante
+
+		  indicios de presunta comisión de delito aduanero: Comunica al jefe del
+
+		  área para solicitar de inmediato la presencia del representante del
+
+		  Ministerio Público.
+6. Al terminar el examen físico, el
+
+		  funcionario aduanero:
+a) Dispone el retorno de los bultos al
+
+		  contenedor o el cierre de los bultos, y
+b) Registra en el sistema
+
+		  informático las incidencias encontradas.
+B.1.3
+
+		  Evaluación de la declaración y de la documentación sustentatoria
+
+
+1. El funcionario aduanero verifica la clasificación arancelaria y
+
+		  el valor de las mercancías.
+En el régimen de importación para
+
+		  el consumo con garantía previa del artículo 160 de la LGA y con
+
+		  despacho sujeto a revisión post levante, la verificación se efectúa
+
+		  dentro del plazo previsto en el procedimiento general “Importación
+
+		  para el consumo” DESPA-PG.01.
+2. El funcionario aduanero puede
+
+		  solicitar la información técnica, catálogos o literatura especializada
+
+		  correspondiente, para lo cual notifica al despachador de aduana, dueño
+
+		  o consignatario.
+El funcionario aduanero toma en cuenta el
+
+		  resultado del informe químico extraído durante el examen físico,
+
+		  excepto en el régimen de importación para el consumo con garantía
+
+		  previa del artículo 160 de la LGA o en los supuestos previstos en el
+
+		  numeral 2, subliteral C.1 del literal C.
+3. Si el funcionario
+
+		  aduanero encuentra incidencias que implican una mayor liquidación de
+
+		  tributos o recargos o la comisión de una infracción aduanera, pero no
+
+		  determinan la restricción del ingreso de la mercancía al país, procede
+
+		  conforme a lo siguiente:
+a) Cuando la declaración está
+
+		  garantizada conforme al artículo 160 de la LGA con despacho sujeto a
+
+		  revisión post levante, el funcionario aduanero registra el tipo de
+
+		  incidencia y la diligencia del despacho para el otorgamiento del
+
+		  levante.
+b) Si la declaración está garantizada conforme al
+
+		  artículo 160 de la LGA sin revisión post levante o no cuenta con la
+
+		  referida garantía, suspende el levante y registra en el sistema
+
+		  informático las notificaciones o requerimientos, los cuales se
+
+		  visualizan en el portal de la SUNAT.
+Para obtener el levante,
+
+		  el dueño, el consignatario o el despachador de aduana cancela o
+
+		  garantiza los tributos, recargos y multas, de corresponder, y puede
+
+		  solicitar la rectificación de la declaración, de acuerdo a lo señalado
+
+		  en el procedimiento sobre rectificación de declaración
+
+		  correspondiente.
+El funcionario aduanero, previo al registro
+
+		  de su diligencia de despacho, verifica que se haya cancelado o
+
+		  garantizado la deuda tributaria aduanera y recargos.
+4. En las
+
+		  incidencias relacionadas al valor de la mercancía se aplica lo
+
+		  establecido en el procedimiento específico “Valoración de mercancías
+
+		  según el Acuerdo del Valor de la OMC” DESPA-PE.01.10a.
+
+
+B.1.4 Registro del resultado del reconocimiento físico y de la
+
+		  diligencia
+1. El funcionario aduanero registra en el
+
+		  sistema informático los siguientes estados de reconocimiento físico de
+
+		  las declaraciones asignadas en el día:
+01 reconocimiento
+
+		  físico efectuado con registro de diligencia;
+02 reconocimiento
+
+		  físico efectuado con notificación;
+03 reconocimiento físico
+
+		  inconcluso;
+04 el despachador de aduana no se presentó a
+
+		  reconocimiento físico;
+05 declaración notificada sin realizar el
+
+		  reconocimiento físico;
+06 inmovilización total de la mercancía;
+
+
+		  07 reconocimiento físico de descarga parcial (solo vía marítima);
+
+
+		  08 reconocimiento físico con continuación de despacho;
+09
+
+		  reconocimiento físico de oficio.
+2. El funcionario aduanero, en
+
+		  señal de conformidad, registra en el sistema informático la siguiente
+
+		  información:
+a) Fecha del reconocimiento físico.
+b) Cantidad y
+
+		  tipo de bultos reconocidos y de ser posible su identificación.
+
+		  Ejemplo: “Reconocidos aleatoriamente 06 de 10 cajas de madera”. Para
+
+		  el caso de mercancía presentada a granel, suelta o por tuberías, el
+
+		  total de unidades físicas (unidad, kilogramos, metros cúbicos, litros,
+
+		  kilowatt(ios), etc.), que conforman el lote. Ejemplo: “Reconocido un
+
+		  lote de 10 000 kg de trigo”.
+c) Número del documento de control,
+
+		  cuando se trata de mercancía restringida.
+d) Si ha realizado la
+
+		  extracción o recepción de muestras y contramuestras, tomas
+
+		  fotográficas o de videos, cuando corresponda.
+e) Si procede el
+
+		  acogimiento de mercancías vigentes.
+f) Cualquier otra incidencia,
+
+		  incluyendo las subsanadas.
+g) Fecha de vencimiento y plazos
+
+		  autorizados, cuando corresponda.
+h) Nombre del representante legal
+
+		  o auxiliar de comercio exterior y el número del medio de
+
+		  identificación que establezca la Administración Aduanera; o nombre del
+
+		  dueño, consignatario o consignante y el número de su documento de
+
+		  identificación.
+3. Con el registro de la diligencia de
+
+		  despacho y las validaciones informáticas, se otorga el levante de la
+
+		  mercancía.
+B.2 RECONOCIMIENTO FÍSICO DE OFICIO
+
+
+1. La Administración Aduanera puede realizar el reconocimiento
+
+		  físico de oficio cuando:
+a) Se ha solicitado el reconocimiento
+
+		  físico y el despachador de aduana no se presenta.
+b) El despachador
+
+		  de aduana se presenta, pero el reconocimiento físico no se efectúa por
+
+		  motivos imputables a este hasta en dos oportunidades, o
+c) Lo
+
+		  considere pertinente.
+El reconocimiento físico de oficio se
+
+		  realiza en presencia del representante del almacén aduanero.
+2.
+
+		  El jefe del área designa al funcionario aduanero y comunica al almacén
+
+		  aduanero, al punto de llegada o al operador de comercio exterior en
+
+		  cuyo local se realizará el reconocimiento físico de oficio para que
+
+		  ponga la mercancía a disposición del funcionario aduanero asignado en
+
+		  el lugar habilitado, en la fecha y hora señalada, y proporcione la
+
+		  logística necesaria.
+3. El funcionario aduanero asignado puede
+
+		  tomar fotografías o videos, retirar catálogos o documentos con
+
+		  información técnica y extraer muestras, entre otras acciones.
+
+
+		  4. El funcionario aduanero que procede conforme a lo señalado en el
+
+		  subliteral B.1 deja constancia de las acciones realizadas en el anexo
+
+		  IV “Acta de reconocimiento físico de oficio”, excepto en el régimen de
+
+		  importación para el consumo, en el que no es necesario formularla.
+
+
+B.3 RECONOCIMIENTO FÍSICO REMOTO
+1. El
+
+		  jefe o el supervisor del funcionario aduanero asignado puede disponer
+
+		  que el reconocimiento físico se realice por vía remota:
+a) Durante
+
+		  un estado de emergencia sanitaria o por desastre natural decretado en
+
+		  todo el territorio nacional o en parte de él.
+b) Cuando la
+
+		  zona o el lugar donde se va a realizar el reconocimiento físico o la
+
+		  ruta por donde debe desplazarse el funcionario aduanero asignado es
+
+		  peligrosa y representa un riesgo para su vida o salud.
+c) Cuando la
+
+		  naturaleza de las mercancías o las necesidades operativas de cada
+
+		  intendencia lo justifican.
+2. El funcionario aduanero asignado
+
+		  realiza el reconocimiento físico remoto sin hacerse presente en la
+
+		  zona autorizada, para lo cual cuenta con el apoyo del funcionario
+
+		  aduanero delegado y, si este no puede participar, con el apoyo de uno
+
+		  de los siguientes operadores: dueño, consignatario, consignante,
+
+		  despachador de aduana, transportista -cuando actúa como declarante- o
+
+		  representante del almacén aduanero.
+3. El funcionario aduanero
+
+		  delegado o el operador que participa como apoyo transmite el
+
+		  reconocimiento físico remoto en línea al funcionario aduanero
+
+		  asignado.
+4. Al inicio del reconocimiento físico, el
+
+		  funcionario aduanero asignado solicita al funcionario aduanero
+
+		  delegado o al operador que participa como apoyo que se identifique y
+
+		  confirme su ubicación a través de los medios electrónicos disponibles,
+
+		  tales como la ubicación georreferencial de su dispositivo móvil o la
+
+		  vista panorámica de la zona de ubicación de la carga, y valida la
+
+		  información.
+5. El funcionario aduanero asignado dirige el
+
+		  reconocimiento físico remoto.
+6. La filmación de la zona donde
+
+		  se realiza el reconocimiento físico durante su ejecución, la
+
+		  conservación del archivo audiovisual y su puesta a disposición de la
+
+		  autoridad aduanera cuando esta lo requiera se encuentra a cargo de los
+
+		  siguientes operadores, según corresponda:
+a) El almacén aduanero o
+
+		  el administrador o concesionario portuario.
+b) El dueño o
+
+		  consignatario, cuando el reconocimiento físico se realiza en un local
+
+		  con autorización especial de zona primaria.
+c) El importador,
+
+		  cuando se trata del local designado por este en la jurisdicción de la
+
+		  aduana de destino al amparo del Convenio de Cooperación Aduanera
+
+		  Peruano Colombiano y de la Ley N° 27037, Ley de Promoción de la
+
+		  Inversión en la Amazonía.
+d) El exportador, cuando se trata del
+
+		  local designado por este.
+e) El responsable del lugar designado por
+
+		  la autoridad aduanera, en el que se pone a disposición la mercancía
+
+		  que va a ser embarcada con destino al exterior, siempre que el
+
+		  intendente de aduana de la circunscripción o el jefe del área que este
+
+		  designe lo disponga, previa evaluación de riesgo.
+Cuando el
+
+		  operador responsable de filmar la zona también es operador de apoyo,
+
+		  debe cumplir con estas obligaciones y la prevista en el numeral 3
+
+		  precedente.
+7. El funcionario aduanero asignado graba la
+
+		  filmación transmitida utilizando preferentemente los medios
+
+		  electrónicos institucionales.
+8. Cuando no es posible efectuar
+
+		  la transmisión en línea y no se ha iniciado el reconocimiento físico,
+
+		  este es reprogramado.
+9. Cuando se ha iniciado el
+
+		  reconocimiento físico, pero se interrumpe la transmisión en línea y:
+
+
+		  a) Se cuenta con la participación del funcionario aduanero delegado,
+
+		  se continúa con el reconocimiento físico.
+b) No se cuenta con la
+
+		  participación del funcionario aduanero delegado, el funcionario
+
+		  aduanero asignado comunica al operador que participa como apoyo que el
+
+		  reconocimiento físico será presencial a fin de que se adopten las
+
+		  medidas de seguridad necesarias que garanticen la integridad de la
+
+		  carga.
+10. Si durante el reconocimiento físico remoto se
+
+		  detecta las incidencias señaladas en el numeral 5 del inciso B.1.2 del
+
+		  subliteral B.1 y:
+a) Se cuenta con la participación del funcionario
+
+		  aduanero delegado, este ejecuta las acciones que correspondan.
+b)
+
+		  No se cuenta con la participación del funcionario aduanero delegado,
+
+		  el funcionario aduanero asignado comunica al operador que participa
+
+		  como apoyo que el reconocimiento físico será presencial a fin de que
+
+		  se adopten las medidas de seguridad necesarias que garanticen la
+
+		  integridad de la carga.
+11. Culminado el reconocimiento físico
+
+		  remoto, el funcionario aduanero asignado registra la diligencia en el
+
+		  sistema informático y consigna:
+a) La información prevista en el
+
+		  numeral 2 del inciso B.1.4 del subliteral B.1.
+b) Que el
+
+		  reconocimiento físico fue realizado de manera remota.
+c) El nombre
+
+		  y apellido del funcionario aduanero delegado o, cuando este no
+
+		  participe, el nombre, apellido y número del documento nacional de
+
+		  identidad (DNI) del operador que participa como apoyo.
+
+
+		  B.4 RECONOCIMIENTO FÍSICO ÚNICO
+1. El reconocimiento
+
+		  físico único es el control efectuado de manera simultánea por dos
+
+		  funcionarios aduaneros: uno encargado del examen físico de la
+
+		  mercancía y otro a cargo de la evaluación de la declaración y de la
+
+		  documentación sustentatoria.
+2. El reconocimiento físico único
+
+		  se aplica en la Intendencia de Aduana Marítima del Callao,
+
+
+		  Intendencia de Aduana de Chancay
+ e Intendencia de Aduana Aérea
+
+		  y Postal, para los regímenes de importación para el consumo y
+
+		  exportación definitiva, en los horarios que determine cada
+
+		  intendencia. La conducción de su desarrollo estará a cargo de la
+
+		  Gerencia de Regímenes Aduaneros de cada una de ellas.
+
+
+(RS N°
+
+		  281-2024/SUNAT-16.12.2024)
+Excepcionalmente, en los
+
+		  supuestos establecidos en el numeral 1 del subliteral B.3, el jefe del
+
+		  área que administra los regímenes citados puede aplicar el
+
+		  reconocimiento físico remoto en vez del reconocimiento físico único.
+3. La mercancía sujeta a
+
+		  inspección no intrusiva puede ser sometida a reconocimiento físico
+
+		  único. En ese supuesto, el sistema envía un aviso al buzón SOL del
+
+		  importador o exportador y del agente de aduana, a fin de que solicite
+
+		  la programación del reconocimiento físico.
+4. El funcionario
+
+		  encargado del examen físico de la mercancía realiza las acciones
+
+		  señaladas en los incisos B.1.1, B.1.2 y B.1.4 del subliteral B.1,
+
+		  excepto el numeral 3 del inciso B.1.4.
+En el régimen de
+
+		  exportación definitiva, considera adicionalmente lo previsto en los
+
+		  numerales 6, 7, 8 y 10 del subliteral A.3 del literal A de la sección
+
+		  VII del procedimiento general “Exportación definitiva” DESPA-PG.02,
+
+		  con excepción de lo relativo a la formulación del informe y al
+
+		  registro de la diligencia que autoriza el levante.
+5. El
+
+		  funcionario encargado del examen físico de la mercancía tiene en
+
+		  cuenta las acciones específicas solicitadas por el funcionario
+
+		  encargado de la evaluación de la declaración y de la documentación
+
+		  sustentatoria, a efecto de obtener información que facilite su
+
+		  análisis.
+6. El funcionario encargado del examen físico
+
+		  registra en el sistema informático las fotos
+
+
+		  y
+ notas
+que permitan identificar las
+
+		  características de la mercancía. Asimismo, registra
+ la
+
+		  diligencia de reconocimiento físico único
+
+
+		  el mismo día en que se culmina el examen físico
+sin que ello
+
+		  implique que se ha otorgado el levante.
+
+
+(RS N°
+
+		  281-2024/SUNAT-16.12.2024)
+El sistema informático
+
+		  remite un aviso al correo electrónico del funcionario aduanero
+
+		  encargado de la evaluación de la declaración y de la documentación
+
+		  sustentatoria, y comunica el registro de la diligencia de
+
+		  reconocimiento físico único.
+7. El
+
+		  funcionario encargado de la evaluación de la declaración y de la
+
+		  documentación sustentatoria toma en cuenta la información contenida en
+
+		  la diligencia de reconocimiento físico único, realiza las acciones
+
+		  previstas en los numerales 1 y 2 del inciso B.1.1 y el inciso B.1.3
+
+		  del subliteral B.1 y registra en el sistema informático la diligencia
+
+		  de despacho para las validaciones informáticas y el otorgamiento del
+
+		  levante autorizado, de corresponder.
+En el régimen de
+
+		  exportación definitiva, cuando se presentan las incidencias indicadas
+
+		  en el numeral 8 del subliteral A.3 del literal A de la sección VII del
+
+		  procedimiento general “Exportación definitiva” DESPA-PG.02, emite el
+
+		  informe correspondiente.
+B.5. CONTINUACIÓN DEL
+
+		  DESPACHO
+1. La intendencia de aduana determina los
+
+		  supuestos en los cuales, en consideración a la carga de trabajo y a
+
+		  los recursos disponibles, se justifica la continuación del despacho
+
+		  por un funcionario aduanero distinto al que efectuó el examen físico
+
+		  de las mercancías.
+El jefe del área o funcionario autorizado
+
+		  reasigna la declaración para la continuación del despacho.
+La
+
+		  continuación del despacho se rige por lo previsto en el procedimiento
+
+		  de cada régimen.
+2. El funcionario aduanero asignado registra
+
+		  en el sistema informático la diligencia de reconocimiento físico de
+
+		  continuación de despacho el día de su actuación, con la siguiente
+
+		  información, de corresponder:
+a) Descripción y características
+
+		  de la mercancía (estado, cantidad, calidad, peso, medida, marca y
+
+		  modelo).
+b) Observaciones referidas a:
+b.1 El valor en aduanas,
+
+
+		  b.2 La clasificación arancelaria.
+c) Requerimientos, registros y
+
+		  notificaciones realizadas o que corresponde efectuar.
+d) Necesidad
+
+		  de disponer la ejecución de medidas preventivas.
+e) Realización de
+
+		  tomas fotográficas o de videos, o la entrega de las muestras
+
+		  extraídas.
+f) Otra acción o información que complemente su
+
+		  actuación.
+3. El funcionario aduanero que continúa el despacho:
+
+
+		  a) Efectúa el seguimiento de lo registrado en el sistema informático.
+
+
+		  b) Revisa los documentos sustentatorios del despacho.
+c) Verifica
+
+		  la clasificación arancelaria de la mercancía.
+d) Verifica el valor
+
+		  de la mercancía, iniciando el proceso de duda razonable, de ser el
+
+		  caso.
+e) Realiza cualquier otra acción necesaria.
+f) Culmina su
+
+		  actuación de acuerdo a lo descrito en los incisos del subliteral B.1,
+
+		  según corresponda.
+C. EXTRACCIÓN, ANÁLISIS Y EVALUACIÓN
+
+		  DE MUESTRAS
+1. La autoridad aduanera está facultada
+
+		  para extraer o disponer la extracción de muestras representativas de
+
+		  aquellas mercancías que por su naturaleza requieran de una mejor
+
+		  identificación, a fin de determinar su clasificación arancelaria,
+
+		  valor en aduana, calidad, origen o estado, y de ser necesario,
+
+		  solicitar su análisis físico químico.
+2. El almacén aduanero,
+
+		  administrador o concesionario de las instalaciones portuarias o
+
+		  aeroportuarias, o el dueño o consignatario de la mercancía, según
+
+		  corresponda, son los encargados de proporcionar las herramientas
+
+		  necesarias para la correcta extracción de las muestras de acuerdo a la
+
+		  naturaleza de la mercancía (tales como taladro, tijeras, plumilla,
+
+		  cucharón para líquidos), así como de llevar un registro y control de
+
+		  las muestras extraídas.
+3. El Laboratorio Central es el
+
+		  encargado de efectuar el análisis físico-químico e instrumental de las
+
+		  muestras extraídas durante el examen o inspección física y las
+
+		  acciones de control de la SUNAT, así como de las presentadas en el
+
+		  trámite de las solicitudes de clasificación arancelaria.
+4. El
+
+		  Laboratorio Central utiliza métodos de ensayos basados en normas
+
+		  técnicas nacionales o internacionales, métodos de ensayos
+
+		  desarrollados por el propio laboratorio, materiales, reactivos,
+
+		  instrumentos, equipos de laboratorio y bibliografía, entre otros.
+
+
+5. Los instrumentos y equipos de laboratorio utilizados en los
+
+		  análisis físico-químicos e instrumental deben estar controlados por el
+
+		  programa de aseguramiento metrológico.
+6. El Laboratorio
+
+		  Central emite el informe químico orientado hacia criterios técnicos
+
+		  arancelarios que contiene información suficiente de las propiedades,
+
+		  composición química, proceso de obtención, forma de presentación y uso
+
+		  del producto, según se requiera.
+7. La literatura técnica de
+
+		  los siguientes productos debe estar expresada de acuerdo al siguiente
+
+		  cuadro:
+
+
+Arancel
+
+
+Mercancía
+
+
+Normas
+
+
+Capítulos 27
+
+
+Combustibles
+
+
+				  ASTM, NTP
+
+
+Capítulos 28 y 29
+
+
+Productos químicos de constitución química
+
+				  definida
+
+
+IUPAC, denominación química completa
+
+
+Capítulo 30
+
+
+Productos farmacéuticos
+
+
+INN, DCI
+
+
+Capítulo 31
+
+
+Abonos
+
+
+ISO, NTP
+
+
+Capítulo 38
+
+
+Plaguicidas
+
+
+ISO
+
+
+Secciones X, XI, XIV y XV
+
+
+Maderas, papeles, cartones, materias
+
+				  textiles, metales preciosos, metales comunes
+
+
+				  ISO, ASTM, NTP
+Otra admitida internacionalmente
+
+
+8. El despachador de aduana cancela el servicio de boletín
+
+		  químico correspondiente a todas las muestras pertenecientes a una
+
+		  declaración, mediante una liquidación de cobranza tipo 0026 -
+
+		  Autoliquidación, con el concepto (código de tributo) 0031 - boletín
+
+		  químico. En la liquidación de cobranza consigna, además, el número de
+
+		  esa declaración en el campo “documento asociado” y el número de la
+
+		  serie en el campo “motivo de la autoliquidación”.
+Cuando el
+
+		  despacho es tramitado directamente por el dueño, consignatario o
+
+		  consignante de la mercancía o cuando no es posible generar la
+
+		  liquidación de cobranza prevista en el párrafo precedente por causas
+
+		  no imputables al despachador de aduana, el funcionario aduanero emite
+
+		  una liquidación de cobranza que se cancela en los bancos autorizados o
+
+		  en la caja de la intendencia de aduana donde se numera la declaración
+
+		  o donde se realiza el reconocimiento físico.
+C.1
+
+		  EXTRACCIÓN DE MUESTRAS
+1. El funcionario aduanero, con
+
+		  la presencia del despachador de aduana, el dueño o el consignatario,
+
+		  selecciona los bultos o la parte de la carga de la cual extraerá la
+
+		  muestra y dispone su extracción. Si lo considera necesario, puede
+
+		  solicitar el apoyo de un funcionario aduanero del Laboratorio Central.
+
+
+En el reconocimiento físico remoto, el funcionario aduanero
+
+		  delegado dispone la extracción de muestras. Si este no participa, el
+
+		  funcionario aduanero asignado adopta las medidas para continuar con el
+
+		  reconocimiento físico presencial o para que se designe a un
+
+		  funcionario aduanero delegado.
+2. La acción de extracción de
+
+		  muestras suspende el despacho cuando se presuma que las mercancías
+
+		  son:
+a) Prohibidas o restringidas.
+b) Sensibles al fraude y
+
+		  corresponden a las subpartidas nacionales de la sección XI del Arancel
+
+		  de Aduanas, salvo que se encuentren garantizadas, al amparo del
+
+		  artículo 160 de la LGA, por empresas certificadas como operador
+
+		  económico autorizado.
+El funcionario aduanero comunica la
+
+		  incidencia al dueño o consignatario o al despachador de aduana.
+
+
+3. La Administración Aduanera proporciona el sobre contenedor
+
+		  (anexo V), la etiqueta de seguridad y el frasco de plástico para las
+
+		  muestras líquidas sin acondicionar.
+La muestra sólida, tejido y
+
+		  producto acondicionado para la venta al por menor son colocados en el
+
+		  sobre contenedor.
+La muestra líquida sin acondicionar para la
+
+		  venta al por menor es colocada en el frasco de plástico que se
+
+		  introduce en el sobre contenedor.
+4. El funcionario aduanero
+
+		  que realizó el reconocimiento físico de manera presencial es
+
+		  responsable de la custodia, traslado y entrega de la muestra y
+
+		  contramuestra, cuando corresponda, al personal del área encargado del
+
+		  registro de actas de extracción de muestras.
+5. La muestra
+
+		  extraída debe ser representativa en cantidad o unidad, a fin de
+
+		  asegurar su correcto análisis físico-químico y su correspondiente
+
+		  clasificación arancelaria.
+6. Para el caso de concentrados de
+
+		  minerales metalíferos es de aplicación a lo previsto en el
+
+		  procedimiento específico “Extracción y análisis de muestras de
+
+		  concentrados de minerales metalíferos” DESPA-PE.00.20.
+7. Para
+
+		  la extracción de muestras de las mercancías que se detallan a
+
+		  continuación se debe observar lo siguiente:
+a) A granel
+
+
+con aspecto homogéneo, incluyendo los productos químicos
+
+		  puros o mezclados: se extrae de una sola parte del lote. En los demás
+
+		  casos se extrae de distintas partes del lote.
+b)
+
+		  Productos sólidos
+ en forma de trozos, grumos, gránulos,
+
+		  polvo, copos, presentados en sacos, tambores, cajas o envases
+
+		  similares: se recomienda elegir varios envases de manera aleatoria.
+
+		  Cuando la naturaleza del producto lo permita, se toma una porción de
+
+		  cada uno.
+c) Productos líquidos
+ puros o
+
+		  mezclados, tales como las dispersiones (emulsiones, suspensiones) y
+
+		  las disoluciones: deben ser homogenizadas lo mejor posible para que
+
+		  sea la más representativa posible.
+La muestra que se toma de
+
+		  grandes continentes, camiones cisterna o buques tanques, en especial
+
+		  de suspensiones con tendencia a la decantación debe ser obtenida por
+
+		  separado, del fondo, del centro y de la superficie de la cisterna o
+
+		  tanque.
+La muestra de combustible se extrae antes de la descarga
+
+		  conforme a la norma ASTM D4057-2006: Standard Practice for Manual
+
+		  Sampling of Petroleum and Petroleum Products (Práctica estándar para
+
+		  muestreo manual de petróleo y sus derivados) por una empresa
+
+		  debidamente certificada por INDECOPI, con la presencia del funcionario
+
+		  aduanero.
+La muestra de otros productos líquidos, tales como
+
+		  insumos para bebidas gaseosas, deben extraerse en ambientes estériles.
+
+		  De no ser posible la extracción, se procede conforme al segundo
+
+		  párrafo del inciso e).
+d) Tejidos
+: La muestra
+
+		  de tejidos de punto o elásticos se extrae sin estirarla.
+
+
+e) Insumo farmacéutico, vitamina, antibiótico y hormonas, no
+
+		  acondicionados para la venta al por menor, y sustancia estupefaciente,
+
+		  sicotrópica y precursor
+: La muestra se toma por el personal
+
+		  especializado y requiere de herramientas y ambientes estériles.
+
+
+Cuando no cuenta con las condiciones mencionadas, el funcionario
+
+		  aduanero transcribe en el “Acta de extracción de muestras y
+
+		  transcripción de etiquetas” (anexo I) las características del producto
+
+		  descritas en la etiqueta o rótulo del envase, según corresponda, sin
+
+		  retirar las etiquetas de los envases u otros continentes.
+
+
+f) Sustancia corrosiva, inflamable y tóxica, y material
+
+		  radiactivo
+: La muestra se extrae con herramientas o equipos
+
+		  especiales de seguridad. De no ser posible la extracción, se procede
+
+		  conforme al segundo párrafo del inciso e).
+Para su transporte y
+
+		  manipuleo se debe cumplir con las normas internacionales de seguridad
+
+		  vigentes e indicar en el exterior del envase la peligrosidad del
+
+		  producto, mediante pictogramas impresos o adheridos de símbolos tales
+
+		  como:
+f.1) calavera: producto tóxico o muy tóxico.
+f.2) dañino,
+
+		  irritante.
+f.3) llama: inflamable, oxidante, etc.
+g)
+
+		  Barra, lingote o bloque con contenido de metal precioso
+: La
+
+		  muestra se extrae con un taladro eléctrico portátil con broca gruesa
+
+		  de acero rápido, que se aplica en forma perpendicular a las caras de
+
+		  la barra, lingote o bloque. Para el análisis no se considera las
+
+		  primeras virutas, las que se devuelven al momento de la extracción, y
+
+		  se deja constancia de esta devolución en el “Acta de extracción de
+
+		  muestras y transcripción de etiquetas” (anexo I).
+h)
+
+		  Insecticida, raticida, fungicida, herbicida, inhibidor de germinación,
+
+		  regulador de crecimiento de plantas, desinfectante y producto similar
+
+		  en forma o en envase para la venta al por menor o en artículos
+:
+
+		  Para efectos del despacho, se considera en forma o en envase para la
+
+		  venta al por menor o en artículos el que tiene las siguientes
+
+		  características:
+h.1) Su acondicionamiento para la venta al por
+
+		  menor no ofrece ninguna duda sobre su venta directa al usuario sin
+
+		  ningún reacondicionamiento posterior (reenvasado, reformulado, etc.).
+
+		  La dilución que efectúa el usuario para la aplicación del producto no
+
+		  constituye reacondicionamiento.
+h.2) Presenta las indicaciones
+
+		  referentes a su aplicación, uso, etc., impresas en el recipiente o
+
+		  envase, o etiqueta.
+h.3) El producto se presenta generalmente en
+
+		  frasco, pote, pulverizador (spray), caja, tubo, caja de cartón, bolsa
+
+		  de papel, sarta de bolas, barrita, tableta, pastilla, bloque,
+
+		  comprimido, banda impregnada y otra forma similar de comercialización
+
+		  al por menor.
+C.1.1 CANTIDAD DE MUESTRA A EXTRAER
+
+
+1. La muestra de los productos que se detallan a continuación es
+
+		  extraída en las siguientes cantidades:
+
+
+				  Arancel
+
+
+				  Mercancía
+
+
+Capítulo 13
+
+
+Extractos,
+
+				  mucílagos y espesativos: 50 g
+
+
+Capítulo 25
+
+
+				  En polvo o en trozos: 200 g
+
+
+Capítulo 26
+
+
+Minerales metalíferos: 2.5 Kg en su estado natural (sin moler).
+
+
+Las otras mercancías del capítulo, tales como cenizas, escorias y
+
+				  residuos, en polvo o en trozos: 200 g.
+
+
+En el caso de
+
+				  concentrados de minerales metalíferos, la cantidad se detalla
+
+				  en el procedimiento específico “Extracción y análisis de
+
+				  muestras de concentrados de minerales metalíferos”,
+
+				  DESPA-PE.00.20 (versión 1)
+
+
+Capítulo 27
+
+
+-
+
+
+
+
+
+Petróleo y sus derivados (gasolinas, querosenos, diésel, White
+
+				  spirit, fuel oils, parafina, etc.): se procede de acuerdo al
+
+				  tercer párrafo de numeral 8 del literal C de la Sección VII.
+
+
+-
+
+
+
+
+
+Productos líquidos: 03 unidades de 01 galón cada una, debidamente
+
+				  precintada y rotulada por la entidad competente que realiza el
+
+				  muestreo.
+
+
+-
+
+
+
+
+
+Productos sólidos: 150 g
+
+
+Capítulo 30
+
+
+Sólo
+
+				  dosificados o acondicionados para la venta al por menor:
+
+				  medicamentos, sueros, vacunas: una unidad del producto, tal
+
+				  como se presenta a despacho (envase, caja, prospecto), en sus
+
+				  diversas presentaciones o dosis.
+
+
+Capítulo 31
+
+
+Abonos: 150
+
+				  g
+
+
+Capítulo 32
+
+
+Pigmentos,
+
+				  materias colorantes, barnices, pinturas, mastiques y tintas:
+
+				  100 g
+
+
+Capítulo 33
+
+
+Sustancias
+
+				  odoríferas: 50 ml
+
+
+Capítulo 34
+
+
+				  Ceras y tensoactivos: 150 g
+
+
+Capítulo 37
+
+
+Material
+
+				  fotográfico sin revelar, placa metálica, película
+
+				  sensibilizada: 01 unidad, siempre que el modo de presentación
+
+				  lo permita.
+
+
+Capítulo 38
+
+
+-
+
+
+
+
+
+Insecticidas, productos tóxicos: se procede de acuerdo al numeral
+
+				  10 del literal C de la Sección VII.
+
+
+-
+
+
+
+
+
+En formas o envases para la venta al por menor o en artículos: se
+
+				  extrae una unidad, tal como se presenta a despacho.
+
+
+-
+
+
+
+
+
+Aprestos y disolventes compuestos: 150 ml.
+
+
+Capítulo 39
+
+
+-
+
+
+
+
+
+Polímeros y resinas en formas primarias: 150 g
+
+
+-
+
+
+
+
+
+Láminas y bandas: superficie mínima de 20 x 20 cm
+
+
+-
+
+
+
+
+
+Cintas adhesivas
+
+
+				  De tamaño pequeño: 01 rollo.
+
+
+				  Los demás casos: mínimo 4 m, despreciándose los tres primeros
+
+				  metros.
+
+
+-
+
+
+
+
+
+Desperdicios: deben ser
+
+				  los representativos del total.
+
+
+Capítulo 40
+
+
+-
+
+
+
+
+
+Látex: 250 ml
+
+
+-
+
+
+
+
+
+Caucho sintético sólido, sin vulcanizar: 150 g
+
+
+Sección VIII
+
+
+-
+
+
+
+
+
+Pieles: 20 x 20 cm, como mínimo.
+
+
+-
+
+
+
+
+
+Confecciones: una pieza completa.
+
+
+Sección X
+
+
+Papeles y
+
+				  Cartones: 03 hojas tamaño A4, extraídas a la altura del centro
+
+				  de la bobina. Se remiten enrolladas para evitar el doblado o
+
+				  arrugamiento de la muestra.
+
+
+Sección XI
+
+
+-
+
+
+
+
+
+Hilados de peso unitario igual o inferior a 1 kg: 01 cono, tal
+
+				  como se presenta a despacho.
+
+
+-
+
+
+
+
+
+Hilados de peso unitario superior a 1 kg: 250 g del mismo, de
+
+				  manera que no cambie su torsión.
+
+
+-
+
+
+
+
+
+Cables para discontinuos: 2 m.
+
+
+-
+
+
+
+
+
+Lana o algodón: 250 g extraídos de una bala (paca) o bulto de cada
+
+				  10 del total de despacho; se remite en bolsa plástica.
+
+
+-
+
+
+
+
+
+Tejidos homogéneos: 90 cm de longitud como mínimo, que comprenda
+
+				  todo el ancho de la tela de orillo a orillo, despreciándose la
+
+				  extensión del textil que se encuentre deteriorada o que no
+
+				  refleje la real dimensión de la misma. La citada muestra se
+
+				  divide en tres partes iguales: una de ellas para ser remitida
+
+				  al Laboratorio Central para su análisis y las otras partes
+
+				  como contramuestras que se conservarán en el área del régimen
+
+				  correspondiente
+.
+
+
+-
+
+
+
+
+
+Tejidos heterogéneos decorados o bordados: 90 cm de longitud, de
+
+				  tal manera que comprenda el motivo que se repite a lo largo
+
+				  del tejido, comprendiendo el ancho total de la pieza,
+
+				  despreciándose la extensión del textil que se encuentre
+
+				  deteriorada o que no refleje la real dimensión de la misma. La
+
+				  citada muestra se divide en tres partes iguales: una de ellas
+
+				  para ser remitida al Laboratorio Central para su análisis y
+
+				  las otras dos partes como contramuestras que se conservarán en
+
+				  el área del régimen correspondiente.
+
+
+-
+
+
+
+
+
+Para la determinación de la calidad de los tejidos, el funcionario
+
+				  aduanero debe aplicar la norma ASTM D5430-07.
+
+
+-
+
+
+
+
+
+Artículos de los Capítulos 61 al 63: una prenda, conjunto,
+
+				  articulo o juego, tal como se presenta a despacho.
+
+
+Capítulo 64
+
+
+01 unidad
+
+				  del pie (derecho o izquierdo).
+
+
+Sección XIII
+
+
+-
+
+
+
+
+
+Ladrillos caloríficos o refractarios:
+
+
+De gran
+
+				  tamaño: consultar al Laboratorio Central.
+
+
+De menor
+
+				  tamaño: 01 unidad.
+
+
+-
+
+
+
+
+
+Vidrio:
+
+
+Plano:
+
+				  20x20 cm, previa consulta al Laboratorio Central.
+
+
+En
+
+				  varillas: 01 unidad.
+
+
+-
+
+
+
+
+
+Manufacturas de cerámica o de vidrio: 01 pieza.
+
+
+Capítulo 71
+
+
+-
+
+
+
+
+
+Barras, lingotes, laminados y otras formas de presentación de
+
+				  metales preciosos: 0,5 g
+
+
+-
+
+
+
+
+
+Artículos de joyería completos: una muestra sin fraccionar.
+
+
+-
+
+
+
+
+
+Artículos de bisutería o chapados incompletos, tales como cadenas
+
+				  en rollos, alambres artesanales y similares: 2,5 g como
+
+				  mínimo.
+
+
+Sección XV
+
+
+-
+
+
+
+
+
+Lingotes u otras semimanufacturas
+:
+
+
+				  De peso inferior o igual a 5 kg: 01 unidad
+
+
+				  De peso mayor a 5 kg: 60 g
+
+
+-
+
+
+
+
+
+Chapas y bandas metálicas LAF y LAC: 10x10 cm como mínimo.
+
+
+-
+
+
+
+
+
+Chapas recubiertas o revestidas sin enrollar: 10x10 cm como
+
+				  mínimo.
+
+
+-
+
+
+
+
+
+Alambrones de hierro o acero: 30 cm de longitud, como mínimo,
+
+				  indicando el número de colada.
+
+
+2. La muestra de los productos no considerados en el numeral
+
+		  anterior es extraída en las siguientes cantidades:
+
+
+				  Mercancía
+
+
+				  Cantidad
+
+
+Productos sólidos
+
+
+60 g
+
+
+				  Productos líquidos
+
+
+125 ml
+
+
+				  Productos gaseosos puros o licuados
+
+
+-
+
+
+
+
+
+En recipientes menores o iguales a 2,5 kg de peso bruto: 1
+
+				  recipiente.
+
+
+-
+
+
+
+
+
+Recipientes de mayor peso: se remite al Laboratorio Central el
+
+				  Certificado de Control de Calidad del proveedor y se
+
+				  transcribe el rótulo en el Acta de Extracción de Muestras y
+
+				  Transcripción de Etiquetas.
+
+
+				  Antibióticos, vitaminas y hormonas
+
+
+5 g
+
+
+				  Otros insumos farmacéuticos
+
+
+15 g
+
+
+				  Conservas
+
+
+Dos latas
+
+				  sin abrir con el objeto de preservar su esterilización y
+
+				  evitar alterar su composición.
+
+
+				  Envases para la venta al por menor
+
+
+Dos
+
+				  recipientes originales, con su folleto o literatura, tal como
+
+				  se presenta a despacho.
+
+
+				  Bebidas en envases o botellas
+
+
+-
+
+
+
+
+
+De 750 ml: dos unidades.
+
+
+-
+
+
+
+
+
+Inferiores a 750 ml: las muestras necesarias para alcanzar los 750
+
+				  ml
+
+
+-
+
+
+
+
+
+Mayores a 2 l: una unidad.
+
+
+				  Otros productos no considerados
+
+
+Una unidad
+
+				  o juego, de acuerdo a como se presente a despacho. Durante el
+
+				  almacenamiento de la mercancía, la cantidad a extraer no debe
+
+				  exceder el 5% del total de la mercancía.
+
+
+C.1.2 ACTA DE EXTRACCIÓN DE MUESTRAS Y TRANSCRIPCIÓN
+
+		  DE ETIQUETAS
+1. El funcionario aduanero formula el
+
+		  acta de extracción de muestras y transcripción de etiquetas en
+
+		  presencia del despachador de aduana, del dueño, consignatario o
+
+		  consignante y del representante del depósito temporal, quienes firman
+
+		  conjuntamente el acta, en original y tres copias. El representante del
+
+		  depósito temporal solo suscribe el acta en el proceso de extracción de
+
+		  muestras.
+2. El acta y sus copias se distribuyen de la
+
+		  siguiente manera:
+Original : Al área de despacho.
+1ra copia : Al
+
+		  funcionario aduanero, la cual se adjunta al sobre de los documentos
+
+		  sustentatorios de la declaración o declaración simplificada.
+2da
+
+		  copia : Al despachador de aduana, dueño, consignatario o consignante.
+
+
+		  3ra copia : Al almacén aduanero, punto de llegada o local autorizado
+
+		  en el que se realiza el reconocimiento.
+Cuando solo se
+
+		  transcribe la etiqueta, esta copia se coloca dentro del sobre
+
+		  contenedor y se adjunta la información técnica y la hoja de seguridad
+
+		  de la mercancía que indique su composición química y usos, para su
+
+		  verificación por el Laboratorio Central.
+3. El almacén aduanero
+
+		  remite la relación de las actas de extracción de muestras solicitadas
+
+		  por los funcionarios aduaneros a los correos electrónicos que cada
+
+		  intendencia de aduana determine, dentro de los diez primeros días
+
+		  hábiles del mes siguiente de efectuada la extracción de muestras.
+
+
+La relación debe contener: el número de la declaración, la
+
+		  descripción de la mercancía, la cantidad de muestra extraída, la fecha
+
+		  y el nombre del funcionario aduanero asignado.
+4. El personal
+
+		  encargado del registro de actas del área del régimen correspondiente
+
+		  verifica que la cantidad de muestras entregadas por los funcionarios
+
+		  aduaneros concuerde con la información remitida por los almacenes. De
+
+		  existir discrepancias, informa a su jefe inmediato superior para las
+
+		  acciones consiguientes.
+C.2. ENVÍO DE MUESTRAS AL
+
+		  LABORATORIO CENTRAL PARA ANÁLISIS FÍSICO-QUÍMICO
+1. El
+
+		  funcionario aduanero entrega el original del acta de extracción de
+
+		  muestras y transcripción de etiquetas conjuntamente con la muestra al
+
+		  personal encargado.
+2. El jefe del área a cargo del régimen
+
+		  aduanero establece las medidas necesarias para que las muestras y
+
+		  contramuestras recibidas se mantengan en un lugar seguro, protegido y
+
+		  de acceso restringido hasta su remisión al Laboratorio Central o
+
+		  devolución al dueño o consignatario.
+3. El personal encargado
+
+		  registra la información del acta de extracción de muestras y
+
+		  transcripción de etiquetas en el módulo de boletín químico, consigna
+
+		  el número de informe químico generado por el sistema en el acta y
+
+		  remite las muestras y los siguientes documentos al Laboratorio
+
+		  Central:
+a) Acta de extracción de muestras y transcripción de
+
+		  etiquetas.
+b) Copia de factura o documento equivalente.
+c)
+
+		  Literatura técnica y hoja de seguridad (MSDS), cuando se trata de
+
+		  transcripción de etiquetas o el producto lo requiere.
+d) Resolución
+
+		  de clasificación arancelaria, de corresponder.
+e) Hoja de reporte
+
+		  generada por el módulo de boletín químico.
+4. El Laboratorio
+
+		  Central recibe las muestras a partir de las 8:15 hasta las 15:15
+
+		  horas.
+5. La remisión al Laboratorio Central de las muestras de
+
+		  mercancías en situación de abandono legal, de comiso, para disposición
+
+		  y desechos y desperdicios de las naves se realiza en el formato del
+
+		  anexo II “Acta de extracción de muestras y transcripción de etiquetas
+
+		  para mercancías en abandono legal, comiso, actos de disposición; y
+
+		  desechos y desperdicios de las naves”.
+C.3 ANÁLISIS
+
+		  FÍSICO-QUÍMICO
+1. El funcionario aduanero encargado
+
+		  del Laboratorio Central recibe la muestra, verifica que se encuentre
+
+		  debidamente etiquetada y acompañada de la documentación
+
+		  correspondiente, sella la hoja de reporte y el acta de extracción de
+
+		  muestras o transcripción de etiquetas y registra esta acción en el
+
+		  módulo de boletín químico.
+Si el envío de la muestra o
+
+		  documentación no es conforme, la devuelve en la misma forma en que fue
+
+		  remitida para su subsanación y registra esta acción en el módulo de
+
+		  boletín químico.
+2. El jefe del Laboratorio Central designa al
+
+		  funcionario aduanero responsable del informe químico y consigna el
+
+		  nombre en la casilla correspondiente del acta de extracción de
+
+		  muestras y transcripción de etiquetas.
+3. En casos
+
+		  excepcionales, debidamente justificados, el jefe del Laboratorio
+
+		  Central puede reasignar la muestra a otro funcionario aduanero.
+
+
+4. El funcionario aduanero designado verifica que la muestra y su
+
+		  documentación cumplan con los requisitos de extracción y envío y, de
+
+		  ser conforme, realiza el análisis. En caso contrario, lo devuelve para
+
+		  la subsanación correspondiente.
+5. Cuando se requiere contar
+
+		  con literatura técnica u hoja de seguridad del producto, el
+
+		  Laboratorio Central solicita, a través del módulo de boletín químico,
+
+		  la información correspondiente al despachador, dueño, consignatario o
+
+		  consignante, otorgándole un plazo de tres días hábiles, contado a
+
+		  partir del día siguiente del registro de la solicitud en el módulo.
+
+
+Si la información solicitada no se presenta en el plazo
+
+		  establecido, el Laboratorio Central devuelve la muestra con la
+
+		  documentación al área de origen para la notificación del requerimiento
+
+		  de información adicional y registra el motivo de la devolución en el
+
+		  módulo de boletín químico.
+El área de origen notifica al
+
+		  interesado otorgándole un plazo de tres días hábiles, contados a
+
+		  partir del día siguiente de efectuada la notificación, para la
+
+		  presentación de la información correspondiente.
+La información
+
+		  del módulo de boletín químico se puede consultar a través del portal
+
+		  de la SUNAT.
+6. Efectuado el análisis, el funcionario aduanero
+
+		  designado registra el informe químico en el módulo de boletín químico.
+
+
+El jefe o supervisor revisa el informe químico y da su
+
+		  conformidad en la opción “visar” del módulo de boletín químico.
+
+
+De requerirse un informe químico impreso, es suscrito por el
+
+		  funcionario que lo emitió y visado por el jefe o supervisor.
+7.
+
+		  La muestra que no puede ser analizada por el Laboratorio Central es
+
+		  remitida por el jefe del Laboratorio Central a una entidad externa
+
+		  especializada acreditada por el Instituto Nacional de Calidad -
+
+		  INACAL.
+Cuando la entidad externa especializada no puede
+
+		  realizar el análisis, el jefe del Laboratorio Central remite la
+
+		  muestra a otras entidades externas.
+El costo del servicio
+
+		  prestado por las entidades externas es asumido por el dueño,
+
+		  consignatario o consignante.
+8. Las comunicaciones con el
+
+		  interesado se registran en el módulo de boletín químico y la consulta
+
+		  del informe químico se realiza a través del portal de la SUNAT.
+
+
+C.4 RESULTADOS DEL ANÁLISIS FÍSICO-QUÍMICO
+
+
+1. En el despacho de una declaración sujeta a canal de control
+
+		  rojo, el informe químico es emitido dentro del plazo de cuarenta y
+
+		  ocho horas, computado a partir de la recepción de la muestra por el
+
+		  Laboratorio Central, excepto cuando:
+a) El Laboratorio Central
+
+		  solicita literatura técnica u hoja de seguridad: en este supuesto el
+
+		  plazo es de cuarenta y ocho horas computado a partir de la recepción
+
+		  por el laboratorio de la información requerida.
+b) El despacho se
+
+		  encuentra suspendido por las causales previstas en el numeral 2 del
+
+		  subliteral C.1: en este supuesto, el plazo es de veinticuatro horas
+
+		  computado a partir de la recepción por el Laboratorio Central de la
+
+		  muestra o de la literatura técnica u hoja de seguridad solicitada,
+
+		  según corresponda.
+2. El plazo para la expedición del informe
+
+		  químico de la muestra derivada a un laboratorio externo especializado
+
+		  es de hasta cuarenta y ocho horas computado desde la recepción por el
+
+		  Laboratorio Central del resultado del análisis solicitado.
+3.
+
+		  El informe químico autorizado por el jefe o supervisor del Laboratorio
+
+		  Central en el módulo de boletín químico se publica en el portal de la
+
+		  SUNAT. El resultado emitido solo se refiere a la muestra analizada.
+
+
+4. Expedido el informe químico, el funcionario aduanero encargado
+
+		  del Laboratorio Central remite al área de despacho correspondiente el
+
+		  acta de extracción de muestras y transcripción de etiquetas con su
+
+		  documentación. Si la solicitud fue formulada por la Intendencia
+
+		  Nacional de Control Aduanero u otra dependencia de la SUNAT, el
+
+		  informe químico se remite a través de memorando con la documentación
+
+		  adjunta.
+5. El personal encargado del área de despacho recibe
+
+		  el acta de extracción de muestras o transcripción de etiquetas y su
+
+		  documentación y los adjunta de manera digitalizada a través del portal
+
+		  de la SUNAT a la declaración o declaración simplificada. Cuando no
+
+		  pueda adjuntarse de manera digitalizada, la entrega al funcionario
+
+		  aduanero asignado.
+El funcionario aduanero asignado verifica
+
+		  la cancelación de la liquidación de cobranza por el servicio de
+
+		  boletín químico.
+6. El funcionario aduanero asignado puede
+
+		  solicitar al Laboratorio Central la ampliación del informe químico si
+
+		  lo considera necesario. La ampliación es atendida por el responsable
+
+		  del primer informe y se registra en el campo información
+
+		  complementaria del documento sujeto a ampliación. El mismo informe
+
+		  químico es visado por el jefe o supervisor del Laboratorio Central y
+
+		  remitido con todo lo actuado al área solicitante.
+En casos
+
+		  excepcionales, debidamente justificados, el jefe del Laboratorio
+
+		  Central puede reasignar a un nuevo funcionario aduanero la ampliación
+
+		  del informe químico.
+7. El resultado de la ampliación del
+
+		  informe químico es registrado en el módulo de boletín químico dentro
+
+		  del plazo de veinticuatro horas, computado a partir de la recepción de
+
+		  la solicitud de ampliación.
+8. Si el resultado de la ampliación
+
+		  es contrario al primer análisis, este se deriva a otro funcionario
+
+		  aduanero del Laboratorio Central para el análisis dirimente, quien
+
+		  emite sus resultados en el plazo de veinticuatro horas desde su
+
+		  asignación.
+9. Si como resultado del informe químico o de su
+
+		  ampliación surge una variación en la clasificación arancelaria o
+
+		  descripción de la mercancía declarada, el funcionario aduanero
+
+		  asignado notifica la incidencia al despachador de aduana.
+10.
+
+		  El despachador de aduana, dueño, consignante o consignatario, mediante
+
+		  expediente, puede solicitar un segundo análisis en el Laboratorio
+
+		  Central o en un laboratorio externo siempre y cuando la muestra no
+
+		  haya sido devuelta o se cuente con una contramuestra.
+11. El
+
+		  área encargada remite los actuados al Laboratorio Central para su
+
+		  evaluación y pronunciamiento, a fin de que ratifique o rectifique el
+
+		  informe químico o lo derive al laboratorio externo indicado por el
+
+		  despachador de aduana, dueño, consignante o consignatario de la
+
+		  mercancía, para lo cual el Laboratorio Central provee los nombres y
+
+		  direcciones de los laboratorios en los que se puede realizar el
+
+		  análisis correspondiente.
+12. El jefe del Laboratorio Central
+
+		  designa a un funcionario aduanero que no haya intervenido en el primer
+
+		  informe para que emita un nuevo informe químico debidamente
+
+		  sustentado.
+13. Cuando el resultado del segundo análisis
+
+		  realizado por el funcionario aduanero o por un laboratorio externo
+
+		  difiere del primero, el jefe del Laboratorio Central designa a un
+
+		  tercer funcionario aduanero que no haya participado en los informes
+
+		  anteriores para que realice un informe dirimente final. El análisis
+
+		  puede ser realizado por el laboratorio externo indicado por el
+
+		  interesado, para lo cual el Laboratorio Central provee los nombres y
+
+		  direcciones de los laboratorios en los que aquél puede ser realizado.
+
+
+14. Los informes antes indicados son emitidos dentro del plazo de
+
+		  cuarenta y ocho horas, computados desde que el funcionario aduanero
+
+		  designado recibe la solicitud de revisión, el encargo de la emisión
+
+		  del informe dirimente o los resultados del laboratorio externo, según
+
+		  corresponda. En caso se notifique al interesado solicitando
+
+		  información adicional, el plazo se computa una vez recibida la
+
+		  información requerida.
+15. Emitido el informe y visado por el
+
+		  jefe o supervisor del Laboratorio Central, el funcionario aduanero
+
+		  encargado efectúa el descargo del expediente en el módulo de trámite
+
+		  documentario, registra los resultados en el respectivo informe químico
+
+		  en el campo de información complementaria del módulo de boletín
+
+		  químico y remite los actuados al área de origen de la declaración.
+
+
+16. La intendencia de aduana puede disponer que la muestra
+
+		  extraída de la mercancía arribada en su circunscripción resulte válida
+
+		  para los despachos parciales de importación para el consumo o depósito
+
+		  aduanero, siempre que correspondan al mismo lote arribado y consignado
+
+		  a un solo dueño o consignatario e incluso acceder a que la muestra
+
+		  extraída para los efectos de la destinación al régimen de depósito
+
+		  aduanero sea válida para los despachos parciales de importación para
+
+		  el consumo que regularizan dicho depósito.
+La intendencia de
+
+		  aduana puede disponer que la muestra extraída de un lote arribado en
+
+		  el mismo medio de transporte y consignado a un solo dueño o
+
+		  consignatario sea válida para despachos parciales de importación para
+
+		  el consumo, depósito aduanero o importación para el consumo que
+
+		  regulariza el depósito.
+C.5 DEVOLUCIÓN DE MUESTRAS AL
+
+		  DESPACHADOR DE ADUANA, DUEÑO O CONSIGNATARIO
+1. El
+
+		  plazo de conservación de la muestra es de cinco días hábiles
+
+		  siguientes al levante, dentro del cual el interesado puede solicitar
+
+		  su devolución, la que se debe realizar dentro de los cinco días
+
+		  hábiles, contado a partir del día siguiente de la presentación de la
+
+		  solicitud.
+2. Para la devolución de la muestra, el funcionario
+
+		  aduanero del Laboratorio Central encargado de la custodia genera un
+
+		  acta (anexo III), la que firma conjuntamente con el despachador de
+
+		  aduana, dueño, consignatario o consignante.
+3. Transcurridos
+
+		  los plazos establecidos en el numeral 1 sin que se haya solicitado la
+
+		  devolución de la muestra o esta no haya sido recogida, la
+
+		  Administración Aduanera procede a disponer de esta.
+C.6
+
+		  DEL CONTROL DE MUESTRAS EXTRAÍDAS PARA EVALUACIÓN TÉCNICA U OPINIÓN
+
+		  ESPECIALIZADA, Y DE CONTRAMUESTRAS
+1. En el plazo de
+
+		  veinticuatro horas de extraída la muestra y la contramuestra, el
+
+		  funcionario aduanero las entrega al personal encargado, conjuntamente
+
+		  con el original del acta de extracción de muestras y transcripción de
+
+		  etiqueta, para su registro y almacenamiento en el área de despacho.
+
+
+2. Cuando se requiere opinión técnica de una entidad especializada
+
+		  externa, el funcionario aduanero encargado del área de despacho,
+
+		  previa autorización del jefe del área que administra el régimen,
+
+		  remite la muestra al área de la Administración Aduanera
+
+		  correspondiente a fin de que sea remitido por ésta a la entidad
+
+		  externa especializada.
+El costo del servicio prestado por la
+
+		  entidad externa especializada es asumido por el dueño o consignatario
+
+		  de la mercancía.
+3. Lo previsto en el subliteral C.5 también es
+
+		  aplicable a las muestras extraídas para evaluación técnica u opinión
+
+		  especializada y a las contramuestras. En estos casos, el funcionario
+
+		  aduanero encargado de la custodia genera el “Acta de devolución de
+
+		  muestras” (anexo III).
+C.7 ACCIÓN DE CONTROL
+
+		  EXTRAORDINARIO: ANÁLISIS DE CONTRAMUESTRAS
+1. El área
+
+		  que administra el régimen puede solicitar un nuevo análisis si lo
+
+		  considera necesario, para lo cual envía una contramuestra al
+
+		  Laboratorio Central mediante memorando.
+El nuevo análisis es
+
+		  efectuado por un funcionario aduanero distinto al que realizó el
+
+		  primero.
+2. Si como resultado del nuevo análisis surge una
+
+		  variación en la clasificación arancelaria o descripción de la
+
+		  mercancía declarada respecto al primer análisis, la jefatura del área
+
+		  que administra el régimen, de considerarlo, puede disponer la
+
+		  realización de un análisis dirimente. Para ello, mediante memorando
+
+		  solicita al Laboratorio Central que haga el análisis de la otra
+
+		  contramuestra, el cual será efectuado por un funcionario aduanero
+
+		  distinto a los que realizaron los dos análisis anteriores.
+
+
+VIII. VIGENCIA
+El presente procedimiento entra
+
+		  en vigencia a partir del día siguiente de su publicación, salvo lo
+
+		  dispuesto en el subliteral B.4 del literal B de la sección VII en la
+
+		  jurisdicción de las intendencias de Aduana Marítima del Callao y
+
+		  Aduana Aérea y Postal, que entra en vigencia de acuerdo al siguiente
+
+		  detalle:
+a) Para el régimen de importación para el consumo:
+
+
+		  i. En la Intendencia de Aduana Marítima del Callao, a partir del
+
+		  14.9.2022.
+ii. En la Intendencia de Aduana Aérea y Postal, a partir
+
+		  del 3.10.2022.
+b) Para el régimen de exportación definitiva:
+i.
+
+		  En la Intendencia de Aduana Marítima del Callao, a partir del
+
+		  3.5.2023.
+ii. En la Intendencia de Aduana Aérea y Postal, a partir
+
+		  del 5.6.2023.
+IX. ANEXOS
+
+
+Anexo
+
+		  I : Acta de extracción de muestras y transcripción de etiquetas.
+
+
+		  Anexo II : Acta de extracción de muestras y transcripción de etiquetas
+
+		  para mercancías en abandono legal o comiso, actos de disposición;
+
+		  desechos y desperdicios de las naves.
+
+
+		  Anexo III : Acta de devolución de muestras.
+
+
+		  Anexo IV : Acta de reconocimiento físico de oficio.
+
+
+Anexo
+
+		  V : Sobre contenedor de muestras.

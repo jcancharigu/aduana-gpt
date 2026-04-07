@@ -1,0 +1,1771 @@
+Procedimientos de Prevención del Contrabando y Control Fronterizo - LEGISLACION
+
+
+FISCALIZACIÓN Y PREVENCIÓN DEL CONTRABANDO Y CONTROL
+FRONTERIZO
+
+
+INSTRUCTIVO
+
+CONTROL-IT.00.01: CONFECCIÓN,
+  LLENADO Y REGISTRO DEL ACTA DE INMOVILIZACIÓN-INCAUTACIÓN
+
+
+ <-- Retroceder
+
+
+
+
+
+Proc:
+
+
+CONTROL -IT.00.01
+
+
+CONFECCIÓN,
+ LLENADO Y REGISTRO DEL ACTA DE
+ INMOVILIZACIÓN-INCAUTACIÓN
+
+
+Versión:
+
+ 2
+
+
+Publicación:
+
+ 24/12/2008
+
+
+Res:
+
+						RSNAA 000573
+
+
+Fecha Res.:
+
+ 10/12/2008
+
+
+Vigencia:
+ 23/01/2009
+
+
+
+Lista:
+
+
+Maestra
+
+
+					  DEROGADO SEGÚN RS N.º 0131-2023/SUNAT
+
+
+Circulares Anexas
+
+
+Control de
+ Cambios
+
+
+
+Nota
+:
+		  Entiéndase que toda mención a los anexos I y II del instructivo
+		  “Confección, llenado y registro del acta de
+		  inmovilización-incautación” CONTROL-IT.00.01 (versión 2) está referida
+		  al anexo I del procedimiento específico “Inmovilización–incautación y
+		  determinación legal de mercancías” CONTROL-PE.00.01 (versión 7).
+
+
+			I.
+
+
+			OBJETIVO
+
+
+
+			Establecer las acciones a seguir para la confección, secuencia de
+			llenado de los formatos “Acta de Inmovilización - Incautación” y
+			“Acta de Observación de Entrega de Mercancías al Almacén”, así como,
+			impartir instrucciones para el uso correcto y oportuno del Módulo
+			Sistema de Gestión de los Delitos e Infracciones Aduaneras y Tráfico
+			Ilícito de Mercancías (SIGEDA).
+
+
+II.
+
+
+ALCANCE
+
+
+
+
+
+
+
+			Este instructivo es aplicado por la Intendencia de Prevención del
+			Contrabando y Control Fronterizo (IPCF), y las
+
+			intendencias de aduana
+
+
+			de la República.
+
+
+			III.
+
+
+VIGENCIA
+
+
+
+
+A partir de los treinta (30) días calendarios siguientes, de su
+			publicación en el diario oficial “El Peruano”.
+
+
+IV.
+
+
+
+
+REFERENCIA
+
+
+
+			-
+
+
+Procedimiento
+			Específico “Inmovilización - Incautación y Sanciones Aduaneras”
+
+
+(IPCF-PE.00.01).
+
+
+
+-
+
+
+
+
+Circular N°
+			004-2007-SUNAT/A “Establecen disposiciones relativas al ingreso de
+			información contenida en Actas de Incautación e
+
+
+			Inmovilización
+
+
+			 al Sistema Integrado de Gestión de Delitos Aduaneros – SIGEDA”.
+
+
+V.
+
+
+NORMAS GENERALES
+
+
+
+
+
+
+			1.
+
+
+Están autorizados a inmovilizar e incautar los servidores
+			aduaneros que realizan las acciones de control y/o fiscalización que
+			se encuentran
+
+
+			detalladas en el procedimiento específico IPCF-PE.00.01
+			“Inmovilización - Incautación y Sanciones Aduaneras”.
+
+
+			2.
+
+
+El formato “Acta de Inmovilización - Incautación” se utiliza
+			cuando surgen incidencias relacionadas con la aplicación del
+			procedimiento específico de “Inmovilización - Incautación y
+			Sanciones Aduaneras”.
+
+
+
+			3.
+
+
+El formato “Acta de Observación de Entrega de Mercancías al
+			Almacén” se utiliza cuando se presenten discrepancias entre la
+			descripción de las mercancías consignadas en el “Acta de
+			Inmovilización – Incautación” con las recibidas por el almacén de la
+			SUNAT.
+
+
+
+
+VI.
+
+
+DESCRIPCIÓN
+
+
+
+A)
+			Del “Acta de Inmovilización – Incautación”
+
+
+
+A1) Formato e Impresión
+
+
+
+			La IPCF y las intendencias de aduana solicitan la confección del
+			“Acta de Inmovilización – Incautación” y la “Hoja Adicional para
+			Descripción de Bienes”, a la Intendencia Nacional de Administración
+			(INA) conforme a los formatos que se consignan en los siguientes
+			anexos:
+
+
+			- Anexo I
+
+: “Acta de
+			Inmovilización – Incautación”.
+
+
+			- Anexo II : “Hoja Adicional para Descripción de Bienes”.
+
+
+			El requerimiento de confección de formatos, se realiza a más tardar
+			quince (15) días hábiles antes que culmine cada año y de acuerdo a
+			sus necesidades, a fin que la INA distribuya los formatos
+			correspondientes al siguiente año.
+
+
+
+
+
+			Para la confección de los formatos se considera:
+
+
+			-
+
+
+			Hoja tamaño A-4.
+
+
+			-
+
+
+			Letra Arial.
+
+
+			-
+
+
+			Papel
+
+
+			autocopiativo, original más cuatro (4) copias.
+
+
+			-
+
+
+			El formato del “Acta de Inmovilización – Incautación”, lleva impreso
+			su código de identificación y numeración.
+
+
+			-
+
+
+			El reverso del “Acta de Inmovilización – Incautación”, lleva impreso
+			los códigos utilizados para los numerales; 1.3, 2.1, 2.2, 2.4, 3.2 y
+			7.3 del presente Instructivo de Trabajo.
+
+
+
+
+
+			Identificación y Numeración del “Acta de Inmovilización -
+			Incautación”
+
+
+			Se identifica con un código de diecisiete (17) caracteres, tal como
+			sigue:
+
+
+
+			AAA-BBBB-CCCC-DDDDDD
+
+
+
+ AAA
+
+			: Código de la intendencia que genera el acta.
+
+
+
+
+ BBBB
+
+
+			:
+
+			Código del área, puesto de control
+
+o grupo
+
+
+			operativo de la
+
+intendencia de
+
+
+			aduana que genera el acta.
+
+
+        CCCC
+
+
+
+
+
+			:Año en que se genera el acta.
+
+
+
+
+ DDDDDD
+
+			:Número de orden asignado en el acta.
+
+
+
+			Los códigos  que identifican a las intendencias de aduanas y a
+			sus respectivas áreas son asignados por la Intendencia Nacional de
+			Sistemas de Información (INSI).
+
+
+			Ejemplo
+:
+
+
+
+
+
+Acta Nº
+
+
+			181 - 0205 - 2008 - 000005
+
+
+
+
+
+-
+
+
+
+			181
+
+
+: Código de
+			la Intendencia de Aduana de Puno.
+
+
+			-
+
+
+
+			0205
+
+
+: Código
+			del Puesto de Control de Ojherani.
+
+
+			-
+
+
+
+			2008
+
+
+: Año en
+			que se genera.
+
+
+			-
+
+
+
+			000005
+: Número
+			de orden asignado al acta.
+
+
+
+				Las “Hojas Adicionales para Descripción de Bienes” utilizadas,
+				son identificadas con el código del “Acta de Inmovilización –
+				Incautación” del cual forman parte.
+
+
+A2) De su
+			control
+
+
+			Los jefes de las oficinas de oficiales y de las unidades orgánicas
+			que emplean las “Actas de Inmovilización – Incautación” y las “Hojas
+			Adicionales para Descripción de Bienes”, implementan las medidas
+			necesarias que garanticen su correcto y adecuado uso.
+
+
+Formatos no
+			vigentes
+
+
+			Está prohibido el uso de formatos no regulados en el presente
+			instructivo o que correspondan a otros años. Finalizado cada año, la
+			intendencia de aduana debe destruir los formatos que no hayan sido
+			utilizados, hecho que debe ser puesto en conocimiento de la INA.
+
+
+A3)
+			Llenado del “Acta de Inmovilización - Incautación”
+
+
+
+			De la identificación del Tipo de Acta
+
+
+
+			Según la medida adoptada se consigna uno de los siguientes códigos:
+
+
+
+
+
+
+
+01 : Inmovilización
+
+
+
+
+
+02 : Incautación
+
+
+
+De su
+			numeración
+
+
+
+			La numeración es correlativa y se encuentra impresa en el formato
+			del “Acta de Inmovilización – Incautación” ( Anexo I ). Cada Área,
+			Puesto de Control o Grupo Operativo lleva su propio control sobre la
+			numeración de forma independiente.
+
+
+			Ejemplo:
+
+
+
+
+
+
+
+Tipo de Acta
+
+
+
+
+Número de Acta
+
+
+
+
+01
+
+
+
+181 - 0205 - 2008
+			-
+000005
+
+
+
+
+
+
+02
+
+
+
+181 - 0205 - 2008
+			-
+000006
+
+
+
+
+01
+
+
+			181 - 0205 - 2008 -
+000007
+
+
+
+
+
+
+02
+
+
+181 - 0205 - 2008 -
+
+			000008
+
+
+
+Del número de páginas
+
+
+Presenta dos (02) campos, el primero corresponde
+			al número de la página y el segundo al total de las páginas
+			elaboradas.
+
+
+El
+			formato del “Acta de Inmovilización – Incautación” (Anexo I) se
+			emplea como primera página, y de ser necesario páginas adicionales,
+			el formato de la “Hoja Adicional para Descripción de Bienes” (Anexo
+			II).
+
+
+Ejemplo:
+
+
+Si se
+			utilizan tres (03) páginas:
+
+
+- En la
+			primera página se consigna
+
+:
+
+1/3
+
+(Formato del
+			Anexo I).
+
+
+- En la
+			segunda página se consigna
+
+:
+
+2/3
+
+(Formato
+			del Anexo II).
+
+
+- En la
+			tercera página se consigna
+
+:
+
+3/3
+
+(Formato del
+			Anexo II).
+
+
+
+De la Sección 1 – Datos Generales
+
+
+1.1  Fecha
+
+
+ (dd/mm/aaaa)
+:
+
+ Se consigna el día, mes y año de la intervención.
+
+
+
+			Ejemplo: 04/04/2008
+
+
+
+			1.2  Hora
+
+
+ (00:00)
+:
+
+Se consigna la hora en que se produce la intervención.
+
+
+
+			Ejemplo: 14:30 hrs
+.
+
+
+
+1.3  Acción:
+
+			Se consigna el código de la acción de control o fiscalización, según
+			la clasificación impresa al reverso del “Acta de Inmovilización –
+			Incautación”.
+
+
+
+			Ejemplo: 02
+
+
+
+
+			(
+control
+
+
+concurrente durante el despacho aduanero)
+
+
+
+
+1.4  Lugar de la Intervención:
+
+
+ Se consigna la dirección y/o el
+
+
+			lugar
+
+
+donde se ejecuta la intervención.
+
+
+
+
+Ejemplos:
+
+
+			-
+
+
+C.C.‘’El
+			Hueco’’, Av. Nicolás de Piérola Nº 145 – Lima, puesto B-5.
+
+
+			-
+
+
+Km 205,
+			localidad de Ocucaje.
+
+
+-
+
+
+Terminal de
+			Almacenamiento ‘’Tramarsa’’ - Av.
+
+			Néstor Gambeta km 3.6 – Callao.
+
+
+
+1.5 Nombre de la Intervención:
+
+ Se utiliza para la acción con código 06 (acciones operativas) o de ser
+			necesario.
+
+
+
+Ejemplo: “Tormenta”
+
+
+
+			De la sección 2 – Identificación del intervenido o responsable de
+			las mercancías
+
+
+			2.1  Forma de identificación:
+
+ Se consigna el código que corresponde a la forma de identificación del
+			intervenido,
+  según
+
+ la
+
+
+
+
+
+ clasificación impresa al reverso del “Acta de Inmovilización –
+			Incautación”.
+
+
+
+Ejemplo: 03
+
+ (Dijo Llamarse)
+
+
+
+			Si el intervenido carece de documentos de identidad pero proporciona
+			sus nombres, se consigna el código 03 “Dijo Llamarse”,
+
+
+con el fin de
+ evitar que el
+			servidor aduanero acepte como válidos los nombres y apellidos que
+			den los intervenidos de manera verbal, sin que se haya corroborado
+			con el documento de identidad correspondiente.
+
+
+
+			Ejemplo:  04
+
+
+
+
+			(En Abandono)
+
+
+			De no presentarse el propietario o responsable de las mercancías
+			objeto de la infracción, se consigna el código 04 “En Abandono”
+,
+
+ pudiendo un testigo suscribir el acta.
+
+
+
+
+2.2
+			Tipo de persona:
+
+ Se consigna el código que corresponde a la condición del intervenido,
+			según la clasificación impresa al reverso del “Acta de
+			Inmovilización – Incautación”, y otras que se encuentren
+			determinadas en el Módulo SIGEDA.
+
+
+
+
+
+Ejemplo: 01
+(Representante de la empresa)
+
+
+
+
+
+2.3     Apellidos y
+			Nombres:
+
+ Se consignan los apellidos y nombres de la
+
+
+persona intervenida, conforme a la información registrada en el
+			documento de identidad presentado.
+
+
+
+
+
+			En la sección 8 (observaciones) se precisa si la persona que se
+			consigna, firma como testigo.
+
+
+
+
+
+			De las intervenciones efectuadas en zona primaria
+
+
+
+
+
+			S
+i el consignatario o declarante cuenta con Registro Único de
+			Contribuyente (RUC), sus datos se consignan en la sección 2.7 y 2.8;
+			y de estar presente el dueño o representante de la empresa, sus
+			datos se anotan en las secciones 2.3, 2.4, 2.5 y 2.6. Asimismo, el
+			representante de la agencia de aduanas responsable del despacho,
+			concesionario postal o terminal de almacenamiento, consigna sus
+			nombres y apellidos y luego firma en la sección 11.
+
+
+
+
+
+			2.4
+
+
+Tipo de Documento:
+
+ Se consigna el código que corresponde al
+
+
+documento de identidad, según la clasificación impresa al
+			reverso del “Acta de Inmovilización – Incautación”, y otras que se
+			encuentren determinadas en el Módulo SIGEDA.
+
+
+
+
+
+			Ejemplo
+:
+
+06
+ (Pasaporte).
+
+
+
+
+
+
+			2.5      Número de Documento de Identidad:
+
+ Se consigna el número del documento de identidad.
+
+
+
+
+
+			2.6
+
+
+Domicilio:
+
+ Se consigna el domicilio de la persona intervenida, el que se obtiene
+			de la documentación presentada, por declaración del intervenido o de
+			los registros informáticos de la SUNAT.
+
+
+
+
+
+			2.7
+
+
+Nombre / Razón Social:
+
+ Se consigna el nombre de la persona natural o jurídica que tenga
+			relación con la intervención, así como el remitente o consignatario
+			de la encomienda o envió postal.
+
+
+
+
+
+			2.8
+
+
+RUC:
+
+ Se
+			consigna, en caso la persona natural o jurídica cuente con dicho
+			registro de identificación.
+
+
+
+			Llenado de la Sección 03 – Datos del Transporte
+
+
+			3.1
+
+
+
+
+
+			Empresa Transportista:
+
+
+			Se consigna el nombre de la persona natural o jurídica, propietaria
+			o responsable del medio de transporte intervenido.
+
+
+			3.2
+
+
+
+			Tipo de Vehículo:
+
+			Se consigna el código que corresponde al tipo
+
+
+de vehículo, según la clasificación impresa al reverso del
+			“Acta de Inmovilización – Incautación”, y otras que se encuentren
+			determinadas en el Módulo SIGEDA.
+
+
+			Ejemplo:
+
+
+01
+
+
+			(Ómnibus)
+
+
+
+			3.3
+
+
+
+			Matrícula:
+ Se
+			consigna la placa de rodaje o registro del vehículo intervenido;
+			tratándose de naves, se consigna el nombre y número de matrícula, en
+			caso no se aprecie tal información, en la sección 8 (observaciones)
+			se describe las características del vehículo o nave.
+
+
+
+			3.4
+
+
+
+
+			Manifiesto:
+
+ Se consigna el número del manifiesto presentado por el transportista;
+			al momento del arribo de la nave o en la intervención.
+
+
+			3.5
+
+
+
+			Procedencia / Destino:
+
+ Se consigna la procedencia y el destino del vehículo intervenido.
+
+
+
+
+			3.6
+
+
+
+
+
+			Documento de Transporte:
+
+			Se consigna el número del conocimiento de embarque, guía aérea,
+			carta porte o guía de remisión.
+
+
+
+			Llenado de la Sección 04 – Datos del Despacho Aduanero
+
+
+			4.1
+
+
+
+			Régimen, Operación Aduanera o Destino Aduanero Especial o de
+			Excepción:
+
+ Se consigna el régimen, operación
+
+
+
+ aduanera o destino aduanero especial de excepción al que se encuentra
+			sometida la mercancía controlada o fiscalizada.
+
+
+			4.2
+
+
+
+			Número de Declaración:
+
+			Se consigna el número de la Declaración de Aduanas.
+
+
+			4.3
+
+    F
+echa:
+
+			Se consigna la fecha de numeración de la Declaración
+
+
+
+ de Aduanas.
+
+
+
+
+
+Llenado de la Sección 05 – Fundamentos de Hecho
+
+
+
+			Se precisan los hechos que justifican la generación del “Acta de
+			Inmovilización - Incautación”.
+
+
+
+
+Llenado de la Sección 06 – Fundamentos de Derecho
+
+
+
+			Se precisa la base legal que sustenta la generación del “Acta de
+			Inmovilización - Incautación”. En los casos que corresponda, se
+			mencionan las normas cuya aplicación es concordante.
+
+
+
+
+Llenado de la Sección 07 – Descripción de los Bienes
+
+
+
+7.1
+
+
+
+
+			Número de orden:
+
+ Numeración correlativa que corresponde a
+
+
+cada una de las mercancías descritas.
+
+
+
+7.2
+
+
+
+
+			Cantidad:
+
+ Se precisa con números, la cantidad de mercancías y bienes objeto de
+			la inmovilización o incautación.
+
+
+
+			7.3
+
+
+Unidad de Medida:
+
+ Se consigna el código que corresponde al tipo de la unidad de medida
+			empleada para describir el volumen, peso, cantidad, etc. de la
+			mercancía, según la clasificación impresa al reverso del “Acta de
+			Inmovilización – Incautación”, y otras que se encuentren
+			determinadas en el Módulo SIGEDA.
+
+
+			Ejemplo: 2U
+
+ (par)
+
+
+
+
+			7.4
+
+
+ Descripción:
+
+			Se
+
+
+			 consigna las características de la mercancía (tipo, código, marca,
+			modelo, número de serie, origen, descripción del material
+
+
+predominante
+			que la compone); así como su estado, condición u otra información
+			adicional si es necesario.
+
+
+
+
+
+También
+			se consigna en el presente rubro las licencias de conducir, llaves
+			de contacto del vehículo u otros efectos incautados en aplicación de
+			la Ley de los Delitos Aduaneros.
+
+
+			7.5
+
+
+
+			Observaciones:
+
+			Se consigna toda señal o referencia que consta en la documentación
+			exhibida o en la mercancía y que sirve para evidenciar su
+			procedencia y/o tenencia ilícita.
+
+
+
+			Llenado de la Sección 08 - Observaciones
+
+
+
+
+			Se deja constancia de las situaciones suscitadas durante la
+			intervención y que no han sido consignadas en otras secciones del
+			formato del “Acta Inmovilización – Incautación”.
+
+
+
+
+
+Llenado de la Sección 09 –
+			Servidor aduanero
+
+
+
+El personal
+			autorizado que dispuso la medida de inmovilización o incautación,
+			consigna su registro SUNAT y firma en el “Acta de Inmovilización –
+			Incautación”, así como en las “Hojas Adicionales para Descripción de
+			Bienes “ que se hayan utilizado.
+
+
+
+
+
+
+
+Llenado de la Sección
+			10 – Ministerio Público
+
+
+
+Si el
+			Fiscal participa en la acción de control o fiscalización, dicho
+			funcionario firma y sella el “Acta de Inmovilización – Incautación”
+			y en las “Hojas Adicionales para Descripción de Bienes” que se hayan
+			utilizado.
+
+
+
+
+
+
+
+			Llenado de la Sección 11 – Intervenido o Responsable
+
+
+			-
+
+
+El intervenido
+			firma el “Acta de Inmovilización – Incautación” y las “Hojas
+			Adicionales para Descripción de Bienes” e imprime su huella digital
+			si la situación lo permite.
+
+
+			-
+
+
+En caso se
+			negara a firmar se deja constancia del hecho.
+
+
+			-
+
+
+Si es
+			analfabeto, imprime su huella digital.
+
+
+			-
+
+
+Si es menor de
+			edad se deja constancia de su condición.
+
+
+			-
+
+
+Si el
+			responsable de los bienes es el representante de una agencia de
+			aduanas, despachador oficial, agencia marítima o almacén aduanero,
+			firma consignando su número de carné y/o DNI, y la razón social de
+
+
+la agencia o empresa que representa.
+
+
+			-
+
+
+Cuando una
+			persona firma como testigo, al lado se escribe la palabra
+			“testigo”.
+
+
+			Llenado de la Sección 12 – Entrega de Mercancías al Almacén
+
+
+			12.1
+
+
+Fecha y Hora:
+
+ Se consigna la fecha y la hora de entrega de las mercancías al
+			almacén.
+
+
+
+			12.2
+
+
+Número de Documento de Recepción:
+
+ Si es elaborado por el Almacén al momento de la recepción, se consigna
+			su numeración.
+
+
+			12.3
+
+
+Nombre, Registro y Firma de Servidor que Entrega:
+
+			El servidor aduanero que efectúa la entrega de las mercancías
+			consigna su nombre, registro y firma en señal de conformidad. Si
+			tiene observaciones de algún ítem del “Acta de Inmovilización –
+			Incautación”, se elabora el “Acta Observación de Entrega de
+			Mercancías al Almacén”, en donde se deja constancia de la incidencia
+			detectada.
+
+
+
+			12.4
+
+
+Nombre, Registro y Firma del Personal que Recibe:
+
+			El servidor aduanero o personal encargado que recibe las mercancías,
+			consigna su nombre, registro y firma. Si tiene observaciones de
+			algún ítem del “Acta de Inmovilización – Incautación”, se actúa
+			conforme lo establece el numeral precedente.
+
+
+			12.5
+
+
+Con Observación:
+
+			De elaborarse el
+
+“Acta
+			Observación de Entrega de Mercancías al Almacén”, se marca con una
+			“X” el recuadro que corresponde al “Sí”, caso contrario se marca el
+			recuadro que corresponde al “No”.
+
+
+
+			De su distribución luego de generada el Acta
+
+
+
+			Se efectúa de la siguiente manera:
+
+
+
+
+			Original      :
+
+ Oficina de oficiales o unidad orgánica que genera el acta;
+
+
+			1era. copia:
+
+ Intervenido o responsable de las mercancías o bienes;
+
+
+			2da. copia  :
+
+ Ministerio Público cuando participe, en caso contrario se adjunta al
+			original;
+
+
+			3era. copia:
+
+ Almacén
+
+
+			aduanero de la circunscripción;
+
+
+
+
+
+
+
+
+
+			4ta.
+
+
+copia
+
+
+:
+
+Terminal
+			de almacenamiento, depósito aduanero autorizado u otros cuando
+
+
+
+participe, en caso contrario se adjunta a
+l
+
+			 original.
+
+
+			B) Del “Acta de Observaciones de
+
+
+			Entrega de Mercancías al Almacén”
+
+
+
+			Se genera al existir discrepancia respecto a la descripción
+			consignada en el “Acta de Inmovilización – Incautación”, con
+			relación a la mercancía que se está entregando al Almacén. El “Acta
+			de Observaciones de
+
+
+			Entrega de Mercancías al Almacén” se elabora en original y copia, se
+			adjunta el original al “Acta de Inmovilización – Incautación” que
+			originó su elaboración y la copia se entrega al responsable de la
+			recepción. Su llenado se realiza conforme al formato que se detalla
+			en el Anexo III del presente instructivo.
+
+
+			Corroboración de la información
+
+
+
+			El servidor encargado de la entrega de las mercancías y el personal
+
+
+encargado de su recepción corrobora y valida la información
+			contenida en las
+
+“Actas
+			de Inmovilización – Incautación”, y “Actas de Observaciones de
+
+
+Entrega de Mercancías al Almacén” generadas y entregadas al
+			almacén de la SUNAT, la cual debe coincidir con la información del
+			acta emitida por el almacén.
+
+
+
+
+			C
+)
+			Del registro de las “Actas de Inmovilización–Incautación” en el
+
+
+			Módulo SIGEDA
+
+
+			C1) Responsables del ingreso de las “Actas de Inmovilización -
+			Incautación”
+
+
+
+			 Ingreso de actas elaboradas por la SUNAT
+
+
+
+			1.
+
+
+Los intendentes de aduana designan con memorándum electrónico,
+			al servidor aduanero responsable de registrar en el Módulo SIGEDA
+			las “Actas de Inmovilización - Incautación” generadas.
+
+
+			2.
+
+
+Los jefes de las oficinas de oficiales de aduanas y demás
+			unidades orgánicas, en coordinación con el servidor aduanero
+			designado y cuando la situación lo amerite, delegan bajo su
+			supervisión esta responsabilidad en otros servidores, a fin de
+			mantener el Módulo SIGEDA actualizado.
+.
+
+
+			3.
+
+El
+			servidor aduanero responsable, designado por la intendencia de
+			aduana, es el encargado de formular consultas sobre el Módulo SIGEDA
+			al coordinador del Módulo SIGEDA de la IPCF.
+
+
+
+			De existir en una oficina de oficiales de aduana o unidad orgánica,
+			más de un servidor responsable del ingreso de las “Actas de
+			Inmovilización – Incautación” al Módulo SIGEDA, se designa con
+			memorándum electrónico al responsable de dicho grupo.
+
+
+			Ingreso de actas elaboradas por otras instituciones
+
+
+
+			4.
+
+L
+a
+			Gerencia de Almacenes y los almacenes de las intendencias de aduana,
+			designan con memorándum electrónico al servidor aduanero responsable
+			de registrar las actas de incautación o documentos similares,
+			elaborados por otras instituciones en el Módulo SIGEDA.
+
+
+			5.
+
+
+Estos documentos se identifican y registran con el código de
+			acción: 99 “Otros”
+
+
+			Funciones de los responsables de registrar la información al Módulo
+			SIGEDA
+
+
+
+			Son las siguientes:
+
+
+			-
+
+Registrar
+			los datos generales de las acciones de control u operativas que se
+			ejecuten; la citada información se ingresa a la opción: “Acciones”
+			del Módulo SIGEDA, cuando corresponda.
+
+
+			-
+
+
+
+			Registrar la información contenida en las “Actas de Inmovilización –
+			Incautación”.
+
+
+			-
+
+
+
+			Registrar la información contenida en las “Acta de Observación de
+			Entrega de Mercancías al Almacén”.
+
+
+			-
+
+
+
+			Efectuar el seguimiento periódico de las mercancías inmovilizadas e
+			incautadas, sin solicitudes de levantamiento o devolución de
+			mercancías, remitiendo dicha información a las jefaturas de las
+			oficinas de oficiales y unidades orgánicas que las generaron para
+			que dispongan las medidas que correspondan.
+
+
+"Texto Eliminado"
+
+		  (RIN-049-2016-01.04.2017)
+
+
+			F) Archivamiento, Anulación, Pérdida, Robo o Destrucción
+
+
+
+			Archivamiento
+
+
+
+			Una vez culminada la entrega de las mercancías inmovilizadas o
+			incautadas a los almacenes, el acta original es entregada a la
+			jefatura de la oficina de oficiales o de las unidades orgánicas para
+			la determinación de las sanciones que correspondan y su posterior
+			archivamiento.
+
+
+Anulación
+
+
+
+			Cuando sea necesario, procede la anulación de las actas bajo
+			responsabilidad del servidor aduanero que la suscribe, anotándose la
+			palabra “Anulada”, así como la fecha y la hora del acto. Si el
+			representante del Ministerio Público participa en la acción de
+			control o fiscalización, el acta también es suscrita por el citado
+			funcionario.
+
+
+			Posteriormente el servidor aduanero que anula el acta, elabora un
+			informe dirigido a su jefe inmediato, sustentando su decisión,
+			adjuntando el original y todas las copias del acta anulada para su
+			archivamiento y registro en el
+
+
+			SIGEDA.
+
+
+			Pérdida, Robo o Destrucción
+
+
+
+			En caso de pérdida o robo de los formatos en blanco o de las “Actas
+			de Inmovilización – Incautación” generadas, se presenta la denuncia
+			correspondiente ante la delegación policial de la jurisdicción donde
+			ocurrieron los hechos dentro del plazo de veinticuatro (24) horas de
+			producido el hecho; posteriormente se elabora un informe dirigido a
+			la jefatura de la oficina de oficiales o de la unidad orgánica. El
+			mismo procedimiento se sigue cuando la destrucción de los formatos
+			es causada por los intervenidos.
+
+
+			G) Del seguimiento y actualización en el Módulo del SIGEDA de las
+			“Actas de Inmovilización – Incautación”.
+
+
+
+			El servidor aduanero designado para evaluar la solicitud de
+			devolución de mercancías, solicitud de levantamiento de
+			inmovilización, recurso impugnatorio vinculado al “Acta de
+			Inmovilización – Incautación” o de un acta elaborada por otra
+			institución, es responsable de:
+
+
+			1.
+
+
+Registrar la información del expediente presentado, dentro de
+			los dos (02) días hábiles siguientes de su recepción.
+
+
+			2.
+
+
+Registrar las resoluciones, y demás documentos que se generen
+			como resultado de la evaluación del expediente presentado, dentro de
+			un plazo de dos (02) días hábiles siguientes de generadas, en el
+			mismo plazo las liquidaciones de cobranzas se registran en la opción
+			“Actas / Seguimiento de Documentos”.
+
+
+
+
+			Seguimiento de las “Actas de Inmovilización – Incautación" que no
+			registran solicitudes de levantamiento de inmovilización o
+			devolución de mercancías
+
+
+
+			3.
+
+
+El Jefe de Oficiales de Aduana o de la unidad orgánica que
+			dispuso la medida de inmovilización o incautación, designa a la
+			persona responsable de proyectar el informe y
+
+
+resolución para la aplicación de sanciones a aquellas “Actas de
+			Inmovilización – Incautación” que no cuenten con solicitudes de
+			levantamiento de inmovilización o devolución de mercancías; debiendo
+			registrar dicha información (informes, resoluciones, liquidaciones
+			de cobranzas, etc.) en el Módulo SIGEDA en un plazo no mayor de dos
+			(02) días hábiles siguientes de generados.
+
+
+			H)
+
+
+Control del Módulo SIGEDA
+
+
+			1.
+
+
+La IPCF designa mediante memorándum electrónico al coordinador
+			del Módulo SIGEDA, quien lleva el control a nivel nacional de la
+			información ingresada por las intendencias de aduana, para lo cual
+			efectúa coordinaciones con otras dependencias de la SUNAT que
+			garanticen su buen funcionamiento así como para implementar las
+			acciones correctivas y preventivas que el caso amerite.
+
+
+			2.
+
+
+Son funciones asignadas al coordinador del Módulo SIGEDA de la
+			IPCF,
+
+las siguientes:
+
+
+			a)
+
+
+Actualizar anualmente o en caso se requiera, las tablas de las
+			unidades orgánicas y puestos de control a nivel nacional.
+
+
+			b)
+
+
+Verificar la entrega de accesos al Módulo SIGEDA a nivel
+			nacional en coordinación con la INSI.
+
+
+			c)
+
+
+Actuar como coordinador del personal responsable del Módulo
+			SIGEDA de cada Intendencia de Aduana, recibir las propuestas de
+			mejora del módulo, canalizar las modificaciones y mejoras que
+			permitan su optimización; derivándolas a la INSI para su ejecución e
+			implementación.
+
+
+			d)
+
+
+Coordinar los requerimientos y aprobación de los ejecutables
+			dirigidos a los usuarios finales.
+
+
+			e)
+
+
+Consolidar la información estadística a nivel nacional, con la
+			remitida en los cuadros mensuales por las intendencias de aduana.
+
+
+			f)
+
+
+Emitir los reportes estadísticos consolidados con la
+			información oficial, de requerirse.
+
+
+			g)
+
+
+Coordinar la capacitación y actualización del personal
+			responsable del ingreso de la información al Módulo SIGEDA; en
+			coordinación con la dependencia de la SUNAT correspondiente.
+
+
+			h)
+
+
+Llevar el control del personal responsable del ingreso de la
+			información al Módulo SIGEDA.
+
+
+			I ) Asignación de códigos de acceso para
+
+el Módulo SIGEDA
+
+
+
+			El código de acceso es proporcionado por la INSI en coordinación con
+			el coordinador del Módulo SIGEDA de cada Intendencia, dicho código
+			es personal e intransferible, su uso inadecuado genera
+			responsabilidad.
+
+
+La información que reporta el
+			Módulo SIGEDA es de uso exclusivo de la SUNAT.
+
+
+			VII.
+
+
+FLUJOGRAMA
+
+
+
+
+No aplica.
+
+
+
+VIII.
+
+
+INFRACCIONES, SANCIONES Y DELITOS
+
+
+
+			Las infracciones administrativas previstas en la Ley General de
+			Aduanas y en la Ley de los Delitos Aduaneros.
+
+
+
+IX.
+
+
+REGISTROS
+
+
+
+
+
+-“Actas de Inmovilización –Incautación”: generadas y anuladas.
+
+
+
+
+			- Informes de las “Actas de Inmovilización-Incautación”: anuladas,
+			perdidas, robadas y/o destruidas.
+
+
+
+			X.
+
+
+ANEXOS
+
+
+
+"Anexo I y II derogados"
+
+(RS_204-2020-SUNAT-09.12.2020
+)
+
+
+III.
+
+
+
+Formato del
+
+“Acta Observación de Entrega de Mercancías al Almacén
+”

@@ -1,0 +1,779 @@
+Procedimientos de Recaudación
+
+
+RECAUDACIÓN
+
+
+PROCEDIMIENTO ESPECÍFICO
+
+RECA-PE.03.07:
+BUENOS CONTRIBUYENTES
+
+
+ <-- Retroceder
+
+
+
+
+
+Proc:
+
+
+REC
+A-PE.03.07
+
+
+(
+antes IFGRA-PE.14)
+
+
+BUENOS
+						CONTRIBUYENTES
+
+
+Versión:
+
+ 3
+
+
+Publicación:
+
+ 25/03/2006
+
+
+Resolución:
+ 000156
+
+
+Fecha Res.:
+  23/03/2006
+
+
+Vigencia:
+ 26/03/2006
+
+
+
+Lista:
+
+
+Maestra
+
+
+Circulares Anexas
+
+
+Control de Cambios
+
+
+
+
+
+
+I.
+
+
+OBJETIVO
+
+
+Establecer pautas para la
+ calificación, control y exclusión de los buenos contribuyentes en
+ los regímenes de admisión temporal e importación temporal.
+
+
+II.
+
+
+ALCANCE
+
+
+Está
+ dirigido a la Intendencia de Fiscalización y Gestión de Recaudación
+ Aduanera,
+intendencias
+ de aduana de la república
+
+ y a los beneficiarios de los regímenes de admisión temporal e
+ importación temporal.
+
+
+III.
+
+
+RESPONSABILIDAD
+
+
+La
+ aplicación y el cumplimiento de lo establecido en el presente
+ procedimiento es de responsabilidad del Intendente de Fiscalización y
+ Gestión de Recaudación Aduanera, Intendencia Nacional de
+ Cumplimiento Tributario, Intendencia Nacional Jurídica, Intendentes
+ de Aduanas, los jefes de las áreas encargadas de los regímenes de
+ admisión temporal e importación temporal de las intendencias de
+ aduanas de la república y demás personal que interviene en este
+ procedimiento.
+
+
+El Intendente Nacional de Sistemas
+ de Información se encarga de viabilizar la implementación,
+ mantenimiento y actualización de los módulos que sirvan de soporte
+ al presente procedimiento.
+
+
+IV.
+
+
+VIGENCIA
+
+
+A partir del día
+ siguiente de su publicación en el Diario Oficial El Peruano.
+
+
+V.
+
+
+BASE
+ LEGAL
+
+
+Ley del Procedimiento Administrativo General,
+
+
+Ley N° 27444, publicada el 11.04.2001 y sus modificatorias.
+
+
+Ley de Títulos y Valores,
+
+
+Ley N° 27287, publicada el 19.06.2000, y sus modificatorias.
+
+
+Texto Único Ordenado de la Ley General de Aduanas, aprobado
+ por Decreto Supremo N° 129-2004-EF, publicado el 12.09.2004.
+
+
+Reglamento de la Ley General de Aduanas, aprobado por Decreto
+ Supremo N° 011-2005-EF, publicado el 26.01.2005.
+
+
+Tabla de Sanciones aplicables a las infracciones previstas en
+ la Ley General de Aduanas, aprobada por Decreto Supremo N°
+ 013-2005-EF,
+
+publicado el
+ 28.01.2005.
+
+
+Régimen de Buenos Contribuyentes, aprobado por Decreto
+ Legislativo N° 912, publicado el 09.04.2001.
+
+
+Modifican Normas Reglamentarias del Régimen de Buenos
+ Contribuyentes, aprobado por Decreto Supremo N° 105-2003-EF publicado
+ el 25.07.2003.
+
+
+Normas que regulan la calificación dentro del Régimen de
+ Buenos Contribuyentes de los beneficiarios de los Regímenes de
+ Importación Temporal y/o Admisión Temporal, aprobado por Decreto
+ Supremo N° 191-2005-EF, publicado el 31.12.2005.
+
+
+VI.
+
+
+NORMAS GENERALES
+
+
+1.
+
+Los beneficiarios de los regímenes de admisión temporal e
+ importación temporal que califiquen como buenos contribuyentes pueden
+ garantizar sus obligaciones mediante carta compromiso, adjuntando el
+ pagaré correspondiente, de acuerdo a los anexos 1 y 2. Dicha
+ calificación implica la incorporación dentro del Régimen del
+ beneficiario de importación y/o admisión temporal
+
+
+2.
+
+El control de los porcentajes de los derechos arancelarios e
+ impuestos respectivos y cuando corresponda, a los derechos antidumping
+ o compensatorios suspendidos, e interés compensatorio, que pueden ser
+ garantizados con carta compromiso y pagaré, así como la custodia y
+ ejecución de dichas garantías cuando corresponda, es de
+ responsabilidad de las intendencias de aduana de la república.
+
+
+3.
+
+Los requisitos para ser calificado como buen contribuyente de
+ los regímenes de admisión temporal e importación temporal son:
+
+
+a)
+
+En caso de personas naturales, no encontrarse en cualquiera de
+ las siguientes situaciones:
+
+
+i.
+
+
+Comprendidas en procesos en trámite por delito tributario o
+ aduanero;
+
+
+ii.
+
+
+Tengan sentencia condenatoria que esté vigente por delito
+ tributario o aduanero;
+
+
+iii.
+
+
+Sean responsables solidarios de las empresas o entidades a que
+ se refiere el inciso b) del presente numeral, respecto de deudas
+ vinculadas al delito tributario o aduanero.
+
+
+b)
+
+En caso de personas jurídicas, cuando por su intermedio no se
+ hayan realizado hechos que:
+
+
+i.
+
+
+Sean materia de procesos en trámite por delito tributario o
+ aduanero, siempre que las personas involucradas tengan o hubieran
+ tenido poder de decisión sobre aquéllas.
+
+
+ii.
+
+
+Originaron la emisión de una sentencia condenatoria que esté
+ vigente por delito tributario o aduanero, siempre que las personas
+ involucradas tengan o hubieran tenido poder de decisión sobre aquéllas.
+
+
+c)
+
+No estar comprendido en un procedimiento concursal, quiebra o
+ liquidación;
+
+
+d)
+
+No tener la condición de domicilio fiscal no habido o la
+ condición de domicilio fiscal no hallado en el RUC (Registro Único
+ de Contribuyentes);
+
+
+e)
+
+No tener deuda exigible ante la Superintendencia Nacional de
+ Administración Tributaria (SUNAT);
+
+
+f)
+
+
+No tener cuotas vencidas y pendientes de pago de
+ fraccionamientos que según sus propias normas impiden la calificación
+ de buen contribuyente o tener resolución firme de pérdida de
+ fraccionamiento en los doce (12) meses anteriores a la calificación;
+
+
+g)
+
+No haber sido excluido de la calificación de buen
+ contribuyente, regulada por la Ley General de Aduanas, en los doce
+ (12) meses anteriores a la fecha de presentación de la solicitud;
+
+
+h)
+
+Tener activa la inscripción en el RUC;
+
+
+i)
+
+Haber regularizado sus Declaraciones Únicas de Aduana (DUAs)
+ dentro de los plazos autorizados respecto de los regímenes de admisión
+ temporal e importación temporal, en los doce (12) meses anteriores a
+ la fecha de calificación;
+
+
+j)
+
+No haber sido sancionado con multa por la autoridad aduanera
+
+
+en los doce (12) meses anteriores a la fecha de calificación,
+ por la comisión de infracción en los regímenes de admisión
+ temporal e importación temporal, previsto en los numerales 1), 3),
+ 7), 8),
+
+9), 11) y 12), inciso e) y numerales 1), 2) y 3), inciso i)
+ del artículo 103° de la Ley General de Aduanas conforme a la
+Tabla
+ de Sanciones aplicables a las infracciones aprobada por Decreto
+ Supremo Nº 013-2005-EF
+.
+ No se consideran aquellas multas firmes cuyo monto acumulado haya sido
+ menor o igual a una (01) Unidad Impositiva Tributaria (UIT) vigente a
+ la fecha de la solicitud;
+
+
+No
+ se debe tomar en cuenta para la calificación de buen contribuyente,
+ las infracciones sujetas a sanción en los regímenes de admisión
+ temporal e importación temporal, cuya resolución no se encuentre
+ firme.
+
+
+Se
+ considera
+como
+ resolución firme aquella que
+
+contiene
+ una multa cancelada y no reclamada,
+
+
+una multa no cancelada y no reclamada o
+
+
+una multa ratificada por Resolución del Tribunal Fiscal.
+
+
+k)
+
+
+Registrar dos (02) o más Declaraciones Únicas de Aduana
+ (DUAs) en los regímenes de admisión temporal y/o importación
+ temporal cuyo vencimiento se haya producido dentro de los doce (12)
+ meses anteriores a la fecha de la presentación de la solicitud.
+
+
+4.
+
+Las garantías presentadas por los buenos contribuyentes con
+ anterioridad a la vigencia del Decreto Supremo N° 191-2005-EF se
+ deben mantener en respaldo del régimen hasta su culminación.
+
+
+5.
+
+Son causales de exclusión de la calificación como buen
+ contribuyente, el incumplimiento de alguno de los requisitos previstos
+ en el numeral 3 del
+
+Rubro
+ VI Normas Generales del presente procedimiento con excepción del
+ inciso k), así como la comisión de infracciones previstas para los
+ regímenes de admisión e importación temporal si quedaran firmes.
+ Para la verificación de los requisitos previstos en los incisos f),
+ g), i) y j) del numeral 3 del Rubro VI Normas Generales del presente
+ procedimiento no se considera el plazo previsto en ellos.
+
+
+Aprobada
+ la exclusión de la calificación como buen contribuyente, las garantías
+ presentadas deben seguir respaldando las obligaciones del régimen
+ hasta su culminación.
+
+
+En ningún
+ caso la carta compromiso y pagaré puede exceder el 150% del
+ promedio del monto de las garantías en los doce (12) meses
+ anteriores a la presentación de la declaración de admisión
+ temporal o importación temporal o en el período previo a la
+ calificación, el que sea más alto.
+
+
+En
+ el caso de que exista excedente la diferencia deberá ser respaldada
+ mediante cualquiera de las otras modalidades de garantías aceptadas
+ por el artículo 18° del Reglamento de la Ley General de Aduanas.
+
+
+La
+ calificación de buen contribuyente se otorga para ambos regímenes
+ y tiene una vigencia indeterminada, salvo que el beneficiario del
+ régimen incurra en alguna de las causales de exclusión.
+
+
+8.
+
+
+Para el trámite de los despachos de admisión temporal e
+ importación temporal de los buenos contribuyentes, el personal
+ encargado de las intendencias de aduana de la república debe
+ consultar la situación de cada beneficiario en la opción “buenos
+ contribuyentes” del módulo de admisión temporal e importación
+ temporal.
+
+
+C
+onforme
+ a lo dispuesto en el artículo 15° del Decreto Supremo N°
+ 105-2003-EF, incorporado por el artículo 2° del Decreto Supremo
+ N° 191-2005-EF,
+
+ para determinar que el aval de uno o más socios representa una
+ participación conjunta del capital social igual o mayor al
+ veinticinco por ciento (25%), el beneficiario, de ser persona jurídica,
+ presenta el pagaré adjuntando los siguientes documentos:
+
+
+a)
+
+
+Copia de escritura de constitución social de la empresa.
+
+
+b)
+
+
+Copia del último testimonio inscrito en los Registros Públicos
+ sobre aumento o reducción de capital, de corresponder.
+
+
+El
+ beneficiario presenta por única vez dichos documentos en la
+ Intendencia de Aduana de despacho de las mercancías. En caso de haber
+ variaciones en el capital social, el beneficiario debe acreditar tal
+ situación en la dependencia mencionada.
+
+
+VII.
+
+
+DESCRIPCION
+
+
+Ingreso
+ de la Solicitud
+
+
+El
+ beneficiario de los regímenes de importación temporal y/o admisión
+ temporal, presenta su solicitud, con carácter de declaración
+ jurada (Anexo 3) en la oficina de trámite documentario de la Sede
+ Chucuito.
+
+
+La solicitud
+ debe contener:
+
+
+a)
+
+
+Razón social de la persona jurídica o nombre de la persona
+ natural, según corresponda.
+
+
+b)
+
+
+Número de RUC o
+
+Documento
+ Nacional de Identidad (DNI), según corresponda.
+
+
+c)
+
+
+Domicilio fiscal.
+
+
+d)
+
+
+Dirección electrónica.
+
+
+e)
+
+
+Tratándose de personas jurídicas el nombre del representante
+ legal
+y
+ datos de su inscripción en Registros Públicos (número de asiento,
+ ficha, partida)
+.
+
+
+f)
+
+
+Firma y sello del solicitante o representante legal de la
+ empresa.
+
+
+Evaluación
+
+
+2.
+
+El personal encargado de la evaluación de la solicitud en la
+ División de Control de Recaudación
+,
+
+ verifica si ésta cumple con los requisitos formales.
+
+
+Si la
+ solicitud presentada no está conforme o no cumple con los
+ requisitos, el evaluador notifica al solicitante para que en el
+ plazo de diez (10) días hábiles subsane las observaciones,
+ quedando suspendido el plazo de calificación. De no efectuarse la
+ subsanación en el plazo legal se procede a declarar el abandono
+ del procedimiento.
+
+
+4.
+
+
+Estando conforme la solicitud, el evaluador ingresa todos los
+ datos consignados en ésta, así como el número y fecha del
+ expediente en el módulo de buenos contribuyentes.
+
+
+Admitida y
+ registrada la solicitud se inicia el proceso de evaluación, el
+ cual consiste en verificar si el usuario cumple con los requisitos
+ establecidos en el numeral 3 del rubro VI Normas Generales de
+ presente procedimiento. El plazo para emitir pronunciamiento sobre
+ la procedencia de la calificación de buen contribuyente es de
+ veinte (20) días hábiles contados desde el día siguiente de la
+ presentación de la solicitud, vencido dicho plazo sin que se haya
+ emitido pronunciamiento, se debe entender por concedido el
+ beneficio.
+
+
+Concluido
+ el proceso de evaluación, el evaluador ingresa el resultado en el
+ módulo de buenos contribuyentes, emite el proyecto de resolución
+ y lo eleva con todos sus actuados al Jefe de la División de
+ Control de Recaudación para su conformidad y visación. Los
+ actuados deben contener:
+
+
+a)
+
+Informe técnico que evalúa la calificación del solicitante
+ como buen contribuyente; de ser procedente, establece el porcentaje
+ del monto promedio de las garantías otorgadas por el solicitante en
+ el período de evaluación, incluyéndolo en el proyecto de resolución.
+
+
+b)
+
+Reporte del SIGAD, sobre existencia de deuda exigible asociada
+ a tributos aduaneros.
+
+
+c)
+
+
+En caso de no obtener por sistemas los reportes se adjunta un
+ informe del SIGED sobre la verificación de los requisitos de los
+ incisos a), b), c), e) y f) del numeral 3 del Rubro VI Normas
+ Generales del presente procedimiento, vinculados a la Superintendencia
+ Nacional Adjunta de Tributos Internos e Intendencia Nacional Jurídica.
+
+
+d)
+
+Reportes de consulta vía el SIGAD o medios electrónicos que
+ acrediten la procedencia o improcedencia de la calificación, los
+ mismos que sustentan el informe técnico.
+
+
+Resolución
+
+
+7.
+
+El
+ proyecto de resolución, visado por el Jefe de la División de Control
+ de Recaudación, Gerente de Gestión de Recaudación Aduanera,
+ Intendente de Fiscalización y Gestión de Recaudación Aduanera y
+ Gerente Jurídico Aduanero, se eleva para la firma del Superintendente
+ Nacional Adjunto de Aduanas
+.
+
+
+8.
+
+
+El personal designado numera la resolución aprobada mediante
+ el sistema y notifica la resolución al solicitante.
+
+
+El
+ evaluador ingresa la información relativa a la resolución, en el
+ módulo de buenos contribuyentes.
+
+
+Control
+
+
+El
+ evaluador controla mensualmente si el beneficiario calificado como
+ buen contribuyente incumple algún requisito exigido para tal
+ calificación, de acuerdo al numeral 5 del rubro VI Normas
+ Generales del presente procedimiento.
+
+
+El
+ evaluador utiliza los módulos del SIGAD u otros medios para
+ realizar el
+
+control
+ mensual.
+
+
+E
+l
+ evaluador emite el informe técnico sobre el control realizado,
+ dentro del plazo de diez (10) días hábiles
+
+
+del mes siguiente evaluado.
+
+
+Exclusión
+
+
+Si
+ como resultado del control se determina que el beneficiario ha
+ incurrido en causal de exclusión de la calificación de buen
+ contribuyente se emite el proyecto de resolución respectivo,
+ adjuntando los documentos sustentatorios.
+
+
+14.
+
+
+El
+ proyecto de resolución, visado por el Jefe de la División de Control
+ de Recaudación, Gerente de Gestión de Recaudación Aduanera,
+ Intendente de Fiscalización y Gestión de Recaudación Aduanera y
+ Gerente Jurídico Aduanero, se eleva para la firma del Superintendente
+ Nacional Adjunto de Aduanas
+.
+
+
+15.
+
+
+El personal designado numera la resolución y la notifica
+
+
+al interesado.
+
+
+16.
+
+
+Una vez aprobada y notificada la resolución de exclusión
+de
+ la calificación de buen contribuyente
+,
+ el evaluador ingresa esta información en el módulo de buenos
+ contribuyentes.
+
+
+VIII.
+ FLUJOGRAMA
+
+
+
+
+Ver
+ documento
+
+
+IX.
+
+
+INFRACCIONES, SANCIONES Y DELITOS
+
+
+No
+ aplica
+
+
+X.
+
+
+REGISTROS
+
+
+-
+
+
+Registro de solicitudes de calificación y exclusión.
+
+
+Tipo
+ de almacenamiento: Magnético
+
+
+Tiempo
+ de conservación: Permanente
+
+
+Responsables:
+ Intendencia Nacional de Sistemas de Información / Intendencia de
+ Fiscalización y Gestión de Recaudación Aduanera / División de
+ Control de Recaudación
+
+
+XI.
+
+
+DEFINICIONES Y ABREVIATURAS
+
+
+SIGAD:
+ Sistema de Gestión Aduanera
+
+
+SIGED:
+ Sistema de Gestión Documentaria
+
+
+ANEXOS
+
+
+1.
+
+Modelo Carta Compromiso
+
+
+2.
+
+Modelo Pagaré
+
+ (
+
+RSNAA-0491-12.10.2006
+
+ )
+
+
+3.
+
+Modelo de Solicitud

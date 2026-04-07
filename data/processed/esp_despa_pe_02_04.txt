@@ -1,0 +1,290 @@
+Procedimientos - EXPORTACION DEFINITIVA
+
+
+EXPORTACION DEFINITIVA
+
+
+PROCEDIMIENTO ESPECIFICO:
+
+
+REVISIÓN DE CARGA CONGELADA, REFRIGERADA, FRESCA, CON
+CADENA DE FRÍO, DURANTE LA ACCIÓN DE CONTROL
+
+
+
+
+
+
+Proc:
+
+
+DESPA-PE.02.04
+
+
+						Revisión de carga congelada, refrigerada, fresca, con
+					  cadena de frío, durante la acción de control
+
+
+Versión:
+
+ 1
+
+
+Publicación:
+
+ 01/12/2016
+
+
+Resolución:
+
+ 47
+
+
+Fecha Res.:
+
+					  30/11/2016
+
+
+Vigencia:
+
+ 15/12/2016, excepto IA Salaverry e IA Pisco cuya
+					  vigencia rige el 01/01/2017
+
+
+
+Lista:
+
+
+ Maestra
+
+
+Circulares
+ Anexas
+
+
+Control de Cambios
+
+
+
+
+I.
+				OBJETIVO
+Establecer las pautas a seguir para la
+				ejecución de las acciones de control en la exportación
+				definitiva de mercancías perecibles de origen vegetal, a fin de
+				garantizar las condiciones de conservación o resguardo
+				fitosanitario.
+II. ALCANCE
+
+				Todas las dependencias de la Superintendencia Nacional de
+				Aduanas y de Administración Tributaria - SUNAT, los operadores
+				de comercio exterior, y los administradores o concesionarios de
+				los puertos y aeropuertos.
+III.
+				RESPONSABILIDAD
+La aplicación, cumplimiento y
+				seguimiento de lo establecido en el presente procedimiento es
+				responsabilidad del Intendente Nacional de Desarrollo
+				Estratégico Aduanero, del Intendente de Gestión y Control
+				Aduanero, de los intendentes de aduana de la República, las
+				jefaturas y del personal de las distintas unidades
+				organizacionales que participan en el presente procedimiento.
+
+
+IV. DEFINICIONES Y ABREVIATURAS
+
+				Para efectos del presente procedimiento se entiende como:
+
+
+Cadena de frío.
+A la secuencia o flujo que
+				se utiliza para conservar las mercancías perecibles, desde su
+				cosecha hasta su embarque, dentro de las condiciones requeridas
+				de temperatura y humedad, según cada tipo de producto, incluso
+				durante todo el proceso de exportación.
+
+				Inspección sanitaria.
+ Al conjunto de actividades de
+				prevención, tratamiento y control fitosanitario realizadas a
+				nivel nacional por el Servicio Nacional de Sanidad Agraria
+				-SENASA.
+Mercancía perecible.
+ A la
+				mercancía de origen vegetal cuyas condiciones óptimas tienen
+				poco tiempo de durabilidad hasta su consumo, y comprende a las
+				cargas congeladas, frescas, refrigeradas, con cadena de frío,
+				que requieren tratamiento fitosanitario, el mismo que consiste
+				en un procedimiento físico, químico o biológico, para eliminar,
+				reducir o retrasar la introducción o dispersión de plagas o
+				enfermedades de una zona de infestación endémica a una libre o
+				de baja infestación, de conformidad con lo dispuesto en las
+				Normas Internacionales para Medidas Fitosanitarias del producto.
+
+
+V. BASE LEGAL
+– Procedimiento
+				General “Exportación Definitiva”, INTA-PG.02.
+– Procedimiento
+				General “Acciones en caso de Tráfico Ilícito de Mercancías”,
+				INPCFA-PG.12.
+– Procedimiento Específico “Reconocimiento
+				Físico, Extracción y Análisis de Muestras”, INTA-PE.00.03.
+–
+				Procedimiento Específico “Control de Mercancías Restringidas y
+				Prohibidas”, INTA-PE.00.06.
+– Procedimiento General “Tránsito
+				Aduanero Internacional de Mercancías CAN - ALADI”, INTA-PG.27.
+
+
+VI. DISPOSICIONES GENERALES
+1.
+				Las acciones de control que ejecute la Administración Aduanera
+				no deben afectar las condiciones de conservación de las
+				mercancías perecibles ni de sus embalajes.
+2. Cuando se
+				ha dispuesto el reconocimiento físico y una acción de control
+				extraordinario sobre la misma mercancía, las intendencias de
+				aduana, en función de su capacidad operativa y de acuerdo a la
+				normatividad vigente, pueden disponer que el reconocimiento
+				físico y la acción de control extraordinario se realicen por un
+				mismo funcionario aduanero.
+3. El exportador o
+				despachador de aduana pueden solicitar la revisión conjunta
+				entre SUNAT y SENASA de las mercancías que hayan sido
+				seleccionadas para reconocimiento físico y que requieran de
+				inspección sanitaria, a través de la Ventanilla Única de
+				Comercio Exterior (VUCE).
+4. El depósito temporal debe
+				asegurar que su personal encargado de la estiba y desestiba de
+				las mercancías cuente con la indumentaria, equipos y
+				herramientas adecuados para el manipuleo, y que garanticen la
+				higiene asi como el cuidado de las mercancías.
+5. En lo
+				no previsto en este procedimiento y en tanto no se oponga a sus
+				disposiciones, corresponde la aplicación del procedimiento
+				general “Exportación Definitiva” INTA-PG.02, procedimiento
+				específico “Despacho Simplificado de Exportación” INTA-PE.02.01
+				y procedimiento específico “Reconocimiento Físico - Extracción y
+				Análisis de Muestras” INTA-PE.00.03.
+VII.
+				DESCRIPCIÓN
+A. DEL RECONOCIMIENTO FÍSICO
+
+
+1. El exportador o el despachador de aduana solicita la
+				revisión conjunta de las mercancías entre SUNAT y SENASA a
+				través de la VUCE, utilizando el Formato VUCE respectivo, en el
+				cual registra el número de la declaración aduanera de mercancías
+				(DAM) asignada a canal rojo.
+La programación de la
+				inspección sanitaria y el reconocimiento físico a realizarse en
+				forma conjunta se publica a través de la VUCE, la que puede ser
+				consultada por el exportador o el despachador de aduana.
+
+				2. El jefe del área del régimen de exportación definitiva o del
+				área de oficiales de aduana, o el funcionario aduanero designado
+				revisa en la VUCE la programación de las inspecciones sanitarias
+				del SENASA a fin que otorgue su conformidad y registre el nombre
+				del funcionario aduanero asignado para el reconocimiento físico
+				de cada DAM.
+3. Si la mercancía se encuentra en un
+				depósito temporal, y el funcionario aduanero, en coordinación
+				con SENASA, verifica que este no cuenta con las condiciones que
+				garanticen la conservación de las mercancías para la apertura
+				del bulto o contenedor, no realiza el reconocimiento físico;
+				salvo que el exportador solicite la continuación del despacho,
+				bajo su responsabilidad.
+4. El funcionario aduanero
+				designado realiza el reconocimiento físico de las mercancías
+				conforme a lo establecido en el procedimiento específico
+				“Reconocimiento Físico - Extracción y Análisis de Muestras”
+				INTA-PE.00.03.
+5. De encontrarse conforme el
+				reconocimiento físico, el funcionario aduanero dispone el cierre
+				del contenedor o bulto, coloca el precinto, de corresponder, y
+				diligencia la DAM.
+Si como resultado del reconocimiento
+				físico el funcionario aduanero detecta alguna incidencia,
+				procede de acuerdo al procedimiento general “Exportación
+				Definitiva” INTA-PG.02.
+En caso el funcionario aduanero
+				constate o presuma la existencia de tráfico ilícito de
+				mercancías (TIM) conforme a lo señalado en el procedimiento
+				general “Acciones en caso de Tráfico Ilícito de Mercancías”,
+				INPCFA-PG.12, pone de conocimiento el hecho a su jefe, quien lo
+				comunica de manera inmediata a la institución pública competente
+				para las acciones legales que correspondan.
+
+				B. DE LA ACCIÓN DE CONTROL EXTRAORDINARIO
+1. El
+				funcionario aduanero designado da inicio a la acción de control
+				extraordinario con los representantes de los operadores de
+				comercio exterior notificados que se encuentren presentes, y
+				realiza las siguientes acciones:
+a) Verifica el estado de
+				los precintos de seguridad colocados por SENASA o por la
+				administración aduanera.
+b) Revisa la información relativa a
+				las condiciones especiales que requieren las mercancías para su
+				conservación.
+c) Verifica la condición exterior del
+				contenedor o de los bultos para lo cual puede utilizar reactivos
+				químicos, herramientas, equipos tecnológicos o sistemas de
+				control no intrusivo; contar con el apoyo del “Programa de canes
+				antidrogas K-9” de la SUNAT o programas similares de otras
+				entidades.
+d) En caso la DAM cuente con diligencia de
+				reconocimiento físico, revisa la información consignada en ella,
+				a fin de tomar conocimiento de las posibles incidencias
+				encontradas en el despacho.
+2. Concluidas las acciones
+				descritas en el numeral anterior y de no presentarse indicios
+				que hagan presumir la existencia de TIM, el funcionario aduanero
+				registra su intervención en el acta correspondiente, conforme al
+				Procedimiento General “Acciones en caso de Tráfico Ilícito de
+				Mercancías”, INPCFA-PG.12; y permite el embarque de las
+				mercancías.
+El exportador o su representante pueden
+				solicitar que se deje constancia en el rubro observaciones del
+				acta en mención de alguna información adicional que considere
+				pertinente.
+De presentarse indicios razonables que hagan
+				presumir la existencia de TIM, el funcionario aduanero puede
+				realizar la inspección física de las mercancías conforme a lo
+				dispuesto en el Procedimiento General “Acciones en caso de
+				Tráfico Ilícito de Mercancías”, INPCFA-PG.12.
+3. De no
+				ser posible la inspección de las mercancías, el funcionario
+				aduanero comunica el hecho a la División de Acciones Inmediatas
+				y Masivas (DAIM) para las coordinaciones con las instituciones
+				nacionales o del país de destino competentes, de corresponder.
+
+
+VIII. FLUJOGRAMA
+No aplica.
+
+
+IX. INFRACCIONES, SANCIONES Y DELITOS
+
+
+Es aplicable lo dispuesto en la Ley General de Aduanas
+				aprobada por Decreto Legislativo Nº 1053 y modificatorias, su
+				Reglamento aprobado mediante el Decreto Supremo N° 010-2009-EF y
+				modificatorias, la Tabla de Sanciones aprobada mediante el
+				Decreto Supremo Nº 031-2009-EF y modificatorias, la Ley de
+				Delitos Aduaneros aprobada mediante la Ley Nº 28008 y su
+				Reglamento aprobado mediante Decreto Supremo Nº 121-2003-EF y
+				otras normas aplicables.
+X. REGISTROS
+
+
+No aplica.
+XI. VIGENCIA
+
+				El presente procedimiento rige a partir del 15 de diciembre de
+				2016, excepto en las intendencias de aduana de Salaverry y
+				Pisco, en las que empieza a regir el 1 de enero de 2017.
+
+
+XII. ANEXOS
+No aplica.

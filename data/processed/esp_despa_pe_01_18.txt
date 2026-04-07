@@ -1,0 +1,717 @@
+Procedimientos - IMPORTACION DEFINITIVA
+
+
+
+IMPORTACION PARA EL CONSUMO
+PROCEDIMIENTO ESPECIFICO: APLICACION DE CONTINGENTES ARANCELARIOS
+
+
+
+
+
+Proc:
+
+
+
+DESPA-PE.01.18
+
+
+Aplicación de
+ Contingentes Arancelarios
+
+
+Versión:
+
+ 1
+
+
+Publicación:
+
+ 30/01/2009
+
+
+Resolución:
+ 039
+
+
+Fecha Res.:
+29/01/2009
+
+
+Vigencia:
+ 01/02/2009
+
+
+
+Lista:
+
+
+Maestra
+
+
+Circulares
+ Anexas
+
+
+Control de
+ Cambios
+
+
+
+
+
+I.
+ OBJETIVO
+
+
+
+Establecer
+
+ las pautas a seguir para la aplicación de la cantidad dentro de
+ una cuota o contingente arancelario (también denominado cupo)
+ solicitadas en la importación de mercancías al amparo de los
+ Acuerdos Comerciales Internacionales suscritos por el Perú.
+
+
+II.
+
+
+ALCANCE
+
+
+Está
+ dirigido al personal de la SUNAT y operadores de comercio
+ exterior, que intervienen en la importación para consumo de
+una
+
+ mercancía sujeta a una cuota o contingente arancelario, al amparo
+ de los Acuerdos Comerciales Internacionales suscritos por el Perú.
+
+
+III.
+
+
+RESPONSABILIDAD
+
+
+La
+
+ aplicación, cumplimiento y seguimiento de lo establecido en el
+ presente procedimiento es de responsabilidad de la Intendencia
+ Nacional de Técnica Aduanera, Intendencia de Fiscalización y
+ Gestión de la Recaudación Aduanera, Intendencia Nacional de
+ Sistemas de la Información y de las Intendencias de Aduana
+ Operativas.
+
+
+
+
+
+IV.
+
+
+VIGENCIA
+
+
+A
+ partir del 01 de febrero de 2009.
+
+
+
+
+
+V.
+
+
+BASE LEGAL
+
+
+-
+Texto
+ Único Ordenado de la Ley General de Aduanas, aprobado por Decreto
+ Supremo Nº 129-2004-EF publicado el 12.09.2004 y norma
+ modificatoria.
+
+
+-
+ Reglamento de la Ley General de Aduanas, aprobado por Decreto
+ Supremo Nº 011-2005-EF publicado el 26.01.2005.
+
+
+-
+
+
+Texto Único Ordenado del
+Código
+ Tributario, aprobado por Decreto Supremo Nº 135-99-EF publicado
+ el 19.08.1999 y normas modificatorias.
+
+
+-
+
+
+Ley del Procedimiento Administrativo General, Ley Nº 27444
+ publicada el 11.04.2001 y normas modificatorias.
+
+
+
+-
+
+ Reglamento que implementa el Régimen de Origen establecido en el
+ Acuerdo de Promoción Comercial suscrito entre el Perú y los
+ Estados Unidos, aprobado mediante Decreto Supremo N°
+ 003-2009-MINCETUR, publicado el 15.01.2009.
+
+
+-
+ Procedimientos Generales
+para
+
+ la Administración de las cantidades dentro de las cuotas o
+ contingentes arancelarios establecidos en los Acuerdos Comerciales
+ Internacionales suscritos por el Perú, aprobado por Decreto
+ Supremo Nº 007-2009-MINCETUR publicado el 16.01.2009.
+
+
+ VI.
+
+
+NORMAS GENERALES
+
+
+
+
+
+1.
+
+
+El presente procedimiento se aplica en el despacho de
+ importación de mercancías, cuando se solicite porción de la
+ cantidad dentro de una cuota o contingente arancelario (en
+ adelante “porción”), en virtud de un Acuerdo Comercial
+ Internacional suscrito por el Perú (adelante “Acuerdo”).
+
+
+
+2.
+ Las cuotas o contingentes arancelarios se regirán por las
+ disposiciones establecidas en el Acuerdo respectivo, el Decreto
+ Supremo Nº 007-2009-MINCETUR, el procedimiento específico
+ aprobado por la SUNAT aplicable a los Acuerdos respectivos y el
+ presente procedimiento.
+
+
+
+3.
+
+
+La solicitud de una porción se realiza mediante:
+
+
+
+a)
+ Declaración aduanera de mercancías, utilizando el formato de
+ la Declaración Única de Aduanas (DUA) transmitida electrónicamente
+ bajo la modalidad de despacho normal o urgente, o declaración
+ simplificada de importación (DSI), siempre que hayan sido
+ numeradas después de la llegada del medio de transporte a zona
+ primaria aduanera; o
+
+
+b)
+
+ Solicitud de devolución de tributos de importación por pago
+ indebido o en exceso, asociado a cualquier modalidad de despacho
+ de importación, mediante solicitud electrónica provisional de
+ una porción, siempre que no haya solicitado dicha porción a través
+ de la DUA.
+
+
+4.
+
+
+No se puede solicitar una porción para un periodo de
+ aplicación con la rectificación de la DUA.
+
+
+5.
+
+
+El control del saldo de la
+cantidad
+ dentro de una cuota o
+contingente
+arancelario
+
+ para cada período de
+
+ aplicación establecido en el Acuerdo respectivo, se realiza sobre
+ la base del mecanismo “primero en llegar, primero servido”.
+
+
+6.
+ El sistema lleva un control y registro a nivel nacional del saldo
+ de la cantidad dentro de una cuota o conti
+ngente
+ arancelario. Salvo disposición en contrario en el presente
+ procedimiento, de no haber saldo el sistema rechaza la solicitud.
+ Este control rige para los períodos de aplicación que se inicien
+ después de la fecha de entrada en vigencia del presente
+ Procedimiento.
+
+
+ 7.
+ El saldo de la cantidad dentro de una cuota o contingente
+ arancelario se puede visualizar en el portal de la SUNAT (
+www.sunat.gob.pe
+)
+ cuya actualización se realiza en tiempo real.
+
+
+
+8.
+
+
+Salvo disposición en contrario en el presente
+ procedimiento, la porción que se solicita aplica al saldo
+de
+ la cantidad dentro de la cuota o
+contingente
+arancelario
+
+ existente para el período
+de
+ aplicación
+en el cual fue numerada la DUA o DSI.
+
+
+
+9.
+
+
+Si la cantidad solicitada es mayor al saldo
+de
+ la cantidad dentro de una cuota o
+contingente
+arancelario
+
+ disponible, el sistema rechaza la solicitud y hace una reserva
+ provisional de dicho saldo disponible al importador, quien en un
+ plazo máximo de seis (06) horas debe retransmitir su solicitud
+ con una cantidad igual o menor a la disponible, caso contrario el
+ saldo de
+la
+ cantidad dentro de una cuota o
+contingente
+arancelario
+
+ remanente queda nuevamente disponible para el siguiente importador
+ que la solicite.
+
+
+10.
+
+
+No se reserva ninguna porción cuando:
+
+
+(i)
+  La autoridad aduanera deniegue la solicitud de dicha porción
+ en los supuestos señalados en el Acuerdo y en el reglamento que
+ implementa el Régimen de Origen establecido en el Acuerdo de
+ Promoción Comercial suscrito entre el Perú y los Estados
+ Unidos;
+
+
+(ii)
+
+
+Se presente ante la autoridad aduanera una
+ solicitud de devolución de tributos pagados en exceso por la
+ importación de dicha porción; o,
+
+
+(iii)
+
+
+Se inicie un proceso de verificación de origen
+ establecido en el Acuerdo.
+
+
+
+11.
+ Salvo disposición en contrario en el presente procedimiento, si
+ al término de un período de aplicación ha quedado saldo de la
+ cantidad dentro de la cuota o contingente arancelario disponible,
+ éste no es acumulable para los siguientes períodos de aplicación.
+
+
+
+12.
+ En caso que se determine, mediante sentencia ejecutoriada o acto
+ firme, que procede la asignación de la porción solicitada, se
+ asigna dicha porción con cargo a la cantidad dentro de una cuota
+ o contingente arancelario
+ del periodo
+de
+ aplicación
+ en el que se ha numerado la declaración
+ aduanera de mercancías. Si no hay saldo
+de
+ la cantidad dentro de la cuota o
+contingente
+arancelario
+
+disponible en dicho periodo
+
+ de aplicación
+, la porción solicitada se asigna al
+ siguiente periodo de aplicación que tenga saldo disponible a
+ partir del período
+de
+ aplicación
+inmediatamente siguiente en que dicha solicitud
+ fue inicialmente presentada.
+
+
+13.
+
+
+Cuando dos o más solicitudes de porción han sido enviadas
+ en forma simultánea cuyas cantidades en conjunto excedan el saldo
+ disponible, se asigna a cada solicitud una porción que resulta de
+ prorratear el saldo disponible entre el número total de
+ solicitudes.
+
+
+VII.
+
+
+DESCRIPCIÓN
+
+
+
+
+
+A.
+ Solicitud de contingente a través de la DUA de importación normal
+ y urgente y
+
+
+DSI
+
+
+ 1.
+
+
+Para solicitar una porción a través de la DUA o DSI, el
+ despachador de aduana debe consignar:
+
+
+a)
+ El Trato Preferencial Internacional (TPI),
+
+
+b)
+
+
+El Tipo de Margen (TM) 5, y
+
+
+c)
+
+
+Los demás datos que se requiera para cada serie, según el
+ procedimiento específico aprobado por la SUNAT aplicable al
+ Acuerdo respectivo.
+
+
+2.
+ Excepcionalmente, para el caso de la DSI no transmitida por
+ teledespacho, el importador debe presentar una solicitud escrita en
+ donde manifieste su voluntad de acogerse a una porción. La
+ información contenida en esta solicitud es registrada en el sistema
+ por el personal designado en la intendencia de aduana de actuación.
+
+
+
+3.
+  Cuando se regularice la DUA bajo la modalidad urgente y la
+ cantidad dentro de una cuota o contingente arancelario negociado en
+ el Acuerdo respectivo estuviere expresada en unidades de peso, se
+ procede de la siguiente manera:
+
+
+a)
+
+
+ Si el peso regularizado es menor al peso declarado, se registra el
+ peso regularizado en el sistema, quedando liberada la porción
+ equivalente a la diferencia entre estos dos pesos;
+
+
+b)
+
+
+Si el peso regularizado es igual al peso declarado, el
+ saldo de la cantidad dentro de una cuota o contingente arancelario
+ no se modifica;
+
+
+c)
+
+
+ Si el peso regularizado es mayor al peso declarado, se pueden
+ presentar los siguientes casos:
+
+
+ c.1)
+ Si no hay saldo disponible de la cantidad dentro de una cuota o
+ contingente arancelario, se debe crear una serie para la diferencia
+ de peso sin consignar el TM 5, se autoliquidan los tributos que
+ correspondan según el TPI respectivo, y con el pago se procede al
+ registro de esta nueva serie en el sistema, sin modificar el saldo
+ de la cantidad dentro de una cuota o contingente arancelario;
+
+
+
+ c.2) Si hay saldo disponible de la cantidad dentro de una cuota o
+contingente
+ arancelario para la diferencia entre el peso regularizado y el peso
+ declarado, se autoliquidan los tributos diferenciales que
+ correspondan, y con el pago se procede al registro en la serie con
+ el TPI y el TM 5, se reemplaza el peso declarado inicialmente por el
+ peso regularizado, actualizándose el saldo de la cantidad dentro de
+ una cuota o contingente arancelario;
+
+
+c.3)
+ Si hay saldo disponible de la cantidad dentro de una cuota o
+ contingente arancelario insuficiente para la diferencia entre el
+ peso regularizado y el peso declarado, se debe consignar en la serie
+ declarada
+
+
+una cantidad igual al peso declarado más el saldo
+ disponible, con el TPI y el TM 5, y crear una nueva serie para la
+ diferencia de peso sin consignar el TM 5, se autoliquidan los
+ tributos que correspondan según el TPI respectivo, y con el pago se
+ procede al registro de esta nueva serie en el sistema, sin modificar
+ el saldo de la cantidad dentro de una cuota o contingente
+ arancelario.
+
+
+B.
+ Solicitud de la cantidad dentro de una cuota o contingente
+ arancelario vía expediente de devolución de tributos
+
+
+El
+ importador o el despachador de aduana en su representación
+ puede solicitar una porción, vía expediente en caso de
+ solicitudes de devolución de tributos.
+
+
+Previamente
+ a la presentación del expediente, el despachador de aduana
+
+
+debe registrar vía web en el portal de la SUNAT
+ (www.sunat.gob.pe) la solicitud electrónica provisional de una
+ porción .
+
+
+La
+ solicitud electrónica provisional de una porción no significa
+ la aceptación de lo solicitado por el interesado, su
+ determinación corresponde a la intendencia de aduana de actuación
+ luego de hacer la evaluación del expediente respectivo.
+
+
+La
+ solicitud electrónica provisional se utiliza para permitir que
+ el sistema determine si existe saldo de cantidad dentro de la
+ cuota o contingente arancelario al momento de su registro en eL
+ portal de la SUNAT.
+
+
+El
+ sistema valida la información registrada en la solicitud electrónica
+ provisional de una porción teniendo en cuenta el plazo para
+ solicitar la devolución de los derechos de importación
+ establecido en el Acuerdo respectivo.
+
+
+Una
+ vez validada y numerada la solicitud electrónica provisional de
+ una porción, el solicitante debe imprimirla y adjuntarla al
+ expediente de devolución de tributos, que es presentado dentro
+ de un plazo máximo de un (01) día hábil desde la fecha de
+ numeración de la solicitud provisional. Vencido el plazo y de
+ no haberse presentado el expediente, se anula la solicitud
+ provisional registrada, sin perjuicio que el solicitante pueda
+ registrar una nueva la solicitud provisional vía web y
+ continuar con el procedimiento antes descrito.
+
+
+El
+ solicitante presenta la solicitud de devolución de tributos
+ ante el área de Trámite Documentario de la dependencia que
+ corresponda, conforme a lo señalado en el Procedimiento
+ IFGRA-PG.05.
+
+
+
+ Adicionalmente, debe presentar la siguiente documentación:
+
+
+
+
+ a)
+
+
+La solicitud electrónica provisional de una porción
+ impresa, numerada y fechada por el sistema.
+
+
+
+b)
+ El certificado de origen de la mercancía en original o
+ autenticado, u otra información que    demuestre
+ que la mercancía era originaria al momento de la importación
+ cuando
+
+    corresponda, de conformidad con las normas de origen
+ del Acuerdo respectivo.
+
+
+
+
+
+
+
+c)
+ Los documentos autenticados de transporte y otros, que acrediten el
+ cumplimiento de lo
+
+
+
+
+establecido
+ en el Acuerdo respectivo.
+
+
+El
+ área de trámite documentario verifica si el expediente
+ contiene la solicitud electrónica provisional de una porción
+ numerada y fechada por el sistema, de ser así registra en el módulo
+ de trámite documentario el código correspondiente al
+ expediente presentado y como tipo de documento asociado la
+ solicitud electrónica provisional de una porción.
+
+
+El
+ procedimiento de devolución de tributos se rige conforme a lo
+ establecido en el Procedimiento IFGRA-PG.05.
+
+
+VIII.
+ FLUJOGRAMAS
+
+
+No
+ aplica
+
+
+IX.
+ INFRACCIONES, SANCIONES Y DELITOS
+
+
+Se
+ aplican las infracciones y sanciones señaladas en la Ley General de
+ Aduanas.
+
+
+X.
+ REGISTROS
+
+
+-
+ Número de solicitudes electrónicas provisionales de contingente.
+
+
+ - Número de expedientes de devolución de tributos por aplicación
+ de contingente
+
+
+XI.
+ DEFINICIONES Y ABREVIATURAS
+
+
+
+ACUERDO
+ COMERCIAL INTERNACIONAL:
+ Acuerdo Comercial suscrito por el Perú
+ al amparo del Artículo XXIV del GATT 1994 o la Cláusula de
+ Habilitación de 1979.
+
+
+CANTIDAD:
+
+
+magnitud expresada en número de unidades, peso, volumen o
+ valor, de conformidad con el Acuerdo Comercial Internacional
+ correspondiente.
+
+
+CANTIDAD
+ DENTRO DE UNA
+CUOTA
+ O CONTINGENTE ARANCELARIO:
+Cantidad de mercancías originarias
+ de un país que puede importarse hasta un nivel máximo, en un
+ determinado periodo de aplicación, con tratamiento libre de
+ aranceles o un determinado nivel de preferencias arancelarias, de
+ conformidad con lo establecido en el Acuerdo Comercial Internacional
+ correspondiente.
+
+
+DSI:
+
+ Declaración Simplificada de Importación
+
+
+DUA
+:
+
+ Declaración Única de Aduanas.
+
+
+PERIODO
+ DE APLICACIÓN:
+
+ año calendario u otro periodo establecido en el Acuerdo Comercial
+ Internacional.
+
+
+SALDO
+ DE
+CANTIDAD
+ DENTRO DE UNA CUOTA O CONTINGENTE ARANCELARIO:
+ Diferencia entre
+ el nivel máximo establecido en un Acuerdo Comercial Internacional
+ para la cantidad de mercancías dentro de una cuota o contingente
+ arancelario en un determinado periodo de aplicación y la cantidad
+ de tales mercancías importadas dentro de dicha cuota o contingente
+ arancelario a una fecha determinada, en dicho período de aplicación.
+
+
+TM:
+
+ Tipo de Margen
+
+
+TPI:
+
+
+Trato Preferencial Internacional

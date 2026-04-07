@@ -1,0 +1,681 @@
+Procedimientos de Fiscalización
+
+
+FISCALIZACIÓN Y PREVENCIÓN DEL CONTRABANDO Y CONTROL
+
+FRONTERIZO
+
+
+PROCEDIMIENTO GENERAL:
+
+
+
+
+CONTROL-PG.01:
+
+
+PROGRAMACIÓN Y COMUNICACIÓN DE ACCIONES DE CONTROL EXTRAORDINARIO
+
+
+
+
+
+
+
+
+Proc:
+
+
+
+CONTROL-PG.01
+
+
+						PROGRAMACIÓN Y COMUNICACIÓN DE ACCIONES DE CONTROL
+
+						EXTRAORDINARIO
+
+
+Versión
+:
+
+
+					  1
+
+
+Publicación:
+
+
+30/11/2020
+
+
+Resolución:
+ 0206-2020/SUNAT
+
+
+Fecha Res.:
+
+
+
+26/11/2020
+
+
+Vigencia:
+
+
+29/01/2021
+
+
+
+Lista:
+
+
+Maestra
+
+
+Circulares Anexas
+
+
+Control de
+
+ Cambios
+
+
+
+
+
+I. OBJETIVO
+
+
+Establecer las pautas a seguir
+
+		  para la programación y comunicación de las acciones de control
+
+		  extraordinario orientadas a la prevención, detección y represión de
+
+		  los delitos aduaneros, el tráfico ilícito de mercancías y el
+
+		  incumplimiento de las disposiciones tributario - aduaneras y otras que
+
+		  contengan regulaciones de control aduanero.
+
+
+II.
+
+ ALCANCE
+
+
+Está dirigido al personal de
+
+		  la Superintendencia Nacional de Aduanas y de Administración Tributaria
+
+		  - SUNAT, al operador de comercio exterior (OCE) y al operador
+
+		  interviniente (OI) que participan en el presente procedimiento.
+
+
+III.
+
+ RESPONSABILIDAD
+
+
+La aplicación, cumplimiento y
+
+		  seguimiento de lo dispuesto en el presente procedimiento es de
+
+		  responsabilidad del Intendente Nacional de Desarrollo e Innovación
+
+		  Aduanera, del Intendente Nacional de Sistemas de Información, del
+
+		  Intendente Nacional de Control Aduanero, de los intendentes de aduana
+
+		  de la República, de las jefaturas y personal de las distintas unidades
+
+		  de organización que intervienen.
+
+
+IV.
+
+
+
+DEFINICIONES Y ABREVIATURAS
+
+
+Para efectos del presente
+
+		  procedimiento se entiende por:
+
+
+1. ACE:
+ A la
+
+		  acción de control extraordinario.
+
+
+2. Buzón electrónico:
+
+
+		  A la sección ubicada dentro del portal de la SUNAT Operaciones en
+
+		  Línea y asignada al OCE u OI, donde se depositan las copias de los
+
+		  documentos en los cuales constan los actos administrativos que son
+
+		  materia de notificación, así como comunicaciones de tipo informativo.
+
+
+3. Funcionario
+
+		  aduanero:
+ Al personal de la SUNAT que ha sido designado o
+
+		  encargado para desempeñar actividades o funciones en su
+
+		  representación, ejerciendo la potestad aduanera de acuerdo con su
+
+		  competencia.
+
+
+4. INCA:
+ A la
+
+		  Intendencia Nacional de Control Aduanero.
+
+
+5. Operativo especial:
+
+
+		  Al conjunto de acciones planificadas, organizadas, coordinadas,
+
+		  reservadas y seguras que se concretan en la realización de una
+
+		  intervención en un lugar y tiempo determinado, con la finalidad de
+
+		  prevenir y reprimir los delitos e infracciones aduaneras. Se puede
+
+		  efectuar sobre las personas, mercancías o medios de transporte.
+
+
+
+
+6. Programación:
+
+
+		  Al conjunto de actividades que consiste en la recolección y
+
+		  tratamiento de información, identificación, análisis y evaluación de
+
+		  riesgos y selección de personas, medios de transporte o mercancías,
+
+		  para determinar una ACE.
+
+
+7. Selección:
+
+
+		  Al proceso automatizado a través del cual el sistema informático de la
+
+		  SUNAT, mediante la utilización de herramientas automáticas de técnicas
+
+		  de gestión de riesgo, selecciona las mercancías que son sometidas a
+
+		  una ACE.
+
+
+
+
+V.
+
+ BASE LEGAL
+
+
+- Ley General de Aduanas,
+
+		  Decreto Legislativo N° 1053, publicado el 27.6.2008, y modificatorias.
+
+
+- Reglamento del Decreto Legislativo N° 1053, Ley General de
+
+		  Aduanas, aprobado por el Decreto Supremo N° 10-2009-EF, publicado el
+
+		  16.1.2009, y modificatorias.
+- Tabla de sanciones aplicables a las
+
+		  infracciones previstas en la Ley General de Aduanas, aprobada por
+
+		  Decreto Supremo N° 418-2019-EF, publicado el 31.12.2019, y
+
+		  modificatoria.
+- Ley de los Delitos Aduaneros, Ley N° 28008,
+
+		  publicada el 19.6.2003, y modificatorias.
+- Reglamento de la Ley
+
+		  de los Delitos Aduaneros, aprobado por el Decreto Supremo N°
+
+		  121-2003-EF, publicado el 27.8.2003, y modificatorias.
+- Texto
+
+		  Único Ordenado de la Ley N° 27444, Ley del Procedimiento
+
+		  Administrativo General, aprobado por Decreto Supremo N° 004-2019- JUS,
+
+		  y modificatoria.
+- Resolución de Superintendencia N°
+
+		  014-2008-SUNAT, que regula la notificación de actos administrativos
+
+		  por medio electrónico, publicada el 8.2.2008, y modificatorias.
+
+
+
+
+VI.
+
+ 	  DISPOSICIONES GENERALES
+
+
+1. La programación de la ACE
+
+		  se realiza en función a los objetivos institucionales definidos en el
+
+		  Plan Estratégico Institucional y el Plan Operativo Institucional.
+
+
+2. La información relacionada
+
+		  a la programación de la ACE es reservada y se maneja exclusivamente
+
+		  con el personal autorizado de cada unidad de organización. La misma
+
+		  reserva y manejo exclusivo de la información se aplican al tratar
+
+		  sobre la ACE con las autoridades o entidades que prestan su apoyo para
+
+		  la ejecución de la misma.
+
+
+3. La programación de la ACE
+
+		  se efectúa conforme a lo dispuesto en el presente procedimiento,
+
+		  excepto la correspondiente a la fiscalización aduanera que se
+
+		  encuentra regulada en el procedimiento específico “Fiscalización
+
+		  aduanera posterior al despacho aduanero” CONTROL-PE.01.09.
+
+
+
+
+4. La División de Gestión de
+
+		  Riesgos Aduaneros (DGRA) de la Gerencia de Gestión de Riesgos e
+
+		  Investigaciones Aduaneras de la INCA efectúa la selección de la ACE y
+
+		  coordina los niveles de selección con las unidades de gestión de
+
+		  riesgo operativo o las que hagan sus veces en las intendencias de
+
+		  aduana de la República, teniendo en cuenta la operatividad del
+
+		  comercio exterior y los recursos disponibles, tales como la
+
+		  disposición de personal, equipos y otros.
+
+
+
+
+5. Comunicada la ACE, no
+
+		  procede:
+- La rectificación o incorporación de documentos de
+
+		  transporte al manifiesto de carga consolidado y desconsolidado.
+-
+
+		  La rectificación de la declaración aduanera de mercancías.
+- La
+
+		  entrega y disposición de la mercancía.
+
+
+6. La jefatura de la unidad de
+
+		  organización que programa o ejecuta la ACE efectúa la supervisión del
+
+		  seguimiento y resultado de la misma.
+
+
+
+
+7. Las intendencias de aduana
+
+		  de la República hacen uso de las aplicaciones que dispone la
+
+		  institución como herramientas de apoyo operativo para el seguimiento
+
+		  en tiempo real de la ejecución de la ACE mediante el intercambio de
+
+		  información, toma fotográfica o video que aseguren la transparencia y
+
+		  seguridad de la intervención.
+
+
+8. El personal encargado de la
+
+		  ejecución de la ACE de la INCA e intendencias de aduana de la
+
+		  República registra en el sistema informático el resultado de la
+
+		  ejecución de la ACE, para la retroalimentación y mejora continua del
+
+		  proceso de selección y programación.
+
+
+VII.
+
+ 	  DESCRIPCIÓN
+
+
+A. Programación de la
+
+		  ACE
+
+
+La programación de la ACE se
+
+		  realiza a través de:
+
+
+A.1 Selección
+
+
+1.
+
+		  El funcionario aduanero de la DGRA registra en el sistema informático
+
+		  los criterios de selección de la ACE.
+
+
+2. El sistema informático selecciona a
+
+		  control el documento de transporte o la declaración aduanera de
+
+		  mercancías y registra la ACE automáticamente.
+
+
+A
+.2 Programación
+
+
+A.2.1 Programación de mercancías y medios
+
+		  de transporte
+
+
+1.
+
+		  El funcionario aduanero de la INCA e intendencias de aduana de la
+
+		  República evalúa la programación de la ACE de mercancías y medios de
+
+		  transporte, para lo cual toma en cuenta lo siguiente:
+
+
+a)
+
+		  Indicadores de riesgo
+
+
+b) Denuncias sobre infracciones, delitos
+
+		  aduaneros u otros ilícitos, recibidas conforme al procedimiento
+
+		  específico “Recepción de denuncias vinculadas a la presunta comisión
+
+		  de infracciones y delitos aduaneros” CONTROL-PE.01.05.
+
+
+c) Comunicación
+
+		  del personal de la SUNAT.
+
+
+d) Información recibida de instituciones
+
+		  públicas o privadas, organismos o enlaces internacionales, OCE, OI y
+
+		  terceros.
+e)
+
+		  Cualquier otra información que considere relevante.
+
+
+2.
+
+		  Si, como consecuencia de la evaluación, el funcionario aduanero
+
+		  determina que procede realizar una ACE, verifica que la mercancía se
+
+		  encuentra en el recinto del almacén aduanero o en las instalaciones
+
+		  portuarias, aeroportuarias o terminales terrestres internacionales y
+
+		  que no está sujeta a una medida preventiva de control, para luego
+
+		  registrar su programación en el sistema informático.
+
+
+A.2.2 Programación de operativos especiales
+
+
+1.
+
+		  El operativo especial se puede realizar de manera conjunta con otras
+
+		  unidades de organización de la SUNAT, así como con la participación de
+
+		  otras entidades públicas, de corresponder.
+
+
+2.
+
+		  Para la programación del operativo especial se requiere un informe o
+
+		  documento previo de evaluación del riesgo que recomiende la ejecución
+
+		  del operativo especial, así como la participación de otras unidades de
+
+		  organización de la SUNAT o entidades públicas, de corresponder
+
+
+3.
+
+		  Luego de autorizado el informe por el jefe inmediato superior, el
+
+		  funcionario aduanero designado de la INCA o de la intendencia de
+
+		  aduana de la República realiza la programación del operativo especial
+
+		  según los procedimientos respectivos.
+
+
+4.
+
+		  Al operativo especial no le es aplicable el literal B de la presente
+
+		  sección, procediéndose conforme a lo dispuesto en el subliteral A.1
+
+		  del literal A de la sección VII del procedimiento general “Ejecución
+
+		  de acciones de control extraordinario” CONTROL-PG.02.
+
+
+B. Comunicación de la
+
+		  ACE
+
+
+B.1 A la unidad encargada de la ejecución
+
+
+1.
+
+		  El jefe de la unidad de organización de la INCA o de la intendencia de
+
+		  aduana de la República que ejecuta la ACE registra en el sistema
+
+		  informático la designación del funcionario aduanero responsable de
+
+		  recibir las comunicaciones de la ACE programada.
+
+
+2. El sistema
+
+		  informático envía la comunicación de la programación de la ACE al
+
+		  correo electrónico institucional del jefe de la unidad de organización
+
+		  y del funcionario aduanero encargados de recibir dicha comunicación.
+
+
+
+
+B.2 Al responsable de la mercancía o medio
+
+		  de transporte
+
+
+1.
+
+		  El sistema informático deposita la comunicación de la ACE en el buzón
+
+		  electrónico del OCE u OI responsable de la mercancía.
+
+
+El OCE y
+
+		  el OI tienen la obligación de revisar continuamente su buzón
+
+		  electrónico para verificar la comunicación de una ACE y adoptar las
+
+		  acciones respectivas.
+
+
+2.
+
+		  En el caso que el OCE o el OI acrediten ante la Administración
+
+		  Aduanera a su personal de contacto para recibir las comunicaciones que
+
+		  disponen una ACE, el sistema informático comunica adicionalmente la
+
+		  ACE a las direcciones de correo electrónicos registrados. A tal
+
+		  efecto, deben registrar previamente en el portal de la SUNAT
+
+		  (www.sunat.gob.pe) la siguiente información:
+
+
+a) Tipo y numero de documento
+
+		  de identidad.
+b) Nombres y apellidos de la persona de contacto, de
+
+		  acuerdo a como consta en su documento de identidad.
+c) Dirección
+
+		  del correo electrónico al que se deberá remitir adicionalmente la
+
+		  comunicación sobre una ACE.
+d) Número del teléfono celular.
+e)
+
+		  Código de la intendencia de aduana.
+f) Vigencia de la
+
+		  acreditación.
+
+
+El
+
+		  OCE y el OI son responsables de mantener actualizada en el portal de
+
+		  la SUNAT la información detallada en el párrafo anterior.
+
+
+3.
+
+		  Efectuada la comunicación, el OCE o el OI responsable de la mercancía
+
+		  procede a la inmovilización de la carga para su control por la
+
+		  autoridad aduanera, debiendo brindar las facilidades y logística
+
+		  necesarias para la ejecución de la ACE.
+
+
+B.3 Bloqueo de la carga
+
+
+1.
+
+		  Adicionalmente a la comunicación de la ACE, cuando se disponga del
+
+		  acceso a los sistemas de control e información del OCE u OI que
+
+		  permitan el bloqueo de la carga en línea, el funcionario aduanero
+
+		  inmoviliza inmediatamente la mercancía sujeta a una ACE en dicho
+
+		  sistema. Culminada la ejecución de la ACE, el funcionario aduanero
+
+		  desbloquea la carga en el sistema.
+
+
+C. Ejecución de la ACE
+
+
+1. La ACE se ejecuta conforme
+
+		  lo dispuesto en el procedimiento general “Ejecución de acciones de
+
+		  control extraordinario” CONTROL-PG.02.
+
+
+2. Cuando la ACE no se
+
+		  ejecute por haberse embarcado o haber sido retirada la mercancía
+
+		  sujeta a control, o cuando la declaración aduanera de mercancías ha
+
+		  sido redireccionada a reconocimiento físico, el funcionario aduanero
+
+		  responsable de la ejecución registra en el sistema informático su
+
+		  conclusión y consigna el sustento respectivo, sin perjuicio de adoptar
+
+		  las acciones que correspondan.
+
+
+VIII.
+
+ 	  VIGENCIA
+
+
+El
+
+		  presente procedimiento entra en vigencia a partir del 29 de enero de
+
+		  2021.
+
+
+IX.
+
+ 	  ANEXOS
+
+
+No
+
+		  aplica.

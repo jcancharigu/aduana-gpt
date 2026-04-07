@@ -1,0 +1,4598 @@
+Procedimientos - IMPORTACION DEFINITIVA
+
+
+
+IMPORTACION PARA EL CONSUMO
+
+
+PROCEDIMIENTO ESPECIFICO:  VALORACIÓN DE MERCANCÍAS
+
+SEGUN EL ACUERDO DEL VALOR DE LA OMC
+
+
+
+
+
+
+
+
+
+
+
+
+						Proc:
+
+
+DESPA-PE.01.10a
+
+
+						Valoración de Mercancías según el Acuerdo del Valor de
+
+						la OMC
+
+
+Versión:
+
+
+ 7
+
+
+Publicación:
+
+
+						25/11/2023
+
+
+Resolución:
+
+
+ 00239-2023
+
+
+Fecha Res.:
+
+
+						23/11/2023
+
+
+						Vigencia:
+
+
+
+						29/12/2023
+
+
+
+
+Lista:
+
+
+ Maestra
+
+
+Circulares Anexas
+
+
+Control de Cambios
+
+
+
+I.
+
+				OBJETIVO
+
+
+Establecer las pautas a seguir para verificar y
+
+				determinar el valor en aduana según el Acuerdo relativo a la
+
+				aplicación del artículo VII del Acuerdo General sobre Aranceles
+
+				Aduaneros y Comercio de 1994, para la aplicación de los derechos
+
+				arancelarios en los regímenes de importación para el consumo,
+
+				admisión temporal para reexportación en el mismo estado,
+
+				admisión temporal para perfeccionamiento activo y exportación
+
+				temporal para perfeccionamiento pasivo.
+
+
+				II.        ALCANCE
+
+
+
+
+Está
+
+				dirigido al personal de la Superintendencia Nacional de Aduanas
+
+				y de Administración Tributaria (SUNAT), al operador de comercio
+
+				exterior y al operador interviniente que participan en este
+
+				procedimiento.
+
+
+				III.      RESPONSABILIDAD
+
+
+				La aplicación, cumplimiento y seguimiento de lo establecido en
+
+				el presente procedimiento es de responsabilidad del Intendente
+
+				Nacional de Desarrollo e Innovación Aduanera, del Intendente
+
+				Nacional de Sistemas de Información, del Intendente Nacional de
+
+				Control Aduanero, de los intendentes de aduana de la República,
+
+				así como de las jefaturas y personal de las distintas unidades
+
+				de organización que intervienen.
+
+
+IV.
+DEFINICIONES
+
+				Y ABREVIATURAS
+
+
+				Para efectos del presente procedimiento se entiende por:
+
+
+1.Buzón electrónico:
+ A la sección ubicada
+
+				dentro del portal de la SUNAT (www.sunat.gob.pe) Operaciones en
+
+				Línea, asignada al operador de comercio exterior y al operador
+
+				interviniente, en la que se pueden depositar actos
+
+				administrativos y comunicaciones conforme a la Resolución de
+
+				Superintendencia N° 014-2008/SUNAT y el presente procedimiento.
+
+
+2.Comisión de venta:
+ Al pago o remuneración que
+
+				otorga el vendedor a una persona natural o jurídica por su
+
+				intervención en una compraventa o en un negocio efectuado por
+
+				cuenta del vendedor.
+
+
+3.Comprador:
+ A la persona natural o jurídica
+
+				que adquiere la propiedad de la mercancía objeto del contrato de
+
+				compraventa y contrae la obligación de pagar al vendedor su
+
+				precio.
+
+
+4.DAM:
+A la declaración aduanera de mercancías.
+
+
+5.Datos objetivos y cuantificables:
+ A aquellos
+
+				que pueden demostrarse con elementos de hecho, tales como
+
+				documentos escritos, medios magnéticos, digitales o
+
+				electrónicos. Son susceptibles de cálculos matemáticos o de
+
+				verificación.
+
+
+6.DNI
+: Al documento nacional de identidad.
+
+
+7.Estudio de valor:
+ Al documento que contiene
+
+				precios de referencia sujetos a los requisitos y condiciones
+
+				previstos en el artículo 55 del Reglamento Comunitario de la
+
+				Decisión 571, aprobado por Resolución 1684 de la Secretaría
+
+				General de la Comunidad Andina, que puede ser empleado por la
+
+				autoridad aduanera para verificar el valor declarado y, de
+
+				corresponder, formular la duda razonable y determinar el valor
+
+				en aduana en aplicación del sexto método.
+
+
+8.FOB
+: Al incoterm “libre a bordo”, por sus
+
+				siglas en inglés (“free on board”).
+
+
+9.Importador:
+ A la persona natural o jurídica
+
+				que efectúa la importación en el Perú. Cuando este procedimiento
+
+				hace referencia al importador también alude al beneficiario de
+
+				los regímenes de admisión temporal para reexportación en el
+
+				mismo estado y admisión temporal para perfeccionamiento activo.
+
+
+10.Indicador de precios:
+A los valores de
+
+				mercancías, incluyendo los obtenidos por estudios de valor
+
+				basados, entre otros, en el costo de la materia prima o técnicas
+
+				estadísticas que correspondan a información del mercado
+
+				internacional en un periodo determinado, utilizados por la
+
+				autoridad aduanera como indicador de riesgo para verificar el
+
+				valor declarado y, de ser el caso, generar duda razonable o
+
+				determinar el valor en aduana de conformidad con las normas del
+
+				Acuerdo relativo a la aplicación del artículo VII del Acuerdo
+
+				General de Aranceles Aduaneros y Comercio de 1994. Estos
+
+				indicadores se encuentran registrados en el Sistema de
+
+				Verificación de Precios o en otros medios que establezca la
+
+				Administración Aduanera.
+
+
+11.Medio portador:
+ A cualquier objeto físico
+
+				diseñado principalmente para el uso de almacenar un producto
+
+				digital por cualquier método conocido en la actualidad o
+
+				desarrollado posteriormente y del cual un producto digital pueda
+
+				ser percibido, reproducido o comunicado, directa o
+
+				indirectamente. Incluye, pero no está limitado a, un medio
+
+				óptico, disquetes o una cinta magnética.
+
+
+12.Mercancía de la misma especie o clase:
+
+
+				Aquella mercancía perteneciente a un grupo o gama de mercancías
+
+				producidas por una rama de producción determinada o por un
+
+				sector de esta y comprende mercancías idénticas o similares,
+
+				pero no se limita a estas.
+
+
+13.MPV - SUNAT:
+A la mesa de partes virtual de
+
+				la SUNAT consistente en una plataforma informática disponible en
+
+				el portal de la SUNAT que facilita la presentación virtual de
+
+				los documentos.
+
+
+14.Pago indirecto:
+ Al pago que el comprador
+
+				hace a una persona distinta del vendedor en beneficio de este
+
+				último para satisfacer una obligación contraída por el vendedor,
+
+				como condición de la venta de las mercancías.
+
+
+15.País de adquisición:
+ Al país en el que se
+
+				realiza la transacción y donde generalmente se emite la factura
+
+				comercial.
+
+
+16.País de embarque:
+ Al país de procedencia
+
+				donde es embarcada inicialmente la mercancía con destino al
+
+				Perú. No se considera como tal al país en donde el medio de
+
+				transporte, una vez iniciado su trayecto con destino al Perú,
+
+				realiza una escala o un transbordo.
+
+
+17.País de origen:
+Al país donde se ha
+
+				fabricado, producido, cultivado, manufacturado o extraído la
+
+				mercancía importada.
+
+
+18.Precios de referencia:
+ A los precios de
+
+				carácter internacional de mercancías idénticas o similares a la
+
+				mercancía objeto de valoración, tomados de fuentes
+
+				especializadas tales como: libros, publicaciones, revistas,
+
+				catálogos, listas de precios, cotizaciones, antecedentes de
+
+				precios de importación de mercancías que hayan sido verificados
+
+				por la aduana y los tomados de los bancos de datos de la aduana,
+
+				incluidos los precios de las mercancías resultantes de los
+
+				estudios de valor. Estas fuentes constan en medios impresos,
+
+				digitales o electrónicos.
+
+
+19.Producto digital:
+ Al programa de cómputo,
+
+				texto, video, imagen, grabación de sonido y otros productos que
+
+				estén codificados digitalmente, independientemente de si están
+
+				fijos en un medio portador o son transmitidos electrónicamente.
+
+
+20.Retazo:
+A la pieza de tejido cuya longitud
+
+				sea menor a un metro lineal, excepto los tejidos de seda, lana o
+
+				pelo fino.
+
+
+21.Saldo o remanente textil:
+ A la pieza o rollo
+
+				de tejido cuya longitud continua sea mayor a un metro lineal,
+
+				pero menor a quince metros lineales.
+En el caso de los
+
+				tejidos de seda, lana o pelo fino, se considera como saldo o
+
+				remanente a aquel cuya longitud máxima sea hasta de tres metros
+
+				lineales.
+
+
+22.Sistema:
+Al sistema informático de la SUNAT.
+
+
+23.SIVEP:
+Al Sistema de Verificación de
+
+				Precios, módulo de consulta de precios de la SUNAT que contiene
+
+				referencias de precios de importación para la verificación del
+
+				valor declarado.
+
+
+24.TPPS:
+ A la tabla de porcentajes promedio de
+
+				seguro.
+
+
+25.Vendedor:
+ A la persona natural o jurídica
+
+				que transfiere la propiedad de la mercancía objeto de la
+
+				compraventa a cambio del pago de un precio; emite para ello una
+
+				factura comercial, documento equivalente o contrato.
+
+
+26.Ventas sucesivas:
+ A la serie de ventas de
+
+				que es objeto la mercancía antes de su importación o
+
+				introducción al territorio aduanero, o respecto a una venta en
+
+				dicho territorio anterior a la aceptación de la declaración en
+
+				aduana de la mercancía presentada para la importación.
+
+
+27.Verificar el valor:
+ A la facultad que tiene
+
+				la SUNAT para comprobar el valor declarado antes, durante o
+
+				después del despacho de una mercancía, de conformidad con el
+
+				artículo 17 del Acuerdo relativo a la aplicación del artículo
+
+				VII del Acuerdo General sobre Aranceles Aduaneros y Comercio de
+
+				1994
+
+
+V.  BASE LEGAL
+
+
+				-Acuerdo relativo a la aplicación del artículo VII del Acuerdo
+
+				General sobre Aranceles Aduaneros y Comercio de 1994, aprobado
+
+				por Resolución Legislativa N° 26407, publicada el 18.12.1994. En
+
+				adelante, el Acuerdo.
+
+
+				-Decisión 571 de la Comunidad Andina - Valor en aduana de las
+
+				mercancías importadas, publicada en la Gaceta Oficial del
+
+				Acuerdo de Cartagena N° 1023 el 15.12.2003.
+
+
+				-Resolución 1456 - Casos especiales de valoración aduanera,
+
+				publicada en la Gaceta Oficial del Acuerdo de Cartagena N° 2024
+
+				el 2.3.2012.
+
+
+				-Resolución 1684 - Reglamento Comunitario de la Decisión 571,
+
+				publicada en la Gaceta Oficial del Acuerdo de Cartagena N° 2340
+
+				el 28.5.2014. En adelante, el Reglamento Comunitario.
+
+
+				-Resolución 1952 - Sustitución de la Resolución 1239 sobre
+
+				Adopción de la Declaración Andina del Valor, publicada en la
+
+				Gaceta Oficial del Acuerdo de Cartagena N° 3104 el 9.10.2017.
+
+
+				-Ley de los Delitos Aduaneros, Ley N° 28008, publicada el
+
+				19.6.2003, y modificatorias.
+
+
+				-Ley General de Aduanas, Decreto Legislativo N° 1053, publicado
+
+				el 27.6.2008, y modificatorias. En adelante, la Ley.
+
+
+				-Texto Único Ordenado de la Ley para la lucha contra la evasión
+
+				y para la formalización de la economía, aprobado por Decreto
+
+				Supremo N° 150-2007-EF, publicado el 23.9.2007, y
+
+				modificatorias.
+
+
+				-Texto Único Ordenado del Código Tributario, aprobado por
+
+				Decreto Supremo N° 133-2013-EF, publicado el 22.6.2013, y
+
+				modificatorias. En adelante, el Código Tributario.
+
+
+				-Texto Único Ordenado de la Ley N° 27444 - Ley del Procedimiento
+
+				Administrativo General, aprobado por Decreto Supremo N°
+
+				004-2019-JUS, publicado el 25.1.2019, y modificatorias.
+
+
+				-Reglamento para la valoración de mercancías según el Acuerdo
+
+				sobre Valoración en Aduana de la OMC, aprobado por Decreto
+
+				Supremo N° 186-99-EF, publicado el 29.12.1999, y modificatorias.
+
+				En adelante, el Reglamento.
+
+
+				-Reglamento de la Ley de los Delitos Aduaneros, aprobado por
+
+				Decreto Supremo N° 121-2003-EF, publicado el 27.8.2003, y
+
+				modificatorias.
+
+
+				-Decreto Supremo N° 009-2004-EF que establece disposiciones
+
+				relativas a la aplicación del Acuerdo sobre Valoración en Aduana
+
+				de la OMC, publicado el 21.1.2004.
+
+
+				-Decreto Supremo N° 004-2009-EF que establece disposiciones
+
+				respecto al cobro de los derechos arancelarios para productos
+
+				digitales y la determinación del valor en aduana para medios
+
+				portadores, publicado el 13.1.2009.
+
+
+				-Reglamento del Decreto Legislativo N° 1053, Ley General de
+
+				Aduanas, aprobado por Decreto Supremo N° 010-2009-EF, publicado
+
+				el 16.1.2009, y modificatorias.
+
+
+				-Tabla de sanciones aplicables a las infracciones previstas en
+
+				la Ley General de Aduanas, aprobada por Decreto Supremo N°
+
+				418-2019-EF, publicado el 31.12.2019, y modificatoria.
+
+
+				-Resolución de Superintendencia N° 077-2020/SUNAT, que aprueba
+
+				la creación de la Mesa de Partes Virtual de la SUNAT, publicada
+
+				el 8.5.2020, y modificatorias.
+
+
+				-Resolución de Intendencia Nacional N° 000-ADT/2002-000123, que
+
+				aprueba la Tabla de Porcentajes Promedio de Seguro, publicada el
+
+				31.1.2002, y modificatorias.
+
+
+				VI. DISPOSICIONES GENERALES
+
+
+A.
+
+
+				A
+MBITO DE APLICACIÓN
+
+
+1.
+
+
+
+				El presente procedimiento es aplicable en la valoración de las
+
+				mercancías amparadas en las DAM correspondientes a los regímenes
+
+				de importación para el consumo, admisión temporal para
+
+				reexportación en el mismo estado, admisión temporal para
+
+				perfeccionamiento activo y exportación temporal para
+
+
+perfeccionamiento pasivo. También se aplica a
+
+				los demás regímenes en lo que no se oponga a su normatividad
+
+				específica.
+
+
+2.
+
+
+
+				La valoración de mercancías amparadas en una declaración
+
+				simplificada de importación se puede efectuar, a opción del
+
+				importador, de acuerdo con lo dispuesto en el presente
+
+				procedimiento o en la Cartilla de Referencia de Valores y sus
+
+				instrucciones, aprobada por Resolución de Superintendencia N°
+
+				000138-2022/SUNAT o norma que la modifique o sustituya.
+
+
+B.
+
+
+VALOR EN ADUANA DE LAS MERCANCÍAS IMPORTADAS Y DUDA
+
+				RAZONABLE
+
+
+1.El valor en aduana de las
+
+				mercancías importadas se determina conforme a las disposiciones
+
+				y métodos de valoración previstos en el Acuerdo, y constituye la
+
+				base imponible para el cálculo de los derechos de aduana ad
+
+				valorem.
+
+
+2.Los métodos de valoración
+
+				se aplican en forma sucesiva y excluyente en el siguiente orden:
+
+
+
+
+aPrimer
+
+				método: Valor de transacción de mercancías importadas.
+
+
+b)Segundo
+
+				método: Valor de transacción de mercancías idénticas.
+
+
+c)Tercer
+
+				método: Valor de transacción de mercancías similares.
+
+
+d)Cuarto
+
+				método: Valor deductivo.
+
+
+e)Quinto
+
+				método: Valor reconstruido.
+
+
+f)Sexto
+
+				método: Del último recurso.
+
+
+3.El valor de transacción
+
+				es el precio realmente pagado o por pagar por las mercancías
+
+				cuando estas se venden para su exportación al país de
+
+				importación, ajustado de conformidad con lo dispuesto en el
+
+				artículo 8 del Acuerdo.
+
+
+El valor de transacción
+
+				comprende, entre otros, los gastos de transporte y el costo del
+
+				seguro.
+
+
+4.Cuando el funcionario
+
+				aduanero duda del valor declarado, para determinar el valor en
+
+				aduana aplica el procedimiento de duda razonable a que se
+
+				refiere la Decisión 6.1 del Comité de Valoración en Aduana y el
+
+				artículo 11 del Reglamento.
+
+
+5.En las DAM con garantía
+
+				previa, la duda razonable se genera en la revisión post levante
+
+				conforme al procedimiento general “Importación para el consumo”
+
+				DESPA-PG.01. En el caso de las DAM bajo modalidad de despacho
+
+				urgente, esta se genera en la regularización.
+
+
+6.Para que el primer método
+
+				pueda ser aplicado y aceptado por la Administración Aduanera es
+
+				necesario que, con motivo de la notificación de la duda
+
+				razonable, el importador presente como sustento del precio
+
+				realmente pagado o por pagar, ajustado de conformidad con las
+
+				disposiciones del artículo 8 del Acuerdo, los documentos
+
+				comerciales, financieros y contables que amparen las mercancías
+
+				objeto de valoración. En caso no presente los documentos antes
+
+				mencionados o los presente parcialmente, se descarta el referido
+
+				método.
+
+
+En la evaluación de los
+
+				documentos presentados, la Administración Aduanera tiene en
+
+				consideración al artículo 12-B del Reglamento.
+
+
+Cuando el valor declarado
+
+				es inferior al determinado en un estudio de valor,
+
+				adicionalmente a la documentación indicada en el primer párrafo,
+
+				el importador debe presentar una explicación complementaria y
+
+				los documentos o pruebas que acrediten las razones o
+
+				circunstancias particulares de la transacción comercial que
+
+				permitieron obtener el valor declarado. Cuando estos no se
+
+				presenten o no sean satisfactorios, el funcionario aduanero
+
+				descarta el primer método y determina el valor aplicando los
+
+				siguientes métodos previstos en el Acuerdo.
+
+
+7.
+
+
+
+				El procedimiento de duda razonable cuenta con las siguientes
+
+				etapas, según corresponda:
+
+
+				a.Generación de la duda razonable.
+
+
+				b.Presentación del sustento del valor declarado.
+
+
+				c.Confirmación de la duda razonable, descarte del primer método
+
+				y requerimiento de referencias de precios para la aplicación del
+
+				segundo o tercer método.
+
+
+				d.Presentación de referencias de precios.
+
+
+				e.Requerimiento de información para la aplicación del cuarto o
+
+				quinto método.
+
+
+				f.Presentación de la información para aplicar el cuarto o quinto
+
+				método.
+
+
+g.Emisión
+
+				de informe de determinación de valor o de verificación del valor
+
+				declarado.
+
+
+Conforme al
+
+				último párrafo del artículo 11 del Reglamento, en cualquier
+
+				etapa del procedimiento de duda razonable el importador puede
+
+				autoliquidarse.
+8.Si durante el procedimiento de duda
+
+				razonable, en la reclamación o en el control posterior el
+
+				importador presenta una declaración de exportación o cualquier
+
+				otro documento en idioma distinto al castellano con el fin de
+
+				acreditar el valor declarado, la autoridad aduanera está
+
+				facultada a solicitar la traducción del documento
+
+
+C
+.
+
+
+				GASTO DE TRANSPORTE
+
+
+1. El gasto de transporte aceptado para la
+
+				determinación del valor en aduana de las mercancías importadas
+
+				comprende todos aquellos gastos que permiten poner la mercancía
+
+				en el lugar de importación, sin perjuicio de quien efectúe o
+
+				reciba el pago. Se entiende por lugar de importación aquel en el
+
+				que la mercancía es sometida por primera vez a las formalidades
+
+				aduaneras referidas a la recepción y control de los documentos
+
+				de transporte en el momento del arribo.
+
+
+
+
+2. También se considera gasto de transporte
+
+				el costo o el alquiler de los contenedores, cilindros, tanques o
+
+				similares que sean utilizables para el transporte de mercancías,
+
+				el que debe ser comprobado con datos objetivos y cuantificables.
+
+				En este caso se hace el debido prorrateo, cuando corresponda.
+
+
+
+
+3. El gasto de transporte incluye los
+
+				gastos conexos pagados por el transporte de las mercancías hasta
+
+				el lugar de importación.
+
+
+4. Los gastos conexos al transporte
+
+				comprenden los gastos de carga, estiba, desestiba, descarga,
+
+				manipulación y otros ocasionados por el transporte de las
+
+				mercancías importadas hasta el lugar de importación.
+
+
+
+
+Los gastos conexos al transporte son, entre
+
+				otros, los que se detallan a continuación y se declaran como
+
+				parte del:
+
+
+a)Valor FOB:
+
+
+a.1.INLAND FREIGHT: Gasto por el flete
+
+				interno en el país de exportación, desde el almacén del vendedor
+
+				hasta el puerto de embarque.
+a.2. PICK UP: Gasto por el
+
+				recojo de las mercancías en el almacén del vendedor y por
+
+				colocarla en el medio de transporte para su traslado en el país
+
+				de embarque.
+a.3.THC (Terminal Handling Charge): Gasto por el
+
+				manipuleo de contenedores prestado en el país de embarque.
+
+
+
+
+b)Flete:
+
+
+b.1.BAF (Bunker Adjustment Factor): Gasto por
+
+				ajuste del flete como consecuencia de un incremento del precio
+
+				del combustible.
+b.2.COLLECT FEE: Gasto por el derecho de
+
+				cancelar el flete en destino.
+b.3.HANDLING: Gasto por recibir
+
+				los documentos de transporte en destino.
+b.4.THC: Gasto por
+
+				el manipuleo de contenedores prestado durante un transbordo en
+
+				un punto intermedio dentro del trayecto de las mercancías desde
+
+				el punto de embarque hasta el punto de destino.
+
+
+5.Los gastos conexos al transporte forman
+
+				parte del valor de transacción sin perjuicio de la persona que
+
+				los pague y de la forma, momento o lugar donde se efectúa el
+
+				pago. Es indiferente la sigla, acrónimo o vocablo en idioma
+
+				extranjero utilizado.
+
+
+
+
+6.El gasto de transporte y los gastos
+
+				conexos al transporte correspondientes a servicios prestados en
+
+				el lugar de importación no forman parte del valor en aduana
+
+				cuando se distingan de los gastos totales de transporte; es
+
+				decir, cuando estén indicados separadamente en la factura
+
+				comercial, en el contrato de compraventa, en el contrato de
+
+				transporte o en otro documento comercial que se presente a
+
+				efectos de la valoración aduanera.
+
+
+
+
+7.Cuando el gasto de transporte y los
+
+				gastos conexos al transporte estén contenidos en la factura
+
+				comercial y el importe pactado entre el vendedor y el comprador
+
+				resulte diferente del que realmente haya pagado el vendedor a un
+
+				tercero, se toman en cuenta los gastos reales pagados en
+
+				definitiva por concepto del servicio de transporte y gastos
+
+				conexos hasta el lugar de importación, de conformidad con el
+
+				documento de transporte.
+
+
+
+
+Cuando la factura comercial ampare un gasto
+
+				de transporte mayor al que establece el documento de transporte,
+
+				la diferencia forma parte del gasto de transporte para el
+
+				cálculo del valor en aduana de las mercancías, salvo que el
+
+				importador demuestre que la diferencia fue reembolsada o no va a
+
+				ser pagada.
+
+
+
+
+8.Para la declaración del valor FOB y del
+
+				flete en el transporte multimodal con lugar de entrega de la
+
+				mercancía en el interior del país de exportación, se considera
+
+				como parte del valor FOB el flete interno en el país de
+
+				exportación desde el lugar de entrega hasta un punto conocido en
+
+				la frontera del país de exportación por donde pase la mercancía
+
+				con destino al país de importación. El gasto de transporte desde
+
+				ese punto hasta el lugar de importación se considera como parte
+
+				del flete internacional.
+
+
+9.Si el flete correspondiente a cada
+
+				mercancía no está individualizado en el documento de transporte
+
+				o factura comercial, para formular la DAM el valor del flete se
+
+				calcula:
+
+
+a)Cuando se cuente con la información
+
+				del peso bruto individual de cada mercancía, en forma
+
+				proporcional tomando en cuenta el peso bruto manifestado o
+
+				rectificado de cada serie, el peso bruto total y el valor del
+
+				flete total:
+
+
+
+
+
+
+
+				flete total (*) x peso bruto de c/serie
+
+
+				Flete de la serie    =
+
+				------------------------------------------------------
+
+
+				peso bruto total (*)
+
+
+(*) Flete y
+
+				peso bruto totales de las series vinculadas a un mismo documento
+
+				de transporte.
+
+
+b)En los demás casos, en forma proporcional
+
+				al valor FOB total.
+En la transmisión de datos de la DAM se
+
+				declara el código asignado al tipo de prorrateo utilizado para
+
+				calcular el flete:
+
+
+				i. Código 1 - No se prorratea.
+
+
+				ii. Código 2 - Tipo de prorrateo de acuerdo con el FOB.
+
+
+				iii. Código 3 - Tipo de prorrateo de acuerdo con el peso.
+
+
+				Para subsanar un error en el prorrateo del flete de una DAM de
+
+				un despacho parcial, corresponde rectificar la DAM.
+
+
+D
+.
+
+
+				COSTO DEL SEGURO
+
+
+D.1 Aspectos generales
+
+
+1.El costo del seguro comprende los costos
+
+				en que se incurre para cubrir los riesgos de daños o pérdidas de
+
+				las mercancías durante las operaciones de transporte, carga,
+
+				descarga y manipulación desde el lugar de entrega en el exterior
+
+				hasta el lugar de importación.
+
+
+
+
+2.En la importación de mercancías
+
+				aseguradas, el costo del seguro se demuestra con la póliza
+
+				expedida por la compañía aseguradora o el certificado de
+
+				aplicación de póliza individual.
+
+
+
+
+3.En la importación de mercancías no
+
+				aseguradas, se considera como costo del seguro el porcentaje
+
+				previsto en la TPPS.
+
+
+
+
+4.Si el despacho comprende mercancías
+
+				aseguradas y no aseguradas, el importador declara expresamente
+
+				las mercancías que se encuentran aseguradas y presenta la
+
+				documentación sustentatoria. De no presentar la documentación o
+
+				presentarla incompleta, se le notifica para que en el plazo
+
+				otorgado lo subsane; en caso contrario el funcionario aduanero
+
+				aplica la TPPS y la sanción correspondiente.
+
+
+5.Las reglas sobre el costo del seguro
+
+				también son aplicables en la importación realizada con
+
+				declaración simplificada.
+
+
+
+
+D.2 Mercancia asegurada
+
+
+
+1.En el caso de
+
+				mercancías aseguradas, el costo del seguro que se consigna en la
+
+				DAM es el importe correspondiente a la prima efectivamente
+
+				pagada por este concepto y se acredita con la documentación
+
+				sustentatoria prevista en este literal.
+
+
+2.Cuando el costo del seguro esté contenido
+
+				en la factura comercial y el importe pactado entre el vendedor y
+
+				el comprador resulte diferente del que realmente haya pagado el
+
+				vendedor a un tercero, se toma en cuenta el gasto real pagado en
+
+				definitiva por concepto del costo del seguro hasta el lugar de
+
+				importación, de conformidad con la póliza expedida por la
+
+				compañía aseguradora o certificado de aplicación de póliza
+
+				individual.
+
+
+
+
+Si la factura comercial ampara un costo de
+
+				seguro mayor al que establece la póliza de seguro o el
+
+				certificado de aplicación de póliza individual, la diferencia
+
+				forma parte del costo del seguro para el cálculo del valor en
+
+				aduana de las mercancías, salvo que el importador demuestre que
+
+				la diferencia fue reembolsada o no va a ser pagada.
+3.Cuando
+
+				la DAM está sustentada en una factura comercial en términos de
+
+				negociación CIF (costo, seguro y flete) o en otro incoterm que
+
+				comprende el gasto de seguro hasta el lugar de importación, no
+
+				se requiere la transmisión o presentación de la póliza de seguro
+
+				individual y del sustento de la póliza de seguro flotante o
+
+				abierta. En este supuesto el gasto de seguro se encuentra
+
+				sustentado en la factura comercial.
+
+
+
+
+4.Para el cálculo del costo del seguro de
+
+				la mercancía asegurada se toma como base la suma asegurada y el
+
+				porcentaje (tasa) de la prima fijada por la compañía
+
+				aseguradora.
+Generalmente, la suma asegurada es equivalente
+
+				a:
+
+
+      a)el valor
+
+				FOB facturado de la mercancía;
+     b)el
+
+				valor CFR (costo y flete); o
+     c)el
+
+				valor CFR más un porcentaje de sobreseguro.
+
+
+5.Se considera como parte del costo del
+
+				seguro a declarar el recargo adicional por contingencias, tales
+
+				como guerras o huelgas.
+
+
+6.Los gastos consignados como derecho de
+
+				emisión e impuestos que estén distinguidos en la factura emitida
+
+				por la compañía aseguradora no forman parte de la prima de
+
+				seguro.
+
+
+7.La póliza de seguro puede ser individual
+
+				o flotante.
+
+
+8.En la póliza de seguro individual o en la
+
+				aplicación de una póliza de seguro flotante debe figurar como
+
+				mínimo: el nombre del asegurado; el nombre del medio de
+
+				transporte; la fecha de salida; el lugar de embarque; la
+
+				descripción, naturaleza y valor de la mercancía asegurada; la
+
+				tasa de seguro (básica y adicional, según corresponda) y el
+
+				total de la suma asegurada.
+
+
+
+
+9.La póliza de seguro individual debe:
+
+
+				a)Ser emitida con anterioridad a la fecha de llegada de la
+
+				mercancía.
+   b)Estar referida solo a mercancías
+
+				consignadas en un embarque.
+   c)Ser presentada a
+
+				despacho como sustento del gasto de seguro y corresponder al
+
+				precio realmente pagado o por pagar.
+   Cuando el
+
+				seguro ha sido contratado por el importador y se encuentra
+
+				cancelado, el costo del seguro se sustenta con la factura
+
+				correspondiente; en caso no haya sido cancelado, se sustenta con
+
+				la póliza de seguro individual.
+
+
+
+
+10.La póliza de seguro flotante o abierta
+
+				ampara distintos embarques.
+    Cuando la
+
+				mercancía se encuentra asegurada con póliza flotante, el gasto
+
+				de seguro se sustenta con:
+
+
+
+
+a)el documento denominado “aplicación” que
+
+				se presenta para cada despacho con la constancia de recepción de
+
+				la compañía aseguradora; o
+
+
+b)la declaración jurada, cuando no se
+
+				disponga del documento denominado “aplicación” o la mercancía ha
+
+				sido asegurada por compañías de seguros del exterior. Esta
+
+				declaración es firmada por el importador indicando que la
+
+				mercancía presentada a despacho goza de la cobertura del seguro
+
+				y especifica:
+
+
+       b.1.El
+
+				nombre o razón social de la compañía aseguradora, número de la
+
+				póliza flotante y su vigencia.
+
+
+				b.2.La prima de seguro, tasa básica y recargos por riesgos
+
+				adicionales (tasas adicionales).
+
+
+				b.3.El porcentaje de sobreseguro, de corresponder.
+
+
+				b.4.La prima mínima, de corresponder.
+
+
+				b.5.El monto máximo que cubre el seguro.
+
+
+
+
+Además de la presentación de la declaración
+
+				jurada, el importador acredita que comunicó oportunamente a la
+
+				compañía aseguradora el embarque hacia el Perú de la mercancía
+
+				presentada a despacho.
+
+
+
+
+11.En las negociaciones comerciales en las
+
+				que el vendedor haya contratado el seguro de la mercancía y el
+
+				importador contrate otro seguro o mantenga la póliza flotante
+
+				que cubre el transporte internacional de las mismas mercancías,
+
+				por distintas o iguales coberturas, se declara como costo de
+
+				seguro la suma de ambos seguros contratados.
+
+
+12.En caso el contrato de seguro estipule
+
+				una prima mínima, esta debe ser declarada como costo de seguro
+
+				cuando represente el monto realmente pagado o por pagar por este
+
+				concepto.
+
+
+13.Cuando el costo del seguro
+
+				correspondiente a cada mercancía no esté individualizado en la
+
+				póliza de seguro, en el certificado de aplicación de póliza
+
+				individual o en la factura comercial, el valor del seguro se
+
+				calcula de acuerdo con la siguiente fórmula:
+
+
+
+
+				seguro total x valor FOB total de c/serie
+seguro de la serie
+
+				= -------------------------------------------------------
+
+
+				valor FOB total
+
+
+D.3 Mercancia no asegurada
+
+
+				1.El costo del seguro de las mercancías no aseguradas se
+
+				determina conforme a la TPPS publicada en el Diario Oficial El
+
+				Peruano y en el portal de la SUNAT (www.sunat.gob.pe).
+
+
+				2.Para determinar el costo del seguro se aplica la tasa fijada
+
+				en la TPPS sobre el valor FOB declarado, de acuerdo con la
+
+				subpartida nacional contenida en el Arancel de Aduanas vigente.
+
+
+Cuando se sustituye el valor FOB o se adicionan a éste
+
+				conceptos o ajustes que forman parte del valor en aduana, tales
+
+				como pago indirecto, comisión de venta o regalías, el nuevo
+
+				valor resultante se toma como base para la aplicación de la tasa
+
+				fijada en la TPPS.
+
+
+				3.También se aplica la TPPS cuando la mercancía se encuentra
+
+				asegurada pero no es posible determinar el monto de la prima que
+
+				le corresponde por tratarse de negociaciones de seguros globales
+
+				o que otorgan cobertura global a diferentes operaciones de
+
+				transporte que no permiten obtener datos objetivos y
+
+				cuantificables.
+
+
+E.DESCUENTOS
+
+
+				1.Para determinar el valor de transacción se acepta el descuento
+
+				otorgado por el vendedor siempre que se presenten las siguientes
+
+				condiciones en forma concurrente:
+
+
+a)El
+
+				descuento esté relacionado con las mercancías objeto de
+
+				valoración.
+b)El comprador se beneficie realmente del
+
+				descuento, esto es, que se cumplan los presupuestos que dieron
+
+				origen al descuento.
+c)En la factura comercial o en el
+
+				contrato de compraventa internacional se distinga del precio de
+
+				la mercancía y se identifique el concepto y cuantía del
+
+				descuento. La copia del contrato se presenta en el despacho del
+
+				régimen de importación para el consumo o cuando la autoridad
+
+				aduanera lo requiera.
+d)No se trate de un descuento de
+
+				carácter retroactivo, es decir, concedido para mercancías
+
+				importadas con anterioridad a aquella a la que se está
+
+				valorando.
+e)No esté considerado como pago indirecto.
+
+
+				f)El total de las mercancías objeto del descuento haya sido
+
+				vendido para la exportación al territorio aduanero nacional y
+
+				comprado por la misma persona.
+De no cumplirse con cualquiera
+
+				de las condiciones previstas en el párrafo precedente, el
+
+				descuento se desestima y se considera como parte del precio
+
+				realmente pagado o por pagar para determinar el valor en aduana.
+
+
+				2.La nota de crédito es un documento complementario a la factura
+
+				comercial o al contrato de compraventa emitida por el vendedor
+
+				al mismo comprador para rebajar el valor facturado.
+Para
+
+				considerar el descuento de la nota de crédito se deben cumplir
+
+				las condiciones descritas en el numeral anterior.
+
+
+				3.Cuando el funcionario aduanero tiene motivos para dudar de la
+
+				veracidad del precio neto declarado o del cumplimiento de las
+
+				condiciones indicadas en el numeral 1 respecto del descuento
+
+				consignado en la factura comercial, en el contrato de
+
+				compraventa o en la nota de crédito, formula duda razonable con
+
+				sujeción a las disposiciones del presente procedimiento.
+
+
+F.PRECIO DE REFERENCIA
+
+
+				1.El precio de referencia puede ser utilizado en la verificación
+
+				del valor declarado para:
+
+
+ a)Formular
+
+				duda razonable sobre el valor declarado. El precio de referencia
+
+				puede ser aplicado para determinar el monto de la garantía que
+
+				deba constituirse para otorgar el levante de las mercancías.
+
+
+				b)Determinar el valor: En aplicación del sexto método.
+
+
+				c)Actualizar la base de datos de precios: Como indicador de
+
+				riesgo para efectos de la actualización del SIVEP.
+
+
+2.El precio de
+
+				referencia debe cumplir los requisitos previstos en el artículo
+
+				55 del Reglamento Comunitario y los siguientes elementos
+
+				mínimos:
+
+
+				a)Especificación de la mercancía.
+b)Cantidad de mercancía (en
+
+				el caso de cotizaciones).
+c)Incoterm (en el caso de
+
+				cotizaciones).
+d)Fecha.
+e)Nombre del editor, proveedor o
+
+				identificación de su representante (no aplica a estudios de
+
+				valor).
+
+
+3.El funcionario
+
+				aduanero puede emplear una referencia contenida en internet
+
+				siempre que cumpla los requisitos de un precio de referencia
+
+				conforme a lo dispuesto en el numeral precedente.
+
+
+G. LISTA DE PRECIOS DE EXPORTACION
+
+
+1.
+
+				La lista de precios de exportación es emitida por el vendedor.
+
+
+2.
+
+				El proveedor, importador o el agente de aduana en representación
+
+				del importador puede solicitar el registro de la lista de
+
+				precios de exportación en el SIVEP. Esta lista debe:
+
+
+				a)Tener la siguiente información mínima:
+
+
+
+
+				a.1. Nombre o razón social del vendedor extranjero, incluyendo
+
+				su dirección, teléfono, página web y otros datos de
+
+				identificación.
+   a.2. Descripción o designación
+
+				de las mercancías, incluyendo marca, modelo, tipo, códigos y
+
+				otros.
+   a.3. Unidad de comercialización.
+
+
+				a.4. Precio unitario de cada producto.
+   a.5.
+
+				Condiciones de entrega (incoterm).
+   a.6. Periodo
+
+				de vigencia.
+   a.7. Descuentos otorgados; de
+
+				corresponder, especificar.
+   a.8. Comisiones, de
+
+				corresponder.
+   a.9. Firma de la persona
+
+				autorizada por el vendedor extranjero.
+
+
+				b) Cumplir las siguientes condiciones:
+
+
+				b.1.Tener carácter general aun cuando esté dirigida a un cliente
+
+				en particular.
+    b.2.Contener la totalidad
+
+				de los productos de la línea de comercialización del vendedor y
+
+				no solamente los productos correspondientes a la factura
+
+				comercial vinculada al despacho de importación objeto de
+
+				valoración.
+    b.3.No debe hacer referencia a
+
+				mercancías en estado de usadas.
+La información mínima y
+
+				condiciones antes detalladas deben obrar en la propia lista de
+
+				precios de exportación y no en documentos anexos o
+
+				complementarios.
+La Administración Aduanera puede solicitar
+
+				la traducción al castellano de la lista de precios de
+
+				exportación.
+
+
+				3.Cuando la lista de precios de exportación cumple con la
+
+				información mínima y las condiciones establecidas en el numeral
+
+				2, la Administración Aduanera solicita su confirmación al
+
+				vendedor. La confirmación comprende la respuesta del vendedor
+
+				respecto de la autenticidad y veracidad de la lista, así como su
+
+				remisión en archivo, en formato TXT, DBF u hoja de cálculo.
+
+				Transcurridos sesenta días calendarios contados a partir del día
+
+				siguiente de la notificación del requerimiento sin recibir la
+
+				respuesta del vendedor, la solicitud de registro de la lista de
+
+				precios en el SIVEP es desestimada.
+
+
+				4.La División de Valoración evalúa que la lista de precios de
+
+				exportación cumpla con lo previsto en los numerales 2 y 3; de
+
+				corresponder, la registra en el SIVEP y comunica este hecho al
+
+				importador.
+
+
+H.  VALOR EN EVALUACIÓN
+
+
+				1.El valor en evaluación se encuentra en proceso de
+
+				investigación o estudio por lo que no puede ser utilizado:
+
+
+				a)Como referencia para generar duda razonable.
+b)Para
+
+				sustentar el valor declarado.
+c)Para aplicar el segundo,
+
+				tercero y sexto método.
+2.La investigación o estudio del
+
+				valor en evaluación se efectúa según criterios de gestión de
+
+				riesgo, dentro del plazo de prescripción.
+
+
+I. OTROS CONCEPTOS
+
+
+				1.No forma parte del valor en aduana de la mercancía el impuesto
+
+				interno del país de exportación que figura en la factura
+
+				comercial o comprobante de pago cuando este no es pagado por el
+
+				importador o le ha sido reembolsado.
+
+
+				2.Para la aplicación del primer método no es aceptable la
+
+				factura comercial emitida por el consolidador de carga, salvo
+
+				que el importador presente, adicionalmente, las facturas
+
+				comerciales emitidas por los vendedores de la mercancía al
+
+				momento del despacho o cuando la autoridad aduanera lo solicite
+
+				y la sumatoria de los montos de estas sea igual o menor al valor
+
+				de la factura emitida por el consolidador.
+
+
+				3.El pago efectuado para obtener una opción de compra preferente
+
+				por la mercancía importada está comprendido en el precio
+
+				realmente pagado o por pagar, al constituir un pago efectuado
+
+				como condición de venta conforme lo dispone el numeral 7 del
+
+				anexo III del Acuerdo.
+
+
+VII. DESCRIPCIÓN
+
+
+A.LLENADO DE LA DAM
+
+
+				1.El dueño o consignatario, en su condición de importador,
+
+				declara la información de la transacción comercial en el formato
+
+				B de la DAM, conforme al instructivo “Declaración aduanera de
+
+				mercancías (DAM)” DESPA-IT.00.04 y las normas sobre
+
+				descripciones mínimas, cuando corresponda.
+El formato B de
+
+				la DAM es suscrito por el agente de aduana en representación del
+
+				importador, al amparo del mandato establecido en la Ley, para lo
+
+				cual hace uso de su clave electrónica.
+
+
+El
+
+				dueño o consignatario es responsable ante la SUNAT por los datos
+
+				contenidos en el formato B de la DAM.
+
+
+				2.La información declarada debe ser correcta, completa, exacta y
+
+				coincidir con la que se encuentra en los documentos de la
+
+				transacción comercial.
+
+
+				3.Para una correcta declaración se consideran como equivalentes
+
+				los siguientes incoterms:
+a)FOB con FCA.
+b)CFR con CPT.
+
+
+				c)CIF con CIP.
+
+
+4.No
+
+				es exigible la transmisión del formato B de la DAM en:
+a)La
+
+				importación efectuada por el personal diplomático nacional.
+
+
+				b)La importación efectuada por el personal diplomático
+
+				extranjero o por organismos internacionales.
+c)La importación
+
+				de mercancías donadas que gocen de liberación total de tributos
+
+				por ley expresa.
+d)La importación de bienes destinados a la
+
+				atención de catástrofes y casos similares de emergencia.
+e)La
+
+				importación de material de guerra.
+f)El despacho simplificado
+
+				de importación.
+g)El despacho de equipaje y menaje de casa.
+
+
+				5.El formato B de la DAM se transmite al momento de su
+
+				numeración, con excepción de las declaraciones de despacho
+
+				anticipado con garantía previa (artículo 160 de la Ley) o
+
+				consignadas a un importador acreditado como operador económico
+
+				autorizado, supuestos en los que la transmisión se efectúa en
+
+				los siguientes momentos en función del canal de control:
+
+
+				a)Rojo, antes del envío de la solicitud electrónica de
+
+				reconocimiento físico (SERF).
+b)Naranja, antes del envío de
+
+				la documentación digitalizada sustentatoria del despacho.
+
+
+				c)Verde, antes del levante o de la regularización electrónica de
+
+				la declaración, cuando corresponda.
+En la importación para el
+
+				consumo de vehículos automotores usados y cuando se declare
+
+				mercancías que contengan valores provisionales, el formato B
+
+				siempre se transmite al momento de la numeración de la DAM.
+
+
+				6.Antes de transmitir la DAM, el despachador de aduana verifica
+
+				o comprueba que:
+
+
+				a)Los datos de identificación del importador, persona natural,
+
+				que formula el formato B correspondan a su DNI o carné de
+
+				extranjería. En caso actúe a través de un representante, que
+
+				este se encuentre debidamente autorizado.
+Si se trata de una
+
+				persona jurídica, quien formula el formato B de la DAM debe ser
+
+				un representante debidamente autorizado por esta, lo que se
+
+				acredita conforme al instructivo “Declaración aduanera de
+
+				mercancías (DAM)” DESPA-IT.00.04.
+b)El importador haya
+
+				cumplido con la formulación correcta, completa y exacta del
+
+				formato B de la DAM.
+c)El valor declarado concuerde con la
+
+				información de la documentación que sustenta la transacción
+
+				comercial.
+d)La información consignada en las casillas del
+
+				formato A concuerde con la del formato B y con la documentación
+
+				que sustenta la DAM, incluyendo la que proporciona el importador
+
+				en forma adicional.
+e)El importador haya declarado
+
+				correctamente el valor provisional.
+f)Se haya adicionado los
+
+				gastos consignados en los documentos presentados para el
+
+				despacho, que según el Acuerdo forman parte del valor en aduana
+
+				y que no han sido consignados por el importador.
+g)Cuando no
+
+				exista venta para la exportación al país de importación, se
+
+				declara el valor de las mercancías con arreglo al segundo o
+
+				tercer método. En estos casos, comprueba que se declare en la
+
+				casilla “observaciones” del formato B de la DAM la fuente o
+
+				documento que sustenta el valor declarado.
+
+
+La
+
+				aplicación de estos métodos se hace en forma sucesiva y
+
+				excluyente, de acuerdo con la información suministrada por el
+
+				importador u obtenida en despachos anteriores que haya conocido
+
+				o que conozca.
+
+
+7.
+
+				La declaración andina del valor es exigible para la destinación
+
+				aduanera de mercancías a los regímenes aduaneros que requieren
+
+				la transmisión del formato B de la DAM, cualquiera sea el país
+
+				de procedencia. Esta se entiende presentada con la transmisión
+
+				electrónica de la información comprendida en el formato B de la
+
+				DAM.
+
+
+B.VERIFICACIÓN DE LA INFORMACIÓN DECLARADA
+
+
+				1.En la DAM seleccionada a canal naranja o rojo, adicionalmente
+
+				a lo dispuesto en el procedimiento general “Importación para el
+
+				consumo” DESPA-PG.01, el funcionario aduanero verifica que:
+
+
+				a)Los documentos que sustentan el valor declarado contengan la
+
+				información detallada de la mercancía de manera legible y sin
+
+				adulteraciones.
+b)La información del formato B concuerde con
+
+				la consignada en el formato A de la DAM.
+c)La información
+
+				sobre descripciones mínimas sea completa.
+d)El valor en
+
+				aduana declarado concuerde con la información de los documentos
+
+				que lo sustentan y que el cálculo efectuado del referido valor
+
+				sea el correcto.
+e)En la declaración del valor provisional se
+
+				cumpla con el procedimiento detallado en el literal F.
+f)En
+
+				la autoliquidación de tributos por conceptos previstos en los
+
+				artículos 1 y 8 del Acuerdo se señale el número de la DAM que da
+
+				origen a la deuda.
+g)Se haya incluido en la DAM el gasto de
+
+				transporte, el costo del seguro y otros conceptos que forman
+
+				parte del valor en aduana.
+
+
+				2.Si, como resultado de la evaluación de la documentación
+
+				presentada, el funcionario aduanero encuentra que el valor
+
+				declarado no concuerda con la documentación que lo sustenta o no
+
+				incluye alguno de los conceptos que forman parte del valor en
+
+				aduana, solicita la documentación que subsane la incidencia
+
+				encontrada y efectúa de oficio la rectificación correspondiente
+
+				o, de corresponder, requiere la transmisión de la solicitud de
+
+				rectificación electrónica. Posteriormente registra la incidencia
+
+				en la diligencia de despacho conforme al procedimiento
+
+				“Importación para el consumo” DESPA-PG.01.
+La incidencia se
+
+				considera como una incorrecta declaración del valor en aduana,
+
+				en los casos que corresponda.
+
+
+				3.La verificación del valor declarado en la importación donde se
+
+				haya efectuado extracción de muestras se realiza en el momento
+
+				en que se recibe el boletín químico.
+
+
+				4.El funcionario aduanero verifica el valor declarado. Para este
+
+				fin, procede a su comparación con indicadores de precios o
+
+				precios de referencia de una mercancía idéntica o similar:
+
+
+				a)Del mismo país de origen (producida en el mismo país) y del
+
+				mismo país de embarque (país de exportación) que el de la
+
+				mercancía que se está valorando; y
+
+
+				b)Que haya sido exportada al Perú y corresponda en forma
+
+				sucesiva y excluyente:
+
+
+b.1.
+
+				Al mismo proveedor en el mismo momento.
+b.2. Al mismo
+
+				proveedor en un momento aproximado.
+b.3. A otros proveedores
+
+				en el mismo momento.
+b.4. A otros proveedores en un momento
+
+				aproximado.
+
+
+				Respecto al momento aproximado, se consideran periodos de tiempo
+
+				de hasta trescientos sesenta y cinco días calendario. La
+
+				referencia de precio puede ser anterior o posterior,
+
+				prevaleciendo aquella referencia con fecha de embarque más
+
+				próxima a la fecha de embarque de la mercancía objeto de
+
+				valoración. De disponerse de dos o más referencias que resulten
+
+				igual de próximas, se utiliza la de valor más bajo.
+
+
+De
+
+				no contarse con una referencia de mercancía idéntica o similar
+
+				del mismo país de exportación, se puede utilizar una referencia
+
+				de país de exportación distinto. Para tal efecto, la
+
+				Administración Aduanera está facultada para hacer las
+
+				deducciones o adiciones que correspondan por las diferencias de
+
+				gastos de transporte o de seguro, siempre que cuente con datos
+
+				objetivos y cuantificables.
+
+
+				5.Se puede emplear un indicador de precios o un precio de
+
+				referencia de mercancías importadas en una cantidad o con un
+
+				nivel comercial diferente a la que es objeto de valoración
+
+				cuando se determine que la variación de la cantidad o nivel
+
+				comercial no influye en la fijación del precio de la mercancía
+
+				que se valora.
+
+
+				6.Se puede presentar autoliquidación de tributos después de
+
+				numerada la DAM y antes de la generación de la duda razonable
+
+				cuando no se ha declarado alguno de los conceptos previstos en
+
+				los artículos 1 y 8 del Acuerdo.
+
+
+				7.Una vez generada la duda razonable, conforme al artículo 11
+
+				del Reglamento, se puede presentar una autoliquidación de
+
+				tributos por la diferencia existente entre los tributos
+
+				cancelados y los que podrían gravar la importación:
+a)en base
+
+				al valor de mercancías idénticas o similares, cuando decide no
+
+				sustentar el valor declarado ni desvirtuar la duda razonable, o
+
+
+				b)si considera que no ha incluido en la DAM algún concepto que
+
+				forma parte del valor en aduana conforme a los artículos 1 y 8
+
+				del Acuerdo.
+
+
+C.APLICACION DEL VALOR DE TRANSACCION
+
+
+				1.Para la aplicación del primer método, la factura comercial
+
+				debe cumplir con los requisitos previstos en el artículo 9 del
+
+				Reglamento Comunitario y el artículo 5 del Reglamento.
+De
+
+				detectarse algún error u omisión en los requisitos de la factura
+
+				comercial, el funcionario aduanero requiere al importador -en
+
+				aplicación del procedimiento de duda razonable previsto en el
+
+				literal D- información o documentación complementaria que
+
+				permita subsanar el error u obtener la información omitida.
+
+
+				Cuando la información o documentación no se presenta o la que es
+
+				presentada no subsana el error u omisión detectado en la factura
+
+				comercial, el funcionario aduanero descarta la aplicación del
+
+				primer método y recurre sucesivamente a cada uno de los
+
+				restantes métodos previstos en el Acuerdo.
+
+
+				2.A fin de verificar que el valor declarado es el valor de
+
+				transacción, el funcionario aduanero puede acceder a la
+
+				información registrada en la página web del vendedor. Si esta es
+
+				reservada puede acceder con autorización del vendedor o
+
+				importador.
+
+
+3.
+
+				En la evaluación del primer método, el funcionario aduanero
+
+				verifica que el pago por las mercancías importadas se haya
+
+				efectuado utilizando medios de pago a través del sistema
+
+				financiero, conforme a lo dispuesto en el Texto Único Ordenado
+
+				de la Ley para la lucha contra la evasión y para la
+
+				formalización de la economía.
+De existir duda con relación a
+
+				la documentación vinculada al medio de pago utilizada por el
+
+				importador para sustentar el precio pagado por las mercancías,
+
+				la Administración Aduanera puede solicitar a las entidades del
+
+				sistema financiero su conformidad o la información relacionada
+
+				con la operación que involucre el pago al exterior por las
+
+				mercancías importadas.
+Los documentos financieros presentados
+
+				como sustento del valor declarado deben acreditar que
+
+				corresponden a la transacción de las mercancías objeto de
+
+				valoración. Para tal efecto, deben contener la siguiente
+
+				información:
+
+
+a)
+
+				Concepto de pago: Se consigna el número de la factura comercial,
+
+				factura proforma, orden de compra, identificación de un contrato
+
+				o cualquier documento que identifique la transacción a que se
+
+				refiere la importación y el monto. Si el pago corresponde a más
+
+				de un documento, se indica el número y monto de cada uno; en tal
+
+				caso, se presentan todos los documentos.
+b) Forma de pago: Se
+
+				precisa si es pago total o parcial, o al contado o diferido.
+
+
+				c) Identificación del importador: Nombre o razón social del
+
+				importador, inclusive si quien solicita la operación no es el
+
+				propio importador.
+d) Identificación del vendedor: Nombre o
+
+				razón social del vendedor o beneficiario del pago.
+e)
+
+				Identificación de quien solicita la operación bancaria o
+
+				financiera: Nombre y documento de identificación.
+
+
+4.
+
+				En la evaluación del sustento del valor declarado, el
+
+				funcionario aduanero verifica la trazabilidad y efectiva
+
+				realización de la operación de pago, a través de la
+
+				documentación financiera correspondiente.
+Los documentos de
+
+				sustento de los medios de pago más usuales, a ser evaluados en
+
+				forma integral, son los siguientes:
+a) Transferencia de
+
+				fondos:
+
+
+a.1.
+
+				Solicitud de transferencia (TT) al exterior (formato propio o
+
+				carta de instrucción).
+a.2. Voucher o liquidación de la
+
+				operación de transferencia al exterior.
+a.3. Mensaje de
+
+				confirmación swift.
+a.4. La nota de débito o cargo en cuenta
+
+				por el retiro de fondos o estado de cuenta que sustente la
+
+				operación debitada.
+
+
+b)
+
+				Cobranza documentaria:
+
+
+b.1.
+
+				El aviso informativo o documentación complementaria que
+
+				contenga, entre otros, la llegada de los documentos del
+
+				exterior.
+b.2. La instrucción de cobro con las condiciones
+
+				establecidas de la operación de cobranza.
+b.3. La solicitud
+
+				de cargo en cuenta para realizar el pago por la cobranza de
+
+				importación generada.
+b.4. El aviso de liquidación de la
+
+				operación de cobranza libre.
+b.5. Mensaje de confirmación
+
+				swift.
+b.6. La nota de débito o cargo en cuenta por el retiro
+
+				de fondos o estado de cuenta que sustente la operación debitada.
+
+
+c)
+
+				Carta de crédito:
+
+
+c.1.
+
+				Mensaje de confirmación swift informativo de apertura de la
+
+				carta de crédito.
+c.2. Solicitud de ejecución de la carta de
+
+				crédito.
+c.3. Aviso de liquidación, amortización/cancelación
+
+				o mensaje de confirmación swift.
+c.4. La nota de débito o
+
+				cargo en cuenta por el retiro de fondos o el estado de cuenta
+
+				que sustente la operación debitada.
+
+
+d)
+
+				Tarjeta de débito
+
+
+d.1.
+
+				Constancia de la realización de la operación.
+d.2. Estado de
+
+				cuenta que sustente la operación debitada.
+
+
+e)
+
+				Tarjeta de crédito
+
+
+e.1.
+
+				Constancia de la realización de la operación.
+e.2. Estado de
+
+				cuenta que sustente la operación realizada.
+
+
+				La documentación
+
+				financiera debe guardar correspondencia con la información
+
+				declarada en los formatos A y B de la DAM, según el instructivo
+
+				“Declaración aduanera de mercancías (DAM)” DESPA-IT.00.04. De
+
+				existir discrepancia, el importador solicita la rectificación
+
+				correspondiente.
+
+
+				5.La Administración Aduanera evalúa la documentación financiera
+
+				de forma integral conjuntamente con la documentación comercial y
+
+				contable correspondiente.
+
+
+6.
+
+				Se considera que los registros o libros contables están
+
+				incompletos cuando el importador no cuenta con todos los que le
+
+				son exigibles, estos no son llevados cumpliendo con las
+
+				formalidades establecidas o no ha registrado sus operaciones
+
+				dentro de los plazos dispuestos por la SUNAT.
+
+
+D.PROCEDIMIENTO DE DUDA RAZONABLE
+
+
+D.1 Tramitación
+1.El funcionario aduanero
+
+				genera duda razonable en base a indicadores de precios, precios
+
+				de referencia u otro factor de riesgo, cuando al valor declarado
+
+				sea inferior a aquellos o tenga otros motivos para dudar de la
+
+				veracidad o exactitud de la transacción.
+
+
+				2.El funcionario aduanero registra el indicador de precios,
+
+				precio de referencia u otro factor de riesgo que sustenta la
+
+				duda razonable en el módulo del régimen que corresponda.
+Con
+
+				la notificación de la duda razonable se comunica el indicador de
+
+				precios, precio de referencia u otro factor de riesgo utilizado
+
+				y se solicita la documentación que sustenta el valor declarado.
+
+				Esta notificación se deposita en el buzón electrónico del
+
+				despachador de aduana.
+
+
+				3.El importador que mantiene una garantía previa tiene la opción
+
+				del levante de las mercancías. De lo contrario, puede obtener el
+
+				levante mediante la constitución de garantía específica
+
+				equivalente a la diferencia entre la cuantía de los tributos
+
+				cancelados y el monto de los tributos a los que podrían estar
+
+				sujetas las mercancías bajo modalidad de:
+a)Garantía en
+
+				efectivo, de acuerdo con el procedimiento específico
+
+				RECA-PE.03.05 “Recepción y devolución de garantías en efectivo
+
+				art. 13 del Acuerdo de la OMC”.
+b)Carta fianza, de acuerdo
+
+				con el procedimiento específico “Garantías de aduanas
+
+				operativas” RECA-PE.03.03.
+El funcionario aduanero verifica
+
+				en el sistema la cancelación de la orden de depósito o la
+
+				recepción de la carta fianza por duda razonable y comprueba el
+
+				pago de otras obligaciones derivadas del régimen; de ser
+
+				conforme, registra la autorización del levante.
+
+
+				4.Cuando se confirma la duda razonable y se hubiera presentado
+
+				garantía específica sin efectuar el pago de la liquidación de
+
+				cobranza tipo 0030 - Duda Razonable, la garantía permanece en
+
+				custodia de la SUNAT por el plazo de veinte días hábiles
+
+				siguientes a la notificación del informe de determinación del
+
+				valor y de la liquidación de cobranza antes indicada.
+
+				Transcurrido dicho plazo, la SUNAT procede a la ejecución de la
+
+				garantía y otras acciones que correspondan.
+
+
+				5.El plazo para que el importador sustente el valor declarado es
+
+				de cinco días hábiles contado a partir del día siguiente:
+
+
+				a)del depósito de la notificación en el buzón electrónico del
+
+				despachador o del importador, según corresponda, o
+b)de la
+
+				aceptación de la garantía señalada en el artículo 12 del
+
+				Reglamento cuando corresponda.
+Este plazo puede ser
+
+				prorrogado una sola vez por un período igual antes de su
+
+				vencimiento a solicitud del importador. La solicitud es de
+
+				aprobación automática.
+
+
+				6.Cuando se trata de una transacción con pago diferido, en
+
+				respuesta a la notificación de duda razonable y dentro del plazo
+
+				para sustentar el valor o de su prórroga, el importador debe
+
+				acreditar tal modalidad de pago y la fecha o plazo en que el
+
+				pago total por la mercancía se hará efectivo. Para tal efecto,
+
+				presenta la documentación comercial, la documentación financiera
+
+				que disponga en ese momento y la documentación contable que se
+
+				encuentre obligado a llevar en los plazos y condiciones exigidos
+
+				por su normatividad específica.
+Los documentos que sustenten
+
+				el valor declarado se presentan dentro del plazo de cinco días
+
+				hábiles siguientes a la fecha en que el pago total se haga
+
+				efectivo.
+
+
+				7.Los plazos señalados en los numerales 5 y 6 son aplicables a
+
+				la DAM, cuente o no con alguno de los tipos de garantía
+
+				previstos en la legislación aduanera.
+La documentación
+
+				presentada fuera de los plazos establecidos en los numerales 5 y
+
+				6 carece de mérito probatorio para efectos del procedimiento de
+
+				duda razonable.
+
+
+				8.En respuesta a la notificación de la duda razonable, si el
+
+				importador:
+
+
+				a)Presenta la documentación sustentatoria del valor declarado
+
+				que desvirtúa la duda razonable:
+
+
+El
+
+				funcionario aduanero aplica el primer método, emite y notifica
+
+				el informe sobre la verificación del valor declarado, y registra
+
+				que se ha desvirtuado la duda razonable en el módulo
+
+				correspondiente, según el régimen aduanero.
+
+
+				b)No presenta la documentación sustentatoria, la presenta en
+
+				forma parcial o presenta documentación que no desvirtúa la duda
+
+				razonable, o solicita la exoneración del plazo otorgado para
+
+				sustentar el valor declarado (anexo I) por no contar con
+
+				documentación o información necesaria:
+
+
+El
+
+				funcionario aduanero registra la confirmación de la duda
+
+				razonable en el módulo del régimen correspondiente y la notifica
+
+				al importador. En el mismo documento se comunica la no
+
+				aplicación del primer método y se solicita referencias para
+
+				aplicar el segundo o tercer método, para lo cual se otorga un
+
+				plazo de tres días hábiles contado a partir del día siguiente
+
+				del depósito de la notificación en el buzón electrónico del
+
+				importador.
+Si, en respuesta a este requerimiento, el
+
+				importador:
+
+
+b.1.
+
+				Presenta las referencias solicitadas dentro del plazo concedido:
+
+
+				El funcionario aduanero las evalúa y procede conforme a lo
+
+				siguiente:
+
+
+				b.1.1 De ser aplicables el segundo o tercer método, emite el
+
+				informe de determinación del valor y la liquidación de cobranza
+
+				tipo 0030 - Duda Razonable.
+b.1.2 De no ser aplicables el
+
+				segundo o tercer método, y una vez vencido el plazo de 90 días
+
+				calendario contado a partir de la fecha de numeración de la
+
+				declaración materia de valoración, solicita información para
+
+				aplicar el cuarto o quinto método, para lo cual se otorga un
+
+				plazo de diez días hábiles computado a partir del día siguiente
+
+				del depósito de la notificación en el buzón electrónico del
+
+				importador, prorrogables por el mismo periodo a solicitud de
+
+				este antes de su vencimiento.
+Cuando en respuesta a este
+
+				requerimiento el importador:
+
+
+				i.Presenta la información solicitada, el funcionario aduanero
+
+				verifica que se encuentre completa y remite los actuados a la
+
+				Gerencia de Gestión de Riesgos e Investigaciones Aduaneras para
+
+				la evaluación respectiva.
+La Gerencia de Gestión de Riesgos
+
+				e Investigaciones Aduaneras deriva los actuados a la División de
+
+				Fiscalización Posterior de la Gerencia de Fiscalización y
+
+				Recaudación Aduanera o los devuelve a la intendencia de aduana
+
+				operativa, según la evaluación realizada.
+La División de
+
+				Fiscalización Posterior, cuando corresponda, elabora un informe
+
+				de verificación del valor sobre la aplicación del cuarto o
+
+				quinto método, y lo envía con sus actuados a la intendencia de
+
+				aduana operativa para la emisión del informe de determinación
+
+				del valor y su notificación al importador.
+Cuando no son
+
+				aplicables el cuarto o quinto método, el funcionario aduanero
+
+				determina el valor conforme al sexto método, emite el informe de
+
+				determinación del valor y adjunta la liquidación de cobranza
+
+				tipo 0030 - Duda Razonable.
+
+
+				ii.No presenta la información solicitada dentro del plazo
+
+				otorgado o presenta la declaración de falta de información
+
+				(anexo III), procede la aplicación del sexto método.
+
+
+				b.2.No da respuesta dentro del plazo concedido o presenta la
+
+				declaración de falta de referencias de precios (anexo II):
+El
+
+				funcionario aduanero determina el valor en aduana aplicando en
+
+				forma sucesiva y excluyente el segundo o tercer método, emite el
+
+				informe de determinación del valor y adjunta la liquidación de
+
+				cobranza tipo 0030 - Duda Razonable, de corresponder.
+
+
+c)
+
+				Presenta una autoliquidación (liquidación de cobranza tipo 0029)
+
+				por la diferencia entre los tributos cancelados y los que
+
+				podrían gravar la importación por aplicación de la referencia
+
+				empleada por la Administración Aduanera:
+El funcionario
+
+				aduanero verifica que la autoliquidación cancelada sea conforme
+
+				y autoriza el levante de la mercancía, previo cumplimiento de
+
+				las formalidades aduaneras.
+
+
+9.
+
+				En caso de autoliquidación, el importador puede solicitar la
+
+				devolución de los tributos pagados en exceso mediante la
+
+				autoliquidación. Esta se tramita de acuerdo con el procedimiento
+
+				general “Devoluciones por pagos indebidos o en exceso y/o
+
+				compensaciones de deudas tributarias aduaneras” RECA-PG.05.
+
+
+				La unidad de organización encargada de determinar el valor en
+
+				aduana, en base a la documentación presentada con la solicitud
+
+				de devolución, retoma y continúa con el trámite de la duda
+
+				razonable que motivó la autoliquidación y evalúa si es aplicable
+
+				el primer método.
+De no ser aplicable el citado método,
+
+				determina el valor en aduana según los métodos restantes.
+Si
+
+				se desestima la solicitud de devolución, se puede interponer el
+
+				recurso de reclamación.
+
+
+D.2 Plazo para determinar el valor
+
+
+1.
+
+				El funcionario aduanero determina el valor en aduana dentro de
+
+				los tres meses siguientes contados desde la fecha de:
+
+
+a)
+
+				La presentación de la documentación sustentatoria del valor
+
+				declarado.
+
+
+b)
+
+				La notificación de la duda razonable, cuando:
+
+
+				b.1.No se presenta la documentación sustentatoria del valor
+
+				declarado.
+b.2.No se acredita que la transacción involucra un
+
+				pago diferido.
+
+
+Lo
+
+				dispuesto en el literal a) también aplica cuando se haya
+
+				otorgado la ampliación de plazo prevista en el literal d) del
+
+				numeral 2. En ese supuesto, de no presentar la documentación
+
+				sustentatoria del valor declarado, el plazo para determinar el
+
+				valor en aduana es como máximo hasta un año contado desde la
+
+				fecha de notificación de la duda razonable.
+
+
+2.En
+
+				circunstancias debidamente justificadas y previa notificación al
+
+				importador, el plazo puede ampliarse como máximo hasta un año
+
+				cuando:
+
+
+a)Se
+
+				haya descartado la aplicación del primer, segundo y tercer
+
+				método y resulte necesario evaluar la aplicación de los
+
+				siguientes métodos.
+b)La DAM objeto de duda razonable haya
+
+				sido seleccionada para una acción de verificación o
+
+				fiscalización.
+c)Se encuentre pendiente de atención el
+
+				requerimiento efectuado por la Administración Aduanera a otras
+
+				entidades distintas al importador.
+d)El importador presenta
+
+				documentación que acredita que la transacción involucra un pago
+
+				diferido precisando la fecha o plazo en que hará efectivo el
+
+				pago total por las mercancías.
+e)Se encuentre pendiente de
+
+				resolver la medida preventiva dispuesta sobre las mercancías por
+
+				la Administración Aduanera.
+f)El jefe de la unidad de
+
+				organización que administra el régimen lo determine.
+
+
+En
+
+				la importación para el consumo, la notificación de la ampliación
+
+				del plazo se efectúa al buzón electrónico del importador.
+
+
+D.3 Notificación
+
+
+				1.Los actos administrativos y requerimientos vinculados al
+
+				procedimiento de duda razonable pueden ser notificados por
+
+				medios electrónicos.
+
+
+2.La
+
+				notificación por medios electrónicos se efectúa a través del
+
+				sistema y debe tener en cuenta lo siguiente:
+
+
+a)El
+
+				funcionario aduanero elige la opción “Notificar”, registra la
+
+				información complementaria en las plantillas correspondientes y
+
+				formula el pedido de notificación con la opción “Enviar”.
+
+
+				b)El sistema valida los requisitos para el registro; de
+
+				encontrarse conforme, inicia el procedimiento de notificación y
+
+				asigna el número de registro del pedido para su consulta y
+
+				trazabilidad.
+c)El sistema genera una muestra preliminar del
+
+				documento electrónico a notificar, la que debe ser revisada por
+
+				el funcionario aduanero para su confirmación o reversión.
+
+
+				d)El jefe inmediato del funcionario aduanero autoriza el pedido
+
+				de notificación, de ser conforme.
+e)El sistema genera el
+
+				documento electrónico que contiene el acto administrativo
+
+				(archivo PDF) a ser depositado en el buzón electrónico del
+
+				despachador o importador, según corresponda; registra la fecha
+
+				del depósito y genera la constancia de notificación.
+
+
+D.4 Trámite de la duda razonable por medios electrónicos
+
+
+1.La
+
+				documentación, información o comunicación que presente el
+
+				despachador de aduanas o el importador con motivo del
+
+				procedimiento de duda razonable se efectúa a través de la
+
+				plataforma o sistema establecido por la Administración Aduanera
+
+				para la presentación de documentos digitalizados.
+
+
+Si
+
+				la documentación, información o comunicación es presentada:
+
+
+				a)Entre las 00:00 horas y las 23:59 horas de un día hábil, se
+
+				considera presentada el mismo día hábil.
+b)El sábado,
+
+				domingo, feriado o cualquier otro día inhábil, se considera
+
+				presentada el primer día hábil siguiente.
+
+
+				2.Los documentos generados y procesados a través de medios
+
+				electrónicos con motivo del procedimiento de duda razonable
+
+				tienen la misma validez legal que los realizados por medios
+
+				físicos.
+
+
+D.5 Duda razonable en la admisión temporal para
+
+				reexportación en el mismo estado y admisión temporal para
+
+				perfeccionamiento activo
+
+
+				1.Para la determinación del valor en aduana en los regímenes de
+
+				admisión temporal para reexportación en el mismo estado y de
+
+				admisión temporal para perfeccionamiento activo, el funcionario
+
+				aduanero aplica lo dispuesto en los literales D.1 al D.4, en lo
+
+				que corresponda, así como las siguientes disposiciones:
+
+
+				1.1.En caso se desvirtúe la duda razonable y el beneficiario
+
+				hubiera presentado una garantía específica para cubrir el monto
+
+				de los tributos afianzados originalmente y el de los que
+
+				correspondían por aplicación del valor que generó la duda
+
+				razonable, notifica al beneficiario o al despachador de aduana
+
+				para que realice su canje por otra que solo garantice el valor
+
+				de los tributos.
+1.2.Cuando se confirme la duda razonable y
+
+				el beneficiario no hubiera presentado garantía por la diferencia
+
+				entre el monto de los tributos afianzados y aquel que
+
+				correspondía por aplicación del valor que generó la duda
+
+				razonable, debe presentar la ampliación por la diferencia, salvo
+
+				que se encuentre cubierta por la garantía global. Para esta
+
+				ampliación el usuario puede optar por:
+
+
+				a)Efectuar el depósito en efectivo.
+b)Presentar garantía
+
+				documentaria por la diferencia existente, o
+c)Presentar nueva
+
+				garantía documentaria por el monto total a afianzar, la cual es
+
+				canjeada por la garantía asociada al régimen.
+
+
+				La garantía documentaria presentada queda en custodia hasta la
+
+				regularización del régimen de admisión temporal para
+
+				reexportación en el mismo estado y admisión temporal para
+
+				perfeccionamiento activo. De tratarse de garantía en efectivo,
+
+				la orden de depósito queda en custodia del banco hasta la
+
+				regularización del régimen.
+
+
+				Si el beneficiario no presenta la ampliación de la garantía
+
+				conforme al primer párrafo del presente numeral, el funcionario
+
+				aduanero no autoriza el régimen de admisión temporal para
+
+				reexportación en el mismo estado o de admisión temporal para
+
+				perfeccionamiento activo, de conformidad con los procedimientos
+
+				generales: DESPA-PG.04 y DESPA-PG.06.
+
+
+				2.Cuando la mercancía ingresa bajo el régimen de admisión
+
+				temporal para reexportación en el mismo estado o de admisión
+
+				temporal para perfeccionamiento activo, el procedimiento de duda
+
+				razonable se efectúa en la etapa de despacho de los citados
+
+				regímenes o en el control posterior.
+
+
+E. SITUACIONES PARTICULARES QUE CONSIDERAR AL VALORAR
+
+
+E.1 Ventas sucesivas
+
+
+1.En
+
+				el caso de ventas sucesivas después de la exportación y antes de
+
+				la fecha de destinación aduanera, ocurridas durante el
+
+				transporte de la mercancía o en el territorio nacional, para
+
+				determinar el valor en aduanas en aplicación del primer método
+
+				se considera el precio realmente pagado o por pagar
+
+				correspondiente a la última venta, más los ajustes del artículo
+
+				8 del Acuerdo.
+
+
+De
+
+				producirse la última venta en el territorio nacional, el valor
+
+				en aduana no incluye los tributos internos que pudieran gravar
+
+				esta venta.
+
+
+2.El
+
+				importador presenta a la Administración Aduanera la factura de
+
+				venta para la exportación y la factura correspondiente a la
+
+				última venta como documentos de soporte de la DAM.
+
+
+3.El
+
+				importador declara en la DAM lo siguiente:
+
+
+				a)En los formatos A y B: el número de la factura de exportación
+
+				en las casillas 7.36 y 5.2 “factura comercial”, respectivamente.
+
+
+				b)En el formato B:
+b.1) El nombre del exportador de las
+
+				mercancías en la casilla 3 “proveedor”.
+b.2) El precio de la
+
+				factura de exportación en la casilla 8.1.1 “precio neto según
+
+				factura”.
+b.3) El monto adicional generado en la última
+
+				venta en la casilla 8.1.6 “otros” cuando el precio de esta es
+
+				mayor al precio de la factura de exportación.
+b.4) El monto
+
+				diferencial generado en la última venta en la casilla 8.5.5
+
+				“otros gastos”, cuando el precio de esta es menor al precio de
+
+				la factura de exportación.
+b.5) El número de factura de la
+
+				última venta en el campo “factura”.
+
+
+4.De
+
+				existir duda con respecto al valor de la última venta, el
+
+				funcionario aduanero formula la duda razonable respectiva.
+
+
+E.2 Mercancías reembarcadas
+
+
+Si
+
+				la mercancía que llegó al país es reembarcada y posteriormente
+
+				retorna a territorio nacional, el gasto de transporte que forma
+
+				parte del valor en aduana comprende el flete pagado:
+
+
+				a)desde el lugar de origen hasta el lugar de importación;
+
+
+				b)por su reembarque desde el territorio nacional y
+c)para su
+
+				retorno al territorio nacional.
+
+
+				Asimismo, forma parte del valor en aduana el gasto de seguro
+
+				incurrido por el transporte total.
+
+
+E.3 Depreciaciones no aceptadas
+
+
+Para
+
+				determinar el valor en aduana, no procede la depreciación por
+
+				uso de las mercancías en el territorio nacional en los
+
+				siguientes casos:
+
+
+				a)En el traslado de zonas de tributación especial a zonas de
+
+				tributación común.
+b)En la transferencia de mercancías
+
+				importadas con inafectación o exoneración tributaria.
+
+
+				c)Cuando se consideren nacionalizadas las mercancías sometidas a
+
+				regímenes de admisión temporal para reexportación en el mismo
+
+				estado y admisión temporal para perfeccionamiento activo o
+
+				destinos aduaneros especiales, cuando corresponda, a excepción
+
+				de los casos en que la depreciación se encuentre permitida por
+
+				disposición legal expresa.
+
+
+E.4 Mercancías importadas de menor calidad, con fallas o
+
+				como saldo de stock
+
+
+1.En
+
+				la importación de mercancías declaradas con fallas o de menor
+
+				calidad (segunda calidad, tercera calidad, etc.), el importador
+
+				debe acreditar tal condición a satisfacción de la Administración
+
+				Aduanera. De lo contrario, se rechaza el valor de transacción y
+
+				se sustituye el valor en aplicación de los restantes métodos;
+
+				para tal efecto se considera la mercancía como de primera
+
+				calidad o sin fallas.
+De acreditarse que las mercancías son
+
+				de menor calidad o presentan fallas, se valoran según la calidad
+
+				o las fallas que presenten.
+
+
+2.En
+
+				la importación de un saldo de stock (stock lot) con valor
+
+				inferior al indicador de precios registrado en el SIVEP o a un
+
+				precio de referencia, el importador debe acreditar
+
+				documentariamente que la mercancía tiene tal condición a
+
+				satisfacción de la Administración Aduanera. De lo contrario, se
+
+				rechaza el valor de transacción y se sustituye el valor en
+
+				aplicación de los restantes métodos.
+Lo dispuesto en el
+
+				párrafo anterior es también de aplicación para la importación de
+
+				saldos o remanentes y retazos de textiles.
+
+
+E.5 Mercancías contenidas en tanques, isotanques o
+
+				similares
+
+
+				1.Cuando las mercancías materia de importación arriban
+
+				contenidas en tanques, isotanques o similares admitidos para su
+
+				reexportación en el mismo estado, forma parte del valor en
+
+				aduana:
+
+
+				a)El precio realmente pagado o por pagar de la mercancía a
+
+				nacionalizar.
+b)El flete total y el seguro por el transporte.
+
+
+				c)El gasto por el uso de los contenedores, paletas, bidones,
+
+				tambores, tanques y otros instrumentos del transporte
+
+				internacional, que pueden ser usados o reutilizados como medio
+
+				de transporte. Este concepto constituye gasto de transporte, se
+
+				declara en la casilla 8.3.2 del formato B de la DAM y no se
+
+				adiciona como gasto de embalaje.
+
+
+2.En
+
+				la DAM de admisión temporal para su reexportación en el mismo
+
+				estado que ampara el ingreso de los tanques, isotanques o
+
+				similares, se declara el valor comercial de estos sin incluir el
+
+				gasto por el alquiler y se considera como gasto de transporte y
+
+				seguro el monto de uno y 00/100 dólar de los Estados Unidos de
+
+				América (US $ 1.00) por cada concepto.
+
+
+F.VALOR PROVISIONAL
+
+
+F.1 Declaración del valor provisional
+
+
+				1.El importador puede declarar un valor provisional cuando el
+
+				precio realmente pagado o por pagar no se determina de manera
+
+				definitiva y depende de una condición futura o cuando el valor
+
+				de los elementos del artículo 8 del Acuerdo no se conozcan al
+
+				momento de la declaración del valor en aduana y puedan
+
+				estimarse. Está conformado por un valor fijo y un valor
+
+				estimado.
+
+
+				2.En el formato B, los ítems de un tipo de mercancía con valor
+
+				provisional se declaran separados de los ítems del mismo tipo de
+
+				mercancía con valor definitivo. Del mismo modo, en el formato A,
+
+				las series con valor provisional de una subpartida nacional se
+
+				declaran independientemente de las series con valor definitivo
+
+				de la misma subpartida nacional.
+
+
+				3.Cuando se declare un valor provisional, el importador debe
+
+				consignar en el formato B de la DAM:
+
+
+				3.1.En la casilla 5.6, el código “2”.
+3.2.En la casilla 5.20
+
+				observaciones del primer ítem con valor provisional, se declaran
+
+				los siguientes datos:
+
+
+				a)El motivo o causa del valor provisional; entre estos, la
+
+				transacción con cláusula de revisión de precios (por ejemplo,
+
+				cuando el precio definitivo se fije en función del resultado de
+
+				un análisis a la mercancía al momento de su entrega), el pago de
+
+				regalías, las reversiones futuras del producto de la reventa al
+
+				vendedor extranjero, entre otras.
+b)El documento de sustento
+
+				en el que se indique la forma de cálculo del valor definitivo o
+
+				cuándo se determinará, tal como un contrato de compraventa con
+
+				cláusula de revisión de precios, un contrato de licencia y pago
+
+				de regalías, entre otros.
+
+
+				3.3.En el campo “fecha fin valor provisional”, la fecha en que
+
+				el valor definitivo será comunicado a la SUNAT, indicando día,
+
+				mes y año. La referida fecha no debe ser mayor a doce meses
+
+				contados desde la fecha de numeración de la DAM.
+
+
+				3.4.En la casilla 5.9 FOB unitario US$, el valor fijo del valor
+
+				provisional, en todos los casos.
+
+
+				3.5.El valor estimado del valor provisional se declara conforme
+
+				al instructivo “Declaración aduanera de mercancías (DAM)”
+
+				DESPA-IT.00.04:
+
+
+a)En
+
+				la casilla 5.10 ajuste unitario US$, cuando el valor estimado
+
+				sea un ajuste (tales como regalías), sin perjuicio de declararse
+
+				también en la casilla 8 “Determinación del valor” según el
+
+				concepto de ajuste que se trate.
+b)En la casilla 5.9 FOB
+
+				unitario US$, cuando el valor estimado se refiera a situaciones
+
+				diferentes a las indicadas en el acápite anterior; entre estos,
+
+				el caso de cláusula de revisión de precios, sin perjuicio de
+
+				declararse también en la casilla 8.1.6 “otros”.
+c)En el campo
+
+				“monto estimado”, para todos los casos.
+
+
+				4.La declaración con valor provisional no está sujeta a duda
+
+				razonable ni a observación del valor declarado durante el plazo
+
+				señalado por el importador para declarar su valor definitivo.
+
+
+F.2 Garantía adicional por valor provisional
+
+
+				Cuando se declara un valor provisional, el importador presenta
+
+				una garantía por el cinco por ciento de la base imponible de las
+
+				series con valor provisional, con excepción de las que no
+
+				conlleven pago de tributos.
+Para efectos de presentar la
+
+				garantía se considera lo siguiente:
+
+
+F.2.1 Garantía prevista en el artículo 159 de la Ley
+
+
+
+
+				1.El plazo de vigencia de la garantía debe ser igual o mayor a
+
+				la fecha de regularización del valor provisional.
+2.Con la
+
+				numeración de la DAM, el sistema genera una liquidación de
+
+				cobranza tipo 0010 (en adelante L/C de valor provisional) y la
+
+				hace de conocimiento del despachador de aduana.
+3.Con el
+
+				pago de los tributos correspondientes a la DAM o la presentación
+
+				de la garantía y su registro en el módulo de control de
+
+				garantías, se otorga el levante, previo cumplimiento de las
+
+				demás formalidades del despacho aduanero. Asimismo, se asigna a
+
+				un funcionario aduanero para la continuación de las acciones
+
+				correspondientes con relación al valor.
+
+
+F.2.2 Garantía previa global o específica
+
+
+				1.La garantía debe encontrarse vigente a la fecha de
+
+				regularización del valor provisional y cubrir el monto de la L/C
+
+				de valor provisional.
+2.El sistema genera una L/C de valor
+
+				provisional conforme a lo indicado en el numeral 2 del literal
+
+				F.2.1 y automáticamente se afecta la garantía.
+
+
+F.2.3 Regularización de despacho anticipado o urgente
+
+
+
+
+				Cuando con motivo de la regularización del despacho anticipado o
+
+				urgente existan modificaciones que afecten la base imponible del
+
+				valor provisional que conllevan diferencia de tributos por un
+
+				monto mayor, el sistema anula la L/C de valor provisional
+
+				inicialmente generada y emite una nueva.
+En este caso,
+
+				cuando la DAM cuente con alguna de las formas de garantía
+
+				previstas en el artículo 159 de la Ley y la inicialmente
+
+				presentada no cubre el monto de la nueva L/C de valor
+
+				provisional, el importador debe presentar una nueva garantía. De
+
+				tratarse de la garantía previa global o específica, el sistema
+
+				automáticamente afecta la cuenta corriente por el monto de la
+
+				nueva L/C de valor provisional.
+
+
+F.3 Plazo para comunicar el valor definitivo
+
+
+				1.El importador debe comunicar el valor definitivo, inclusive si
+
+				este es igual o menor al valor provisional declarado.
+
+
+				2.El plazo para la comunicación del valor definitivo no puede
+
+				exceder de doce meses contados a partir de la fecha de
+
+				numeración de la DAM, prorrogables a solicitud del importador
+
+				hasta en una oportunidad, conforme a lo siguiente y a través de:
+
+
+a)
+
+				El portal del operador: Si la prórroga es por un plazo de hasta
+
+				seis meses. Esta solicitud es de aprobación automática.
+b)
+
+				La MPV-SUNAT: Si la prórroga es por un plazo mayor a seis meses.
+
+				Esta solicitud es de evaluación previa y procede si las
+
+				condiciones del contrato lo ameritan.
+
+
+				3.El cómputo del plazo de la prórroga se realiza a partir del
+
+				vencimiento de la fecha originalmente declarada en la
+
+				transmisión electrónica de la DAM.
+
+
+				4.La garantía debe encontrarse vigente al momento de solicitar
+
+				la prórroga; de lo contrario, el importador tiene que presentar
+
+				su renovación por un plazo igual o mayor al de la prórroga
+
+				solicitada. La renovación de la garantía se registra en el
+
+				módulo de control de garantías.
+
+
+				5.El funcionario aduanero registra la prórroga del plazo para la
+
+				comunicación del valor definitivo en el sistema.
+
+
+F.4 Rectificación de la DAM
+
+
+1.
+
+				La rectificación de la DAM con valor provisional se realiza de
+
+				acuerdo con el procedimiento específico “Solicitud de
+
+				rectificación electrónica de la declaración” DESPA-PE.00.11.
+
+
+				2.No procede la rectificación electrónica para modificar:
+
+
+a)
+
+				La fecha de regularización del valor provisional; en este caso,
+
+				corresponde solicitar prórroga.
+
+
+b)El
+
+				valor definitivo declarado por un valor provisional cuando la
+
+				DAM:
+b.1 Tenga canal de control verde.
+b.2 Cuente con
+
+				registro de diligencia en los canales de control naranja o rojo.
+
+
+				b.3 Se encuentre cancelada o en estado de despacho concluido.
+
+
+				c) El valor estimado del valor provisional con anterioridad a su
+
+				regularización.
+
+
+3.
+
+				Cuando en virtud de una rectificación todas las series de la DAM
+
+				cambian a valor definitivo antes del levante, se considera que
+
+				no declaró valor provisional.
+En ese caso, si la DAM cuenta
+
+				con alguna de las formas de garantía del artículo 159 de la Ley,
+
+				se envía un mensaje al despachador de aduana para que solicite
+
+				su devolución. De tratarse de una garantía previa global o
+
+				específica, la cuenta corriente se desafecta automáticamente.
+
+
+F.5 Trámite de despacho de la DAM
+
+
+La
+
+				DAM con valor provisional no afecta el trámite de despacho, el
+
+				cual se realiza de acuerdo con el procedimiento general
+
+				“Importación para el consumo” DESPA-PG.01.
+
+
+F.6 Regularización de la DAM
+
+
+1.
+
+				La regularización del valor provisional se realiza de
+
+				conformidad con el procedimiento específico “Solicitud de
+
+				rectificación electrónica de declaración” DESPA-PE.00.11, dentro
+
+				del plazo para la comunicación del valor definitivo o de la
+
+				prórroga solicitada, según corresponda.
+
+
+				2.Para la regularización de la DAM con valor provisional, el
+
+				despachador de aduana debe:
+
+
+				a)Transmitir la solicitud electrónica de rectificación,
+
+				cambiando el código del tipo de valor de “2” a “1” de todas las
+
+				series con valor provisional. No debe enviar la fecha de
+
+				vencimiento del valor provisional.
+b)Transmitir la
+
+				autoliquidación por concepto de tributos dejados de pagar, de
+
+				corresponder.
+c)Rectificar en el formato B el valor estimado
+
+				declarado originalmente en la casilla 5.9 FOB unitario US$ o
+
+				5.10 ajuste unitario US$, en función del caso, sin perjuicio de
+
+				rectificarse también en la casilla 8 “Determinación del Valor”
+
+				según el concepto de ajuste de que se trate o en la casilla
+
+				8.1.6 “otros”, conforme al instructivo “Declaración aduanera de
+
+				mercancías (DAM)” DESPA-IT.00.04.
+d)Consignar el nuevo
+
+				importe en el campo “monto estimado”.
+e)Solicitar la
+
+				devolución o desafectación de la garantía asociada a la L/C de
+
+				valor provisional, según corresponda.
+
+
+				3.Para atender la solicitud electrónica de rectificación y la
+
+				solicitud a que se refiere el inciso e) del numeral 2, el
+
+				funcionario aduanero verifica en el sistema que:
+
+
+				a)Las rectificaciones efectuadas correspondan a la actualización
+
+				de los valores provisionales.
+b)Se haya cancelado la
+
+				autoliquidación por concepto de tributos dejados de pagar, de
+
+				corresponder.
+El funcionario aduanero registra en el sistema
+
+				la aceptación de la solicitud electrónica de rectificación,
+
+				anulándose la L/C de valor provisional, y procede a devolver o
+
+				desafectar la garantía correspondiente.
+
+
+				4.La unidad de organización a cargo de la fiscalización aduanera
+
+				programa acciones de control respecto de la DAM con valor
+
+				provisional regularizado, según criterios de riesgo.
+
+
+F.7 DAM no regularizada
+
+
+				1.Si una DAM con valor provisional no es regularizada dentro del
+
+				plazo para la comunicación del valor definitivo o de la prórroga
+
+				solicitada, la unidad de organización encargada de la
+
+				determinación del valor solicita la ejecución de la garantía
+
+				otorgada y comunica este hecho a la unidad de organización que
+
+				realiza la fiscalización aduanera para las acciones de su
+
+				competencia mediante SIGED - solicitud de programación de
+
+				acciones de fiscalización.
+
+
+				2.La Intendencia Nacional de Control Aduanero, según criterios
+
+				de riesgo, programa acciones de control para establecer el valor
+
+				en aduana definitivo. Una vez concluida la acción de control,
+
+				remite el informe de determinación de valor a la aduana de
+
+				despacho para el registro de la regularización de acuerdo con lo
+
+				señalado en el literal F.6, de corresponder.
+Cuando la DAM
+
+				no resulte comprendida en las acciones de control a que se
+
+				refiere el párrafo anterior, para efectos de la ejecución de la
+
+				garantía en caso corresponda, la intendencia de aduana determina
+
+				el valor definitivo considerando lo siguiente:
+
+
+a)
+
+				El importador comunica de forma extemporánea el valor
+
+				definitivo:
+a.1 Si el funcionario aduanero no tiene duda
+
+				sobre la veracidad del valor definitivo comunicado
+
+				extemporáneamente, lo acepta a efecto de regularizar la
+
+				declaración con valor provisional, anula la L/C tipo 0010 y
+
+				devuelve o desafecta la garantía otorgada.
+a.2 Si el
+
+				funcionario aduanero tiene duda sobre la veracidad del valor
+
+				definitivo comunicado extemporáneamente o presume la existencia
+
+				de alguno de los ajustes del artículo 8 del Acuerdo, aplica la
+
+				duda razonable; salvo que no disponga de información suficiente
+
+				para verificar el valor definitivo durante el control
+
+				concurrente, situación en la cual procede de conformidad con lo
+
+				dispuesto en el literal I de la sección VII.
+
+
+				b)El importador no cumple con comunicar el valor definitivo:
+
+
+				El funcionario aduanero evalúa si el valor declarado como
+
+				provisional corresponde al valor de transacción en aplicación
+
+				del primer método previsto en el Acuerdo. Si lo acepta,
+
+				regulariza la DAM con valor provisional, anula la L/C tipo 0010
+
+				y devuelve o desafecta la garantía otorgada. Cuando tenga
+
+				motivos para dudar del valor provisional declarado, aplica la
+
+				duda razonable.
+
+
+G.CASOS ESPECIALES DE VALORACIÓN AMPARADOS EN LA CAN
+
+
+G.1.Mercancías exportadas temporalmente para
+
+				perfeccionamiento pasivo
+
+
+				1.En la reimportación del producto compensador resultante del
+
+				proceso de reparación, elaboración o transformación de las
+
+				mercancías exportadas temporalmente para perfeccionamiento
+
+				pasivo, el valor en aduana se determina conforme al sexto método
+
+				y está constituido por el monto del valor agregado, más los
+
+				gastos de transporte y seguro ocasionados por la salida y
+
+				retorno de las mercancías al país.
+
+
+Al
+
+				valor resultante, cuando corresponda, se efectúan las adiciones
+
+				o deducciones de los cánones, derechos de licencia y comisión de
+
+				venta, entre otros conceptos previstos en los artículos 20 y 33
+
+				del Reglamento Comunitario.
+
+
+				2.El valor agregado en el exterior de la mercancía perfeccionada
+
+				se acredita con la factura, comprobante de pago o contrato
+
+				correspondiente y comprende:
+
+
+a)el
+
+				precio pagado o por pagar por concepto del perfeccionamiento,
+
+				que incluye el valor de los materiales, de la mano de obra y del
+
+				beneficio de quien efectuó el trabajo en el extranjero, y
+
+
+				b)el costo de envases y embalajes que a efectos aduaneros se
+
+				consideren formando un todo con las mercancías; así como los
+
+				gastos tanto por concepto de mano de obra como de materiales.
+
+
+Los
+
+				conceptos señalados en los incisos a) y b) forman parte del
+
+				valor FOB.
+
+
+				3.Los gastos de transporte y seguro hasta el lugar de
+
+				importación en que se incurre por la salida y retorno de la
+
+				mercancía exportada temporalmente forman parte del valor del
+
+				flete y del seguro al momento de su reimportación. Cuando la
+
+				mercancía no está asegurada se utiliza la TPPS, la cual se
+
+				aplica en el transporte de:
+
+
+				a)salida, sobre el valor FOB de la mercancía, y
+b)retorno,
+
+				sobre el valor FOB de salida más el valor agregado (gastos
+
+				consignados en los incisos a) y b) del numeral 2) y las
+
+				adiciones o deducciones de los cánones, derechos de licencia y
+
+				comisión de venta, entre otros conceptos previstos en los
+
+				artículos 20 y 33 del Reglamento Comunitario, de corresponder.
+
+
+				4.En la exportación temporal para perfeccionamiento pasivo
+
+				destinada a la reparación o al cambio de mercancía por otra
+
+				equivalente, cuando estos gastos sean asumidos por el vendedor
+
+				por obligación contractual o legal por garantía, la base
+
+				imponible está conformada únicamente por los gastos de
+
+				transporte y seguro ocasionados por la salida y retorno de la
+
+				mercancía; salvo que la mercancía objeto del cambio sea de mayor
+
+				valor, en cuyo caso la diferencia de valor también forma parte
+
+				de la base imponible.
+
+
+G.2 Mercancías transportadas a granel
+
+
+				1.El valor en aduana de las mercancías transportadas a granel
+
+				que sufran variaciones en cantidad o peso durante su transporte
+
+				(mermas o excesos) se determina a partir del precio unitario
+
+				pactado entre el comprador y el vendedor multiplicado por la
+
+				cantidad de mercancías efectivamente arribada.
+
+
+				2.Para el cálculo del flete y seguro se consideran los
+
+				siguientes montos:
+
+
+a)
+
+				Los inicialmente pagados por el importador en caso de merma,
+
+				salvo que demuestre que le han sido reembolsados o que no pagó
+
+				flete por la merma.
+b) Los adicionales pagados en caso de
+
+				exceso. De no haberse efectuado los referidos pagos, el monto de
+
+				estos conceptos se determina utilizando las tarifas o primas
+
+				habitualmente aplicables. De no disponerse de estas tarifas o
+
+				primas, el flete se calcula en base al prorrateo del flete
+
+				pagado por el peso indicado en el documento de transporte que
+
+				ampara la mercancía con la que arribó el exceso y en el caso del
+
+				seguro se utiliza la TPPS.
+
+
+G.3  Mercancías usadas o deterioradas
+
+
+				1.Para la valoración de mercancías usadas o deterioradas se
+
+				aplica el método del valor de transacción si se cumplen todos
+
+				los preceptos de los artículos 1 y 8 del Acuerdo. En su defecto,
+
+				se utilizan los métodos secundarios en el orden establecido en
+
+				el Acuerdo.
+
+
+				2.Para la valoración de vehículos usados en aplicación del sexto
+
+				método se toma en cuenta los siguientes criterios de manera
+
+				sucesiva y excluyente en base a la información que disponga la
+
+				Administración Aduanera:
+
+
+				a)Precio de referencia de un vehículo usado similar obtenido de
+
+				publicaciones especializadas, catálogos o libros, considerando
+
+				únicamente los criterios señalados en los numerales 6.1, 6.1.2,
+
+				6.1.4 y 6.1.5 del literal A de la sección IV del instructivo
+
+				“Valoración de vehículos usados” DESPA-IT.01.08.
+
+
+				b)Precio del vehículo materia de valoración cuando nuevo según
+
+				la factura comercial, sobre el cual se aplica una depreciación
+
+				del diez por ciento por año hasta un máximo del cincuenta por
+
+				ciento, en función a los años transcurridos de uso, considerando
+
+				la diferencia entre el año de numeración de la DAM y el año del
+
+				modelo, siempre que este último sea anterior al año de
+
+				numeración de la DAM. En los demás casos no se aplica
+
+				depreciación.
+
+
+				c)Precio de referencia de un vehículo idéntico o similar cuando
+
+				nuevo, sobre el cual se aplica una depreciación del diez por
+
+				ciento por año hasta un máximo del cincuenta por ciento, en
+
+				función a los años transcurridos de uso, tomando la diferencia
+
+				entre el año de numeración de la DAM del vehículo materia de
+
+				valoración y el año del modelo del vehículo, siempre que este
+
+				último sea anterior al año de numeración de la DAM. En los demás
+
+				casos no se aplica depreciación.
+
+
+				d)Precio estimado por un perito independiente del comprador y
+
+				vendedor. El costo del servicio del perito es asumido por el
+
+				importador.
+
+
+				3.Para la valoración de las demás mercancías usadas o
+
+				deterioradas, en aplicación del sexto método, se toma en cuenta
+
+				los siguientes criterios de manera sucesiva y excluyente en base
+
+				a la información que disponga la Administración Aduanera:
+
+
+				a)Precio de la mercancía cuando nueva en el año de su
+
+				fabricación, sobre el cual se aplica una depreciación del diez
+
+				por ciento por año hasta un máximo del cincuenta por ciento de
+
+				ese valor, en función a los años transcurridos. El precio de la
+
+				mercancía cuando nueva se obtiene de la factura comercial con la
+
+				que fue adquirida en tal estado.
+
+
+				b)Precio de referencia de una mercancía idéntica o similar en
+
+				estado nuevo obtenido de indicadores registrados en el SIVEP,
+
+				listas de precios, revistas especializadas, cotizaciones,
+
+				información de internet y otras referencias disponibles que
+
+				correspondan al año de fabricación de la mercancía objeto de
+
+				valoración, sobre el cual se aplica una depreciación del diez
+
+				por ciento por año hasta un máximo del cincuenta por ciento, en
+
+				función a los años transcurridos.
+
+
+				c)Precio de referencia de una mercancía usada idéntica o similar
+
+				obtenido de publicaciones especializadas, catálogos, libros,
+
+				listas de precios, cotizaciones, antecedentes de precios de
+
+				importación y precios de mercancías resultantes de estudios de
+
+				valor, sin efectuar depreciación alguna.
+
+
+d)
+
+				Precio estimado por un perito independiente del comprador y
+
+				vendedor. El costo del servicio del perito es asumido por el
+
+				importador.
+En aplicación de los criterios a) y b), de no
+
+				contar con el año de fabricación se considera una depreciación
+
+				del veinte por ciento sobre el precio de la mercancía cuando
+
+				nueva obtenida de indicadores registrados en el SIVEP, listas de
+
+				precios, revistas especializadas, cotizaciones, información de
+
+				internet y otras referencias disponibles de mercancías idénticas
+
+				o similares, de la fecha de exportación de la mercancía objeto
+
+				de valoración o de un momento aproximado.
+
+
+G.4  Precio estimado por un perito
+
+
+				Cuando para la determinación del valor en aplicación del sexto
+
+				método se requiera la participación de un perito, este debe
+
+				encontrarse registrado ante una entidad pública.
+
+				Excepcionalmente, en caso no se cuente con este, podrá
+
+				participar un perito del sector privado. En ambos casos, el
+
+				perito debe ser independiente del comprador y del vendedor. El
+
+				costo de su actuación es asumido por el importador.
+
+
+G.5  Otros casos especiales de valoración
+
+
+En
+
+				los demás casos especiales de valoración previstos en la
+
+				Resolución 1456 de la Secretaría General de la Comunidad Andina,
+
+				la determinación del valor se efectúa de conformidad con la
+
+				citada resolución.
+
+
+H. OTROS CASOS DE VALORACIÓN
+
+
+H.1  Mercancías destinadas por un operador
+
+				económico autorizado - importador
+
+
+La
+
+				DAM de importación para el consumo, de admisión temporal para
+
+				reexportación en el mismo estado o de admisión temporal para
+
+				perfeccionamiento activo de un operador económico autorizado -
+
+				importador, seleccionada a canal rojo o naranja, es objeto de
+
+				verificación y control del valor en aduana, conforme al anexo 1
+
+				“Facilidades a otorgar al operador económico autorizado” del
+
+				procedimiento general “Certificación del operador económico
+
+				autorizado” DESPA-PG.29.
+
+
+H.2  Medio portador que contenga un producto
+
+				digital
+
+
+				1.Para la determinación del valor en aduana de un medio portador
+
+				que contenga un producto digital se toma en consideración
+
+				únicamente el valor del medio portador, así como el flete y el
+
+				seguro que corresponde al medio portador.
+Si en los
+
+				documentos sustentatorios presentados no se distingue el valor
+
+				del medio portador del valor del producto digital, el
+
+				funcionario aduanero determina el valor del medio portador en
+
+				aplicación de los métodos secundarios establecidos en el
+
+				Acuerdo.
+
+
+2.
+
+				El canon o derecho de licencia que paga el importador por el
+
+				producto digital contenido en un medio portador no forma parte
+
+				del valor en aduana.
+
+
+				3.Cuando el producto digital ingresa al país por vía electrónica
+
+				(vía telefónica, internet, correo electrónico, vía satélite,
+
+				etc.) no corresponde formular DAM al no haber una importación
+
+				física de mercancías.
+
+
+				4.Para determinar el valor en aduana de mercancías no
+
+				comprendidas en la definición de “medio portador” o “producto
+
+				digital” prevista en la sección IV, se considera el valor total
+
+				de la mercancía incluyendo el valor del producto digital.
+
+
+				5.En la importación de un medio portador que contenga productos
+
+				digitales, el importador declara en el formato “B” de la DAM la
+
+				siguiente información:
+
+
+a)En
+
+				la casilla 5.17 (identificador), el código “3”.
+b)En la
+
+				casilla 5.9 (FOB unitario US $), el valor FOB unitario
+
+				correspondiente al valor del medio portador.
+c)En la casilla
+
+				8.1.1 (precio neto según factura), el precio total neto indicado
+
+				en la factura, el cual incluye el valor del medio portador y del
+
+				producto digital.
+d)En la casilla de 8.5.5 (otras
+
+				deducciones), el valor del producto digital sin incluir el valor
+
+				del medio portador.
+
+
+				6.Los medios portadores que pueden contener productos digitales
+
+				se encuentran comprendidos en las siguientes subpartidas
+
+				nacionales:
+
+
+						SUBPARTIDA
+
+
+						NACIONAL
+
+
+						DESCRIPCIÓN
+
+
+						8471700000
+
+
+						Solo discos duros
+
+
+
+						8523210000
+
+
+						Tarjetas con banda magnética incorporada
+
+
+						8523291000
+
+
+						Discos magnéticos
+
+
+						8523293110
+
+
+						Cintas magnéticas grabadas de anchura inferior o igual a
+
+						4 mm, para reproducir fenómenos distintos del sonido o
+
+						imagen
+
+
+						8523293190
+
+
+						Cintas magnéticas grabadas de anchura inferior o igual a
+
+						4 mm, excepto para reproducir fenómenos distintos del
+
+						sonido o imagen
+
+
+						8523293210
+
+
+						Cintas magnéticas grabadas de anchura superior a 4 mm
+
+						pero inferior o igual a 6,5 mm, para reproducir
+
+						fenómenos distintos del sonido o imagen
+
+
+						8523293290
+
+
+						Cintas magnéticas grabadas de anchura superior a 4 mm
+
+						pero inferior o igual a 6,5 mm, excepto para reproducir
+
+						fenómenos distintos del sonido o imagen
+
+
+						8523293310
+
+
+						Cintas magnéticas grabadas de anchura superior a 6,5 mm
+
+						para reproducir fenómenos distintos del sonido o imagen
+
+
+
+
+						8523293390
+
+
+						Cintas magnéticas grabadas de anchura superior a 6,5 mm,
+
+						excepto para reproducir fenómenos distintos del sonido o
+
+						imagen
+
+
+						8523299000
+
+
+						Los demás soportes magnéticos
+
+
+						8523491000
+
+
+						Soportes ópticos grabados para reproducir sonido
+
+
+						8523492000
+
+
+						Soportes ópticos grabados para reproducir imagen o
+
+						imagen y sonido
+
+
+						8523499000
+
+
+						Soportes ópticos grabados excepto para reproducir
+
+						sonido, imagen o imagen y sonido
+
+
+						8523510000
+
+
+						Dispositivos de almacenamiento permanente de datos a
+
+						base de semiconductores
+
+
+						8523520000
+
+
+						Tarjetas inteligentes («smart cards»)
+
+
+						8523591000
+
+
+						Tarjetas y etiquetas de activación por proximidad
+
+
+						8523599000
+
+
+						Los demás soportes semiconductores
+
+
+						8523803000
+
+
+						Los demás soportes, para reproducir fenómenos distintos
+
+						del sonido o imagen
+
+
+						8523809000
+
+
+						Los demás soportes, excepto para reproducir fenómenos
+
+						distintos del sonido o imagen
+
+
+H.3  Mercancías adquiridas a través de portales de
+
+				internet
+
+
+				1.En la importación de mercancías adquiridas a través de
+
+				portales de internet, se puede aceptar como sustento del valor
+
+				declarado la factura comercial o documentos análogos como:
+
+				comprobantes, recibos, order, tickets, entre otros; los cuales
+
+				deben contener la siguiente información mínima:
+
+
+				a)Nombre del vendedor o su identificación.
+b)Nombre o razón
+
+				social del comprador.
+c)Nombre o razón social y dirección de
+
+				la persona o empresa a quien se dirige la mercancía (si es
+
+				diferente al comprador).
+d)Descripción de la mercancía, la
+
+				cual debe ser la más completa posible.
+e)Cantidad unitaria.
+
+
+				f)Precio unitario y/o total.
+g)Moneda de la transacción
+
+				comercial.
+h)Fecha de la transacción.
+
+
+				2.Cuando se requiera la sustentación del pago, el importador
+
+				presenta la documentación que acredite la compra de la mercancía
+
+				y el pago efectuado; puede adjuntar, entre otros, los documentos
+
+				emitidos por el sistema financiero o bancario o los emitidos por
+
+				los sistemas de pagos electrónicos, tales como: PayPal (eBay),
+
+				mercado pago (mercado libre), entre otros.
+
+
+				3.La Administración Aduanera puede solicitar al importador la
+
+				exhibición del documento electrónico de confirmación de
+
+				compraventa internacional registrado en el portal web del
+
+				proveedor, tales como Aliexpress, Banggood, eBay, Alibaba,
+
+				Dhgate, Wish, Amazon, entre otros.
+
+
+				4.Para determinar el valor en aduana de las mercancías que no
+
+				son objeto de compraventa internacional se aceptan documentos
+
+				tales como facturas proformas y se aplica del segundo al sexto
+
+				método.
+
+
+H.4  Mercancías con indicios de fraude en
+
+				valoración
+
+
+				1.Cuando, en el procedimiento de duda razonable en el control
+
+				concurrente o en el control posterior, la SUNAT considere que
+
+				existen indicios razonables del carácter falso o fraudulento de
+
+				los documentos aportados como sustento del valor declarado o
+
+				posea indicios razonables de la comisión de delito aduanero, el
+
+				valor de las mercancías para efectos de la determinación de la
+
+				deuda tributario aduanera y para la cuantificación del perjuicio
+
+				fiscal en la vía judicial se realiza aplicando las reglas de
+
+				valoración previstas en la Ley de los Delitos Aduaneros y su
+
+				reglamento.
+
+
+				2.De desestimarse el indicio de delito aduanero en la vía
+
+				judicial, la SUNAT determina el valor con arreglo a las normas
+
+				del Acuerdo, revocándose la determinación de la deuda tributario
+
+				aduanera realizada en base a la Ley de los Delitos Aduaneros y
+
+				su reglamento.
+
+
+I.  CONTROL POSTERIOR
+
+
+				1.Cuando el funcionario aduanero tenga dudas sobre la veracidad
+
+				o exactitud de los valores declarados y no disponga de
+
+				información suficiente para realizar las acciones de
+
+				verificación durante el control concurrente, acepta el valor
+
+				declarado y deja constancia de este hecho en la casilla de
+
+				diligencia del especialista y lo pone de conocimiento de su
+
+				jefe.
+Entre los indicios de duda más usuales se presentan
+
+				los siguientes:
+
+
+a)
+
+				Existencia de conceptos previstos en el artículo 8 del Acuerdo.
+
+
+b) Vinculación.
+c) Alquiler o leasing.
+d) Contrato de
+
+				llave en mano.
+e) Mercancía en consignación.
+d) Fraude
+
+				comercial.
+
+
+				2.El jefe de la unidad de organización evalúa la información y,
+
+				de corresponder, remite la documentación a la Gerencia de
+
+				Gestión de Riesgos e Investigaciones Aduaneras, la cual deriva
+
+				los actuados a la División de Fiscalización Posterior en base a
+
+				indicadores de riesgo y criterios de selección aprobados por la
+
+				referida gerencia.
+
+
+IX.  ANEXOS
+
+
+AnexoI
+ : Solicitud de
+
+				exoneración del plazo otorgado para sustentar el valor
+
+				declarado.
+AnexoII
+:
+
+				Declaración de falta de referencias de precios para aplicar el
+
+				segundo y tercer método y solicitud de exoneración de plazo.
+
+
+AnexoIII
+: Declaración de
+
+				falta de información para aplicar el cuarto o quinto método y
+
+				solicitud de exoneración de plazo.

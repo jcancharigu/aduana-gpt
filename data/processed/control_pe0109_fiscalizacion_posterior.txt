@@ -1,0 +1,743 @@
+Procedimientos de Prevención del Contrabando y Control Fronterizo - LEGISLACION
+
+
+FISCALIZACIÓN Y PREVENCIÓN DEL CONTRABANDO Y CONTROL FRONTERIZO
+PROCEDIMIENTO ESPECIFICO:
+
+
+CONTROL-PE.01.09:
+ FISCALIZACIÓN
+
+ADUANERA
+
+POSTERIOR AL DESPACHO ADUANERO
+
+
+ <-- Retroceder
+
+
+
+
+
+Proc:
+
+
+
+CONTROL-PE.01.09
+
+
+FISCALIZACIÓN ADUANERA
+
+						POSTERIOR AL DESPACHO ADUANERO
+
+
+Versión:
+
+
+ 2
+
+
+Publicación:
+
+
+ 31.05.2025
+
+
+Resolución:
+ RS.00178-2025 / SUNAT
+
+
+Fecha Res.:
+  30.05.2025
+
+
+Vigencia:
+
+
+ 01.07.2025
+
+
+
+Lista:
+ Maestra
+
+
+Circulares Anexas
+
+
+Control de
+
+ Cambios
+
+
+
+
+
+I.   OBJETIVO
+
+
+		  Establecer las pautas a seguir para la programación y ejecución de las
+
+		  acciones de fiscalización aduanera posterior al despacho aduanero a
+
+		  los operadores de comercio exterior y a los operadores intervinientes,
+
+		  con la finalidad de verificar el cumplimiento de las obligaciones
+
+		  tributarias aduaneras, así como las obligaciones formales relacionadas
+
+		  a ellas.
+Asimismo, establecer las pautas a seguir en otras
+
+		  actuaciones no comprendidas en el Reglamento del procedimiento de
+
+		  fiscalización de la SUNAT.
+
+
+I
+I
+.
+
+
+
+
+
+ALCANCE
+
+
+		  Está dirigido al personal de la Superintendencia Nacional de Aduanas y
+
+		  de Administración Tributaria - SUNAT, a los operadores de comercio
+
+		  exterior y a los operadores intervinientes.
+
+
+I
+II
+.
+
+
+
+
+
+RESPONSABILIDAD
+
+
+		  La aplicación, cumplimiento y seguimiento de lo establecido en el
+
+		  presente procedimiento es responsabilidad del Intendente Nacional de
+
+		  Control Aduanero, del Intendente Nacional de Desarrollo e Innovación
+
+		  Aduanera, del Intendente Nacional de Sistemas de Información, de los
+
+		  intendentes de aduana de la República, y de las jefaturas y personal
+
+		  de las distintas unidades de organización intervinientes.
+
+
+I
+V
+.
+
+
+
+
+
+DEFINICIONES
+
+
+		  Y ABREVIATURAS
+
+
+Para efectos del presente
+
+		  procedimiento, se entiende por:
+1. Agente fiscalizador:
+
+
+		  Al o los trabajadores de la SUNAT que realizan la función de
+
+		  fiscalizar.
+2. Buzón electrónico:
+ A la sección
+
+		  ubicada en SUNAT Operaciones en Línea (www.sunat.gob.pe) asignada al
+
+		  administrado, en la que se pueden depositar los actos administrativos
+
+		  y las comunicaciones, entre otros, a que se refiere el artículo 2 de
+
+		  la Resolución de Superintendencia N.° 014-2008/SUNAT.
+3.
+
+		  Expediente electrónico de fiscalización aduanera:
+ Al conjunto
+
+		  organizado de documentos electrónicos que, respetando su integridad
+
+		  documental, están vinculados lógicamente y forman parte del
+
+		  procedimiento de fiscalización aduanera de tipo parcial y definitiva,
+
+		  así como los cruces de información relacionados con la fiscalización
+
+		  aduanera.
+4. Fiscalización aduanera:
+ Al
+
+		  procedimiento de fiscalización parcial o definitiva mediante el cual
+
+		  la SUNAT, con posterioridad al despacho aduanero de mercancías,
+
+		  comprueba la correcta determinación de la obligación tributaria
+
+		  aduanera y de las obligaciones formales relacionadas a ella.
+
+
+5. MPV-SUNAT:
+ A la mesa de partes virtual de la
+
+		  SUNAT, consistente en una plataforma informática disponible en el
+
+		  portal de la SUNAT que facilita la presentación virtual de los
+
+		  documentos.
+6. Orden de fiscalización (OF):
+ Al
+
+		  documento cuya numeración identifica una acción de fiscalización.
+
+
+7. Otras actuaciones:
+ A las actuaciones aduaneras no
+
+		  comprendidas en el Reglamento del Procedimiento de Fiscalización de la
+
+		  SUNAT, tales como el cruce de información, la verificación de
+
+		  comprobantes de pago, la verificación inductiva, la verificación de
+
+		  derechos antidumping o compensatorios, entre otras.
+8.
+
+		  Programador:
+ Al trabajador de la División de Gestión de
+
+		  Riesgos Aduaneros o de la División de Inteligencia Aduanera de la
+
+		  Gerencia de Gestión de Riesgos e Investigaciones Aduaneras de la
+
+		  Intendencia Nacional de Control Aduanero, que realiza la función de
+
+		  programar las acciones de fiscalización aduanera y otras actuaciones.
+
+
+9. RSIRAT:
+ A la plataforma informática Rediseño del
+
+		  Sistema Integrado de Recaudación de la Administración Tributaria, la
+
+		  cual tiene por objetivo dar apoyo a las tareas de las áreas de
+
+		  fiscalización de la SUNAT.
+10. SIEV:
+ Al Sistema
+
+		  Integrado del Expediente Virtual.
+11. Sujeto fiscalizado
+
+		  aduanero:
+ Al sujeto fiscalizado definido en el Reglamento del
+
+		  Procedimiento de Fiscalización de la SUNAT, así como al sujeto de
+
+		  otras actuaciones, a excepción de los terceros con los que se realizan
+
+		  cruces de información.
+12. Valores:
+ A la
+
+		  resolución de determinación y la resolución de multa que contienen la
+
+		  deuda tributaria aduanera.
+
+
+V
+.
+
+
+
+
+
+BASE LEGAL
+
+
+		  - Ley de los Delitos Aduaneros, Ley N.° 28008, publicada el
+
+		  19.06.2003, y modificatorias.
+- Ley General de Aduanas, Decreto
+
+		  Legislativo N.° 1053, publicado el 27.06.2008, y modificatorias. En
+
+		  adelante, Ley General de Aduanas.
+- Reglamento de la Ley de los
+
+		  Delitos Aduaneros, aprobado por Decreto Supremo N.° 121-2003-EF,
+
+		  publicado el 27.08.2003, y modificatorias.
+- Reglamento del
+
+		  Procedimiento de Fiscalización de la SUNAT, aprobado por Decreto
+
+		  Supremo N.° 085-2007-EF, publicado el 29.06.2007, y modificatorias.
+
+
+		  - Reglamento del Decreto Legislativo N.° 1053, Ley General de Aduanas,
+
+		  aprobado por Decreto Supremo N.° 010-2009-EF, publicado el 16.01.2009,
+
+		  y modificatorias.
+- Texto Único Ordenado del Código Tributario,
+
+		  aprobado por Decreto Supremo N.° 133-2013-EF, publicado el 22.06.2013,
+
+		  y modificatorias. En adelante, TUO del Código Tributario.
+- Texto
+
+		  Único Ordenado de la Ley del Procedimiento Administrativo General,
+
+		  aprobado por Decreto Supremo N.° 004-2019-JUS, publicado el
+
+		  25.01.2019, y modificatorias. En adelante TUO de la LPAG.
+- Tabla
+
+		  de Sanciones aplicables a las infracciones previstas en la Ley General
+
+		  de Aduanas, aprobada por Decreto Supremo N.° 418-2019-EF, publicado el
+
+		  31.12.2019, y modificatorias.
+- Resolución de Superintendencia N.°
+
+		  014-2008/SUNAT que regula la notificación de actos administrativos por
+
+		  medio electrónico, publicada el 08.02.2008, y modificatorias.
+-
+
+		  Resolución de Superintendencia N.° 084-2016/SUNAT que aprueba el
+
+		  Sistema Integrado de Expediente Virtual para el llevado de expedientes
+
+		  electrónicos, publicado el 23.03.2016, y modificatorias.
+-
+
+		  Resolución de Superintendencia N.° 077-2020/SUNAT que crea la mesa de
+
+		  partes virtual de la SUNAT, publicada el 08.05.2020, y modificatoria.
+
+
+
+VI
+.
+
+
+
+DISPOSICIONES GENERALES
+
+
+		  1. El proceso de programación de la fiscalización aduanera y de otras
+
+		  actuaciones está a cargo de la División de Gestión de Riesgos
+
+		  Aduaneros (DGRA) y la División de Inteligencia Aduanera (DIA), de la
+
+		  Gerencia de Gestión de Riesgos e Investigaciones Aduaneras (GGRIA).
+
+
+El proceso de ejecución de la fiscalización aduanera y de otras
+
+		  actuaciones está a cargo de la División de Fiscalización Posterior
+
+		  (DFP) de la Gerencia de Fiscalización y Recaudación Aduanera (GFRA).
+
+
+Las citadas gerencias forman parte de la Intendencia Nacional de
+
+		  Control Aduanero.
+2. Para la elaboración de la OF, el
+
+		  programador puede efectuar requerimientos de información en el proceso
+
+		  de programación, conforme a lo dispuesto en los artículos 164 y 165 de
+
+		  la Ley General de Aduanas.
+3. La ejecución de la fiscalización
+
+		  aduanera se efectúa de acuerdo con el Reglamento del Procedimiento de
+
+		  Fiscalización de la SUNAT.
+4. El expediente electrónico de
+
+		  fiscalización aduanera no está habilitado para las otras actuaciones
+
+		  no comprendidas en el Reglamento del Procedimiento de Fiscalización de
+
+		  la SUNAT, con excepción de los cruces de información relacionados con
+
+		  la fiscalización aduanera.
+5. El expediente electrónico de
+
+		  fiscalización aduanera se genera en el SIEV con la notificación de la
+
+		  carta de presentación, incorpora toda la documentación del proceso de
+
+		  ejecución de la fiscalización y concluye con la notificación de
+
+		  valores o de una resolución de división y, en los casos de cruces de
+
+		  información, su expediente concluye con el registro del término de la
+
+		  OF en el RSIRAT.
+6. Las intendencias de aduana de la República
+
+		  pueden solicitar la programación de la fiscalización aduanera y de
+
+		  otras actuaciones. Para tal efecto, remiten la propuesta con el
+
+		  sustento correspondiente a la GGRIA, mediante una solicitud de
+
+		  programación de acciones de fiscalización. Estas solicitudes se
+
+		  evalúan en el proceso de programación a que se refiere el literal A de
+
+		  la sección VII.
+7. Por razones sustentadas en la distancia
+
+		  geográfica, la capacidad operativa o de otra índole, la GFRA puede
+
+		  encargar a las intendencias de aduana de la República la realización
+
+		  de ciertas tareas de la fiscalización aduanera y de otras actuaciones,
+
+		  con excepción de la determinación de la deuda tributaria aduanera,
+
+		  recargos e infracciones previstas por la Ley General de Aduanas y
+
+		  otras normas vigentes. Este encargo se efectúa mediante memorándum, en
+
+		  el cual se debe mencionar en forma expresa la tarea que se está
+
+		  encargando y el plazo en que debe ejecutarse.
+
+
+VII
+.
+
+
+
+
+
+DESCRIPCIÓN
+
+
+A. PROGRAMACIÓN DE LA FISCALIZACIÓN ADUANERA Y OTRAS
+
+		  ACTUACIONES
+
+
+1. La programación de la fiscalización
+
+		  aduanera y de otras actuaciones se realiza en base a la gestión de
+
+		  indicadores de riesgo, denuncias y alertas.
+2. El jefe de la
+
+		  DGRA o DIA, según corresponda, coordina con el jefe de la DFP la
+
+		  asignación del agente fiscalizador responsable de la ejecución de la
+
+		  OF y lo comunica al programador.
+3. El programador registra en
+
+		  el RSIRAT la asignación del agente fiscalizador, el tipo de actuación
+
+		  a realizar y los demás datos necesarios, con lo cual se genera la OF.
+
+
+B. EJECUCIÓN DE LA FISCALIZACIÓN
+
+		  ADUANERA Y OTRAS ACTUACIONES
+
+
+1. El proceso de ejecución de la fiscalización
+
+		  aduanera se inicia en la fecha en la que surte efecto la notificación
+
+		  de la carta de presentación (anexo I) y del primer requerimiento
+
+		  (anexo II).
+Cuando los referidos documentos son notificados en
+
+		  fechas distintas, el procedimiento se considera iniciado en la fecha
+
+		  en que surta efecto la notificación del último documento.
+2. En
+
+		  la fiscalización aduanera y otras actuaciones se pueden presentar los
+
+		  siguientes resultados:
+
+
+a) sin incidencia,
+b) con incidencia,
+
+		  cuando se determine:
+
+
+b.1) deuda tributaria aduanera, anulación de
+
+		  beneficios tributarios o devolución por acogimiento indebido al
+
+		  procedimiento de restitución simplificada de derechos arancelarios,
+
+
+		  b.2) deuda distinta a la tributaria aduanera,
+b.3) infracción
+
+		  sancionable con comiso,
+b.4) indicio de delito aduanero u otro
+
+		  ilícito penal.
+
+
+3. Para los resultados señalados en el numeral
+
+		  anterior, se formulan y notifican los siguientes documentos, según
+
+		  corresponda:
+
+
+a) valores o resolución de división,
+b)
+
+		  liquidación de cobranza,
+c) resultado de requerimiento.
+
+
+4. Se emite resolución de división cuando:
+
+
+a) no exista incidencia y se concluya el
+
+		  proceso de fiscalización,
+b) el sujeto fiscalizado aduanero se
+
+		  autoliquide por el total de la deuda tributaria aduanera,
+c) se
+
+		  determine deuda distinta a la tributaria aduanera,
+d) se determine
+
+		  una infracción sancionable con comiso,
+e) se determine
+
+		  responsabilidad solidaria.
+
+
+5. En caso de presunción de delito aduanero u
+
+		  otro ilícito penal, el agente fiscalizador emite el informe de indicio
+
+		  de delito aduanero. El informe es comunicado a las unidades de
+
+		  organización que correspondan para las acciones de su competencia en
+
+		  el plazo establecido por la SUNAT.
+6. En caso de existir
+
+		  responsabilidad solidaria, la DFP lo comunica a la división que
+
+		  registró la OF, a fin de generar una nueva OF.
+7. Cuando la
+
+		  unidad de organización que resuelve las impugnaciones, el Tribunal
+
+		  Fiscal o el Poder Judicial declaran la nulidad o un fallo equivalente,
+
+		  y sea necesario el reinicio de la fiscalización, la DGRA o la DIA
+
+		  genera una nueva OF.
+8. Si durante la fiscalización aduanera el
+
+		  sujeto fiscalizado aduanero decide autoliquidarse por la incidencia
+
+		  encontrada, se comunica con el agente fiscalizador mediante un escrito
+
+		  electrónico (en el caso del expediente electrónico), o a través de la
+
+		  MPV-SUNAT, para que genere la liquidación de cobranza, a fin de que
+
+		  pueda hacer efectivo el pago.
+
+
+C. NOTIFICACIÓN POR MEDIOS
+
+		  ELECTRÓNICOS
+
+
+1. El agente fiscalizador o el funcionario
+
+		  aduanero, según corresponda, notifica en el buzón electrónico los
+
+		  siguientes actos administrativos:
+
+
+a) En la programación:
+
+
+a.1) requerimiento o solicitud de información,
+
+
+a.2) carta.
+
+
+b) En la ejecución:
+
+
+b.1) carta,
+b.2) requerimiento,
+b.3)
+
+		  resultado del requerimiento,
+b.4) requerimiento de información para
+
+		  los cruces de información,
+b.5) cierre de requerimiento para los
+
+		  cruces de información,
+b.6) resolución de determinación,
+b.7)
+
+		  resolución de multa,
+b.8) resolución de división.
+
+
+Para los actos derivados de otras actuaciones,
+
+		  que sean de naturaleza administrativa, se aplican las reglas del TUO
+
+		  de la LPAG.
+
+
+2. Para la notificación en el buzón
+
+		  electrónico se debe considerar lo siguiente:
+
+
+a) El sujeto fiscalizado aduanero debe contar
+
+		  con su código de usuario y clave SOL.
+b) El agente fiscalizador o
+
+		  el funcionario aduanero, según sus competencias, deposita en el buzón
+
+		  electrónico el acto administrativo emitido, así como las
+
+		  comunicaciones u otros, en un archivo en formato de documento portátil
+
+		  (PDF).
+c) El sujeto fiscalizado aduanero debe consultar
+
+		  periódicamente el buzón electrónico.
+d) La notificación se
+
+		  considera efectuada en la fecha de depósito del documento, según lo
+
+		  establecido en el inciso b) del artículo 104 del TUO del Código
+
+		  Tributario y surte efecto conforme al artículo 106 del TUO del Código
+
+		  Tributario.
+
+
+D. RESPUESTA A REQUERIMIENTOS Y
+
+		  SOLICITUDES A TRAVÉS DEL SIEV
+
+
+Para las actuaciones comprendidas en el
+
+		  procedimiento de fiscalización aduanera y los cruces de información,
+
+		  el contribuyente puede presentar solicitudes y escritos electrónicos a
+
+		  través de SUNAT Operaciones en Línea, siempre que se haya generado un
+
+		  expediente electrónico de fiscalización aduanera. También puede
+
+		  consultar el estado y contenido de sus expedientes una vez concluidos
+
+		  y recibir alertas respecto al vencimiento de plazos para la atención
+
+		  de requerimientos.
+
+
+E. USO DE LA MESA DE PARTES VIRTUAL DE
+
+		  LA SUNAT
+
+
+Cuando no se haya generado un expediente
+
+		  electrónico de fiscalización aduanera, el sujeto fiscalizado aduanero
+
+		  o el tercero relacionado con un proceso de fiscalización transmite la
+
+		  información o documentación en archivos digitalizados a la
+
+		  Administración Aduanera haciendo uso de la MPV-SUNAT, para lo cual
+
+		  ingresa al tipo de trámite: Aduanas.
+
+
+V
+III
+.
+
+
+
+
+
+		  VIGENCIA
+
+
+		  El presente procedimiento entra en vigencia el 01 de julio de 2025.
+
+
+I
+X
+.
+
+ANEXOS
+
+
+
+
+		  -
+Anexo I:
+
+
+Modelo de carta de
+
+		  presentación
+
+
+		  -
+
+
+Anexo II:
+
+
+Modelo de
+
+		  requerimiento inicial.

@@ -1,0 +1,2209 @@
+Procedimientos - SERVICIO DE MENSAJERIA INTERNACIONAL
+
+
+SERVICIO DE MENSAJERIA INTERNACIONAL
+
+
+PROCEDIMIENTO GENERAL
+
+
+
+ Procedimiento dejado sin efecto por la RSNAA
+N°467-2011/SUNAT/A
+
+
+Proc:
+
+
+DESPA-PG.25
+
+
+Servicio
+ de Mensajería Internacional
+
+
+Vigencia:
+
+ 24/09/2007
+
+
+Publicación:
+ 29/06/2007
+
+
+Resolución:
+
+ 00365
+
+
+Fecha Res.:
+27/06/2007
+
+
+Versión:
+
+ 1
+
+
+Circulares:
+
+Anexas
+
+
+Lista:
+
+
+Complementaria
+
+
+Control de Cambios
+
+
+I.
+
+OBJETIVO
+
+
+
+Establecer el procedimiento para el
+ despacho de envíos postales a través de la destinación
+ aduanera especial del servicio de mensajería internacional
+ que se aplicará en las intendencias de aduana de la República,
+ con la finalidad de lograr el correcto cumplimiento de las
+ normas que lo regulan.
+
+
+II. ALCANCE
+
+
+
+ Dirigido al personal de la Superintendencia Nacional de
+ Administración Tributaria - SUNAT, operadores de comercio
+ exterior y personas que intervienen en el trámite de ingreso
+ y salida de los envíos postales del servicio de mensajería
+ internacional.
+
+
+III. RESPONSABILIDAD
+
+
+La aplicación, cumplimiento y seguimiento de lo
+ establecido en el presente procedimiento es de responsabilidad
+ de las intendencias de aduana de la República, de la
+ Intendencia Nacional de Técnica Aduanera, Intendencia de
+ Prevención de Contrabando y Control Fronterizo, Intendencia
+ de Fiscalización y Gestión de Recaudación Aduanera y de la
+ Intendencia Nacional de Sistemas de la Información.
+
+
+IV. VIGENCIA
+
+
+A los sesenta (60) días calendario a partir del día
+ siguiente de su publicación.
+
+
+V. BASE LEGAL
+
+
+1.Disponen la eliminación del monopolio del servicio
+ postal, Decreto Legislativo Nº 685 publicado el 05.11.1991.
+
+ 2.Reglamento de Servicios y Concesiones Postales, aprobado por
+ Decreto Supremo Nº 032-93-TCC publicado el 04.11.1993.
+
+ 3.Reglamento de Almacenes Aduaneros, aprobado por Decreto
+ Supremo Nº 08-95-EF publicado el 05.02.1995 y modificatorias.
+
+
+4.Texto
+ Único Ordenado del Código Tributario, aprobado por Decreto
+ Supremo Nº 135-99-EF publicado el 19.08.1999 y
+ modificatorias.
+
+ 5.
+
+
+Reglamento de los Destinos Aduaneros Especiales del
+ Servicio Postal y del Servicio de Mensajería Internacional,
+ aprobado por Decreto Supremo N° 067-2006-EF publicado el
+ 24.05.2006 y modificatoria.
+
+
+6.Ley
+ del Procedimiento Administrativo General, Ley Nº 27444
+ publicada el 11.04.2001 y modificatorias.
+
+
+7.Ley de los Delitos Aduaneros, Ley N° 28008 publicada
+ el 19.06.2003 y modificatoria.
+
+ 8.Reglamento de la Ley de los Delitos Aduaneros, aprobado por
+ Decreto Supremo N° 121-2003-EF publicado el 27.08.2003 y
+ modificatoria.
+
+ 9.
+
+
+Texto Único Ordenado de la Ley General de Aduanas,
+ aprobado por Decreto Supremo Nº 129-2004 publicado el
+ 12.09.2004 y modificatorias.
+
+ 10.
+
+
+Reglamento de la Ley General de Aduanas, aprobado por
+ Decreto Supremo Nº 011-2005-EF publicado el 26.01.2005 y
+ modificatorias.
+
+ 11.
+
+
+Tabla de Sanciones Aplicables a las Infracciones
+ previstas en la Ley General de Aduanas, aprobada por Decreto
+ Supremo Nº 013-2005-EF publicada el 28.01.2005.
+
+ 12.Procedimiento de Manifiesto de Carga, INTA-PG.09.
+
+ 13.Procedimiento de Despacho Simplificado de Importación,
+ INTA-PE.01.01.
+
+ 14.Procedimiento de Despacho Simplificado de Exportación,
+ INTA-PE.02.01.
+
+ 15.
+
+
+Procedimiento de Autorización y Acreditación de
+ Operadores del Comercio Exterior, INTA-PG.24.
+
+ 16.
+
+
+Directiva de Procedimientos para la Devolución de los
+ Envíos no Distribuibles, aprobado por Resolución Directoral
+ Nº 068-2006-MTC/19 del 28.04.2006.
+
+ 17.Ley del Registro Único de Contribuyentes, aprobado por
+ Decreto Legislativo N° 943 publicado el 20.12.2003.
+
+ 18.Reglamento de la Ley del Registro Único de Contribuyentes,
+ aprobado por Resolución de Superintendencia N°
+ 210-2004/SUNAT publicada el 18.09.2004 y modificatorias.
+
+ 19.
+
+
+Formato e instructivo de la Declaración Simplificada.
+
+
+VI. NORMAS GENERALES
+
+
+1. Cuando en el presente procedimiento se hace mención al
+ "Reglamento" debe entenderse que se refiere al
+ Reglamento de los Destinos Aduaneros Especiales del Servicio
+ Postal y del Servicio de Mensajería Internacional.
+
+ Asimismo, cuando se haga referencia a los literales a), b) y
+ c) sin indicar la norma a la cual corresponde, se entenderá
+ referido al numeral 3.2 del artículo 3° del Reglamento, que
+ se refiere a los bienes siguientes:
+
+
+ a)
+
+
+La correspondencia contenida en cartas, postales o
+ cecogramas.
+
+ Cuando se halle contenida en discos ópticos compactos en
+ formato CD o DVD, casetes de video o casetes de audio, ésta
+ no podrá superar las cuatro (4) unidades, por destinatario en
+ cada envío;
+
+ b)
+
+
+Los diarios y publicaciones periódicas: cuando sean de
+ la misma fecha o número no deben superar de un (01) ejemplar
+ por destinatario en cada envío;
+
+ c) Otros impresos cuyo peso bruto no exceda de cinco (05)
+ kilogramos por destinatario en cada envío.
+
+
+ 2.
+Para los efectos del
+ presente procedimiento, se entiende por “envío postal”, a
+ la correspondencia, impresos, pequeños paquetes y encomiendas
+ postales transportados por los concesionarios postales.
+
+
+3.
+
+
+C
+ada
+ envío debe estar amparado en una guía courier consignado a
+ nombre de una sola persona (natural o jurídica), que es la
+ destinataria, cuyos datos deben corresponder a los
+ transmitidos en el manifiesto.
+
+
+4.
+
+
+En el caso de envíos de uso personal y exclusivo del
+ destinatario consignados a nombre de menores de edad, la
+ nacionalización será solicitada a nombre de uno de los
+ padres o apoderado, que acredite su derecho con la documentación
+ correspondiente, sin rectificar el manifiesto a nombre del
+ padre o apoderado.
+
+
+ 5. Los terminales de almacenamiento postal (TAP) almacenan
+
+
+envíos postales
+que
+ no deben exceder de US $ 2 000,00 (dos mil y 00/100 dólares
+ de los Estados Unidos de América) de valor FOB, ni de 50
+ kilogramos de peso, por envío. Los envíos que superen los límites
+ mencionados son trasladados a un terminal de almacenamiento
+ (TA), en un
+
+plazo máximo de
+ cuarenta y ocho (48) horas.
+
+
+6.
+El trámite
+ aduanero de despacho de envíos postales puede efectuarse por
+ el remitente o destinatario, despachador de aduana o por el
+ concesionario postal, de conformidad con lo establecido en el
+ artículo 9° del Reglamento.
+
+
+7.
+La
+nacionalización
+ de los envíos transportados por el servicio de mensajería
+ internacional debe solicitarse mediante el formulario
+ Declaración Simplificada de Importación de Mensajería
+ (DSIM). Los envíos que no cumplan con los requisitos señalados
+ en los numerales 3 y 5 precedentes, deberán nacionalizarse de
+ acuerdo a las disposiciones establecidas para el régimen de
+ Importación Definitiva.
+
+
+8.
+
+Las mercancías amparadas en facturas consignadas a un
+ mismo destinatario, emitidas por el mismo proveedor extranjero
+ y que arriben en un mismo medio de transporte, deberán ser
+ nacionalizadas de acuerdo
+
+
+a las disposiciones establecidas para el régimen de
+ Importación Definitiva, cuando su valor en conjunto sea
+ superior a US$ 2 000, 00 (dos mil y 00/100 dólares de los
+ Estados Unidos de América). La transferencia de bienes antes
+ de la destinación aduanera no exime su cumplimiento.
+
+
+ 9.
+Los concesionarios postales
+ están facultados a gestionar la impresión de los formatos de
+ DSIM así como de las Solicitudes de Reexpedición/Devolución,
+ de conformidad a las dimensiones y diseño aprobados por la
+ SUNAT.
+
+
+10. Los concesionarios postales deben transmitir vía
+ electrónica los datos para la numeración de las DSIM o de
+ las Solicitudes de Reexpedición/Devolución, y cumplir en sus
+ intervenciones con todas las obligaciones derivadas de su
+ condición de auxiliar de la función pública, señaladas en
+ el Texto Único Ordenado de la Ley General de Aduanas, su
+ Reglamento y la normatividad emitida por la SUNAT.
+
+
+ 11.
+
+
+La descripción de la mercancía declarada debe
+ contener la marca, modelo y número de parte, de corresponder.
+ En el caso de libros debe consignar el título del libro y el
+ código ISBN (número internacional estándar del libro).
+
+
+ 12.
+
+
+El
+ valor en aduana de las mercancías destinadas al destino
+ aduanero especial del Servicio de Mensajería Internacional se
+ verifica y determina de conformidad con las normas del Acuerdo
+ sobre Valoración en Aduana de la OMC, aprobado por Resolución
+ Legislativa Nº 26407; el Reglamento para la Valoración de
+ Mercancías según el Acuerdo sobre Valoración en Aduana de
+ la OMC, aprobado por el Decreto Supremo Nº 186-99-EF y
+ modificatorias; también se aplican los demás procedimientos,
+ instructivos y circulares, así como las Decisiones del Comité
+ de Valoración Aduanera (OMC) y los instrumentos del Comité Técnico
+ de Valoración en Aduana (Bruselas).
+
+
+13.
+
+
+Las DSIM cuyo valor, como consecuencia de un ajuste
+ aplicado conforme a las normas de valoración vigentes,
+ excedan los US $ 3 000,00 (tres mil y 00/100 dólares de los
+ Estados Unidos de América), se dejan sin efecto; en cuyo caso
+ la mercancía debe ser nacionalizadas con la numeración de
+ una Declaración Única de Aduanas, sin que sea necesario
+ trasladarlas a un TA.
+
+
+14.
+
+
+A efectos de
+ proceder conforme lo señalado en el artículo 8° del
+ Reglamento, las
+empresas del servicio de mensajería
+ internacional deben remitir los bienes descritos en los
+ incisos a), b) y c), en sacas de color verde o identificadas
+ con etiquetas de ese color, a fin de que se diferencien del
+ resto de sacas. Caso contrario se procede a trasladar estos
+ bienes al TAP para su despacho mediante la numeración de la
+ DSIM individual o consolidada, según corresponda.
+
+
+15.
+
+
+La información contenida en la DSIM o Solicitud de
+ Reexpedición/Devolución debe coincidir con la información
+ transmitida por teledespacho y debe ser consignada en idioma
+ español, no debe tener borrones, enmendaduras ni estar
+ ilegibles; si no cumple con las condiciones la autoridad
+ aduanera rechaza la declaración.
+
+
+16.
+
+
+En los despachos de esta destinación aduanera especial
+ son de aplicación las disposiciones establecidas en la Ley
+ del Registro Único del Contribuyente y su Reglamento.
+
+
+17.
+
+
+Los concesionarios postales deben conservar la
+ documentación con la que tramitaron los despachos en los que
+ han intervenido durante cinco (5) años contados a partir del
+ 1º de enero del año siguiente al de la numeración de las
+ declaraciones. Transcurrido dicho plazo o producida la
+ cancelación o revocación de la autorización correspondiente
+ o cuando la SUNAT lo requiera, deben entregar la referida
+ documentación a las intendencias de aduana en cuyas
+ circunscripciones tramitaron los despachos, conforme al
+ procedimiento que al respecto emita la SUNAT.
+
+
+18.
+
+
+La Intendencia Nacional de Sistemas de Información es
+ responsable del mantenimiento, actualización, conservación
+ de los datos históricos y de las aplicaciones de los módulos
+ del SIGAD, integración y oportuna consolidación de la
+ información a nivel nacional.
+
+
+VII. DESCRIPCIÓN
+
+
+A. PROCESOS GENERALES
+
+
+A.1 DEL INGRESO
+
+
+DE LOS BIENES DESCRITOS EN LOS INCISOS a), b) y c)
+
+
+ De la transmisión de la información
+ de manifiesto
+
+
+1.El transportista o su representante en el
+ país transmite los datos del manifiesto de carga hasta el
+ momento de la recepción del medio de transporte, de
+ conformidad con lo dispuesto en el artículo 19º del
+ Reglamento de la Ley General de Aduanas y de acuerdo a lo
+ establecido en el procedimiento de Manifiestos INTA-PG.09.
+
+
+2.
+
+
+Todos los envíos postales deben estar consignados en
+ el documento de transporte de carga, como “carga courier”,
+ “sacas courier”, “courier bags” o término similar y
+ manifestados de igual forma.
+
+
+
+De
+ la Declaración Jurada de Mensajería
+
+
+ 3.
+
+
+Para el despacho de estos bienes descritos en los
+ incisos a), b) y c) el concesionario postal debe transmitir
+ hasta antes del arribo de la aeronave una Declaración Jurada
+ de Mensajería (DJM) provisional, de acuerdo al formato
+ establecido en el Anexo 1, con la siguiente información:
+
+
+a)
+
+
+Nombre y código del concesionario postal;
+
+ b)
+
+
+Número de guía master;
+
+ c)
+
+
+Número de bultos y peso bruto de los bienes de los
+ incisos a), b) y c) del numeral 3.2. del artículo 3° del
+ Reglamento.
+
+
+ 4.
+
+
+Al arribo del medio de transporte, la carga se traslada
+ al TA quienes reciben los envíos postales, formula la nota de
+ tarja por los pesos y bultos recibidos, y transmite el
+ Documento Único de Información de Manifiesto (DUIM).
+
+
+ 5.
+
+
+El concesionario postal realiza el trámite del ingreso
+ de los bienes descritos en los incisos a), b) y c) al país
+ para lo cual no se requiere de la numeración de una declaración
+ simplificada ni del traslado de dichos bienes a un TAP,
+ siempre que cumpla con la transmisión de la DJM antes del
+ arribo de la aeronave así como de las demás formalidades
+ establecidas en el presente procedimiento.
+
+
+6.
+
+
+Para efectuar una correcta declaración de los bienes
+ de los incisos a), b) y c), el concesionario postal puede
+ realizar el reconocimiento previo de las sacas que contienen
+ dichos bienes, emitiéndose el acta respectiva. Esta acción
+ se realiza con posterioridad a la transmisión del DUIM.
+
+
+7.
+
+
+Si durante el reconocimiento previo encuentra dentro de
+ las sacas de documentos envíos que no corresponden a los
+ bienes de los incisos a), b) y c), procede a separarlos y a
+ reubicarlos en las sacas que contengan otros envíos postales,
+ en presencia del representante del TA y las traslada al TAP.
+ Sin embargo, cuando el peso en conjunto de los envíos
+ separados sea igual o mayor al veinte por ciento (20%) del
+ peso total de la saca, se procede al traslado de ésta y todo
+ lo que contiene al TAP, previa numeración de un acta de
+ traslado postal.
+
+
+8.
+
+
+El concesionario postal formula un acta de
+ reconocimiento donde consigna la hora y fecha del
+ reconocimiento previo, el número de sacas reconocidas y las
+ acciones efectuadas durante el
+
+reconocimiento
+ de las sacas; dicha acta es suscrita por el representante del
+ concesionario postal y por el representante del TA. La
+ reubicación de los envíos no modifica la cantidad de los
+ bultos, ni el peso consignados en el manifiesto de carga. El
+ acta original queda en poder del TA y la copia se entrega al
+ concesionario postal.
+
+
+9.
+
+
+Concluido el reconocimiento previo y efectuado el
+ reacondicionamiento de los bultos, el concesionario postal
+ transmite los datos complementarios y los datos definitivos de
+ la DJM, los cuales son validados por el sistema y en caso de
+ ser correctos se procede a su numeración definitiva.
+
+
+10.
+
+
+Una vez numeradas las DJM el sistema determina en forma
+ aleatoria aquellas declaraciones que se sujetan a inspección
+ física. Para las DJM no sujetas a inspección física, el
+ sistema en forma automática muestra el aviso “salida
+ autorizada”.
+
+
+11.
+
+
+Si el concesionario postal no transmite la información
+ definitiva dentro del plazo de veinticuatro (24) horas
+ contadas a partir de la transmisión de la DJM provisional, ésta
+ queda automáticamente sin efecto y el concesionario postal
+ deberá trasladar los envíos a un TAP para su nacionalización
+ mediante el proceso descrito en el literal A.2 de la presente
+ sección.
+
+
+12.
+
+
+El manifiesto general se data con:
+
+
+a.La numeración de la DJM definitiva en el
+ caso de las sacas que contengan bienes de los incisos a), b) y
+ c).
+
+ b.La numeración del Documento Único de Información del
+ Manifiesto de Mensajería (DUIMM), Anexo 2, por la cantidad de
+ bultos y peso traslado al TAP, por los envíos postales no señalados
+ en el párrafo precedente.
+
+
+
+Del
+ control aduanero
+
+
+13.
+
+
+En el caso de las DJM sujetas a inspección física, el
+ personal designado se constituye al TA para dicha acción.
+ Efectuada la inspección física y de encontrarse conforme,
+ diligencia la DJM en la casilla respectiva y registra el
+ resultado de la inspección en el SIGAD para la autorización
+ de salida.
+
+
+ 14.
+
+
+Si como consecuencia del control aduanero se comprueba
+ la existencia de mercancía distinta a los bienes descritos en
+ los incisos a), b) y c), se procede al comiso de la misma y a
+ la aplicación de la multa en los casos que corresponda, en
+ virtud al inciso i) del artículo 108º del Texto Único
+ Ordenado de Ley General de Aduanas y a la Tabla de Sanciones,
+ mediante la elaboración del Acta de Inmovilización
+ correspondiente, la cual se registra en el módulo respectivo.
+ Los demás envíos de la saca siguen el proceso establecido
+ para el retiro de los bienes, descrito del numeral 16 en
+ adelante.
+
+
+15.
+
+
+Si la autoridad aduanera encuentra bienes
+ correspondientes a los incisos a), b) y c) en cantidades
+ mayores a las establecidas en el Reglamento,
+
+
+procede a separar la saca y elabora un informe para que
+ la División de Destinos Aduaneros Especiales o área que
+ cumpla sus funciones, emita la Resolución dejando sin efecto
+ la DJM.
+
+
+La saca será trasladada por el
+ concesionario postal, con un acta de traslado, a un TAP, para
+ que los envíos se nacionalicen mediante el proceso descrito
+ en el rubro A.2 de la presente sección.
+
+
+Del retiro de las sacas
+
+
+16.
+
+
+Una Vez otorgado el levante de los bienes descritos en
+ los incisos a), b) y c), el TA está autorizado para entregar
+ las sacas que contengan dichos bienes, previa presentación de
+ la documentación descrita en el numeral 17 que sigue, de
+ conformidad con el artículo 8º del Reglamento.
+
+
+17.
+
+
+Para solicitar el retiro de las sacas, el concesionario
+ postal debe entregar el documento de transporte, el volante de
+ despacho y una copia de la DJM, debidamente suscrita y firmada
+ por su representante legal, al TA que la suscribe en señal de
+ conformidad; en el caso que el concesionario postal haya
+ realizado el reconocimiento previo debe adjuntar copia del
+ acta respectiva.
+
+
+18.
+
+
+La distribución de la DJM es como sigue:
+
+
+a.Original
+
+
+:
+
+concesionario
+ postal
+
+ b.1ra. copia
+
+:
+
+
+terminal de almacenamiento
+
+
+c.
+2da. copia
+
+
+:
+
+SUNAT
+
+
+19.
+
+
+El terminal de almacenamiento verifica que:
+
+
+-
+
+
+La DJM esté numerada electrónicamente, haya sido
+ debidamente firmada por el representante legal del
+ concesionario postal y contenga la totalidad de los datos.
+
+
+-
+
+
+Las DJM determinadas a inspección física se
+ encuentren diligenciadas por la autoridad aduanera.
+
+
+-
+
+La persona
+ que realiza el trámite sea la designada por el
+
+
+representante legal del concesionario postal y se
+ encuentre debidamente identificada con fotocheck emitido por
+ la SUNAT.
+
+
+-
+
+
+Las sacas hayan arribado cumpliendo las
+ formalidades establecidas en el numeral 14
+
+
+de la sección VI .
+
+
+-
+
+
+Las sacas tenga salida autorizada, lo cual se
+ verifica en la página web de la SUNAT (www.sunat.gob.pe).
+
+
+20.
+
+
+De ser conforme, el TA debe registrar los datos
+ de fecha y hora de salida de los bienes de sus recintos en el
+ portal de la SUNAT
+
+y
+ entrega las sacas; caso contrario retiene las sacas y comunica
+ este hecho a la autoridad aduanera.
+
+
+21. El TA conserva la siguiente documentación
+ durante el plazo establecido en el numeral 17 de la sección
+ VI:
+
+
+-
+
+
+El documento de transporte de carga;
+
+ -
+
+
+El volante de despacho;
+
+ -
+
+
+La DJM en la que se ha dejado constancia mediante
+ firmas del personal del concesionario postal y el TA encargado
+ de la entrega/recepción de las sacas;
+
+ -
+
+
+El acta de reconocimiento previo, en los casos que
+ corresponda.
+
+
+A.2 DE LA IMPORTACIÓN DE LA CARGA
+ COURIER
+
+
+De la transmisión del manifiesto
+
+
+ 1.
+
+
+El concesionario postal
+
+traslada,
+ bajo su responsabilidad y dentro del plazo señalado en el
+ literal b) del artículo 7° del Reglamento, los envíos
+ postales desde el TA hasta TAP mediante Acta de Traslado de
+ Envío Postales, cuyo modelo se encuentra en el Anexo 7 del
+ procedimiento de Manifiesto de Carga INTA-PG.09, la cual
+ numera por teledespacho. El concesionario postal transmite la
+ información sólo por la cantidad de bultos y peso que
+ traslada; ésta transmisión no genera datado y queda
+ registrada en el sistema; pudiendo visualizarse en el módulo
+ de manifiestos como una opción de consulta que permite
+ verificar la trazabilidad de los envíos postales.
+
+
+2.
+
+
+Concluida la entrega de los bultos al TAP, éste en
+ presencia del concesionario postal procede a la confección de
+ la nota de tarja al detalle y la lista de bultos faltantes,
+ sobrantes y en mala condición exterior; procediéndose a su
+ desconsolidación.
+
+
+3.
+
+
+Los TAP deben transmitir la información por
+ teledespacho a la SUNAT mediante el DUIMM, dentro de las
+ veinticuatro (24) horas siguientes al ingreso de la carga al
+ TAP, con lo cual se data el manifiesto de carga y se asume
+ como transmitido el manifiesto de mensajería internacional.
+
+
+4.Con
+
+
+la conformidad de recepción de la transmisión del
+ DUIMM por el SIGAD, no es necesaria la presentación física
+ de la nota de tarja, tarja al detalle, lista de bultos
+ faltantes y sobrantes; documentos que deben permanecer
+ archivados por los TAP y mostrarse en los casos que la
+ autoridad aduanera lo requiera.
+
+
+5.
+
+
+Los concesionarios postales solicitarán las
+ rectificaciones de manifiestos antes de la numeración de la
+ DSIM, dentro de los plazos y condiciones establecidas en el
+ procedimiento de Rectificación de Errores del Manifiesto de
+ Carga INTA-PE.09.02.
+
+
+De la transmisión de la información de
+ la declaración simplificada de importación de mensajería
+
+
+6.
+
+
+El concesionario postal está facultado para numerar
+ las DSIM modalidad 22 (mensajería internacional consolidada),
+ en los casos de envíos de uso personal y exclusivo del
+ destinatario, para tal fin deberá detallar la información a
+ nivel de serie del número de guía, descripción, subpartida
+ arancelaria, valor y peso de la mercancía.
+
+
+7.
+
+
+El trámite aduanero de despacho de envíos postales
+ modalidad 07 (mensajería internacional individual) puede
+ efectuarse por el remitente o destinatario, despachador de
+ aduana o por el concesionario postal.
+
+
+El destinatario que efectúe directamente
+ el despacho de ingreso de envíos de mensajería se sujetará
+ a lo dispuesto en el procedimiento de Despacho Simplificado de
+ Importación INTA-PE.01.01.
+
+ El concesionario postal o despachador de aduana solicitarán
+ la importación de los envíos de mensajería por transmisión
+ electrónica de la información contenida en la DSIM
+ utilizando la clave electrónica asignada, la misma que
+ reemplaza la firma manuscrita.
+
+
+8.
+
+
+Cuando los concesionarios postales opten por numerar
+ una DSIM consolidada, están obligados a llevar una cuenta
+ corriente por destinatario, respecto a los bienes de los
+ incisos d) y e) del numeral 3.2 del artículo 3° del
+ Reglamento, que se refieren a los bienes siguientes:
+
+ Inciso d): libros hasta por un valor de US $ 2 000,00 (dos mil
+ y 00/100 dólares de los Estados Unidos de América) al año
+ por destinatario.
+
+ Inciso e): los demás bienes cuyo valor en conjunto no exceda
+ de US $ 100 (cien y 00/100 dólares de los Estados Unidos de
+ América) hasta un límite de US $ 1 000,00 (un mil y 00/100 dólares
+ de los Estados Unidos de América) por destinatario al año.
+
+ Asimismo, deben transmitir electrónicamente la información
+ completa y detallada, Anexo 3, concerniente a las
+ importaciones correspondientes a cada guía courrier
+ registradas durante el mes, dentro de los primeros diez (10) días
+ calendarios del mes siguiente, esta información puede
+ visualizarse en
+www.sunat.gob.pe
+.
+ La información transmitida será consolidada por la
+ Intendencia Nacional de Sistemas de la Información y estará
+ a disposición de los órganos de control de la SUNAT. El
+ incumplimiento de lo señalado constituye infracción según
+ lo dispuesto en el numeral 4, inciso i) del artículo 103°
+ del TUO de la Ley General de Aduanas.
+
+
+ 9.
+
+
+El SIGAD valida los datos de la información
+ transmitida; de ser conforme genera automáticamente la
+ numeración correspondiente datando el manifiesto; caso
+ contrario, el SIGAD comunica inmediatamente por el mismo medio
+ para las correcciones a que hubiere lugar.
+
+
+10.
+
+
+Las DSIM transmitidas electrónicamente a la
+ Intendencia de Aduana Aérea del Callao, son sometidas a un
+ sistema de selección por el SIGAD a fin de determinar el
+ canal de control que se detallan a continuación:
+
+
+a.Canal verde.- las DSIM seleccionadas a
+ este canal no requieren de reconocimiento físico ni de revisión
+ documentaria, siendo la mercancía de libre disponibilidad,
+ previa cancelación de los tributos a la importación,
+ derechos antidumping o compensatorios, así como las multas,
+ intereses y otros, de corresponder. De manera excepcional el
+ jefe del área puede disponer que una DSIM se someta a
+ reconocimiento físico.
+
+ b.
+
+
+Canal naranja.- las DSIM seleccionadas a este canal,
+ son sometidas a revisión documentaria. El personal designado
+ puede solicitar autorización al jefe del área para someter
+ una declaración a reconocimiento físico.
+
+ c.Canal rojo.- las DSIM seleccionadas a este canal están
+ sujetas a reconocimiento físico, el cual no puede exceder del
+ quince (15) % de las declaraciones sometidas a selección
+ aleatoria mensual, conforme a lo establecido en el artículo
+ 49° del TUO de la Ley General de Aduanas. No están incluidos
+ en este porcentaje los casos de mercancías cuyo
+ reconocimiento físico se ha dispuesto de acuerdo a lo
+ establecido en el artículo 60° del Reglamento de la Ley
+ General de Aduanas.
+
+
+11.
+
+
+El SIGAD vía transmisión electrónica confirma la
+ numeración de la DSIM, con la indicación del canal a que ha
+ sido seleccionada, seguidamente el concesionario postal o
+ despachador de aduana, procede a la impresión de la DSIM y de
+ la hoja de liquidación de tributos.
+
+
+De la cancelación o afianzamiento
+
+
+12.
+
+
+El concesionario postal o despachador de aduana,
+ cancela la deuda tributaria aduanera y los derechos
+ antidumping o compensatorios, de corresponder, consignado en
+ la liquidación de tributos
+dentro
+ del plazo de tres (03) días hábiles contados a partir del día
+ siguiente de numerada la DSIM, en la forma descrita en el
+ procedimiento Pago – Extinción de Adeudos IFGRA-PE.15;
+ vencido dicho plazo, se liquidan los intereses moratorios por
+ día calendario hasta la fecha de pago inclusive.
+
+
+13.
+
+
+El afianzamiento de la deuda tributario aduanera se
+ rige por lo establecido en el procedimiento de Garantías de
+ Aduanas Operativas IFGRA-PE.13.
+
+
+ El concesionario postal o despachador
+ de aduana cancela la deuda tributaria aduanera en las oficinas
+ bancarias autorizadas o por vía electrónica.
+
+
+
+De la recepción y registro de
+ documentos
+
+
+14.
+
+
+El declarante presenta las DSIM seleccionadas a canal
+ rojo o naranja ante la ventanilla de la División de Destinos
+ Aduaneros Especiales o área que cumpla sus funciones de la
+ intendencia de aduana de despacho, en el horario establecido
+ por la intendencia; adjuntando los documentos que se detallan
+ en el siguiente orden:
+
+
+a.Guía de envío donde esté consignado el
+ valor del flete;
+
+ b.Volante de despacho emitido por el almacén;
+
+ c.Factura o documento equivalente o declaración jurada del
+ valor, según corresponda;
+
+ d.Documentos de autorización que requiera la naturaleza de la
+ mercancía;
+
+ e.Otros (carta poder, lista de empaque, traducción de la
+ factura o documento equivalente, especificaciones técnicas,
+ lista de precios, catálogo valorado
+,
+
+
+etc.) de corresponder.
+
+
+15.
+
+
+El personal designado recibe las DSIM y los
+ documentos sustentatorios, ingresando esta información al
+ SIGAD para efectos de la emisión de una Guía de Entrega de
+ Documentos (GED) por cada declaración recibida.
+
+
+16.
+
+
+El SIGAD, de manera aleatoria, asigna las DSIM al
+ personal designado.
+
+
+17.
+
+
+La distribución de las DSIM se efectúan como sigue:
+
+
+ a) Cuando el trámite lo realice el
+ concesionario postal o el agente de aduana:
+
+
+
+Original
+
+
+: declarante
+
+
+
+1ra.
+ Copia
+
+
+: aduana de despacho
+
+
+
+2da.
+ copia
+
+
+: destinatario
+
+
+
+3ra. copia
+
+
+: terminal de almacenamiento
+
+
+b)
+
+
+Cuando el trámite lo realice el consignatario o
+ despachador oficial:
+
+
+
+Original
+
+
+
+
+: aduana de despacho
+
+
+
+1ra.
+ copia
+
+:
+ declarante
+
+
+
+2da
+ copia
+
+:
+ destinatario
+
+
+
+3ra.
+ copia : terminal de almacenamiento
+
+
+De la revisión documentaria
+
+
+18.
+
+
+La autoridad aduanera verifica que se haya adjuntado a
+ la DSIM su correspondiente GED, lo que demuestra que el SIGAD
+ ha validado la cancelación o afianzamiento de la deuda
+ tributaria aduanera. Asimismo, verifica que se haya adjuntado
+ a la DSIM todos los documentos que se mencionan en la GED.
+
+
+19.
+
+
+La revisión documentaria la efectúa la autoridad
+ aduanera
+
+designada y
+ consiste en verificar y
+
+contrastar
+ la información contenida en la DSIM y la transmitida electrónicamente
+ con los documentos presentados físicamente
+,
+
+así como la correcta aplicación de lo dispuesto
+ en las normas legales vigentes.
+
+
+20.
+
+
+De ser conforme, el personal designado procede a
+ diligenciar de acuerdo a lo descrito en el numeral 25 que
+ sigue. De no ser conforme, describe los motivos del rechazo en
+ la GED a efectos de que el personal autorizado notifique al
+ concesionario postal, dueño o consignatario o despachador de
+ aduana, a través de la GED, entregando el original y
+ reservando una copia adjunta a la declaración.
+
+
+21.
+
+
+El personal designado, de considerar necesario la
+ verificación de la información contenida en la DSIM puede
+ disponer que la declaración seleccionada a canal naranja por
+ el sistema sea reconocida físicamente; para lo cual debe
+ ingresar en el rubro misceláneos/observaciones del módulo
+ del SIGAD los motivos que lo llevaron a tomar dicha
+ determinación. El jefe del área o la persona que designe,
+ registra en el mencionado rubro el nombre del personal que se
+ encuentra ejerciendo funciones en el correspondiente TAP y que
+ realizará el reconocimiento físico y la prosecución del
+ despacho. Las declaraciones se remiten el mismo día al TAP,
+ con excepción a las registradas con posterioridad a las 14:30
+ horas, las que serán remitidas el siguiente día hábil.
+
+
+22.
+
+
+Cuando la declaración se rechace, el personal
+ autorizado archiva temporalmente la DSIM y sus actuados hasta
+ la presentación de la documentación o información
+ requerida. Si el declarante no subsana el motivo del rechazo
+ dentro del plazo de treinta (30) días, siguientes a la fecha
+ de numeración de la DSIM, se configura el abandono legal de
+ la mercancía.
+
+
+23.
+
+
+La División de Destinos Aduaneros Especiales o área
+ que haga sus veces, informará periódicamente a la División
+ de Administración, la relación de mercancías que se
+ encuentran aptas para su disposición.
+
+
+24.
+
+
+Revisada la documentación presentada y habiéndose
+ subsanado el motivo del rechazo, el personal autorizado
+ diligencia en la casilla 2.2 de la DSIM, consigna su firma y
+ sello y la registra en el módulo correspondiente del SIGAD,
+ luego la entrega al personal encargado para que proceda a
+ notificar al declarante el levante de su despacho;
+ seguidamente distribuye los documentos de acuerdo a lo señalado
+ en el numeral 17 precedente. El declarante deja constancia de
+ la recepción con su firma y sello en la parte inferior de la
+ declaración. Cuando la importación sea tramitada por el
+ concesionario postal o por un agente de aduanas, la aduana de
+ despacho mantendrá en sus archivos copia de los actuados con
+ los que se tramitó el despacho. En los casos en los que el trámite
+ lo realice el propio consignatario o despachador oficial, los
+ documentos originales son archivados por la SUNAT.
+
+
+Del reconocimiento físico
+
+
+25.
+
+
+En los casos de DSIM seleccionadas a canal rojo o
+ aquellas determinadas para su reconocimiento físico, el
+ declarante debe presentarse al TAP portando los documentos señalados
+ en el numeral 14 precedente, a fin de que el personal
+ designado efectúe el reconocimiento físico de la mercancía.
+
+
+26.
+
+
+La autoridad aduanera verifica que se haya adjuntado a
+ la DSIM su correspondiente GED, lo que demuestra que el SIGAD
+ ha validado la cancelación o afianzamiento de la deuda
+ tributaria aduanera. Asimismo, verifica que se haya adjuntado
+ a la DSIM todos los documentos que se mencionan en la GED y
+ que estos se encuentren conforme a la información transmitida
+ y de acuerdo a la normatividad legal vigente. De estar
+ conforme, se procede al reconocimiento físico de la mercancía.
+
+
+27.
+
+
+De no estar conforme la revisión documentaria,
+ el personal designado describe los motivos del rechazo en la
+ GED y los registra en el módulo del SIGAD correspondiente, a
+ efectos de que el personal autorizado notifique al
+ concesionario postal, dueño o consignatario o despachador de
+ aduana, entregando el original de l
+a
+ GED,
+y reservando una copia, la misma que se adjunta a
+ la declaración. Subsanado el motivo del rechazo, se procede
+ al reconocimiento físico de la mercancía.
+
+
+28.
+
+
+Cuando la DSIM se rechace, el personal designado
+ archiva temporalmente la DSIM y sus actuados hasta la
+ presentación de la documentación o información requerida.
+ Si el declarante no subsana el motivo del rechazo dentro del
+ plazo de treinta (30) días siguientes a la fecha de numeración
+ de la DSIM se configura el abandono legal de la mercancía.
+
+
+29.
+
+
+La División de Destinos Aduaneros Especiales o área
+ que haga sus veces, informará periódicamente a la División
+ de Administración, la relación de mercancías que se
+ encuentran aptas para su disposición.
+
+
+30.
+
+
+Si en el reconocimiento físico se encuentra alguna
+ incidencia
+
+afecta a
+ sanción, la autoridad aduanera debe subsanar las deficiencias
+ advertidas en los recuadros correspondientes de la DSIM y en
+ el módulo de importación courier del SIGAD, para lo que
+ puede solicitar información al declarante y/o importador
+,
+
+
+y previa cancelación de las multas, de
+ corresponder. El proceso de ajuste de valor se regirá por lo
+ establecido en el procedimiento de Valoración de Mercancías
+ INTA-PE.01.10a.
+
+
+31.
+
+
+Si durante el reconocimiento físico se comprueba la
+ existencia de mercancía no declarada, la autoridad aduanera
+ procede a formular un acta de inmovilización, modifica los
+ datos correspondientes en la DSIM y registra dicha información
+ en el SIGAD. El jefe de la División de Destinos Aduaneros
+ Especiales o área que cumpla sus funciones remite copia del
+ acta de inmovilización a la División de Manifiestos para las
+ correspondientes modificaciones del datado. El personal
+ autorizado notifica la aplicación de la medida preventiva al
+ declarante o importador mediante la entrega del acta de
+ inmovilización. La mercancía correctamente manifestada y
+ declarada prosigue su despacho. Posteriormente, se emite el
+ acto resolutivo declarando el comiso de la mercancía materia
+ de inmovilización y aplicando la multa correspondiente, en
+ virtud a lo señalado en el artículo 108º inciso i) del
+ Texto Único Ordenado de la Ley General de Aduanas. Una copia
+ de la Resolución se remite a la División de Administración
+ para las acciones de disposición de la mercancía.
+
+
+32.Durante el reconocimiento físico la
+ autoridad aduanera consulta en los módulos del SIGAD la
+ información transmitida por los concesionarios postales y se
+ verifica la existencia de mercancía no manifestada, aún
+ cuando esté debidamente declarada, emite un informe poniendo
+ en conocimiento del Jefe de la División de Destinos Aduaneros
+ Especiales o del área que cumpla sus funciones, quien
+ mediante proveído lo remite a la División de Manifiesto, con
+ la finalidad de que ésta evalúe el caso y elabore, de ser el
+ caso, la resolución de comiso por la mercancía no
+ manifestada, de acuerdo a su competencia funcional, en virtud
+ a lo señalado en el artículo 108° literal d) del TUO de la
+ Ley General de Aduanas. La autoridad aduanera que interviene
+ en el despacho notifica la aplicación de la medida preventiva
+ al declarante o importador mediante la entrega del Acta de
+ Inmovilización. La mercancía correctamente manifestada y
+ declarada proseguirá su despacho.
+
+
+33.
+
+
+De acuerdo con lo señalado en los literales a) y b)
+ del artículo 82º del texto Único Ordenado de la Ley General
+ de Aduanas, la DSIM se deja sin efecto si la totalidad de la
+ mercancía declarada es mercancía prohibida, con la finalidad
+ de que el declarante solicite su reembarque, salvo que por
+ disposición legal se establezca otra medida. También se deja
+ sin efecto la DSIM si la totalidad de mercancía declarada se
+ encuentra restringida y no cumple con los requisitos
+ establecido para su ingreso al país, a efecto de que proceda
+ el reembarque.
+
+
+34.
+
+
+Si la mercancía prohibida o restringida referida en el
+ numeral anterior, corresponde sólo a una parte del total de
+ la mercancía declarada, el personal designado la separa y
+ elabora el acta de inmovilización correspondiente, que es
+ remitida por el jefe de la División de Destinos Aduaneros
+ Especiales a la División de Manifiestos, solicitando mediante
+ proveído la modificación del datado. El personal designado
+ rectifica la DSIM respecto a los pesos y bultos. No procede
+ bajo ninguna circunstancia el reembarque de mercancía no
+ declarada.
+
+
+35.
+
+
+Si durante el reconocimiento físico no hay incidencia
+ o el concesionario postal ha subsanado las observaciones
+ motivo del rechazo, la autoridad aduanera procede a
+ diligenciar en la casilla 9 de la declaración, consignando su
+ firma y sello y la registra en el módulo correspondiente del
+ SIGAD.
+
+
+36.
+
+
+Seguidamente, el personal encargado notifica al
+ declarante con la DSIM diligenciada, el levante de su
+ despacho, distribuye los documentos de acuerdo a lo señalado
+ en el numeral 17 precedente, teniendo en cuenta que cuando la
+ importación sea tramitada por un concesionario postal o por
+ un despachador de aduana, la aduana de despacho mantendrá en
+ sus archivos copia de los actuados con los que se tramitó el
+ despacho. En los casos que el trámite lo realice el propio
+ consignatario o despachador oficial, los documentos originales
+ quedan para la aduana de despacho.
+
+
+
+Del
+ retiro de la mercancía del terminal de almacenamiento
+
+
+ 37.
+
+
+El TAP entrega las mercancías almacenadas en sus
+ recintos previa verificación en el portal de la SUNAT, de la
+ siguiente información:
+
+
+
+a.Que los tributos liquidados, derechos
+ antidumping o compensatorios, de corresponder, se encuentren
+ cancelados o garantizados y se encuentren canceladas las
+ liquidaciones de cobranza asociadas a la DSIM.
+
+ b.Que las DSIM seleccionadas a canal naranja o rojo se
+ encuentren diligenciadas por el personal designado.
+
+
+A.3 DE LA EXPORTACIÓN DE ENVIOS DE
+ MENSAJERIA INTERNACIONAL
+
+
+De
+ la Salida al Exterior de Envíos de Mensajería
+
+
+1.
+
+
+El trámite de la exportación de envíos de mensajería
+ internacional se sujetará
+
+
+a lo dispuesto en el procedimiento de Despacho
+ Simplificado de
+
+Exportación
+ INTA-PE.02.01, en lo que no se oponga al presente
+ procedimiento.
+
+
+2.
+El
+ embarque de la carga courier se realiza por la circunscripción
+ de la intendencia de aduana en donde se numera la declaración.
+
+
+3.
+
+
+A
+ requerimiento del exportador las mercancías que se embarquen
+ con destino al exterior, podrán declararse en una Declaración
+ Simplificada de Exportación (DSE) individual para cada
+ exportador o en una que consolide a diferentes exportadores.
+ El valor por exportador en cada envío no podrá exceder los
+ US $ 2 000,00 (dos mil y 00/100 dólares de los Estados Unidos
+ de América) ni los cincuenta (50) kilos de peso.
+
+
+4.
+
+Tratándose de
+ una DSE consolidada, que contiene envíos con carácter
+ comercial, el concesionario postal debe declarar en cada serie
+ un documento de transporte y cada mercancía con su
+ correspondiente subpartida nacional, cantidad, unidades físicas,
+ peso, y valor FOB, utilizando las series que sean necesarias
+ en caso que la factura o boleta de venta emitida por el
+ beneficiario del nuevo RUS ampare más de un tipo de
+
+
+mercancía. Para acogerse al beneficio de saldo a
+ favor, drawback u otros, el concesionario postal debe
+ transmitir al momento de la transmisión de la información
+ para numerar la DSE, la Relación Consolidada de Exportadores
+ (Anexo 4) con el detalle de las facturas y códigos
+ respectivos.
+
+
+5.
+
+
+En el
+ caso de los envíos de mercancías
+
+
+sin fines comerciales, el concesionario postal
+ puede transmitir la descripción genérica de las mercancías
+ amparadas en la DSE, en cuyo caso debe contar con la relación
+ de los envíos amparados en dicha declaración, la cual
+ contiene los datos siguientes: número de documento de
+ transporte de carga, número de la guía courier de cada envío,
+ nombres del remitente y del consignatario, bultos, peso, valor
+ y descripción de la mercancía. No está obligado a
+ transmitir ni presentar la Relación Consolidada de
+ Exportadores.
+
+
+6.
+
+
+El
+ concesionario postal solicita la destinación aduanera ante la
+ intendencia de aduana por vía electrónica para lo cual
+ transmite los datos correspondientes a la DSE utilizando la
+ clave electrónica que le ha sido asignada, la cual reemplaza
+ la firma manuscrita.
+
+
+7.
+
+
+El
+ SIGAD valida los datos de la información transmitida por el
+ concesionario postal, de ser conforme, genera automáticamente
+ el número correspondiente de la DSE, caso contrario, se
+ comunica inmediatamente por el mismo medio para las
+ correcciones pertinentes.
+
+
+8.
+
+
+El
+ SIGAD comunica el número de DSE generado al concesionario
+ postal, quien procede a imprimir la DSE para ser presentada en
+ el TA, conjuntamente o después de ingresada la mercancía,
+ según corresponda.
+
+
+9.
+
+
+El
+ concesionario postal ingresa la mercancía al TA como
+ requisito previo a la selección del canal de control.
+
+
+10.
+
+
+Los
+ TA deben registrar la fecha y la hora de recepción de la
+ mercancía y de la DSE,
+
+transmitir
+ vía electrónica a la respectiva intendencia de aduana los
+ datos de la mercancía recibida asociada al número de la DSE,
+ en un plazo no mayor a dos (02) horas computadas a partir de
+ la recepción de la DSE o de la mercancía, lo que suceda en
+ último término.
+
+
+11.
+
+
+Los
+ concesionarios postales pueden consultar en el portal de la
+ SUNAT en Internet, el canal de control a la que son sometidas
+ las mercancías.
+
+
+12.
+
+
+En
+
+el caso de las DSE seleccionadas a
+ canal rojo o aquellas determinadas para reconocimiento físico,
+ el declarante se presenta al TA portando la DSE y la
+ documentación consignada en el numeral 17 que sigue, a fin de
+ que la autoridad aduanera efectúe el reconocimiento físico
+ de la mercancía.
+
+
+13.
+
+Si
+ c
+omo
+ consecuencia de la revisión física de la mercancía la
+ autoridad aduanera que interviene en el despacho encuentra
+ discrepancia entre lo declarado y lo encontrado, procede a
+ elaborar un acta de inmovilización al envío postal.
+ Seguidamente, el concesionario postal prosigue con el trámite
+ de embarque de los demás envíos postales contenidos en la
+ saca correctamente declarados. La autoridad aduanera rectifica
+ los datos en la
+
+DSE y consigna su diligencia en la casilla 9 de la declaración,
+ registrando dichos actos en el SIGAD. Posteriormente, mediante
+ resolución se declara el comiso de la mercancía, conforme a
+ lo dispuesto en el artículo 108° inciso i) del Texto Único
+ Ordenado de la Ley General de Aduanas.
+
+
+14.
+
+
+Seguidamente,
+ el concesionario postal presenta al TA las DSE asignadas a
+ canal rojo debidamente numeradas y diligenciadas, para su
+ embarque.
+Las
+ DSE seleccionadas a canal rojo serán regularizadas de oficio
+ por la autoridad aduanera, para lo cual ingresa la fecha de
+ embarque al SIGAD, que se obtiene al consultar la guía aérea
+ correspondiente en el módulo de manifiesto de carga.
+
+
+15.
+
+
+En
+ el caso de las DSE seleccionadas a canal naranja, los
+ concesionarios postales, sin más trámite las presentan al TA
+ para su embarque. Las DSE seleccionadas a canal naranja deben
+ regularizarse con la presentación, a satisfacción de la
+ SUNAT, de la documentación señalada en el numeral 17 que
+ sigue, dentro de los quince (15) días hábiles posteriores a
+ su embarque.
+
+
+16.
+
+
+En
+
+casos
+ excepcionales, cuando el personal de aduanas encargado
+ determine que las DSE seleccionadas a canal naranja requieren
+ de reconocimiento físico (tales como la presunción de
+
+
+mercancías restringidas o prohibidas con excepción
+ u otros motivos), comunica este hecho a su jefe inmediato,
+ mediante hoja informativa, quien determina si procede dicho
+ requerimiento, para lo cual ingresa al SIGAD para la designación
+ del personal encargado de realizar el reconocimiento físico.
+ Esta acción se efectúa como parte del proceso de despacho
+ aduanero. Las referidas DSE no se consideran dentro de los
+ porcentajes establecidos para el canal rojo.
+
+
+17.
+
+
+Para la regularización de las declaraciones los
+ concesionarios postales deben presentar los siguientes
+ documentos:
+
+
+
+ a.
+
+
+Exportaciones con fines comerciales:
+
+
+
+ i.DSE con los datos de la recepción de la mercancía
+ debidamente suscrita por la empresa de transporte en el
+
+         casillero 8 de
+ la declaración (autocopia).
+
+
+
+ ii.
+
+
+Guía
+ aérea master (copia).
+
+
+
+ iii.
+
+
+Factura
+ (autocopia o copia carbonada) o boleta de venta emitida por el
+ beneficiario del nuevo RUS.
+
+
+
+ iv.
+
+
+Relación
+ consolidada de exportadores tramitada en una DSE
+
+
+consolidada (copia).
+
+
+
+ b.
+
+
+Exportaciones sin fines comerciales:
+
+
+
+ i.
+
+
+DSE con los datos de la recepción de la mercancía
+ debidamente suscrita por la empresa de transporte en el
+       casillero 8 de la
+ declaración (autocopia).
+
+
+
+ ii.Guía aérea master (copia).
+
+
+
+ iii.
+
+
+Relación de los envíos, suscrita por el representante
+ legal del concesionario postal, conteniendo la siguiente
+       información: número de
+ guía courier, nombre del remitente y consignatario, bultos,
+ peso y la descripción genérica
+       de la mercancía (copia).
+ Sólo en el caso de declaraciones consolidadas.
+
+
+
+ c.
+
+
+Exportación de documentos:
+
+
+
+ i.
+
+
+DSE con los datos de la recepción de la mercancía
+ debidamente suscrita por la empresa de transporte en el
+       casillero 8 de la
+ declaración (autocopia).
+
+
+
+ ii
+
+
+Guía
+ aérea master (copia).
+
+
+18.
+
+
+Es
+
+ responsabilidad del exportador y/o concesionario postal
+ realizar el despacho según el tipo y cantidad de mercancía
+ con antelación suficiente que permita el embarque sin
+ contratiempo.
+
+
+19.
+
+
+En los casos en que el exportador desee regularizar regímenes
+ de Admisión Temporal o Importación Temporal, así como
+ acogerse a los regímenes de Reposición de Mercancías en
+ Franquicia o Restitución de Derechos Arancelarios, el
+ concesionario postal deberá dejar constancia expresa en la
+ casilla 10 de la DSE y en cada serie debe transmitir durante
+ la numeración de la declaración, el código del régimen,
+ como sigue:
+
+
+a.
+
+
+Admisión e Importación Temporal: el número de DUA
+ del régimen precedente se consigna en el rubro 6.13 de la
+ DSE, y en el
+
+caso
+ que la serie se acoja a más de una DUA de Importación
+ Temporal o Admisión Temporal, sólo se consigna el código
+ del régimen que corresponda.
+
+
+b.
+
+
+Reposición de Mercancías en Franquicia o Restitución
+ de Derechos Arancelarios: el código relativo a dichos regímenes
+ (12 ó 13) se consigna en el rubro 6.13 de la DSE
+ respectivamente.
+
+
+B. LOS PROCESOS ESPECÍFICOS
+
+
+De la reexpedición y devolución
+ a origen de envíos de mensajería internacional
+
+
+1.
+
+
+Las devoluciones a origen y las reexpediciones de las
+ mercancías amparadas en una guía postal se realizan mediante
+ el formulario Solicitud de Reexportación/Devolución (en
+ adelante Solicitud) contenida en el Anexo 5 del presente
+ procedimiento, siempre que se encuentre en un TAP.
+
+
+2.
+
+
+Los concesionarios postales solicitan vía
+ teledespacho, las devoluciones a origen y las reexpediciones
+ ante la División de Destinos Aduaneros Especiales o área que
+ cumpla sus funciones, para lo cual adjunta los originales y un
+ juego de copias de la guía de envío y del volante de
+ despacho emitido por el almacén.
+
+
+3.
+
+
+El personal designado recibe las Solicitudes y los
+ documentos sustentatorios, ingresando la información al SIGAD
+ para la emisión de una Guía de Entrega de Documentos (GED)
+ por cada Solicitud recibida.
+
+
+4.
+
+
+El personal designado recibe y verifica la documentación
+ y la compara con la información registrada en el sistema; de
+ encontrarse conforme, procede a registrar su diligencia en la
+ casilla 5 de la Solicitud, para lo cual consigna la fecha de
+ vencimiento del plazo autorizado registrándolo en el SIGAD.
+ El plazo autorizado puede ser ampliado, siempre que el
+ concesionario postal lo solicite mediante expediente, antes
+ del vencimiento del plazo anterior, argumentando los motivos.
+ En ningún caso, el plazo acumulado debe exceder de treinta
+ (30) días computados a partir del día siguiente del término
+ de la descarga. Vencido el plazo autorizado, la mercancía no
+ puede embarcarse.
+
+
+De no proceder la autorización, el
+ personal designado describe los motivos de rechazo en la GED
+ para que el concesionario postal realice las subsanaciones
+ correspondientes; dicho personal notifica al concesionario
+ postal y archiva temporalmente la solicitud, hasta la
+ presentación de la documentación o información solicitada.
+
+
+
+
+ 5.
+
+Los concesionarios postales que realicen el traslado de
+ pequeños paquetes o encomiendas postales por encargo de
+ correos internacionales, y que se identifiquen con estampillas
+ o sellos del correo de origen, tendrán el mismo tratamiento
+ que se da a la devolución de envíos no distribuíbles por el
+ Convenio Postal Universal. Los envíos sujetos a notificación
+ por ausencia del destinatario y no reclamados, serán
+ devueltos a origen en el plazo máximo de treinta (30) días
+ contados a partir del día siguiente del vencimiento del plazo
+ de conservación. El plazo de conservación es de dos (02)
+ meses contados a partir del día siguiente de la fecha de
+ arribo del medio de transporte.
+
+
+
+
+ 6.
+
+El concesionario postal en representación del
+ expedidor, bajo su responsabilidad, puede solicitar la
+ devolución a origen del envío postal que no ha podido
+ entregar al destinatario por cualquier motivo.
+
+
+
+
+ 7.
+
+
+El concesionario postal solicita la reexpedición de un
+ envío postal a un tercer país en los casos de cambio de
+ dirección del destinatario; o cuando estando destinados a
+ terceros países, son descargados por error en nuestro país.
+
+
+ 8.
+
+Los concesionarios postales deben embarcar las
+ devoluciones a origen o las reexpediciones en sacas, las que
+ deben estar registradas en documentos de transporte diferentes
+ de los que contienen otros envíos postales de exportación.
+
+
+
+
+ 9.
+
+
+Las devoluciones a origen o las reexpediciones se
+ consolidan en sacas en el TAP y son verificadas por la
+ autoridad aduanera en el TA donde se le colocan los precintos
+ para su traslado al aeropuerto y su posterior embarque.
+ Concluida la verificación, la autoridad aduanera diligencia
+ en el casillero 9 de la Solicitud, anotando la cantidad de
+ bultos y número de precintos y los registra en el SIGAD.
+
+
+
+
+ 10.
+
+
+Los concesionarios postales trasladan las sacas que
+ contienen envíos para la devolución o reexpedición. Durante
+ el control de embarque los oficiales de aduana verifican el
+ estado y número de los precintos. De estar conforme, se
+ procede a diligenciar la Solicitud en el casillero 7.
+
+
+
+
+ 11.
+
+Si el número de precinto no coincide con lo consignado
+ en la Solicitud o de existir signos de haber sido violentado o
+ manipulado, la autoridad aduanera deja constancia de tal
+ hecho, efectúa el reconocimiento físico, para lo que podrá
+ retornar las sacas al TA, y le aplica la multa prevista para
+ la infracción establecida en e numeral 1 inciso i) del artículo
+ 103° del Texto Único Ordenado de la Ley General de Aduanas.
+
+
+
+
+ 12.
+
+
+Los oficiales de aduana realizan el control de
+ embarque, recaban la firma y sello del capitán de la nave en
+ el casillero 8 de la Solicitud, procediendo a registrar su
+ diligencia (fecha y hora del embarque) en el SIGAD.
+
+
+
+
+ 13.
+
+El embarque de las devoluciones a origen o las
+ reexpediciones se efectuarán dentro del plazo consignado en
+ la casilla 5 de la solicitud.
+
+
+
+
+14.
+
+
+La Solicitud de Reexpedición / Devolución se
+ distribuye como sigue:
+
+
+Original
+
+
+
+
+:
+
+intendencia
+ de aduana autorizante
+
+
+
+ 1ra.
+
+copia
+
+
+:
+
+concesionario
+ postal
+
+
+
+ 2da. copia
+
+
+:
+
+intendencia
+ de aduana de salida
+
+
+
+ 3ra. copia
+
+
+: terminal de almacenamiento
+
+
+
+
+ 15.
+
+El oficial de aduanas remite a su oficina las
+ Solicitudes de Reexpedición /Devolución con la documentación
+ correspondiente, para su consolidación y posterior remisión
+ a la División de Destinos Aduaneros Especiales o área que
+ cumpla sus funciones.
+
+
+
+
+ 16.
+
+
+No procede la devolución a origen ni la reexpedición
+ cuando:
+
+
+
+
+ a.
+
+
+El envío postal no haya sido embarcado dentro del
+ plazo otorgado por la autoridad aduanera, con excepción de
+ los envíos postales transportados por encargo de correos
+ extranjeros;
+
+
+
+ b. El envío postal se encuentra inmovilizado, incautado o
+ comisado, salvo que se trate de mercancía prohibida y siempre
+ que por disposición legal no se establezca otra medida, o se
+ trate de mercancía restringida que no cumpla con los
+ requisitos establecidos para su ingreso;
+
+
+
+ c.
+
+
+La mercancía ha sido adjudicada, rematada, destruida o
+ entregada al sector competente, de conformidad con lo
+ establecido en el Texto Único Ordenado de la Ley General de
+ Aduanas y su Reglamento;
+
+
+
+ d.
+
+
+La mercancía se encuentre en abandono legal, salvo que
+ se trate de mercancía prohibida y siempre que por disposición
+ legal no se establezca otra medida;
+
+
+
+ e.
+
+
+El valor declarado de la mercancía se encuentre
+ observado por la autoridad aduanera.
+
+
+
+
+ 17.
+
+
+No procede bajo ninguna circunstancia el reembarque,
+ devolución a origen o reexpedición de mercancía no
+ declarada.
+
+
+VIII FLUJOGRAMA
+
+
+IX
+
+
+INFRACCIONES, SANCIONES Y DELITOS
+
+
+ 1.
+
+
+Según su participación como terminal de
+ almacenamiento, concesionario postal, declarante o despachador
+ de aduana, son de aplicación las infracciones y sanciones
+ establecidas en el Texto Único Ordenado de la Ley General de
+ Aduanas, la Tabla de Sanciones Aplicables a las Infracciones
+ previstas en la Ley General de Aduanas.
+
+
+
+
+ 2.
+
+
+Sin perjuicio de lo dispuesto en el numeral precedente,
+ en los casos que la autoridad aduanera presuma la existencia
+ de delitos tipificados en la "Ley de los Delitos
+ Aduaneros", debe formular la respectiva denuncia penal
+ ante la autoridad competente.
+
+
+
+ANEXOS
+
+
+1.
+
+
+Declaración Jurada de Mensajería – DJM.
+
+
+
+ 2.
+
+
+Documento Uncido de Información del Manifiesto de
+ Mensajería – DUIMM.
+
+
+
+ 3.
+
+Estructura de la información para el registro de
+ cuenta corriente por destinatario.
+
+
+
+
+ 4.
+
+Relación Consolidada de Exportadores.
+
+
+
+
+ 5.
+
+
+Solicitud de Reexpedición/ Devolución de Envíos
+ Postales.

@@ -1,0 +1,742 @@
+Procedimientos - AUTORIZACIÓN Y ACREDITACIÓN DE OPERADORES DE COMERCIO EXTERIOR
+
+
+AUTORIZACIÓN  DE OPERADORES DE COMERCIO
+
+EXTERIOR
+
+
+PROCEDIMIENTO GENERAL
+
+
+
+
+
+
+
+Proc:
+
+
+DESPA-PG.24
+
+
+Autorización
+
+ y categorización de operadores de comercio exterior
+
+
+Vigencia:
+
+
+ 31.01.2020
+
+
+Publicación:
+
+
+ 30.01.2020
+
+
+Resolución:
+
+
+ 023-2020-SUNAT
+
+
+Fecha Res.:
+29/01/2020
+
+
+Versión:
+
+
+ 4
+
+
+Lista:
+Com
+plementaria
+
+
+Circulares Anexa
+
+
+Control de Cambios
+
+
+
+I. OBJETIVO
+Establecer las pautas a seguir
+
+			para la autorización del operador de comercio exterior, la
+
+			modificación y revocación de dicha autorización y su categorización,
+
+			así como la entrega de documentos que realice el citado operador.
+
+
+II. ALCANCE
+Está dirigido al personal de
+
+			la Superintendencia Nacional de Aduanas y de Administración
+
+			Tributaria - SUNAT, a la persona que solicita autorización como
+
+			operador de comercio exterior y al operador de comercio exterior que
+
+			participa en el proceso regulado en el presente procedimiento.
+
+
+III. RESPONSABILIDAD
+La aplicación,
+
+			cumplimiento y seguimiento del presente procedimiento es de
+
+			responsabilidad del Intendente Nacional de Desarrollo e Innovación
+
+			Aduanera, del Intendente Nacional de Sistemas de Información, del
+
+			Intendente Nacional de Control Aduanero, de los intendentes de
+
+			aduana de la República y del personal de las distintas unidades
+
+			organizacionales que intervienen.
+IV. DEFINICIONES Y
+
+			ABREVIATURAS
+Para efectos del presente
+
+			procedimiento, se entiende por:
+1. Operador: Al operador de
+
+			comercio exterior.
+2. RUC: Al registro único de contribuyentes.
+
+
+V. BASE LEGAL
+- Ley General de Aduanas,
+
+			Decreto Legislativo N° 1053, publicado el 27.6.2008, y
+
+			modificatorias.
+- Reglamento del Decreto Legislativo N° 1053, Ley
+
+			General de Aduanas, aprobado por el Decreto Supremo N° 010-2009-EF,
+
+			publicado el 16.1.2009, y modificatorias, en adelante, el
+
+			reglamento.
+- Tabla de sanciones aplicables a las infracciones
+
+			previstas en la Ley General de Aduanas, aprobada por el Decreto
+
+			Supremo N° 418-2019-EF, publicado el 31.12.2019, en adelante, la
+
+			tabla de sanciones.
+- Texto Único Ordenado de la Ley del
+
+			Procedimiento Administrativo General, Ley N° 27444, aprobado por el
+
+			Decreto Supremo N° 004-2019-JUS, publicado el 25.1.2019, en adelante
+
+			el TUO de la LPAG.
+- Texto Único Ordenado del Código Tributario,
+
+			aprobado por el Decreto Supremo Nº 133-2013-EF, publicado el
+
+			22.6.2013, y modificatorias.
+VI. DISPOSICIONES
+
+			GENERALES
+1. Estado y condición del RUC
+
+
+Para ejecutar las acciones contempladas en el presente
+
+			procedimiento se debe contar con número de RUC en estado activo y no
+
+			tener la condición de no habido, así como contar con la clave SOL.
+
+
+2. Tramitación por medios electrónicos
+
+
+			Los trámites y los actos administrativos previstos en el presente
+
+			procedimiento se efectúan a través de los medios electrónicos
+
+			disponibles en el portal de la SUNAT, conforme a lo establecido en
+
+			el TUO de la LPAG.
+Para realizar la notificación electrónica,
+
+			la Administración Aduanera debe contar con la autorización expresa
+
+			del administrado. Esta notificación surte efecto el día que conste
+
+			haber sido recibida.
+3. Especificaciones técnicas
+
+			para el cumplimiento de condiciones del sistema de seguridad
+
+
+En el anexo II se establecen las especificaciones técnicas
+
+			necesarias para el cumplimiento de las condiciones previstas en el
+
+			anexo 1 del reglamento que se detallan a continuación:
+a) Sistema
+
+			de monitoreo por cámaras que permita supervisar las operaciones que
+
+			se realizan.
+b) Balanza fija de plataforma instalada al interior
+
+			del área a autorizar.
+c) Sistema de registro o identificación
+
+			para el control de las personas que ingresan a sus instalaciones,
+
+			incluyendo sus zonas operativas.
+La oficina para uso
+
+			exclusivo de la autoridad aduanera debe cumplir con las regulaciones
+
+			comunes exigibles para cualquier edificación destinada al uso de
+
+			oficina establecidas en la norma A.080 del Reglamento Nacional de
+
+			Edificaciones, aprobado mediante el Decreto Supremo Nº
+
+			011-2006-VIVIENDA y modificatorias.
+4. Disposiciones
+
+			para la salida y retorno del depósito flotante
+El
+
+			depósito flotante autorizado, según lo establecido en el artículo 12
+
+			del reglamento, debe permanecer dentro del mar territorial.
+
+
+			Excepcionalmente, el depósito flotante puede movilizarse fuera del
+
+			territorio nacional solo en caso de mantenimiento o reparación,
+
+			previa comunicación a la autoridad aduanera indicando el sustento
+
+			técnico correspondiente. También se debe comunicar en forma previa
+
+			el retorno del depósito flotante.
+El depósito flotante que
+
+			sale o retorna al territorio nacional no debe contar con mercancía
+
+			almacenada.
+La Administración Aduanera está facultada a
+
+			realizar las acciones de control que considere necesarias.
+
+
+VII. DESCRIPCIÓN
+A. AUTORIZACIÓN
+
+
+1. Solicitud de autorización como operador
+
+
+Para solicitar la autorización, el interesado registra la
+
+			información en el portal de la SUNAT, adjuntando la documentación
+
+			que acredite el cumplimiento de los requisitos y condiciones
+
+			señalados en el artículo 17 y en el anexo 1 del reglamento,
+
+			incluyendo las especificaciones técnicas previstas en el anexo II,
+
+			cuando corresponda.
+Una vez registrada la información, se
+
+			genera un número de solicitud y se comunica al interesado a través
+
+			del buzón electrónico.
+
+
+2.-Observaciones a la informacion declarada
+
+
+Si la Administracion Aduanera observa la
+
+			información registrada en la solicitud
+,
+
+			el interesado es notificado a través del buzon electrónico para que
+
+			subsane todas las observaciones, en el plazo de 10 días hábiles
+
+			contados a partir  del dia siguiente de notificada la
+
+			observación. De no  hacerlo en el plazo indicado, la solicitud
+
+			es considerada como no presentada.
+
+
+3. Visita de inspección
+Cuando se requiera
+
+			la verificación del local del interesado, la Administración Aduanera
+
+			programa la visita de inspección y notifica al interesado a través
+
+			del buzón electrónico.
+4. Observaciones en la visita
+
+			de inspección
+Si existen observaciones en la visita de
+
+			inspección, el interesado es notificado en el buzón electrónico para
+
+			que las subsane en un plazo de diez días hábiles contado a partir
+
+			del día siguiente de la notificación.
+5. Conclusión
+
+			del procedimiento
+Si no existen observaciones o si estas
+
+			han sido subsanadas, la Administración Aduanera emite una resolución
+
+			que otorga al interesado la autorización para desempeñarse como
+
+			operador. En caso no se hayan subsanado las observaciones señaladas
+
+			en el numeral anterior se emite la resolución que deniega la
+
+			solicitud. La resolución es notificada a través del buzón
+
+			electrónico.
+B. MODIFICACIÓN O REVOCACIÓN DE LA
+
+			AUTORIZACIÓN
+1. Para solicitar la modificación o
+
+			revocación de la autorización, el operador accede al portal de la
+
+			SUNAT y registra la solicitud en la que declara que cumple con los
+
+			requisitos y condiciones señalados en los artículos 24 y 25 y en el
+
+			anexo 2 del reglamento, incluyendo las especificaciones técnicas
+
+			previstas en el anexo II, cuando corresponda.
+Para la
+
+			atención de esta solicitud se aplica el proceso descrito en el
+
+			literal A, de corresponder.
+C. CONSERVACION Y
+
+			ENTREGA DE DOCUMENTOS POR EL OPERADOR
+1.
+
+			Conservación de los documentos por el operador
+El
+
+			operador conserva en copia los documentos detallados en el anexo
+
+			III, durante dos años contados a partir del 1 de enero del año
+
+			siguiente de la fecha de numeración de la declaración. Transcurrido
+
+			este plazo, el operador puede disponer libremente de las copias que
+
+			conserva.
+2. Entrega de documentación conservada
+
+
+El operador entrega por medios electrónicos la
+
+			documentación en formato PDF/A (formato de archivo para el guardado
+
+			a largo plazo de documentos electrónicos) que requiera la
+
+			Administración Aduanera, dentro de los siguientes plazos:
+a)
+
+			Treinta días hábiles contados a partir del día siguiente de
+
+			notificado, cuando se trate de un requerimiento originado por la no
+
+			renovación, cancelación o revocación de su autorización.
+b) Cinco
+
+			días hábiles contados a partir del día siguiente de notificado, en
+
+			los demás casos.
+En tanto la Administración Aduanera no
+
+			habilite el medio electrónico para la entrega, esta se realiza de
+
+			manera física. En el caso del inciso a) del párrafo anterior, el
+
+			plazo para la entrega física es de ciento veinte días hábiles.
+
+
+Si la Administración Aduanera observa la documentación
+
+			entregada, notifica al operador a través del buzón electrónico y le
+
+			otorga un plazo de quince días para la subsanación de la
+
+			observación.
+De no existir observaciones o si estas han sido
+
+			subsanadas en el plazo otorgado, se emite una constancia de
+
+			recepción de la documentación presentada.
+D.
+
+			CATEGORIZACIÓN DEL OPERADOR
+1. Factor para
+
+			definir la categoría del operador
+La Administración
+
+			Aduanera mide el nivel de cumplimiento de las operaciones aduaneras
+
+			del operador desde la fecha de otorgamiento de la autorización o la
+
+			renovación hasta el fin del cómputo de plazo de autorización.
+
+
+2.
+
+			Cálculo del nivel de cumplimiento del operador
+
+
+El nivel de cumplimiento se mide anualmente con
+
+			el historial de infracciones cometidas y la cantidad de operaciones
+
+			realizadas por el operador.
+
+
+Para medir el nivel de cumplimiento se
+
+			consideran todas las infracciones determinadas y las
+
+			autoliquidaciones de multa
+
+
+			(excepto las que se hayan dejado sin efecto a la fecha del cálculo),
+
+			el peso de la infracción y la ubicación del operador en el segmento
+
+			respectivo, según la cantidad de operaciones aduaneras que realizó a
+
+			nivel nacional el año calendario anterior; conforme a las reglas
+
+			establecidas en el anexo I.
+
+
+(
+R.S.226-2020/SUNAT.V-01.01.2021
+)
+
+
+La ubicación del operador en
+
+			los segmentos se realiza al inicio de cada año calendario,
+
+			considerando las siguientes operaciones aduaneras:
+
+
+(
+R.S.226-2020/SUNAT.V-01.01.2021
+)
+
+
+
+
+
+Operador
+
+
+Operaciones aduaneras
+
+
+1
+
+
+					Transportista o su representante en el país
+
+
+					Cantidad de documentos de transporte transmitidos y no
+
+					anulados.
+
+
+2
+
+
+Agente de carga internacional
+
+
+					Cantidad de documentos de transporte consolidados y
+
+					desconsolidados transmitidos y no anulados.
+
+
+3
+
+
+1. Agente de aduanas
+2.
+
+					Despachador oficial
+3. Dueño, consignatario o consignante
+
+
+1.
+
+
+
+Cantidad de declaraciones aduaneras de mercancías
+
+					numeradas y no legajadas; y
+
+
+2.
+
+
+
+Cantidad de declaraciones simplificadas numeradas
+
+					y no legajadas.
+
+
+4
+
+
+					Almacén aduanero - Depósito temporal
+
+
+1.
+
+
+
+Cantidad de ingresos y recepción de mercancías
+
+					transmitidas y no anuladas; y
+
+
+2. Cantidad de relaciones de
+
+					carga a embarcar.
+
+
+5
+
+
+					Almacén aduanero - Depósito aduanero
+
+
+					Cantidad de declaraciones de depósito.
+
+
+6
+
+
+					Empresa de servicio de entrega rápida
+
+
+					Cantidad de declaraciones simplificadas numeradas y no
+
+					legajadas.
+
+
+7
+
+
+					Beneficiario de material para uso aeronáutico
+
+
+					Cantidad de declaraciones simplificadas numeradas y no
+
+					legajadas.
+
+
+8
+
+
+Almacén libre (Duty free)
+
+
+					Cantidad de declaraciones simplificadas numeradas y no
+
+					legajadas.
+
+
+9
+
+
+Empresa de servicio postal
+
+
+					Cantidad de documentos postales de origen transmitidos y no
+
+					anulados.
+
+
+10
+
+
+					Operador de transporte multimodal internacional
+
+
+					Cantidad de documentos de transporte consolidado y no
+
+					consolidado, trasmitidos y no anulados
+
+
+
+Si de la medición del nivel
+
+			de cumplimiento se obtiene como resultado un número negativo, se
+
+			considera que este es 0%.
+
+
+(
+R.S.226-2020/SUNAT.V-01.01.2021
+)
+3. Historial de
+
+			infracciones
+El historial del operador se formula con
+
+			el registro en el sistema informático de la Administración Aduanera
+
+			de todas las infracciones que cometa el operador en el período de un
+
+			año calendario, excepto el primer período de medición que se
+
+			computará a partir de la fecha de la autorización hasta el 31 de
+
+			diciembre del siguiente año calendario.
+4. Períodos
+
+			de evaluación del operador
+La medición del nivel de
+
+			cumplimiento se realiza en los siguientes períodos:
+a)
+
+
+			Mensual:
+ Mide el nivel de cumplimiento del operador dentro
+
+			de un mes calendario, obteniéndose una categoría mensual referencial
+
+			correspondiente al mes evaluado.
+b)
+Anual:
+ Mide
+
+			el nivel de cumplimiento del operador dentro de un año calendario,
+
+			obteniéndose una categoría anual. Esta categoría surte efectos desde
+
+			el 1 de febrero hasta el 31 de enero del año siguiente.
+c)
+
+
+Plazo autorizado:
+ Mide el promedio de las
+
+			categorías anuales correspondientes a los plazos de autorización
+
+			previstos en los incisos b) y c) del artículo 18 del reglamento,
+
+			obteniéndose una categoría final del plazo autorizado. Esta
+
+			categoría tiene como efecto la renovación o no de la autorización
+
+			conforme a lo establecido en el artículo 21 del reglamento.
+
+
+			Estos resultados se muestran al operador en el portal de la SUNAT
+
+			dentro de los primeros diez días calendario del mes siguiente del
+
+			periodo evaluado.
+5. Observaciones del operador a la
+
+			categorización asignada
+El operador puede formular
+
+			observaciones a la categoría anual o final del plazo autorizado, en
+
+			el plazo de quince días calendario contado a partir del día
+
+			siguiente de su publicación. La Administración Aduanera las resuelve
+
+			y notifica su pronunciamiento en el plazo de quince días calendario
+
+			contado a partir del día siguiente de la presentación de las
+
+			observaciones.
+6. Efectos de la revocación antes del
+
+			fin del plazo de autorización
+Cuando el operador
+
+			solicite la revocación de su autorización antes del fin del plazo
+
+			señalado en el artículo 17 del reglamento, la categoría final del
+
+			plazo autorizado se determina hasta la fecha de revocación de la
+
+			autorización.
+Si la categoría final obtenida es C, la
+
+			revocación tiene los efectos de una autorización no renovada.
+
+
+VIII. VIGENCIA
+El presente procedimiento
+
+			entra en vigencia al día siguiente de su publicación.
+
+
+IX. ANEXOS
+
+
+Anexo I:
+ Reglas
+
+			para la categorización del operador de comercio exterior.
+(
+R.S.226-2020/SUNAT.V-01.01.2021
+)
+
+
+Anexo II:
+
+
+			Especificaciones tecnicas para el cumplimiento de condiciones del
+
+			Sistema de Seguridad
+
+(
+R.S.172_2021/SUNAT_29.11.2021
+)
+
+
+Anexo
+
+			III:
+ Documentos que debe conservar en copia el operador de
+
+			comercio exterior.

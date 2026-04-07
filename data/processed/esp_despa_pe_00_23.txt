@@ -1,0 +1,2317 @@
+Despacho - Procedimientos Asociados
+
+
+PROCEDIMIENTO
+
+ESPECÍFICO: IMPORTACIÓN TEMPORAL, EXPORTACIÓN TEMPORAL Y TRÁNSITO ADUANERO
+
+MEDIANTE EL USO DEL CUADERNO ATA
+
+
+Proc:
+
+
+
+
+
+						DESPA-PE.00.23
+
+
+						Importación temporal, exportación temporal y tránsito
+
+						aduanero mediante el uso del Cuaderno ATA
+
+
+Versión:
+
+
+1
+
+
+Publicación:
+
+
+ 26/07/2021
+
+
+Resolución:
+
+
+						108-2021
+
+
+Fecha Res.:
+
+
+21/07/2021
+
+
+Vigencia:
+
+
+						27/10/2021
+
+
+
+Lista:
+
+Maestra
+
+
+Circulares Anexas
+
+
+Control de
+
+ Cambios
+
+
+
+
+
+I.
+
+			OBJETIVO
+Establecer las pautas a seguir para la
+
+			importación o exportación temporal y tránsito aduanero de mercancías
+
+			mediante el uso del Cuaderno ATA, con la finalidad de lograr el
+
+			cumplimiento del Convenio relativo a la Importación Temporal.
+
+
+II. ALCANCE
+Está dirigido al personal de
+
+			la Superintendencia Nacional de Aduanas y de Administración
+
+			Tributaria - SUNAT, al operador de comercio exterior (OCE) y al
+
+			operador interviniente (OI) que participan en los procesos de
+
+			importación o exportación temporal y tránsito aduanero de mercancías
+
+			al amparo del Convenio relativo a la Importación Temporal.
+
+
+III. RESPONSABILIDAD
+La aplicación,
+
+			cumplimiento y seguimiento de lo dispuesto en el presente
+
+			procedimiento es de responsabilidad del Intendente Nacional de
+
+			Desarrollo e Innovación Aduanera, del Intendente Nacional de
+
+			Sistemas de Información, del Intendente Nacional de Control
+
+			Aduanero, de los intendentes de aduana de la República, de las
+
+			jefaturas y personal de las distintas unidades de organización que
+
+			intervienen.
+IV. DEFINICIONES Y ABREVIATURAS
+
+
+Para efectos del presente procedimiento se entiende por:
+
+
+			1.
+  Asociación expedidora
+: A la asociación
+
+			autorizada por la Administración Aduanera para expedir títulos de
+
+			importación temporal y afiliada directa o indirectamente a una
+
+			cadena de garantía.
+2.
+  Asociación garantizadora:
+
+
+			A la asociación autorizada por la Administración Aduanera para
+
+			garantizar la deuda tributaria aduanera y recargos y afiliada a una
+
+			cadena de garantía.
+3.
+  Cadena de garantía
+:
+
+			Al sistema de garantía administrado por una organización
+
+			internacional a la que están afiliadas las asociaciones
+
+			garantizadoras.
+4.
+  Cuaderno ATA
+: Al
+
+			título de importación temporal, utilizado para la importación o
+
+			exportación temporal y tránsito aduanero de mercancías, con
+
+			exclusión de los medios de transporte. En adelante CATA.
+5.
+
+
+  Funcionario aduanero
+: Al personal de la
+
+			SUNAT que ha sido designado o encargado para desempeñar actividades
+
+			o funciones en su representación, ejerciendo la potestad aduanera de
+
+			acuerdo con su competencia.
+6.
+  Inspección
+
+			documental:
+ Al examen realizado por la autoridad aduanera
+
+			de la información contenida en el CATA, en el sistema informático y
+
+			en los documentos que la sustentan, de corresponder.
+7.
+
+			I
+nspección física
+: A la acción de control ejercida
+
+			por la autoridad aduanera para verificar la información declarada en
+
+			el CATA respecto a la cantidad, peso, medida y estado de las
+
+			mercancías, además del valor en el caso de la importación temporal.
+
+
+			8.
+  Lista general del volante de
+
+			importación/exportación
+: Al formato del CATA que contiene
+
+			la lista de mercancías con la identificación de las que son materia
+
+			de importación o de exportación.
+9.
+  Lista general
+
+			del volante de reexportación/reimportación
+: Al formato del
+
+			CATA que contiene la lista de mercancías con la identificación de
+
+			las que son materia de reexportación o de reimportación.
+10.
+
+
+Lista general del volante de tránsito
+: Al formato
+
+			del CATA que contiene la lista de mercancías en tránsito aduanero
+
+			con la identificación de las que son materia de ingreso y salida del
+
+			país con destino a otro.
+11.
+Lista general de la Portada
+
+			del Cuaderno ATA
+: Al formato del CATA que contiene el total
+
+			de las mercancías materia de la importación o exportación temporal y
+
+			tránsito aduanero con la identificación de estas, a ser autorizadas
+
+			por la asociación expedidora y la asociación garantizadora.
+12.
+
+
+Matriz de exportación/reimportación
+: Al formato del
+
+			CATA que sirve para acreditar el control aduanero de las aduanas
+
+			extranjeras y nacionales, cuya información debe coincidir con el
+
+			volante de exportación o de reimportación.
+13.
+Matriz de
+
+			importación/reexportación
+: Al formato del CATA que sirve
+
+			para acreditar el control aduanero de las aduanas extranjeras y
+
+			nacionales, cuya información debe coincidir con el volante de
+
+			importación o de reexportación.
+14.
+Matriz de tránsito:
+
+
+			Al formato del CATA que sirve para acreditar el control aduanero de
+
+			las aduanas extranjeras y nacionales, cuya información debe
+
+			coincidir con el volante de tránsito.
+15.
+MPV-SUNAT
+:
+
+			A la mesa de partes virtual de la SUNAT consistente en una
+
+			plataforma informática disponible en el portal de la SUNAT que
+
+			facilita la presentación virtual de documentos.
+16.
+
+
+			Portada del Cuaderno ATA
+: Al formato del CATA que contiene
+
+			el número, el nombre de titular, la entidad emisora, el plazo de
+
+			vigencia, el tipo de mercancía, el país emisor y la lista general en
+
+			donde se describen las mercancías amparadas por este documento.
+
+
+			17.
+Volante de exportación
+: Al formato del CATA que
+
+			constituye la prueba para la aduana extranjera que la mercancía
+
+			cuenta con el control aduanero efectuado por la aduana de salida o
+
+			de tránsito.
+18.
+Volante de importación
+: Al
+
+			formato del CATA que constituye la prueba para la autoridad aduanera
+
+			nacional que la mercancía cuenta con el control aduanero efectuado
+
+			por la aduana extranjera de salida o de tránsito.
+19.
+
+
+			Volante de reexportación
+: Al formato del CATA que
+
+			constituye la prueba para la autoridad aduanera nacional que la
+
+			mercancía ingresada con el volante de importación concluirá con la
+
+			salida total o parcial de la misma.
+20.
+Volante de
+
+			reimportación
+: Al formato del CATA que constituye la prueba
+
+			para la autoridad aduanera nacional que la mercancía exportada
+
+			temporalmente y consignada en el volante de exportación retorna al
+
+			país con su ingreso total o parcial.
+21.
+Volante de
+
+			tránsito
+: Al formato del CATA que constituye la prueba para
+
+			la aduana extranjera que la mercancía en tránsito aduanero cuenta
+
+			con el control aduanero efectuado por la aduana en tránsito tanto al
+
+			ingreso como a su salida.
+V. BASE LEGAL
+
+
+- Convenio relativo a la Importación Temporal y sus Anexos A, B1
+
+			y B2, aprobado mediante Resolución Legislativa N° 30808, publicada
+
+			el 5.7.2018, y ratificado mediante Decreto Supremo N° 031-2018-RE,
+
+			publicado el 17.7.2018. En adelante, el Convenio.
+- Decreto
+
+			Supremo Nº 008-2020-RE, que ratifica la enmienda al Convenio
+
+			relativo a la Importación Temporal sobre la lista ilustrativa del
+
+			apéndice III al anexo B2, publicado el 12.5.2020.
+- Decreto
+
+			Supremo Nº 009-2020-RE, que ratifica la enmienda al Convenio
+
+			relativo a la Importación Temporal sobre la incorporación del
+
+			artículo 21A, publicado el 12.5.2020.
+- Decreto Supremo Nº
+
+			010-2020-RE, que ratifica la enmienda al Convenio relativo a la
+
+			Importación Temporal que incorpora el nuevo modelo del Cuaderno ATA
+
+			del apéndice I al anexo A, publicado el 12.5.2020.
+- Decreto
+
+			Supremo Nº 011-2020-RE, que ratifica la enmienda al Convenio
+
+			relativo a la Importación Temporal sobre el apéndice II al anexo A,
+
+			publicado el 12.5.2020.
+- Decreto Supremo N° 067-2021-EF, que
+
+			establece disposiciones en el marco del Convenio relativo a la
+
+			Importación Temporal, publicado el 16.4.2021.
+- Ley General de
+
+			Aduanas, Decreto Legislativo N° 1053, publicado el 27.6.2008, y
+
+			modificatorias. En adelante, la Ley.
+- Reglamento del Decreto
+
+			Legislativo N° 1053, Ley General de Aduanas, aprobado por Decreto
+
+			Supremo N° 010-2009-EF, publicado el 16.1.2009, y modificatorias.
+
+
+- Tabla de Sanciones aplicables a las infracciones previstas en
+
+			la Ley General de Aduanas, aprobada por Decreto Supremo N°
+
+			418-2019-EF, publicado el 31.12.2019, y modificatoria.
+- Ley de
+
+			los Delitos Aduaneros, Ley Nº 28008, publicada el 19.6.2003, y
+
+			modificatorias.
+- Reglamento de la Ley de los Delitos Aduaneros,
+
+			aprobado por Decreto Supremo N° 121-2003-EF, publicado el 27.8.2003,
+
+			y modificatorias.
+- Texto Único Ordenado de la Ley N° 27444 - Ley
+
+			del Procedimiento Administrativo General, aprobado por Decreto
+
+			Supremo N° 004-2019-JUS, publicado el 25.1.2019, y modificatorias.
+
+
+			- Resolución de Superintendencia N° 077-2020/SUNAT, que aprueba la
+
+			creación de la mesa de partes virtual de la SUNAT, publicada el
+
+			8.5.2020.
+VI. DISPOSICIONES GENERALES
+
+
+A) TRATAMIENTOS ADUANEROS APLICABLES
+1.
+
+			La importación temporal es el tratamiento aduanero que permite
+
+			introducir al territorio aduanero, con suspensión del pago de los
+
+			derechos arancelarios y demás tributos aplicables a la importación
+
+			para el consumo y recargos, de corresponder, determinadas mercancías
+
+			importadas con un objetivo definido y destinadas a ser reexportadas
+
+			en un plazo determinado sin haber experimentado modificación alguna,
+
+			con excepción del deterioro normal por su uso.
+2. La
+
+			exportación temporal es el tratamiento aduanero que permite la
+
+			salida del territorio aduanero de determinadas mercancías exportadas
+
+			con un objetivo definido y destinadas a ser reimportadas en un plazo
+
+			determinado sin haber experimentado modificación alguna, con
+
+			excepción del deterioro normal por su uso.
+Las mercancías
+
+			exportadas bajo este tratamiento al ser reimportadas no están
+
+			sujetas al pago de los derechos arancelarios y demás tributos
+
+			aplicables a la importación para el consumo y recargos, de
+
+			corresponder.
+3. El tránsito aduanero es el tratamiento
+
+			aduanero mediante el cual las mercancías son transportadas bajo
+
+			control aduanero desde una aduana de partida hasta una aduana de
+
+			destino, a través del territorio aduanero con suspensión del pago de
+
+			los derechos arancelarios y demás tributos aplicables a la
+
+			importación para el consumo y recargos, de corresponder.
+4.
+
+			El registro, seguimiento y control de las mercancías amparadas en un
+
+			CATA corresponde al área que administra los regímenes temporales.
+
+
+B) CATA
+1. El CATA sustituye, para los
+
+			tratamientos aduaneros aplicables, las formalidades aduaneras
+
+			contempladas para los regímenes de admisión temporal para
+
+			reexportación en el mismo estado, exportación temporal para
+
+			reimportación en el mismo estado y tránsito aduanero, así como a la
+
+			declaración aduanera de mercancías (DAM).
+2. El CATA se rige
+
+			por lo dispuesto en el Convenio y el presente procedimiento, y en lo
+
+			no previsto por dichas normas, por lo regulado en la legislación
+
+			nacional.
+3. Los códigos para el registro del CATA en el
+
+			sistema informático son los siguientes:
+Tratamientos
+
+			aduaneros      Código
+CATA Importación
+
+			temporal   53
+CATA Reexportación
+
+			54
+CATA Exportación temporal  55
+CATA Reimportación
+
+			56
+CATA Tránsito aduanero      57
+
+
+4. La presentación del CATA ante la autoridad aduanera se
+
+			realiza a través del titular del CATA y no requiere de la
+
+			participación de un agente de aduana.
+5. La vigencia del CATA
+
+			es hasta un año contado desde la fecha de su emisión. Durante este
+
+			período, el titular puede utilizarlo en uno o más ingresos o salidas
+
+			del país respecto a las mercancías que ampara.
+6. El CATA
+
+			debe estar vigente al momento de efectuarse la importación o
+
+			exportación temporal y tránsito aduanero de mercancías, haber sido
+
+			expedido en el formato aprobado en el apéndice I del anexo A del
+
+			Convenio, el cual puede ser consultado en el portal de la SUNAT, y
+
+			ser llenado en idioma español o inglés. En caso de usarse un idioma
+
+			distinto, el titular debe anexar una traducción simple al idioma
+
+			español o inglés
+.
+
+			(link)
+7. El CATA no es aceptado por la
+
+			Administración Aduanera, de acuerdo con los tratamientos aduaneros
+
+			aplicables según corresponda, cuando:
+a) Haya sido modificado de
+
+			cualquier forma, sin autorización.
+b) Tenga información añadida.
+
+
+			c) Se encuentre ilegible o manchado.
+d) La diligencia se
+
+			encuentre defectuosa o incompleta.
+e) No contenga la autorización
+
+			de la asociación expedidora (sellos, logos, etc.).
+f) Las
+
+			mercancías registradas, para el caso de importación temporal, no se
+
+			encuentren incluidas en los anexos B1 o B2 del Convenio.
+g) Se
+
+			haya registrado un valor declarado inferior al valor de las
+
+			mercancías.
+h) Contenga firmas incompletas e inconformes.
+i)
+
+			Se encuentre vencido.
+j) No tenga numeración.
+k) La mercancía
+
+			que ampara haya sido objeto de una acción de control o medida
+
+			preventiva.
+l) No tenga la certificación de la Administración
+
+			Aduanera en la portada.
+m) El Registro Único de Contribuyentes
+
+			(RUC) consignado se encuentre no activo o no habido.
+8. Una
+
+			vez expedido el CATA, no procede modificación alguna a la lista
+
+			general de mercancías u hojas adicionales.
+9. En caso el CATA
+
+			no haya sido aceptado, las mercancías podrán someterse a cualquiera
+
+			de los regímenes aduaneros previstos en la Ley, en tanto cumplan con
+
+			las formalidades establecidas por la legislación nacional.
+
+
+			10. El CATA duplicado es aquel que emite la asociación expedidora en
+
+			caso de destrucción, pérdida o robo del CATA, cuya validez expira en
+
+			la misma fecha del CATA original.
+11. El CATA sustituto es
+
+			aquel que emite la asociación expedidora en caso el titular requiera
+
+			una prórroga de la vigencia del CATA para la conclusión de la
+
+			importación o exportación temporal.
+12. El titular devuelve
+
+			el CATA a la asociación expedidora, una vez culminada la vigencia de
+
+			este o al término de su uso.
+C) TITULAR DEL CATA
+
+
+1. El titular del CATA, en adelante el titular, es la persona
+
+			natural o jurídica debidamente consignada en el CATA. Se confiere
+
+			esta calidad a los representantes designados por el titular, los
+
+			cuales deben estar debidamente consignados en el CATA.
+2. El
+
+			funcionario aduanero verifica que la persona que tramita la
+
+			importación temporal, exportación temporal, o el tránsito aduanero
+
+			corresponda al titular señalado en el CATA, a través del respectivo
+
+			pasaporte, carné de extranjería o documento nacional de identidad.
+
+
+D) GARANTIA EXIGIBLE
+1. La
+
+			asociación garantizadora asegura el pago de los derechos
+
+			arancelarios y demás tributos y recargos aplicables a la importación
+
+			para el consumo correspondientes a las mercancías amparadas en un
+
+			título de importación temporal expedido por una asociación
+
+			expedidora, quedando obligada, conjunta y solidariamente con el
+
+			titular, al pago de dichas cantidades en caso de incumplimiento de
+
+			las condiciones previstas en el Convenio.
+La garantía se
+
+			constituye conforme a lo previsto en el Convenio.
+E)
+
+			MERCANCÍAS QUE SE ACOGEN A LOS TRATAMIENTOS ADUANEROS
+
+
+E.1) Importación temporal
+1. Las
+
+			mercancías susceptibles de acogerse a la importación temporal son
+
+			aquellas a las que se refieren los anexos B1 y B2 del Convenio
+
+			detalladas en los anexos I y II.
+2. Las mercancías
+
+			correspondientes al anexo I no pueden ingresar para:
+a)
+
+			Exposiciones organizadas con carácter privado en tiendas o locales
+
+			comerciales con el fin de vender mercancías extranjeras.
+b) Ser
+
+			prestadas, alquiladas o utilizadas mediante una retribución o ser
+
+			transportadas fuera del lugar de la manifestación sin haberlo
+
+			comunicado previamente a la autoridad aduanera.
+3. Respecto
+
+			de las mercancías correspondientes al anexo II no pueden ingresar:
+
+
+			a) El material para ser utilizado en la fabricación industrial o el
+
+			acondicionamiento de mercancías, a menos que se trate de
+
+			herramientas de mano para: la explotación de recursos naturales, la
+
+			construcción, reparación o conservación de inmuebles, la ejecución
+
+			de trabajos de movimiento de tierras o trabajos similares.
+b) El
+
+			material cinematográfico, de prensa, de radiodifusión y de
+
+			televisión objeto de un contrato de alquiler o un contrato similar
+
+			en que sea parte una persona establecida en el país, salvo se trate
+
+			de la realización de programas comunes de radiodifusión o de
+
+			televisión.
+4. Las mercancías correspondientes al anexo II
+
+			deben cumplir con los siguientes requisitos:
+a) Pertenecer a una
+
+			persona establecida o residente fuera del territorio nacional.
+b)
+
+			Ser importadas temporalmente por una persona establecida o residente
+
+			fuera del territorio nacional.
+c) Ser utilizadas exclusivamente
+
+			por la persona que visite el territorio nacional o bajo su propia
+
+			dirección.
+El requisito previsto en el inciso c) no es de
+
+			aplicación al material importado temporalmente para la realización
+
+			de una película, de un programa de televisión o de una obra
+
+			audiovisual en ejecución de un contrato de coproducción del que sea
+
+			parte una persona establecida en el territorio nacional y que sea
+
+			aprobado por las autoridades competentes en el marco de un acuerdo
+
+			intergubernamental de coproducción.
+5. No es aceptada la
+
+			importación temporal cuando el CATA:
+a) Consigne mercancías no
+
+			incluidas en los anexos I y II.
+b) Consigne un valor inferior al
+
+			valor de mercancías idénticas o similares.
+6. En caso de que
+
+			la autoridad aduanera detecte diferencia entre la cantidad o la
+
+			descripción declarada en la lista general de un CATA y lo encontrado
+
+			como resultado del control aduanero, el exceso o las mercancías no
+
+			declaradas podrán someterse a cualquiera de los regímenes aduaneros
+
+			previstos en la Ley cumpliendo con las formalidades prescritas por
+
+			la legislación nacional.
+E.2) EXPORTACIÓN TEMPORAL
+
+
+1. Las mercancías susceptibles de acogerse a la exportación
+
+			temporal son aquellas permitidas por el Convenio.
+
+
+			E.3) TRÁNSITO ADUANERO
+1. Las mercancías
+
+			susceptibles de acogerse al tránsito aduanero son aquellas
+
+			permitidas por el Convenio.
+2. El transportista debe estar
+
+			autorizado para operar por el sector competente. En la vía
+
+			terrestre, los medios de transporte deben estar previamente
+
+			autorizados por el Ministerio de Transportes y Comunicaciones y
+
+			registrados por la autoridad aduanera.
+F) MERCANCÍAS
+
+			ESPECIALES
+1. Las mercancías restringidas pueden
+
+			ser objeto de los tratamientos aduaneros señalados en el literal A)
+
+			de la presente sección, siempre que cumplan con los requisitos
+
+			exigidos por la normatividad específica para su ingreso, salida y
+
+			tránsito por el país.
+2. El tratamiento de mercancías
+
+			restringidas y prohibidas se regula por lo dispuesto en el
+
+			procedimiento específico “Control de mercancías restringidas y
+
+			prohibidas” DESPA-PE.00.06.
+La relación referencial de
+
+			mercancías restringidas o prohibidas puede ser consultada en el
+
+			portal de la SUNAT (www.sunat.gob.pe).
+3. En el caso del
+
+			tránsito aduanero, las mercancías peligrosas deben ser identificadas
+
+			y transportadas de conformidad con la legislación internacional y
+
+			nacional aplicable, en vehículos que cuenten con autorización del
+
+			Ministerio de Transportes y Comunicaciones y de la autoridad
+
+			competente.
+4. El CATA no ampara mercancías perecibles, que
+
+			sean de difícil identificación o que vayan a ser transformadas o
+
+			reparadas.
+5. No procede la conclusión de la importación o
+
+			exportación temporal con la importación para el consumo o la
+
+			exportación definitiva de mercancías restringidas, que no cuenten
+
+			con la autorización correspondiente.
+G) LUGARES
+
+			HABILITADOS PARA EL INGRESO Y SALIDA DE LAS MERCANCÍAS
+
+
+1. El titular cuya mercancía ingrese o salga del país como
+
+			carga, pone las mercancías a disposición de la autoridad aduanera
+
+			para la inspección física en:
+a) El depósito temporal.
+b) El
+
+			lugar designado por la autoridad aduanera.
+2. El titular cuya
+
+			mercancía ingrese o salga del país como equipaje acompañado, se
+
+			presenta ante el área a cargo de su control de la intendencia de
+
+			aduana de la circunscripción por donde ingresa o sale la mercancía,
+
+			para el respectivo desaduanaje.
+Lo mismo aplica para la
+
+			conclusión de la importación o exportación temporal del equipaje
+
+			acompañado, salvo que el titular opte por una forma de concluir
+
+			distinta a la reimportación o reexportación, en cuyo caso el CATA se
+
+			presenta ante el área que administra los regímenes temporales de la
+
+			intendencia de aduana de la circunscripción donde se ubica la
+
+			mercancía.
+H) PLAZO DE REEXPORTACIÓN, REIMPORTACIÓN Y
+
+			TRÁNSITO ADUANERO
+H.1) Plazo de
+
+			reexportación
+1. El plazo de reexportación de las
+
+			mercancías importadas para ser presentadas o utilizadas en una
+
+			exposición, feria, congreso o manifestación similar es de al menos
+
+			seis meses a partir de la fecha de la importación temporal, siempre
+
+			que no se exceda del plazo de vigencia del CATA.
+2. El plazo
+
+			máximo de reexportación del material profesional no debe exceder el
+
+			plazo de vigencia del CATA.
+3. A solicitud del titular, la
+
+			autoridad aduanera puede conceder una prórroga del plazo de
+
+			reexportación siempre que:
+a) Haya sido solicitada con
+
+			antelación al vencimiento del plazo original;
+b) La petición se
+
+			encuentre fundamentada;
+c) Se encuentre vigente el CATA; y
+d)
+
+			El nuevo plazo no supere la vigencia del CATA.
+H.2)
+
+			Plazo de reimportación
+1. El plazo para la
+
+			reimportación es autorizado automáticamente por el plazo de vigencia
+
+			del CATA.
+H.3) Plazo de tránsito aduanero
+
+
+1. El plazo máximo para el traslado de la mercancía sometida al
+
+			tránsito aduanero no puede exceder de treinta días calendarios
+
+			contados a partir de la autorización del inicio del tránsito.
+
+
+2. La autoridad aduanera otorga un plazo de hasta quince días
+
+			para el traslado de las mercancías, el mismo que podrá prorrogarse a
+
+			solicitud del titular, siempre que no supere el plazo máximo
+
+			permitido y que la solicitud se haya presentado dentro del plazo
+
+			inicialmente otorgado.
+I) CONCLUSIÓN DE LOS
+
+			TRATAMIENTOS ADUANEROS
+I.1) Conclusión de la importación
+
+			temporal
+1. La importación temporal concluye con la
+
+			reexportación, la importación para el consumo, el abandono
+
+			voluntario, el ingreso a zona franca - ZOFRATACNA o la destrucción,
+
+			pérdida o daño total.
+2. La conclusión puede efectuarse en
+
+			forma total o parcial y por una intendencia de aduana distinta a la
+
+			que autorizó la importación temporal. La conclusión parcial no
+
+			comprende el fraccionamiento, corte, división o sección de la unidad
+
+			importada temporalmente.
+I.2) Conclusión de la
+
+			exportación temporal
+1. La exportación temporal
+
+			concluye con la reimportación o la exportación definitiva.
+2.
+
+			La conclusión puede efectuarse en forma total o parcial y por una
+
+			intendencia de aduana distinta a la que autorizó la exportación
+
+			temporal. La conclusión parcial no comprende el fraccionamiento,
+
+			corte, división o sección de la unidad exportada temporalmente.
+
+
+J) CONTROL DE LAS MERCANCÍAS
+1. La
+
+			Administración Aduanera a través de sus unidades orgánicas
+
+			competentes, efectúa las acciones de control de las mercancías
+
+			ingresadas al país mediante el uso del CATA. De comprobarse la
+
+			comisión de algún delito, se aplica la sanción correspondiente de
+
+			conformidad con la Ley de los Delitos Aduaneros.
+K)
+
+			INTEROPERABILIDAD ENTRE LA ASOCIACIÓN EXPEDIDORA Y LA ADMINISTRACIÓN
+
+			ADUANERA
+1. La transmisión de la información del
+
+			CATA entre la asociación expedidora y la Administración Aduanera se
+
+			realiza a través del sistema informático.
+L)
+
+			COMUNICACIONES
+L.1) Comunicaciones a la dirección de correo
+
+			electrónico consignado en la MPV-SUNAT
+1. Cuando el
+
+			OCE o el OI presente una solicitud a través de la MPV-SUNAT y
+
+			registra una dirección de correo electrónico, se obliga a:
+a)
+
+			Asegurar que la capacidad del buzón del correo electrónico permita
+
+			recibir las comunicaciones que la Administración Aduanera envíe.
+
+
+			b) Activar la opción de respuesta automática de recepción.
+c)
+
+			Mantener activa la dirección de correo electrónico hasta la
+
+			culminación del trámite.
+d) Revisar continuamente el correo
+
+			electrónico, incluyendo la bandeja de spam o de correo no deseado.
+
+
+2. Con el registro de la mencionada dirección del correo
+
+			electrónico en la MPV-SUNAT autoriza expresamente a la
+
+			Administración Aduanera a enviar, a través de esta, las
+
+			comunicaciones que se generen en el trámite de su solicitud.
+
+
+			3. La respuesta del OCE o del OI a las comunicaciones realizadas por
+
+			la Administración Aduanera se presenta a través de la MPV-SUNAT.
+
+
+L.2) Comunicaciones a través de la casilla electrónica
+
+			del usuario (CEU) a la casilla electrónica corporativa aduanera
+
+			(CECA)
+1. De manera excepcional y en tanto no se
+
+			encuentre implementada la herramienta informática que permita la
+
+			comunicación entre la Administración Aduanera y la asociación
+
+			expedidora o garantizadora, se utiliza la CEU y la CECA. Para la
+
+			habilitación de la CEU ante la Administración Aduanera, la
+
+			asociación expedidora o garantizadora, previamente y por única vez,
+
+			comunica la CEU a través de la MPV-SUNAT.
+2. Cuando la
+
+			asociación expedidora o garantizadora remite documentos, estos deben
+
+			ser legibles, en formato digital y no superar el tamaño recomendado
+
+			de 6 MB por envío.
+3. La intendencia de aduana adopta las
+
+			acciones necesarias para el mantenimiento y custodia de la
+
+			documentación y de las comunicaciones cursadas a través de la CEU y
+
+			la CECA, conforme a la normativa vigente.
+VII.
+
+			DESCRIPCIÓN
+A) IMPORTACIÓN TEMPORAL
+A.1) Tramitación
+
+			de la importación temporal
+1. El titular presenta el
+
+			CATA expedido en el exterior ante la autoridad aduanera de la
+
+			intendencia de aduana de la circunscripción por donde ingresa la
+
+			mercancía, junto con la autorización y el documento de control del
+
+			sector competente, en caso se trate de mercancía restringida,
+
+			siempre que este no corresponda ser gestionado a través de la
+
+			Ventanilla Única de Comercio Exterior (VUCE). Luego de su recepción,
+
+			es remitido al área que administra los regímenes temporales.
+
+
+			2. El funcionario aduanero registra el nombre del titular y el
+
+			número de CATA, genera y entrega el cargo de recepción y registra en
+
+			el sistema informático los datos de cabecera de la portada.
+
+
+			3. El funcionario aduanero realiza la inspección documental del CATA
+
+			y verifica que:
+a) Las mercancías detalladas en el volante de
+
+			importación se encuentren incluidas en la lista general de la
+
+			portada.
+b) El CATA se encuentre dentro del plazo de vigencia, o
+
+			que cuente con un CATA sustituto.
+c) De tratarse de un CATA
+
+			sustituto, registra sus datos en el sistema informático y lo vincula
+
+			con el CATA sustituido.
+d) Se cumpla con la normatividad
+
+			relativa a las mercancías restringidas.
+4. De no ser
+
+			conforme la inspección documental, el funcionario aduanero registra
+
+			en el sistema informático y en el cargo de recepción el motivo de
+
+			rechazo, transmite la información del rechazo a la asociación
+
+			garantizadora del Perú y devuelve el CATA rechazado al titular.
+
+
+5. De ser conforme la inspección documental, el funcionario
+
+			aduanero realiza la inspección física, efectúa el registro
+
+			fotográfico de las mercancías, de corresponder, y consigna su
+
+			diligencia en la casilla H del volante de importación, así como en
+
+			la matriz de importación respectiva del CATA.
+6. El
+
+			funcionario aduanero digitaliza el CATA, desglosa el volante de
+
+			importación, devuelve el CATA al titular y archiva los documentos
+
+			digitalizados.
+7. Adicionalmente, registra su diligencia en
+
+			el sistema informático. Con el CATA diligenciado, el sistema
+
+			informático apertura la cuenta corriente y transmite esta
+
+			información a la asociación garantizadora del Perú.
+8. De no
+
+			ser conforme la inspección física, registra el motivo del rechazo en
+
+			el cargo de recepción y en el sistema informático, el cual transmite
+
+			dicha información a la asociación garantizadora del Perú, y devuelve
+
+			el CATA al titular.
+9. En el caso de que las mercancías
+
+			ingresen al país como carga, el funcionario aduanero realiza las
+
+			siguientes acciones específicas:
+a) Registra en el sistema
+
+			informático el número de RUC del depósito temporal donde se
+
+			encuentra la mercancía.
+De ser conforme los datos verificados, el
+
+			sistema informático envía un aviso al depósito temporal a través del
+
+			buzón electrónico señalando la fecha de la inspección física y
+
+			proporciona los datos de cabecera de la portada.
+b) Verifica la
+
+			transmisión del ingreso y recepción de mercancías (IRM) a cargo del
+
+			depósito temporal.
+c) Verifica que el sistema informático
+
+			vincule el CATA con el manifiesto de carga y el documento de
+
+			transporte.
+A.2) Conclusión de la Importación
+
+			Temporal
+A.2.1) Información general
+1. La
+
+			prórroga del plazo para reexportar es otorgada por la autoridad
+
+			aduanera a solicitud del titular, la cual es presentada a través de
+
+			la MPV-SUNAT.
+2. Para las formas de conclusión de la
+
+			importación temporal previstas en los subliterales A.2.2), A.2.3) y
+
+			A.2.4), el titular presenta el CATA dentro del plazo de vigencia
+
+			ante el área correspondiente de la intendencia de aduana de la
+
+			circunscripción donde se ubican las mercancías.
+3. El
+
+			funcionario aduanero revisa en el sistema informático el número del
+
+			CATA.
+4. De presentar el titular algún documento, el
+
+			funcionario aduanero genera y entrega un cargo de recepción de los
+
+			documentos presentados.
+5. El funcionario aduanero realiza la
+
+			inspección documental para lo cual verifica que:
+a) El CATA se
+
+			encuentre dentro del plazo de vigencia, o que se cuente con un CATA
+
+			sustituto.
+De tratarse de un CATA sustituto, registra sus datos
+
+			en el sistema informático y lo vincula con el CATA sustituido.
+
+
+			b) Las mercancías consignadas en el volante de reexportación
+
+			coincidan con las detalladas en el volante de importación del CATA.
+
+
+			c) En caso se trate de una conclusión parcial de la importación
+
+			temporal, las mercancías estén incluidas en la lista general del
+
+			volante de importación y deja constancia en el volante de
+
+			reexportación que se trata de una conclusión parcial.
+6. De
+
+			no ser conforme la inspección documental, el funcionario aduanero
+
+			registra el motivo del rechazo en el sistema informático y en el
+
+			cargo de recepción, transmite dicha información a la asociación
+
+			garantizadora del Perú y devuelve el CATA al titular.
+7.
+
+			Para las formas de conclusión prescritas en los subliterales A.2.3),
+
+			A.2.4), A.2.5) y A.2.6) y de ser conforme la inspección documental,
+
+			el funcionario aduanero revisa el plazo para la reexportación; si se
+
+			encuentra vencido, verifica que se haya otorgado la prórroga
+
+			indicada en el numeral 1 del subliteral A.2.1).
+8.
+
+			Adicionalmente, para las formas de conclusión indicadas en los
+
+			subliterales A.2.3), A.2.4) y A.2.5), de ser conforme la inspección
+
+			documental, consigna su diligencia en la casilla H del volante de
+
+			reexportación y en la matriz de reexportación respectiva del CATA.
+
+
+9. El funcionario aduanero digitaliza el CATA, con excepción
+
+			de la portada, así como los documentos presentados, de corresponder,
+
+			desglosa el volante de reexportación, devuelve el CATA al titular y
+
+			archiva los documentos digitalizados.
+10. Adicionalmente,
+
+			registra su diligencia en el sistema informático. Con el CATA
+
+			diligenciado, el sistema informático verifica la existencia de
+
+			saldos por concluir; de existir saldos, actualiza la cuenta
+
+			corriente. Si no existen saldos por concluir, procede a cerrar la
+
+			cuenta corriente y transmite esta información a la asociación
+
+			garantizadora del Perú.
+A.2.2) Reexportación
+
+
+1. La reexportación total comprende en un solo envío, el
+
+			total de las mercancías amparadas por el volante de importación para
+
+			lo cual el titular presenta un volante de reexportación.
+2.
+
+			La reexportación parcial comprende varios envíos de mercancías
+
+			amparadas en un solo CATA. Para cada envío parcial, el titular
+
+			presenta un volante de reexportación.
+3. El funcionario
+
+			aduanero realiza las acciones de los numerales 1, 2, 3, 4 y 5 del
+
+			subliteral A.2.1) y en el caso de mercancía ingresada al país como
+
+			carga, revisa el documento en el que conste el ingreso de la
+
+			mercancía a un depósito temporal y la reserva de carga, de
+
+			corresponder.
+4. De ser conforme la inspección documental, el
+
+			funcionario aduanero realiza la inspección física de las mercancías
+
+			y efectúa el registro fotográfico de las mismas, en los casos se
+
+			estime necesario.
+5. De ser conforme la inspección física,
+
+			el funcionario aduanero revisa el plazo para la reexportación; si se
+
+			encuentra vencido, verifica que se haya otorgado la prórroga
+
+			señalada en el numeral 1 del subliteral A.2.1).
+6. De no ser
+
+			conforme la inspección física, el funcionario aduanero registra el
+
+			motivo del rechazo en el sistema informático y en el cargo de
+
+			recepción, transmite la información del rechazo a la asociación
+
+			garantizadora del Perú y lo devuelve al titular.
+7. El
+
+			funcionario aduanero consigna su diligencia en la casilla H del
+
+			volante de reexportación y en la matriz de reexportación respectiva
+
+			del CATA y realiza las acciones previstas en los numerales 8 y 9 del
+
+			subliteral A.2.1).
+8. Para efectos de verificar que la
+
+			mercancía que sale como carga ha sido embarcada, el funcionario
+
+			aduanero revisa la información del embarque asociado al número del
+
+			CATA.
+A.2.3) Importación para el consumo
+
+
+1. Para efectuar la importación para el consumo el titular
+
+			realiza las acciones establecidas en los numerales 1 y 2 del
+
+			subliteral A.2.1), según corresponda, y presenta el anexo III en el
+
+			que consigna su voluntad de nacionalizar total o parcialmente la
+
+			mercancía importada temporalmente.
+2. Los derechos
+
+			arancelarios y demás impuestos aplicables a la importación para el
+
+			consumo se calculan en base al valor declarado en la lista general
+
+			de mercancías del volante de importación del CATA.
+3. Las
+
+			mercancías mencionadas en los numerales 9 al 13 del anexo I no
+
+			estarán sujetas al pago de los derechos e impuestos de importación y
+
+			recargos, de corresponder, ni a la presentación de los documentos de
+
+			autorización de mercancías restringidas, excepto en el caso de
+
+			bebidas alcohólicas, tabaco y combustibles.
+4. El funcionario
+
+			aduanero realiza la acción prevista en el numeral 3 del subliteral
+
+			A.2.1) y adicionalmente en el caso de mercancías restringidas
+
+			constata que cuente con el documento de control del sector
+
+			competente vigente; luego de lo cual realiza las acciones
+
+			contempladas en los numerales 4, 5 y 6 del mismo subliteral.
+
+
+			5. En los casos que corresponda, el funcionario aduanero emite una
+
+			liquidación de cobranza por los derechos e impuestos de importación
+
+			y recargos de corresponder y verifica su pago. Las mercancías se
+
+			consideran nacionalizadas con el pago de la liquidación de cobranza.
+
+
+6. De ser conforme el pago efectuado, el funcionario
+
+			aduanero realiza las acciones señaladas en el numeral 7 del
+
+			subliteral A.2.1) y adicionalmente consigna la fecha del anexo III y
+
+			el número de la liquidación de cobranza emitida.
+7. El
+
+			funcionario aduanero realiza las acciones prescritas en los
+
+			numerales 8 y 9 del subliteral A.2.1) consignando en el registro de
+
+			su diligencia en el sistema informático, los datos del anexo III.
+
+
+A.2.4) Abandono voluntario
+1. Para
+
+			concluir la importación temporal por abandono voluntario, el titular
+
+			realiza las acciones consignadas en los numerales 1 y 2 del
+
+			subliteral A.2.1), según corresponda, y presenta el anexo IV.
+
+
+2. El abandono voluntario puede ser rechazado si como
+
+			consecuencia de la inspección documental de las mercancías se
+
+			determina que las mismas no reúnen las condiciones para su
+
+			aceptación.
+3. En caso se proceda a la aceptación del
+
+			abandono voluntario, el funcionario aduanero deja constancia de ello
+
+			en el anexo IV con lo que el titular se encuentra exento del pago de
+
+			los derechos e impuestos que gravan a la importación, debiendo
+
+			realizar el traslado de las mercancías al almacén de la SUNAT.
+
+
+4. El funcionario aduanero realiza las acciones indicadas en los
+
+			numerales 3, 4, 5, 6, 7, 8 y 9 del subliteral A.2.1), previa
+
+			comprobación del ingreso de la mercancía al almacén de la SUNAT.
+
+
+A.2.5) Ingreso a Zona Franca - ZOFRATACNA
+
+
+1. Para el ingreso a la ZOFRATACNA de la mercancía importada
+
+			temporalmente, el titular debe constituirse previamente como usuario
+
+			de la ZOFRATACNA y realizar la acción prevista en el numeral 1 del
+
+			subliteral A.2.1), de corresponder.
+El titular es el
+
+			responsable del traslado de las mercancías a la ZOFRATACNA.
+
+
+			2. El titular debe presentar ante el área correspondiente de la
+
+			Intendencia de Aduana de Tacna, el CATA y copia de la declaración de
+
+			ingreso al depósito franco expedida por la ZOFRATACNA, la cual se
+
+			tramita conforme al procedimiento general “ZOFRATACNA” DESPA-PG.23,
+
+			por el total o parte de la mercancía importada temporalmente.
+
+
+3. Para efectos de la tramitación de la declaración de ingreso
+
+			ante la ZOFRATACNA, el CATA se consigna como documento precedente.
+
+
+4. El funcionario aduanero verifica en el sistema informático el
+
+			número del CATA y realiza las acciones prescritas en los numerales
+
+			3, 4, 5, 6, 7, 8 y 9 del subliteral A.2.1) y adicionalmente
+
+			comprueba que las mercancías detalladas en el volante de importación
+
+			del CATA coincidan con las consignadas en la declaración de ingreso
+
+			al depósito franco, caso contrario, las mercancías no serán
+
+			consideradas para el descargo de la cuenta corriente.
+
+
+A.2.6) Destrucción, pérdida o daño total
+1.
+
+			La importación temporal concluye con la destrucción, pérdida o daño
+
+			total de las mercancías por caso fortuito o fuerza mayor, así como
+
+			con la destrucción a solicitud de parte, quedando exenta del pago de
+
+			los derechos e impuestos que gravan la importación, para lo cual el
+
+			titular debe realizar la acción señalada en el numeral 1 del
+
+			subliteral A.2.1), de corresponder.
+2. Para la conclusión
+
+			por destrucción, pérdida o daño total de las mercancías por caso
+
+			fortuito o fuerza mayor, el titular debe presentar ante la
+
+			intendencia de aduana de la circunscripción donde se produjo el
+
+			hecho, el CATA y el anexo V, adjuntando los documentos probatorios
+
+			que sustenten dicha circunstancia, tales como la certificación de
+
+			destrucción, pérdida o daño total de las mercancías por parte de la
+
+			autoridad policial o el Ministerio Público.
+3. El funcionario
+
+			aduanero revisa en el sistema informático el número del CATA,
+
+			realiza las acciones previstas en los numerales 3, 4, 5 y 6 del
+
+			subliteral A.2.1) y adicionalmente evalúa la documentación
+
+			presentada y la existencia del caso fortuito o fuerza mayor.
+
+
+			4. Adicionalmente, constata el estado físico de la mercancía cuando
+
+			los documentos probatorios no han sido expedidos por la autoridad
+
+			policial o el Ministerio Público.
+5. De ser conforme la
+
+			inspección física, el funcionario aduanero consigna su diligencia en
+
+			la casilla H del volante de reexportación y en la matriz de
+
+			reexportación respectiva del CATA y realiza las acciones consignadas
+
+			en los numerales 8 y 9 del subliteral A.2.1).
+6. Para la
+
+			conclusión por destrucción a solicitud de parte, el titular debe
+
+			presentar ante la intendencia de aduana de la circunscripción por
+
+			donde ingresó la mercancía, el CATA y el anexo V, en cuyo caso el
+
+			funcionario aduanero verifica en el sistema informático el número
+
+			del CATA, realiza las acciones establecidas en los numerales 3, 4, 5
+
+			y 6 del subliteral A.2.1), emite un informe y proyecta la resolución
+
+			de autorización de destrucción, previa evaluación de la
+
+			documentación presentada.
+7. Antes de proceder a la
+
+			destrucción, el titular del CATA comunica a la intendencia de aduana
+
+			de la circunscripción donde se encuentran las mercancías, mediante
+
+			la MPV-SUNAT, que procederá con la destrucción de las mercancías,
+
+			indicando el lugar y fecha en que se llevará a cabo.
+8. La
+
+			destrucción se realiza cumpliendo con las normas de cuidado del
+
+			medio ambiente y de salud pública, debiendo el titular adjuntar a la
+
+			comunicación el permiso del sector competente según el tipo de
+
+			mercancía a destruir. De no contar con dicha autorización, el
+
+			funcionario aduanero no la considera para el descargo en la cuenta
+
+			corriente, hasta que se proceda a su nacionalización o reexportación
+
+			dentro del plazo.
+9. El funcionario aduanero, de considerarlo
+
+			conveniente, comunica su asistencia al acto de destrucción de la
+
+			mercancía, dentro de los cinco días posteriores a la fecha de
+
+			recepción de la comunicación de destrucción; vencido este plazo, el
+
+			titular del CATA efectúa la destrucción sin intervención de la
+
+			SUNAT.
+10. El acto de la destrucción se efectúa bajo costo
+
+			del titular del CATA y se realiza en presencia de un notario público
+
+			o de un juez de paz, en caso no exista notario en la provincia,
+
+			quien emite el acta de destrucción de la mercancía y la suscribe
+
+			conjuntamente con el titular y el funcionario aduanero si este
+
+			hubiera asistido. En el acta se registra el número del CATA, la
+
+			cantidad y características de la mercancía destruida y el número de
+
+			orden de los volantes de importación a los que pertenecen.
+
+
+			11. En caso de que el funcionario aduanero no asista al acto de
+
+			destrucción de las mercancías, el titular del CATA, dentro del plazo
+
+			de cinco días computados a partir del día siguiente de efectuada la
+
+			destrucción, presenta mediante la MPV-SUNAT el acta de destrucción
+
+			de las mercancías.
+12. El funcionario aduanero consigna su
+
+			diligencia en la casilla H del volante de reexportación y en la
+
+			matriz de reexportación respectiva del CATA y realiza las acciones
+
+			previstas en los numerales 8 y 9 del subliteral A.2.1).
+
+
+B) EXPORTACIÓN TEMPORAL
+B.1) Tramitación de la
+
+			exportación temporal
+1. La asociación expedidora del
+
+			Perú transmite la información del CATA a la Administración Aduanera
+
+			mediante el sistema informático.
+2. En el caso de carga, de
+
+			manera previa al trámite ante la Administración Aduanera, el titular
+
+			del CATA ingresa la mercancía a un depósito temporal y luego,
+
+			presenta el CATA ante la autoridad aduanera de la intendencia de
+
+			aduana de la circunscripción por donde sale la mercancía.
+3.
+
+			En el caso de equipaje acompañado, el titular se presenta ante el
+
+			área a cargo de su control en la intendencia de aduana de la
+
+			circunscripción por donde sale la mercancía y presenta el CATA.
+
+
+4. El titular presenta la autorización o el documento de control
+
+			del sector competente en la regulación de la mercancía restringida,
+
+			conforme a lo establecido en el procedimiento específico “Control de
+
+			mercancías restringidas y prohibidas” DESPA-PE.00.06, cuando no son
+
+			gestionados a través de la (VUCE).
+5. El funcionario aduanero
+
+			busca el número del CATA en el sistema informático, registra la
+
+			recepción y entrega al titular el cargo respectivo.
+6. El
+
+			funcionario aduanero realiza la inspección documental del CATA para
+
+			lo cual verifica:
+a) Que el CATA se encuentre dentro del plazo de
+
+			vigencia, o que cuente con un CATA sustituto.
+De tratarse de un
+
+			CATA sustituto, registra sus datos en el sistema informático y lo
+
+			vincula con el CATA sustituido.
+b) Tratándose de carga, el
+
+			documento en el que conste el ingreso de la mercancía a un depósito
+
+			temporal, de corresponder.
+c) La correspondencia entre la
+
+			información registrada en el sistema informático y la consignada en
+
+			el CATA.
+d) Que las mercancías detalladas en el volante de
+
+			exportación del CATA se encuentren incluidas en la lista general de
+
+			la portada.
+e) El cumplimiento de la normativa relativa a
+
+			mercancías restringidas.
+7. De no ser conforme la inspección
+
+			documental, el funcionario aduanero registra el motivo del rechazo
+
+			en el sistema informático y en el cargo de recepción, trasmite dicha
+
+			información a la asociación expedidora del Perú y devuelve el CATA
+
+			rechazado al titular.
+8. De ser conforme la inspección
+
+			documental, el funcionario aduanero realiza la inspección física y
+
+			efectúa el registro fotográfico de las mercancías de corresponder.
+
+
+9. De no ser conforme la inspección física, registra el
+
+			motivo del rechazo en el sistema informático y en el cargo de
+
+			recepción, transmite dicha información a la asociación expedidora
+
+			del Perú y devuelve el CATA al titular.
+10. De ser conforme
+
+			la inspección física, consigna su diligencia en la casilla H del
+
+			volante de exportación y en la matriz de exportación respectiva del
+
+			CATA.
+11. El funcionario aduanero digitaliza el CATA,
+
+			desglosa el volante de exportación, lo devuelve al titular y archiva
+
+			los documentos digitalizados.
+12. Adicionalmente, registra su
+
+			diligencia en el sistema informático. Con el CATA diligenciado, el
+
+			sistema informático apertura la cuenta corriente de la tramitación y
+
+			transmite esta información a la asociación expedidora del Perú.
+
+
+13. Concluido el embarque, el titular del CATA presenta a través
+
+			de la MPV-SUNAT, el documento de transporte digitalizado e informa
+
+			la cantidad de bultos, peso bruto total, fecha de término de
+
+			embarque y el número de manifiesto de carga de salida, dentro del
+
+			plazo de quince días calendarios computados a partir del día
+
+			siguiente del término del embarque.
+14. El funcionario
+
+			aduanero registra en el sistema informático los datos señalados en
+
+			el numeral precedente y el manifiesto de carga.
+B.2)
+
+			Registro del CATA
+1. Mientras no se implemente la
+
+			interoperabilidad con la asociación expedidora, el funcionario
+
+			aduanero registra la información correspondiente del CATA en el
+
+			sistema informático.
+B.3) Conclusión de la
+
+			exportación temporal
+B.3.1) Reimportación
+1.
+
+			La reimportación total comprende en un solo envío, el total de las
+
+			mercancías amparadas por el volante de exportación para lo cual el
+
+			titular presenta un volante de reimportación.
+2. La
+
+			reimportación parcial comprende varios envíos de mercancías
+
+			amparadas en un solo CATA. Para cada envío parcial, el titular llena
+
+			un volante de reimportación.
+3. Tratándose de carga, el
+
+			titular del CATA se presenta ante el área que administra los
+
+			regímenes temporales de la intendencia de aduana de la
+
+			circunscripción por donde ingresa la mercancía presentando el CATA,
+
+			a fin de que el funcionario aduanero verifique en el sistema
+
+			informático el número del CATA.
+4. Tratándose de equipaje
+
+			acompañado, el titular del CATA se presenta ante el área a cargo de
+
+			su control en la intendencia de aduana de la circunscripción por
+
+			donde ingresa la mercancía y presenta el CATA.
+5. El
+
+			funcionario aduanero luego de revisar en el sistema informático el
+
+			número del CATA, genera y entrega un cargo de recepción.
+6.
+
+			El funcionario aduanero realiza la inspección documental del CATA
+
+			para lo cual verifica que:
+a) El CATA se encuentre dentro del
+
+			plazo de vigencia, o que cuente con un CATA sustituto.
+De
+
+			tratarse de un CATA sustituto, registra sus datos en el sistema
+
+			informático y lo vincula con el CATA sustituido.
+b) Las
+
+			mercancías detalladas en el volante de reimportación se encuentren
+
+			incluidas en la lista general del volante de exportación del CATA.
+
+
+			c) En caso se trate de una conclusión parcial de la exportación
+
+			temporal, las mercancías estén incluidas en la lista general del
+
+			volante de exportación y deja constancia en el volante de
+
+			reimportación de que se trata de una conclusión parcial.
+7.
+
+			De no ser conforme la inspección documental, el funcionario aduanero
+
+			registra el motivo de rechazo en el sistema informático y en el
+
+			cargo de recepción, transmite dicha información a la asociación
+
+			expedidora y lo devuelve al titular.
+8. De ser conforme la
+
+			inspección documental, el funcionario aduanero realiza la inspección
+
+			física de las mercancías y efectúa el registro fotográfico de las
+
+			mismas, de corresponder.
+9. De no ser conforme la inspección
+
+			física de las mercancías, registra el motivo del rechazo en el
+
+			sistema informático y en el cargo de recepción, y devuelve el CATA
+
+			al titular.
+10. De ser conforme la inspección física, el
+
+			funcionario aduanero consigna su diligencia en la casilla H del
+
+			volante de reimportación y en la matriz de reimportación respectiva
+
+			del CATA.
+11. El funcionario aduanero digitaliza el CATA,
+
+			excepto la portada, desglosa el volante de reimportación, devuelve
+
+			el CATA al titular y archiva los documentos digitalizados.
+
+
+			12. Adicionalmente, registra su diligencia en el sistema
+
+			informático. Con el CATA diligenciado, el sistema informático
+
+			comprueba si existen saldos sin concluir; de ser así actualiza la
+
+			cuenta corriente. Si no existen saldos por concluir, procede a
+
+			cerrar la cuenta corriente y transmite esta información a la
+
+			asociación expedidora.
+13. En caso de que las mercancías
+
+			hayan ingresado al país como carga, el funcionario aduanero realiza
+
+			las siguientes acciones específicas:
+a) Verifica la transmisión
+
+			del IRM a cargo del depósito temporal.
+b) Verifica que el
+
+			sistema informático vincule el CATA con el manifiesto de carga y el
+
+			documento de transporte.
+B.3.2) Exportación
+
+			definitiva a solicitud de parte
+1. El titular del
+
+			CATA, dentro de su vigencia, puede solicitar la exportación
+
+			definitiva de las mercancías para lo cual presenta su solicitud
+
+			mediante la MPV-SUNAT conforme al anexo III.
+2. El
+
+			funcionario aduanero concluye el CATA en el sistema informático.
+
+
+B.3.3) Exportación definitiva de oficio
+
+
+			1. Al vencimiento de la vigencia del CATA, el funcionario aduanero
+
+			revisa en el sistema informático, la existencia de saldo en la
+
+			cuenta corriente del CATA.
+2. De existir saldos, el funcionario
+
+			aduanero concluye el CATA en el sistema informático.
+
+
+			C) TRÁNSITO ADUANERO
+C.1) Tránsito aduanero de ingreso
+
+
+1. El titular presenta el CATA ante la autoridad aduanera de la
+
+			circunscripción por donde ingresa la mercancía, que se constituye en
+
+			la intendencia de aduana de inicio del tránsito aduanero.
+2.
+
+			El funcionario aduanero registra el nombre del titular y el número
+
+			de CATA, genera y entrega el cargo de recepción y registra en el
+
+			sistema informático los datos de cabecera de la portada.
+3.
+
+			El funcionario aduanero realiza la inspección documental del CATA
+
+			para lo cual verifica que:
+a) El CATA se encuentre dentro del
+
+			plazo de vigencia, o que cuente con un CATA sustituto.
+De
+
+			tratarse de un CATA sustituto, registra sus datos en el sistema
+
+			informático y lo vincula con el CATA sustituido.
+b) El total de
+
+			las mercancías detalladas en el volante de tránsito se encuentren
+
+			incluidas en la lista general de la portada.
+c) La información
+
+			registrada en el sistema informático corresponda con la consignada
+
+			en el CATA.
+d) Se cumpla la normativa relativa a mercancías
+
+			restringidas que afectan al tránsito aduanero.
+4. De no ser
+
+			conforme la inspección documental, el funcionario aduanero registra
+
+			en el sistema informático y en el cargo de recepción el motivo del
+
+			rechazo del tránsito aduanero y transmite la información del rechazo
+
+			a la asociación garantizadora y devuelve el CATA al titular.
+
+
+			5. De ser conforme la inspección documental, el funcionario aduanero
+
+			realiza las siguientes acciones:
+a) De tratarse de carga sin
+
+			cambio de vía de transporte, efectúa la revisión externa del
+
+			vehículo, la unidad de carga y los precintos aduaneros, de
+
+			corresponder.
+b) De tratarse de carga con cambio de vía de
+
+			transporte, realiza la inspección física de las mercancías.
+
+
+			El funcionario aduanero puede realizar la inspección física de la
+
+			carga sin cambio de vía de transporte de considerarlo necesario.
+
+
+6. De no ser conforme la revisión externa o inspección física,
+
+			el funcionario aduanero registra el motivo del rechazo en el sistema
+
+			informático y en el cargo de recepción y lo devuelve al titular.
+
+
+7. De ser conforme la revisión externa o inspección física, el
+
+			funcionario aduanero consigna su diligencia en la casilla H del
+
+			volante de tránsito y en la matriz de tránsito respectiva del CATA,
+
+			señala la fecha límite para presentarse en la aduana de salida y
+
+			llena los datos correspondientes en el sistema informático.
+
+
+			8. El funcionario aduanero digitaliza el CATA, lo devuelve al
+
+			titular y archiva los documentos digitalizados.
+
+
+C.2)
+
+			Regularización del tránsito aduanero de ingreso
+1.
+
+			El tránsito aduanero de ingreso se regulariza con la salida de la
+
+			mercancía del país.
+2. El titular se presenta ante la
+
+			intendencia de aduana de salida de las mercancías presentando el
+
+			CATA.
+3. El funcionario aduanero genera y entrega el cargo de
+
+			recepción.
+4. El funcionario aduanero realiza la inspección
+
+			documental del CATA para lo cual verifica que:
+a) El CATA se
+
+			encuentre dentro del plazo de vigencia, o que cuente con un CATA
+
+			sustituto.
+De tratarse de un CATA sustituto, registra sus datos
+
+			en el sistema informático y lo vincula con el CATA sustituido.
+
+
+			b) El total de las mercancías detalladas en el volante de tránsito
+
+			se encuentren incluidas en la lista general de la portada.
+c) La
+
+			información registrada en el sistema informático corresponda con la
+
+			consignada en el CATA.
+d) Se cumpla la normativa relativa a
+
+			mercancías restringidas que afectan al tránsito aduanero.
+5.
+
+			De no ser conforme la inspección documental, el funcionario aduanero
+
+			registra en el sistema informático y en el cargo de recepción el
+
+			motivo del rechazo del tránsito aduanero, transmite la información
+
+			del rechazo a la asociación garantizadora y devuelve el CATA al
+
+			titular.
+6. De ser conforme la inspección documental, el
+
+			funcionario aduanero realiza la revisión externa del vehículo, la
+
+			unidad de carga y los precintos aduaneros, de corresponder.
+
+
+			7. De ser conforme la revisión externa, el funcionario aduanero
+
+			consigna su diligencia en la casilla H del volante de tránsito y en
+
+			la matriz de tránsito respectiva del CATA y llena los datos
+
+			correspondientes en el sistema informático.
+8. El
+
+			funcionario aduanero digitaliza el CATA, desglosa el volante de
+
+			tránsito, devuelve el CATA al titular y archiva los documentos
+
+			digitalizados.
+D) RECLAMACIÓN A LA ASOCIACIÓN
+
+			GARANTIZADORA PARA EL PAGO DE LOS DERECHOS ARANCELARIOS, DEMÁS
+
+			IMPUESTOS Y RECARGOS
+1. Cuando el área que
+
+			administra los regímenes temporales de la intendencia de aduana de
+
+			la circunscripción por donde ingresa la mercancía constate o tome
+
+			conocimiento que el titular no ha concluido dentro del plazo la
+
+			importación temporal o no ha regularizado el tránsito aduanero,
+
+			dispone del plazo de un año a partir de la fecha de expiración de la
+
+			validez del CATA para formular la reclamación mediante la emisión de
+
+			un informe debidamente autorizado, en el que se determinan la deuda
+
+			tributaria aduanera y recargos por el saldo pendiente de conclusión,
+
+			el cual será remitido a la asociación garantizadora del Perú, quien
+
+			queda obligada conjunta y solidariamente con el titular del CATA al
+
+			pago.
+Vencido el plazo antes indicado, la Administración
+
+			Aduanera no podrá gestionar la reclamación para el cobro de la deuda
+
+			tributaria aduanera y recargos ante la asociación garantizadora del
+
+			Perú.
+2. La asociación garantizadora del Perú efectúa las
+
+			coordinaciones ante la asociación expedidora correspondiente para el
+
+			honramiento de la deuda.
+3. Tratándose de bienes que hubiesen
+
+			ingresado como equipaje acompañado, el área que autorizó la
+
+			importación temporal del CATA debe informar al área que administra
+
+			los regímenes temporales, la existencia de mercancía pendiente de
+
+			conclusión y con plazo vencido, a fin de que ejerza las acciones
+
+			prescritas en los numerales 1 y 2 precedentes.
+4. La
+
+			acreditación de la prueba de reexportación o la salida de las
+
+			mercancías en tránsito aduanero para los efectos de la reclamación
+
+			de acuerdo con lo establecido en el numeral 2 del artículo 10 del
+
+			capítulo V del anexo A del Convenio, se efectúa con:
+a) Los datos
+
+			consignados en el CATA por las autoridades aduaneras de la otra
+
+			parte contratante con motivo de la importación, la reimportación o
+
+			el tránsito aduanero, o un certificado de dichas autoridades basado
+
+			en los datos consignados en un volante separado del CATA con motivo
+
+			de la importación, reimportación o tránsito aduanero, respecto de
+
+			los cuales se pueda demostrar que efectivamente ha tenido lugar la
+
+			reexportación o la salida de las mercancías en tránsito aduanero,
+
+			respectivamente.
+b) Cualquier otra prueba que justifique que las
+
+			mercancías se encuentran en el exterior, a satisfacción de la
+
+			autoridad aduanera.
+5. De no presentar la asociación
+
+			garantizadora del Perú prueba alguna de la reexportación de la
+
+			mercancía dentro de los seis meses siguientes de recibida la
+
+			reclamación, la autoridad aduanera genera una orden de depósito para
+
+			que la asociación garantizadora del Perú presente un cheque de
+
+			gerencia girado a la orden del banco donde se efectuará el depósito.
+
+
+6. La entidad bancaria donde se efectúa el depósito custodia
+
+			el monto recibido en garantía por el plazo de tres meses siguientes
+
+			a la fecha de la orden de depósito. Durante este período la
+
+			autoridad aduanera a través del sistema informático puede autorizar
+
+			a la asociación garantizadora del Perú la devolución de dicho monto,
+
+			en caso se constate la reexportación o la salida de las mercancías
+
+			en tránsito aduanero con las pruebas presentadas por dicha
+
+			asociación.
+7. En el caso de la importación temporal,
+
+			vencido el plazo de tres meses siguientes a la fecha de la orden de
+
+			depósito sin que la asociación garantizadora del Perú haya
+
+			presentado prueba alguna de la reexportación, la autoridad aduanera
+
+			hace efectiva la cancelación del importe contenido en la orden de
+
+			depósito mediante la emisión de la liquidación de cobranza por
+
+			concepto de los derechos e impuestos de importación y recargos de
+
+			corresponder, dando por nacionalizada la mercancía y concluida la
+
+			importación temporal; registrando este hecho en el sistema
+
+			informático para su descargo en la cuenta corriente respectiva.
+
+
+8. En el caso del tránsito aduanero, vencido el plazo de tres
+
+			meses siguientes a la fecha de la orden de depósito sin que la
+
+			asociación garantizadora del Perú haya presentado prueba alguna de
+
+			la salida de las mercancías en tránsito aduanero, la autoridad
+
+			aduanera efectiviza la cancelación del importe contenido en la orden
+
+			de depósito mediante la emisión de la liquidación de cobranza por
+
+			concepto de los derechos e impuestos de importación y recargos de
+
+			corresponder.
+9. Desde el vencimiento del plazo para concluir
+
+			la importación temporal hasta que la autoridad aduanera haga
+
+			efectiva la cancelación de la deuda, el titular puede concluir la
+
+			importación temporal.
+10. Vencido el plazo para la salida de
+
+			las mercancías en tránsito aduanero y hasta que la autoridad
+
+			aduanera efectivice la cancelación de la deuda, el titular puede
+
+			regularizar el tránsito aduanero.
+VIII. VIGENCIA
+
+
+A partir de la entrada en vigor del Convenio relativo a la
+
+			Importación Temporal, aprobado por Resolución Legislativa N° 30808.
+
+
+IX. ANEXOS
+Anexo I :
+
+
+Lista
+
+			de mercancías a ser presentadas o utilizadas en una exposición,
+
+			feria, congreso o manifestación similar.
+Anexo II :
+
+
+Lista
+
+			de mercancías consideradas como material profesional, de prensa, de
+
+			radiodifusión, de televisión, cinematográfico y otros materiales
+
+			profesionales.
+Anexo III :
+
+
+
+
+			Solicitud de nacionalización/exportación definitiva.
+Anexo IV
+
+			:
+
+
+
+
+			Solicitud de abandono voluntario.
+Anexo V :
+
+
+
+
+			Solicitud de conclusión por destrucción, pérdida o daño total.

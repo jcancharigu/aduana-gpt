@@ -1,0 +1,576 @@
+Procedimientos de Prevención del Contrabando y Control Fronterizo - LEGISLACION
+
+
+FISCALIZACIÓN Y PREVENCIÓN DEL CONTRABANDO Y CONTROL FRONTERIZO
+PROCEDIMIENTO ESPECIFICO:
+
+
+ CONTROL-PE.02.02:
+CONTROL DE MERCANCÍAS PARA
+
+DISUADIR E INTERVENIR EL TRÁFICO ILÍCITO DE MATERIAL RADIACTIVO
+
+
+ <-- Retroceder
+
+
+
+
+
+Proc:
+
+
+
+CONTROL-PE.02.02
+
+
+CONTROL DE MERCANCÍAS PARA
+
+						DISUADIR E INTERVENIR EL TRÁFICO ILÍCITO DE MATERIAL
+
+						RADIACTIVO
+
+
+Versión:
+
+
+ 1
+
+
+Publicación:
+
+
+ 21/07/2021
+
+
+Resolución:
+
+
+					 100-2021/SUNAT
+
+
+Fecha Res.:
+  15/07/2021
+
+
+Vigencia:
+
+
+ 22/07/2021
+
+
+
+Lista:
+ Maestra
+
+
+Circulares Anexas
+
+
+Control de
+
+ Cambios
+
+
+
+
+
+I.  OBJETIVO
+
+
+Establecer las pautas a seguir
+
+			para el control de mercancías que ingresan y salen hacia y desde las
+
+			instalaciones portuarias que cuenten con el sistema de portales de
+
+			monitoreo de radiación, con el propósito de detectar, disuadir e
+
+			intervenir el tráfico ilícito de material radiactivo.
+
+
+II. ALCANCE
+
+
+
+Está dirigido al personal de la
+
+			Superintendencia Nacional de Aduanas y de Administración Tributaria
+
+			- SUNAT, al operador de comercio exterior y al operador
+
+			interviniente que participan en el presente procedimiento.
+
+
+III. RESPONSABILIDAD
+
+
+La aplicación, cumplimiento y
+
+			seguimiento de lo dispuesto en el presente procedimiento es de
+
+			responsabilidad del Intendente Nacional de Desarrollo e Innovación
+
+			Aduanera, del Intendente Nacional de Sistemas de Información, del
+
+			Intendente Nacional de Control Aduanero, del Intendente de la Aduana
+
+			Marítima del Callao y de las jefaturas y personal de las distintas
+
+			unidades de organización que intervienen.
+
+
+IV. DEFINICIONES Y
+
+ABREVIATURAS
+
+
+Para efectos del presente
+
+			procedimiento se entiende por:
+
+
+1. Alarma:
+ Al
+
+		  medio sonoro o visual emitido por el portal de monitoreo de radiación,
+
+		  mediante el cual se percibe la presencia de radiación gamma o de
+
+		  neutrón. Existen dos tipos: de gamma o de neutrón.
+2. CAS:
+
+
+		  A la estación central de alarma, donde se administra las alarmas
+
+		  emitidas por los portales de monitoreo de radiación a través del
+
+		  computador y software.
+3. Formato de reporte de inspección
+
+		  secundaria:
+ Al documento mediante el cual el funcionario
+
+		  aduanero deja constancia de la inspección secundaria de la mercancía o
+
+		  vehículo y describe los hechos ocurridos.
+4. Funcionario
+
+		  aduanero:
+ Al personal de la SUNAT que ha sido designado o
+
+		  encargado para desempeñar actividades o funciones en su
+
+		  representación, ejerciendo la potestad aduanera de acuerdo con su
+
+		  competencia.
+5. IPEN:
+ Al Instituto Peruano de
+
+		  Energía Nuclear.
+6. Material nuclear:
+ Al material
+
+		  compuesto por uranio y plutonio, así como combustible irradiado para
+
+		  reactores. Se utiliza en los reactores nucleares, fuentes radiactivas
+
+		  y armas nucleares, debido a sus propiedades radiológicas y fisibles
+
+		  pueden causar la muerte, lesiones corporales graves o daños
+
+		  sustanciales a la propiedad o al medio ambiente.
+7.
+
+		  Material radiactivo:
+ Al material que emite radiación e
+
+		  incluye al material nuclear.
+8. PRD:
+ Al detector
+
+		  personal de radiación, que es un dispositivo autónomo que monitorea
+
+		  radiación gamma, se usa para determinar una zona segura de protección
+
+		  para el funcionario aduanero durante el control.
+9. RPM
+:
+
+		  Al portal de monitoreo de radiación, que es el sistema instalado en un
+
+		  sitio fijo en las áreas de exploración primaria que se usa para
+
+		  detectar radiación gamma y de neutrón. Es un detector pasivo que no
+
+		  emite radiación y no representa riesgo para la salud o la seguridad
+
+		  personal.
+10. Zona de aislamiento:
+ Al área ubicada
+
+		  en la instalación portuaria donde se resguarda la mercancía que es
+
+		  sometida a inspección terciaria.
+
+
+V. BASE LEGAL
+
+
+- Ley General de Aduanas,
+
+			Decreto Legislativo N° 1053, publicado el 27.6.2008, y
+
+			modificatorias.
+- Reglamento del Decreto Legislativo N° 1053,
+
+			Ley General de Aduanas, aprobado por Decreto Supremo N° 10-2009-EF,
+
+			publicado el 16.1.2009, y modificatorias.
+- Tabla de Sanciones
+
+			aplicables a las infracciones previstas en la Ley General de
+
+			Aduanas, aprobada por Decreto Supremo N° 418-2019-EF, publicado el
+
+			31.12.2019, y modificatoria.
+- Ley de los Delitos Aduaneros, Ley
+
+			N° 28008, publicada el 19.6.2003, y modificatorias.
+- Reglamento
+
+			de la Ley de los Delitos Aduaneros, aprobado por Decreto Supremo N°
+
+			121-2003-EF, publicado el 27.8.2003, y modificatorias.
+- Texto
+
+			Único Ordenado de la Ley N° 27444, Ley del Procedimiento
+
+			Administrativo General, aprobado por el Decreto Supremo N°
+
+			004-2019-JUS, publicado el 25.1.2019, y modificatoria.
+- Ley de
+
+			prohibición de la importación de bienes, maquinaria y equipos usados
+
+			que utilicen fuentes radiactivas, Ley N° 27757, publicada el
+
+			19.6.2002.
+- Reglamento de la Ley N° 27757, Ley de prohibición de
+
+			la importación de bienes, maquinaria y equipos usados que utilicen
+
+			fuentes radiactivas, aprobado por el Decreto Supremo N° 001-2004-EM,
+
+			publicado el 25.3.2004.
+- Ley de los productos farmacéuticos,
+
+			dispositivos médicos y productos sanitarios, Ley N° 29459, publicada
+
+			el 26.11.2009, y modificatorias.
+- Ley de regulación del uso de
+
+			fuentes de radiación ionizante, Ley N° 28028, publicada el
+
+			18.7.2003.
+- Reglamento de la Ley N° 28028 Ley de regulación del
+
+			uso de fuentes de radiación ionizante, aprobado por el Decreto
+
+			Supremo N° 039-2008-EM, publicado el 19.7.2008.
+- Reglamento de
+
+			seguridad radiológica, aprobado por Decreto Supremo N° 009-1997-EM,
+
+			publicado el 29.5.1997.
+- Acuerdo entre el Gobierno de la
+
+			República del Perú y el Gobierno de los Estados Unidos de América en
+
+			materia de cooperación para fortalecer la seguridad de los
+
+			contenedores de carga, ratificado por Decreto Supremo N°
+
+			021-2015-RE, publicado el 1.5.2015.
+
+
+VI. DISPOSICIONES GENERALES
+
+
+1. Todas las mercancías que
+
+			ingresan y salen hacia y desde las instalaciones portuarias que
+
+			cuenten con los RPM son sometidas a inspección para detectar
+
+			material radiactivo. El funcionario aduanero participa en todas las
+
+			fases de la inspección.
+
+
+2. El funcionario aduanero que
+
+		  presta servicio en el CAS verifica que los RPM y equipos de detección
+
+		  se encuentren operativos.
+
+
+3. El material radiactivo se
+
+		  clasifica como:
+
+
+i) Material radiactivo de
+
+		  ocurrencia natural (NORM): Al que emite radiación de una fuente
+
+		  natural.
+ii) Radioisótopo de uso médico: Al que se utiliza para el
+
+		  estudio, diagnóstico y tratamiento de enfermedades.
+iii) Fuente
+
+		  radiactiva: Al que se encuentra sellado en una cápsula hermética y se
+
+		  utiliza para irradiaciones médicas, sistemas de medición para fluidos,
+
+		  densidad y radiografías.
+iv) Material nuclear.
+
+
+En el anexo I se detallan los
+
+		  principales materiales radiactivos y su correspondiente isótopo.
+
+
+4. La detección del material
+
+		  radiactivo se realiza por medio de tres inspecciones:
+
+
+i) Primaria, inicio de la
+
+		  exploración a velocidad controlada de un vehículo en la entrada o
+
+		  salida de la instalación portuaria que se realiza a través del RPM.
+
+
+		  ii) Secundaria, exploración adicional que se realiza a través del
+
+		  medidor de sondeo y del identificador de isótopos que permite
+
+		  identificar la fuente radiactiva.
+iii) Terciaria, exploración
+
+		  realizada por personal especialista del IPEN que permite confirmar la
+
+		  fuente radiactiva identificada durante la inspección secundaria.
+
+
+VII. DESCRIPCION
+
+
+A. Inspección primaria
+
+
+ 1. La inspección primaria
+
+			se inicia en los puntos de ingreso y salida de la instalación
+
+			portuaria a través del RPM.
+
+
+2. El funcionario aduanero
+
+		  asignado al CAS verifica la alarma en el sistema y contrasta la
+
+		  información del perfil de la alarma proporcionada por el sistema del
+
+		  CAS y la información contenida en los sistemas de la SUNAT.
+
+
+3. Si como resultado de la
+
+		  exploración primaria el sistema de RPM emite:
+
+
+i) Alarma de gamma, el funcionario
+
+		  aduanero evalúa la información obtenida de los RPM, de presentar
+
+		  indicadores de riesgo comunica al personal de la instalación portuaria
+
+		  que el vehículo se traslade a la zona de inspección, caso contrario
+
+		  dispone que continúe con su recorrido.
+
+
+El personal de la instalación
+
+		  portuaria procede a dirigir el vehículo:
+- En caso de ingreso, a la
+
+		  zona de inspección secundaria.
+- En caso de salida, para su
+
+		  reingreso a la instalación portuaria y su posicionamiento en la zona
+
+		  de inspección secundaria.
+
+
+ii) Alarma de neutrón o la
+
+		  combinación de gamma y neutrón, se realiza una segunda exploración,
+
+		  para ello el personal de la instalación portuaria dirige el vehículo
+
+		  para una segunda exploración.
+
+
+Si como resultado de la segunda
+
+		  exploración se confirma la alarma, el personal de la instalación
+
+		  portuaria debe adoptar las acciones necesarias para asegurar y aislar
+
+		  la mercancía y el vehículo en la zona de aislamiento.
+
+
+Cuando no es posible realizar la
+
+		  segunda exploración, el personal de la instalación portuaria dispone
+
+		  el aislamiento de la mercancía.
+
+
+B. Inspección secundaria
+
+
+1. Para la realización de la
+
+		  inspección secundaria, el funcionario aduanero asignado al CAS efectúa
+
+		  lo siguiente:
+
+
+i) Registra la acción de control
+
+		  extraordinario en el sistema informático de la SUNAT.
+ii) Obtiene
+
+		  el perfil de la alarma del sistema informático del CAS.
+
+
+2. Inspecciona la mercancía
+
+		  utilizando el medidor de sondeo y el identificador de radioisótopos.
+
+
+3. Durante el desarrollo de la
+
+		  inspección secundaria, el funcionario aduanero:
+
+
+i) Utiliza el PRD. Si en cualquier
+
+		  momento antes o durante la inspección se recibe una lectura de nivel 7
+
+		  en el PRD, debe alejarse de la fuente radiactiva hasta obtener una
+
+		  lectura de nivel 6 o menos en el PRD y comunica al IPEN para su
+
+		  inspección.
+ii) Si la lectura del PRD es de nivel 6 o menos,
+
+		  procede a la localización de la fuente radiactiva e identificación del
+
+		  radioisótopo y registra los resultados en el formato de reporte de
+
+		  inspección secundaria (anexo II).
+
+
+4. Si el funcionario aduanero
+
+		  determina que se trata de material radiactivo de ocurrencia natural,
+
+		  dispone que la mercancía y el vehículo continúen con su recorrido.
+
+
+5. Si el funcionario aduanero
+
+		  encuentra indicios que hagan presumir que la mercancía es de origen
+
+		  ilícito o de riesgo comunica al IPEN telefónicamente y remite por
+
+		  correo electrónico el reporte de inspección secundaria (anexo II).
+
+
+6. Si el IPEN determina que la
+
+		  mercancía no representa riesgo, comunica por correo electrónico al
+
+		  funcionario aduanero la liberación de la mercancía. De representar
+
+		  riesgo, el personal de la instalación portuaria en coordinación con el
+
+		  funcionario aduanero traslada la mercancía a la zona de aislamiento en
+
+		  espera de la llegada del personal del IPEN.
+
+
+C. Inspección terciaria
+
+
+1. El IPEN es la autoridad
+
+		  encargada de realizar la inspección terciaria y de efectuar las
+
+		  coordinaciones en caso de peligro radiológico o nuclear.
+
+
+2. Si el especialista del IPEN
+
+		  determina que la mercancía no representa riesgo de radiación o
+
+		  contaminación comunica al funcionario aduanero su liberación, quien
+
+		  autoriza el retiro del vehículo.
+
+
+3. Cuando el especialista del IPEN
+
+		  determina que la mercancía tiene riesgo de radiación o contaminación,
+
+		  el funcionario aduanero elabora el acta de hallazgo conforme al
+
+		  formato previsto en el anexo I del procedimiento general “Ejecución de
+
+		  acciones de control extraordinario” CONTROL-PG.02.
+
+
+VIII. VIGENCIA
+
+
+El presente procedimiento entra
+
+			en vigencia a partir del día siguiente al de su publicación en el
+
+			diario oficial El Peruano.
+
+
+IX. ANEXOS
+
+
+
+- Anexo I:
+
+
+
+
+			Lista de materiales radiactivos.
+- Anexo II:
+
+
+
+
+			Reporte de inspección secundaria.

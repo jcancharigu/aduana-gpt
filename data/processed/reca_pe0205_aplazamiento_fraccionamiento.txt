@@ -1,0 +1,301 @@
+Procedimientos de Recaudación
+
+
+RECAUDACIÓN
+
+
+RECA-PE.02.05:
+DEUDAS DE RECUPERACIÓN ONEROSA
+
+
+ <-- Retroceder
+
+
+
+
+
+Proc:
+
+
+RECA-PE.02.05
+
+
+
+
+(antes IFGRA-PE.10)
+
+
+DEUDAS DE
+						RECUPERACIÓN ONEROSA
+
+
+Versión:
+
+
+
+ 1
+
+
+Publicación:
+
+
+
+ 18/09/1999
+
+
+Resolución:
+
+ 000997
+
+
+Fecha Res.:
+
+13/09/1999
+
+
+Vigencia:
+
+ 04/10/1999
+
+
+
+Lista:
+
+
+Maestra
+
+
+Circulares Anexas
+
+
+Control de Cambios
+
+
+
+
+
+I. OBJETIVO
+
+
+Establecer las pautas a seguir para que ADUANAS
+ ejerza la facultad de suspender la emisión del documento de determinación
+ y de extinguir la obligación tributaria, mediante la declaración de
+ deudas de recuperación onerosa cuando su costo de ejecución no
+ justifique su cobranza.
+
+
+
+II. ALCANCE
+
+
+Es de aplicación en las Intendencias Nacionales e
+ Intendencias de Aduana de la República que determinen y/o cobren
+ administrativa o coactivamente deudas inferiores al 10% (diez por
+ ciento) de la Unidad Impositiva Tributaria.
+
+
+III. RESPONSABILIDAD
+
+
+Es de responsabilidad de los Intendentes Nacionales
+ que determinen adeudos, los Intendentes de Aduana de la República y
+ todo el personal que intervenga en el presente procedimiento.
+
+ Es responsabilidad de la Intendencia Nacional de Sistemas adecuar el
+ SIGAD para el cumplimiento del presente procedimiento.
+
+ Es responsabilidad de la jefatura de cada área, el registro y
+ actualización del SIGAD.
+
+
+IV. VIGENCIA
+
+
+ A partir del 27/09/1999
+
+
+
+V. BASE LEGAL
+
+
+Ley General de Aduanas aprobado por Decreto Legislativo N° 809 del
+ 19.04.96
+
+
+Texto Unico Ordenado del Código Tributario aprobado por Decreto
+ Supremo N°135-99-EF
+
+
+Ley de Delitos Aduaneros - Ley N° 26461
+
+
+INRA-PG.02 - Cobranzas Administrativas aprobado por R.S.A. Nº 759
+
+
+Reglamento de Cobranza Coactiva aprobado por R.S.A. Nº 758
+
+
+VI. NORMAS GENERALES
+
+
+Se debe suspender la emisión de los documentos de
+ determinación establecidos en el Procedimiento (INRA-PG.02) Cobranzas
+ Administrativas cuando el monto de la deuda a cobrar sea inferior al
+ 10% (diez por ciento) de la Unidad Impositiva Tributaria (UIT), para
+ lo cual es suficiente un informe visado por el jefe del área donde se
+ haya determinado la deuda, para efecto de su archivo definitivo.
+
+
+La Intendencia Nacional de Fiscalización Aduanera
+ está facultada a evaluar en los actos administrativos de fiscalización
+ posterior, si procede suspender la emisión del documento de determinación.
+
+
+La deuda contenida en cada documento de determinación
+ que sea inferior al 10% de la UIT, debe ser declarada como de
+ recuperación onerosa mediante Resolución emitida por la Intendencia
+ a cargo de la cobranza administrativa o coactiva de la deuda.
+
+
+Para la declaración de una deuda de recuperación
+ onerosa no es requisito previo la notificación administrativa o
+ coactiva, ni la resolución del reclamo si estuviese impugnado.
+
+
+La Unidad Impositiva Tributaria a tomar en cuenta
+ es la vigente al primero de enero del año de emisión del informe de
+ suspensión del documento de determinación o de la Resolución de
+ Intendencia que la declare como de recuperación onerosa.
+
+
+El monto del tributo o multa a tener en cuenta para
+ verificar que sea inferior al 10% de la UIT, es el que figure en el
+ informe de suspensión o en el documento de determinación sin incluir
+ recargos, intereses y costas.
+
+
+El tipo de cambio a considerar cuando la deuda haya
+ sido determinada en dólares americanos es el vigente al primero de
+ enero del año de emisión del informe de suspensión del documento de
+ determinación o de la Resolución de Intendencia que la declare como
+ de recuperación onerosa.
+
+
+En el caso de las deudas que se encuentren en
+ cobranza coactiva, cuyos montos estén determinados en moneda extranjera
+ y con una antigüedad mayor a cuatro años, se utiliza el tipo de cambio
+ vigente a la fecha del nacimiento de la obligación tributaria.
+
+
+Cuando la deuda puesta a cobro resulte declarada
+ como de recuperación onerosa no procede el cobro de costas y gastos.
+
+
+La suspensión de la emisión de la resolución de
+			determinación o multa y la declaración de deuda de recuperación
+			onerosa, no es aplicable a:
+
+			a) La deuda que se encuentre garantizada.
+
+			b) La cuota pendiente de pago de los fraccionamientos de carácter
+			general o particular.
+
+			c) Las deudas correspondientes a un mismo deudor que acumuladas, a
+			la fecha de verificación, sean iguales o superen el 10% (diez por
+			ciento) de la UIT
+.
+
+(
+Modificado
+			por RSNAA No.0256
+ publicada el 03.10.2013
+)
+
+
+VII . DESCRIPCION
+
+
+El personal encargado que detecte una deuda, cuyo
+ monto es inferior al 10% (diez por ciento) de la Unidad Impositiva
+ Tributaria, debe elaborar un informe con la visación de su jefe
+ inmediato que suspenda la emisión del documento de determinación
+ para su archivo definitivo. Este acto administrativo debe registrarse
+ en el SIGAD, para tal efecto el personal encargado al numerar el
+ informe en el Módulo de Trámite Documentario debe consignar como
+ documento asociado el número de la Declaración de Aduanas o
+ Manifiesto de Carga y en el rubro asunto: "Se suspende el cobro
+ por S/...... U.S. $......".
+
+
+Los jefes de las áreas que determinen adeudos y/o
+ de las áreas encargadas de la cobranza administrativa y coactiva, son
+ responsables de verificar si las deudas registradas en los Documentos
+ de Determinación son inferiores al 10% (diez por ciento) de la Unidad
+ Impositiva Tributaria vigente al primero de enero del año de la
+ verificación, para ser declarados como deudas de recuperación
+ onerosa. Esta verificación se realiza por lo menos dos veces al año.
+
+
+Concluida la verificación y obtenida la
+ documentación sustentatoria de cada deuda, el personal encargado
+ elabora el informe y el Proyecto de Resolución de Intendencia para su
+ visación respectiva por el jefe del área.
+
+
+Aprobada la Resolución de Intendencia que declara
+ las deudas de recuperación onerosa, el personal encargado del área
+ que proyectó dicha Resolución, apenas reciba copia de la misma,
+ registra la extinción de la deuda en el SIGAD.
+
+
+El Area Contable debe verificar la rebaja de las
+ cuentas por cobrar luego de recibir una copia de la Resolución de
+ Intendencia que declara la deuda de recuperación onerosa. En el caso
+ de las Intendencias de Aduanas operativas que cobren por encargo,
+ dicha verificación la realiza la Intendencia de Aduana que determinó
+ la deuda.
+
+
+Las infracciones y respectivas sanciones cuya
+ determinación se haya suspendido o declarado como de recuperación
+ onerosa, no debe ser registrado como antecedente para el cómputo de
+ infracciones y sanciones.
+
+
+VIII. FLUJOGRAMA
+
+
+Ver documento
+.
+
+
+
+IX. INFRACCIONES, SANCIONES Y DELITOS
+
+
+No aplica
+
+
+X. REGISTRO
+
+
+Registro de Liquidaciones de Cobranza
+ extinguidas por Recuperación Onerosa.
+
+
+XI. DEFINICIONES
+
+
+Deuda de Recuperación
+ Onerosa
+.- Deuda cuyo costo de ejecución no justifica su cobranza y
+ puede ser declarada como de recuperación onerosa en dos momentos:
+
+
+Previa a la emisión
+ del documento de determinación mediante informe de suspensión
+
+
+Después de haberse
+ generado el documento de determinación mediante Resolución de
+ Intendencia.

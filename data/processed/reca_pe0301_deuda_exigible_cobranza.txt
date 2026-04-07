@@ -1,0 +1,421 @@
+Procedimientos de Recaudación
+
+
+RECAUDACIÓN
+
+
+PROCEDIMIENTO ESPECÍFICO
+
+RECA-PE.03.01 :  AUTOLIQUIDACIÓN DE DEUDA ADUANERA
+
+
+ <-- Retroceder
+
+
+
+
+
+Proc:
+
+
+RECA-PE.03.01
+
+(antes IFGRA-PE.11)
+
+
+						AUTOLIQUIDACIÓN DE DEUDA ADUANERA
+
+
+Versión:
+
+ 2
+
+
+Publicación:
+
+ 05/08/2008
+
+
+Resolución:
+ 000367
+
+
+Fecha Res.:
+  04/08/2008
+
+
+Vigencia:
+ 06/08/2008
+
+
+
+Lista:
+
+
+Maestra
+
+
+Circulares Anexas
+
+
+Control de Cambios
+
+
+
+
+
+I.    OBJETIVO
+
+
+Establecer el
+ procedimiento que deben seguir los operadores de comercio exterior
+ para autoliquidar deuda aduanera.
+
+
+II.    ALCANCE
+
+
+El presente
+ procedimiento está dirigido al personal de la Intendencia Nacional
+ de Sistemas de Información, de la Intendencia Nacional de Técnica
+ Aduanera, de la Intendencia de Fiscalización y Gestión de la
+ Recaudación Aduanera, de la Intendencia de Prevención del
+ Contrabando y Control Fronterizo, de las intendencias de aduana de
+ la República, y a los operadores de comercio exterior.
+
+
+III.   RESPONSABILIDAD
+
+		  La aplicación, cumplimiento y seguimiento del presente procedimiento
+		  es de responsabilidad del Intendente Nacional de Sistemas de
+		  Información, del Intendente Nacional de Técnica Aduanera, del
+		  Intendente de Fiscalización y Gestión de Recaudación Aduanera, del
+		  Intendente de Prevención del Contrabando y Control Fronterizo y de los
+		  intendentes de aduana de la República.
+
+
+IV.  VIGENCIA
+
+
+A partir del día siguiente de la fecha de su publicación.
+
+
+V.    BASE LEGAL
+
+
+ Texto Único Ordenado del
+ Código Tributario, aprobado por Decreto Supremo Nº 135-99-EF,
+ publicado el 19.08.1999, y sus normas modificatorias. En adelante
+ Código Tributario.
+
+
+ Texto Único Ordenado de la Ley
+ General de Aduanas, aprobado por Decreto Supremo N° 129-2004-EF,
+ publicado el 12.09.2004 y sus normas modificatorias.
+
+
+ Reglamento de la Ley General de
+ Aduanas, aprobado por Decreto Supremo N° 011-2005-EF, publicado
+ el 26.01.2005, y sus normas modificatorias.
+
+
+ Ley del Procedimiento
+ Administrativo General, Ley N° 27444, publicada el 11.04.2001 y
+ sus normas modificatorias.
+
+
+VI.   NORMAS GENERALES
+
+
+Para efectos del presente
+ procedimiento se entenderá por deuda aduanera a la deuda
+ tributaria aduanera definida en el artículo 18° del Texto Único
+ Ordenado de la Ley General de Aduanas, a la deuda de naturaleza
+ administrativa y a otras deudas relacionadas con el ingreso y la
+ salida de mercancías.
+
+
+El operador de comercio exterior puede
+ autoliquidar deuda aduanera o acogerse al régimen de gradualidad
+ por multas o al régimen de incentivos, mediante el "Formato
+ de Autoliquidación".
+
+
+La declaración expresada en el
+ Formato de Autoliquidación tiene carácter de declaración
+ jurada.
+
+
+No procede la autoliquidación de
+ deudas aduaneras que han sido determinadas y notificadas por la
+ autoridad aduanera, con excepción de las autoliquidaciones
+ relacionadas con el régimen de incentivos.
+
+
+Cuando el operador de comercio
+ exterior se autoliquida y cancela una deuda aduanera pero ha
+ incurrido en error al indicar el tributo o multa, la autoridad
+ aduanera, a iniciativa de parte o de oficio, verifica el error y
+ de comprobar su existencia da por cancelada la deuda aduanera o
+ realizado el pago parcial respectivo, en la fecha en se efectúo
+ el referido pago.
+
+
+VII.   DESCRIPCION
+
+
+Del Formato de Autoliquidación
+
+
+El operador de comercio exterior que desea autoliquidar deuda
+ aduanera o acogerse al régimen de gradualidad por multas o al
+ régimen de incentivos debe llenar el Formato de Autoliquidación
+ - Anexo 1 según la Cartilla de Instrucciones - Anexo 2 del
+ presente procedimiento.
+
+
+Para efectos de declarar el porcentaje de rebaja en el Formato de
+ Autoliquidación, por acogimiento al régimen de gradualidad, el
+ operador de comercio exterior puede consultar en el portal web su
+ record de infracciones; esta información tiene carácter
+ referencial.
+
+
+El operador de comercio exterior debe
+ presentar un Formato de Autoliquidación por cada declaración o
+ documento aduanero en caso de tributos o un Formato de
+ Autoliquidación por cada infracción en caso de multas.
+
+
+El Formato de Autoliquidación puede
+ ser presentado por escrito o transmitido vía electrónica.
+
+
+ De la presentación por escrito
+
+
+El operador de comercio exterior presenta, en
+			  original y una copia, el Formato de Autoliquidación ante el área
+			  de recaudación o el área de técnica aduanera, según corresponda,
+			  de la intendencia donde se generó la deuda aduanera. El original
+			  es derivado al personal encargado para la emisión de la
+			  liquidación de cobranza y la copia es devuelta al operador de
+			  comercio exterior con sello y firma de recepción.
+
+
+ Si el Formato de Autoliquidación
+			  corresponde a una deuda aduanera generada en otra intendencia de
+			  aduana, el personal encargado remite, vía correo electrónico,
+			  copia escaneada del citado formato a la intendencia de aduana
+			  competente para que emita o rectifique la liquidación de cobranza,
+			  según corresponda, debiendo tener en cuenta lo señalado en el
+			  presente procedimiento.
+La intendencia de aduana competente
+			  comunica, por el mismo medio, a la intendencia de aduana donde se
+			  presentó el formato el número de la liquidación de cobranza
+			  generada para su impresión a través del portal de la
+			  Superintendencia Nacional de Administración Tributaria, ubicado en
+			  www.sunat.gob.pe, opción Operatividad Aduanera/Liquidación en
+			  Cobranza y la entrega al operador de comercio exterior. En caso
+			  que no se logre visualizar la liquidación de cobranza en el citado
+			  portal, la intendencia de aduana competente remite copia escaneada
+			  de ésta.
+
+
+El personal encargado recepciona el Formato de
+			  Autoliquidación y verifica en el Módulo del SIGAD si existe una
+			  liquidación de cobranza notificada por la deuda autoliquidada; de
+			  existir, devuelve al operador de comercio exterior el Formato de
+			  Autoliquidación, en caso contrario procede a emitirla y
+			  notificarla al operador.
+
+
+Los tipos de liquidación de cobranza
+ a emitirse son:
+
+
+Tipo 0026 - TRIBUTOS
+
+
+Tipo 0027 - MULTAS
+
+
+Tipo 0029 - AUTOLIQUIDACIÓN ART. 13 OMC - DUDA RAZONABLE GENERAL
+
+
+Tipo 0032 - AUTOLIQUIDACIÓN ART. 13 OMC - DUDA RAZONABLE
+ ESPECIAL
+
+
+De la transmisión vía electrónica
+
+
+El operador de comercio exterior
+ transmite vía electrónica la información contenida en el
+ Formato de Autoliquidación utilizando la clave electrónica que
+ le ha sido asignada, la cual reemplaza a la firma manuscrita.
+
+
+El SIGAD valida la información
+ transmitida por el operador de comercio exterior. De ser conforme
+ genera automáticamente el número de la liquidación de cobranza;
+ en caso contrario, comunica, por el mismo medio, las observaciones
+ para las acciones correspondientes.
+
+
+El operador de comercio exterior
+ imprime la liquidación de cobranza, la cual contiene el número
+ de C.D.A que permite el pago de la deuda aduanera autoliquidada.
+
+
+Cancelación de la liquidación de cobranza
+
+
+El operador de comercio exterior
+ cancela la liquidación de cobranza correspondiente a la deuda
+ aduanera autoliquidada en las entidades bancarias autorizadas o en
+ la caja de la intendencia de aduana que corresponda, de acuerdo a
+ lo señalado en el Procedimiento IFGRA-PE.15 Pago - Extinción de
+ Adeudos.
+
+
+El pago debe efectuarse en efectivo,
+ cheque certificado, cheque de gerencia o documento valorado hasta
+ el día hábil siguiente de la emisión de la liquidación de
+ cobranza. Si no se cancela en el mencionado plazo, la liquidación
+ de cobranza es anulada automáticamente por el sistema.
+
+
+Si el operador de comercio exterior se
+ autoliquida y cancela una liquidación de cobranza correspondiente
+ a una deuda aduanera que ya ha sido determinada y notificada por
+ la autoridad aduanera, el personal encargado verifica que el monto
+ pagado cubra el total de la deuda y, de estar conforme, regulariza
+ la cancelación en el Módulo Regularización de Cancelación; en
+ caso contrario, imputa el pago de acuerdo con el artículo 31°
+ del Código Tributario y prosigue la acción de cobranza que
+ corresponda sobre el saldo respectivo.
+
+
+Si se verifica que el monto cancelado
+ no cubre la totalidad de la deuda aduanera y no existe resolución
+ de determinación, el personal encargado considera el pago
+ efectuado como pago a cuenta del monto total de la deuda aduanera
+ e imputa el pago de acuerdo con el artículo 31° del Código
+ Tributario; asimismo, proyecta la resolución de determinación,
+ la cual debe contener el monto total de la deuda aduanera, la
+ imputación de pago realizada, el saldo pendiente de cancelación
+ y las transferencias de cuentas, de ser el caso.
+
+
+La resolución de determinación debe ser firmada por el
+ funcionario competente y notificada con su respectiva liquidación
+ de cobranza al operador de comercio exterior.
+
+
+Acogimiento a regímenes de gradualidad por multas e
+ incentivos
+
+
+En mérito a la información declarada en el Formato de
+ Autoliquidación, el personal encargado realiza las siguientes
+ acciones:
+
+
+Si corresponde a una deuda aduanera
+ que no ha sido determinada por la administración, emite,
+ imprime y notifica la liquidación de cobranza al operador de
+ comercio exterior para su cancelación.
+
+
+Si corresponde a una deuda aduanera
+ que ha sido determinada y se ha emitido la liquidación de
+ cobranza, pero no ha sido notificada, rectifica la liquidación
+ de cobranza, registra en el SIGAD el acogimiento a los
+ regímenes de gradualidad y/o incentivos, el porcentaje de
+ rebaja y el importe rebajado, y la notifica al operador de
+ comercio exterior.
+
+
+Si corresponde a una deuda aduanera
+ que ha sido determinada y notificada al operador de comercio
+ exterior, devuelve el Formato de Autoliquidación; salvo que el
+ acogimiento corresponda sólo al régimen de incentivos,
+ supuesto en el cual rectifica la liquidación de cobranza,
+ registra en el SIGAD el acogimiento al régimen de incentivos,
+ el porcentaje de rebaja y el importe rebajado, y la notifica al
+ operador de comercio exterior.
+
+
+De presentarse los casos señalados en
+ los incisos b) y c) del numeral 15 del presente procedimiento, el
+ personal encargado debe verificar que el pago de la liquidación
+ de cobranza rectificada se realice hasta el día hábil siguiente
+ de su notificación, de no haber sido cancelada la rectifica
+ nuevamente consignando el monto total de la multa y continúa la
+ cobranza.
+
+
+El personal encargado debe consignar
+ el código del operador de comercio exterior como único documento
+ de identificación, al emitir la liquidación de cobranza por
+ acogimiento a los regímenes de gradualidad por multas y/o
+ incentivos.
+
+
+ Control
+
+
+Corresponde a cada intendencia de
+ aduana, a través de sus áreas de recaudación y contabilidad,
+ realizar el control contable de las liquidaciones de cobranza
+ formuladas por autoliquidación.
+
+
+El personal encargado de las
+ intendencias de aduana controla el correcto acogimiento a los
+ regímenes de gradualidad y/o incentivos.
+
+
+VIII.  FLUJOGRAMA
+
+
+No aplica
+
+
+
+IX.  INFRACCIONES, SANCIONES Y DELITOS
+
+
+No aplica
+
+
+
+X.   REGISTRO
+
+
+Liquidaciones de cobranza emitidas por autoliquidación - Módulo
+ de Liquidaciones de Cobranza. Estados: emitidas, canceladas,
+ pendientes, anuladas.
+
+
+Tipo de almacenamiento: Magnético.
+
+
+Tiempo de conservación: Permanente.
+
+
+Responsable: INSI / Intendencias operativas.
+
+
+ANEXOS
+
+
+Formato de Autoliquidación.
+
+
+Cartilla de Instrucciones para el
+ llenado del Formato.
+
+
+Autoliquidaciones vía Teledespacho.
