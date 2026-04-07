@@ -1,0 +1,750 @@
+Procedimientos - TRANSBORDO
+
+
+TRANSBORDO
+
+
+PROCEDIMIENTO GENERAL
+
+
+
+
+
+Link de acceso para el
+
+  DESPA-PG.11 (versión 4)
+
+
+
+
+
+
+Proc:
+
+
+DESPA-PG.11
+
+
+Transbordo
+
+
+Vigencia:
+
+ 18.11.2024
+
+
+Publicación:
+
+					  26.10.2024
+
+
+Resolución:
+
+ 00217
+
+
+Fecha Res.:
+ 24.10.2024
+
+
+Versión:
+  5
+
+
+Circulares:
+
+
+
+Lista:
+
+
+Complementaria
+
+
+Control de Cambios
+
+
+I.      OBJETIVO
+
+
+Establecer las pautas a seguir para el
+				  despacho de las mercancías destinadas al régimen de
+				  transbordo, con la finalidad de facilitar el cumplimiento de
+				  las normas que lo regulan.
+
+
+II. ALCANCE
+Está dirigido al
+				  personal de la Superintendencia Nacional de Aduanas y de
+				  Administración Tributaria - SUNAT, a los operadores de
+				  comercio exterior y a los operadores intervinientes que
+				  participan en el proceso de despacho del régimen de
+				  transbordo.
+III. RESPONSABILIDAD
+
+
+La aplicación, cumplimiento y seguimiento de lo dispuesto
+				  en el presente procedimiento es de responsabilidad del
+				  Intendente Nacional de Desarrollo e Innovación Aduanera, del
+				  Intendente Nacional de Sistemas de Información, del Intendente
+				  Nacional de Control Aduanero, de los intendentes de aduana de
+				  la República y de las jefaturas y personal de las distintas
+				  unidades de organización que intervienen.
+IV. DEFINICIONES Y
+				  ABREVIATURAS
+Para efectos del presente
+				  procedimiento se entiende por:
+1. Buzón electrónico: A
+				  la sección ubicada dentro del portal de la SUNAT Operaciones
+				  en Línea asignada al operador de comercio exterior u operador
+				  interviniente, en la que se pueden depositar actos
+				  administrativos y comunicaciones conforme a lo señalado en la
+				  Resolución de Superintendencia N° 014-2008/SUNAT y en el
+				  presente procedimiento.
+2. Clave sol: Al texto conformado
+				  por números y letras, de conocimiento exclusivo del operador
+				  de comercio exterior u operador interviniente, que asociado al
+				  código de usuario otorga privacidad en el acceso a SUNAT
+				  Operaciones en Línea.
+3. DAM: A la declaración aduanera de
+				  mercancías.
+4. Declarante: Al operador que solicita la
+				  destinación aduanera de mercancías al régimen de transbordo.
+
+				  5. Funcionario aduanero: Al personal de la SUNAT que ha sido
+				  designado o encargado para desempeñar actividades o funciones
+				  en su representación, ejerciendo la potestad aduanera de
+				  acuerdo con su competencia.
+6. MPV-SUNAT: A la mesa de
+				  partes virtual de la SUNAT, consistente en una plataforma
+				  informática disponible en el portal de la SUNAT que facilita
+				  la presentación virtual de documentos.
+7. VIN (Vehicle
+				  Identification Number): Número de Identificación Vehicular.
+
+				  8. Bulto en mal estado: Al bulto arribado cuyo envase o
+				  embalaje que sirve de acondicionamiento o continente exterior
+				  presenta daño o deterioro y cuyo contenido se encuentra
+				  expuesto.
+
+
+V. BASE LEGAL
+
+
+- Ley General de Aduanas, Decreto Legislativo N° 1053,
+				  publicada el 27.6.2008, y modificatorias. En adelante, la LGA.
+
+				  - Reglamento del Decreto Legislativo N° 1053, Ley General de
+				  Aduanas, aprobado por Decreto Supremo N° 010-2009-EF,
+				  publicado el 16.1.2009, y modificatorias. En adelante, el
+				  RLGA.
+- Texto Único Ordenado del Código Tributario,
+				  aprobado por Decreto Supremo N° 133-2013-EF, publicado el
+				  22.6.2013, y modificatorias.
+- Texto Único Ordenado de la
+				  Ley N° 27444 - Ley del Procedimiento Administrativo General,
+				  aprobado por Decreto Supremo N° 004-2019-JUS, publicado el
+				  25.1.2019, y modificatorias.
+- Resolución de
+				  Superintendencia N° 077-2020/SUNAT, que aprueba la creación de
+				  la mesa de partes virtual de la SUNAT, publicada el 8.5.2020,
+				  y modificatorias.
+
+
+
+VI.   DISPOSICIONES GENERALES
+
+
+				   El transbordo es el régimen aduanero que permite la
+				  transferencia de mercancías, que son descargadas del medio de
+				  transporte utilizado para el arribo al territorio aduanero y
+				  cargadas en el medio de transporte utilizado para la salida
+				  del territorio aduanero, bajo control aduanero.
+2. En
+				  el régimen de transbordo puede actuar como declarante el
+				  transportista o su representante en el país; el agente de
+				  carga internacional; o el agente de aduanas facultado mediante
+				  mandato.
+3. El transbordo puede efectuarse bajo las
+				  siguientes modalidades:
+a) Modalidad 1: directamente de un
+				  medio de transporte a otro.
+b) Modalidad 2: con descarga a
+				  tierra.
+c) Modalidad 3: con ingreso a un depósito temporal.
+
+
+4. El transbordo se solicita en el:
+a) Despacho
+				  anticipado, antes de la llegada del medio de transporte, en la
+				  vía:
+a.1) Marítima, para las modalidades 1 y 2.
+a.2)
+				  Aérea, para la modalidad 2.
+b) Despacho diferido, después
+				  de la llegada del medio de transporte, en todas las vías, para
+				  las modalidades 1, 2 y 3.
+Vencido el plazo de quince (15)
+				  días calendario siguientes al término de la descarga o de la
+				  prórroga de quince (15) días prevista en la LGA, las
+				  mercancías caen en abandono legal y pueden ser recuperadas
+				  mediante su destinación a los regímenes aduaneros previstos en
+				  el RLGA.
+5. El sistema informático asigna a la DAM el
+				  canal de control verde con levante automático. El embarque se
+				  realiza en un plazo de treinta (30) días calendario contado a
+				  partir de la fecha de numeración de la DAM; transcurrido el
+				  plazo la mercancía cae en abandono legal.
+6. La
+				  mercancía solicitada al régimen no está sujeta a
+				  reconocimiento físico, salvo el caso de bultos en mal estado,
+				  o de contenedores con indicios de violación del precinto de
+				  seguridad, o cuando lo disponga la autoridad aduanera en el
+				  marco de una acción de control extraordinario o a solicitud
+				  del declarante.
+7. Las solicitudes vinculadas al
+				  régimen previstas en el literal E de la sección VII se
+				  transmiten electrónicamente, las no previstas se presentan a
+				  través de la MPV-SUNAT y se asignan a un funcionario aduanero
+				  para su atención.
+8. La información de la DAM
+				  transmitida electrónicamente goza de plena validez legal,
+				  salvo prueba en contrario.
+9. La autoridad aduanera
+				  puede imponer medidas de seguridad adicionales que permitan el
+				  control de la carga.
+10. Las intendencias de aduana de
+				  la República comunican a la Intendencia Nacional de Control
+				  Aduanero la información necesaria para la actualización de los
+				  indicadores de riesgo.
+
+
+
+VII.
+				  DESCRIPCIÓN
+
+
+A. NUMERACIÓN Y AUTORIZACIÓN DEL RÉGIMEN
+
+
+1. El declarante numera la DAM
+				  electrónicamente:
+a) En las modalidades 1 y 2, a través de
+				  la transmisión, rectificación o incorporación del documento de
+				  transporte del manifiesto de carga de ingreso.
+b) En la
+				  modalidad 3, a través de la rectificación del documento de
+				  transporte, del manifiesto de carga de ingreso o del
+				  manifiesto de carga desconsolidado.
+Excepcionalmente,
+				  cuando la mercancía arriba por la vía terrestre para luego
+				  embarcarse por vía aérea o marítima, el funcionario aduanero
+				  numera la DAM en la modalidad 3 a solicitud de:
+b.1) El
+				  agente de aduanas facultado mediante mandato.
+b.2) El
+				  transportista o su representante en el país, responsable de la
+				  transmisión del documento de transporte de salida.
+2.
+				  La DAM solo puede amparar mercancía consignada en un documento
+				  de transporte, del manifiesto de carga de ingreso o del
+				  manifiesto de carga desconsolidado.
+3. Para la
+				  numeración de la DAM en la modalidad 3, la mercancía debe
+				  haber ingresado previamente a un depósito temporal.
+4.
+				  El sistema informático valida la información transmitida y de
+				  ser conforme genera automáticamente el número de la DAM; en
+				  caso contrario, indica el motivo del rechazo.
+Una vez
+				  numerada la DAM, el sistema informático la vincula
+				  automáticamente con el documento de transporte, del manifiesto
+				  de carga de ingreso o del manifiesto de carga desconsolidado,
+				  respectivo.
+5. Numerada la DAM y vinculado el documento
+				  de transporte, del manifiesto de carga de ingreso o del
+				  manifiesto de carga desconsolidado, el sistema automáticamente
+				  autoriza el régimen por un plazo de treinta (30) días
+				  calendario computado a partir de la fecha de numeración de la
+				  DAM.
+6. La DAM puede ser consultada a través del portal
+				  del operador de comercio exterior ubicado en el portal de la
+				  SUNAT en la opción: SDA - Sistema de Despacho Aduanero, o a
+				  través del servicio web.
+B. REGULARIZACIÓN DEL
+				  RÉGIMEN
+1. El plazo para la
+				  transmisión de la información para regularizar el régimen es
+				  de cinco (5) días hábiles, contado a partir del día siguiente
+				  del término del último embarque.
+2. Para regularizar el
+				  régimen el declarante registra el número de la DAM en el
+				  documento de transporte, del manifiesto de carga de salida o
+				  del manifiesto de carga consolidado, según corresponda,
+				  siempre que se cumplan las siguientes condiciones:
+a) La
+				  fecha del término del embarque se encuentre dentro del plazo
+				  del régimen.
+b) La DAM cuente con levante y no se encuentre
+				  en los estados de: “Embarque concluido” o “Legajada”.
+c) La
+				  sumatoria de los pesos y bultos embarcados sean iguales a los
+				  pesos y bultos de la DAM.
+d) Los contenedores con sus
+				  precintos estén incluidos en la lista de contenedores de la
+				  DAM.
+e) La aduana del manifiesto de carga de salida o del
+				  manifiesto de carga consolidado coincida con la aduana de
+				  salida consignada en la DAM.
+f) No existan solicitudes
+				  pendientes de atención asociadas a la DAM.
+De tratarse
+				  de más de un embarque, se realiza la misma acción en cada
+				  documento de transporte, del manifiesto de carga de salida o
+				  del manifiesto de carga consolidado, conforme se vayan
+				  efectuando, hasta que la sumatoria de los pesos y bultos
+				  embarcados sean iguales a los pesos y bultos de la DAM.
+
+
+3. El régimen se regulariza automáticamente, cuando la
+				  totalidad de las mercancías han sido embarcadas y el
+				  declarante registra el número de la DAM en el documento de
+				  transporte, del manifiesto de carga de salida o del manifiesto
+				  de carga consolidado.
+El funcionario aduanero puede
+				  regularizar de oficio la DAM cuando haya vencido el plazo para
+				  la transmisión de la información o presentación de documentos
+				  y se cuente con la información necesaria, previa verificación
+				  de que se haya cumplido con el proceso, que el documento de
+				  transporte haya sido transmitido en el manifiesto de carga de
+				  salida o del manifiesto de carga consolidado y que la
+				  información coincida con los datos de la DAM, sin perjuicio de
+				  aplicar las sanciones que correspondan.
+4. Regularizada
+				  la DAM se notifica al declarante a través del buzón
+				  electrónico.
+C. TRASLADOS
+
+
+1. En caso del transbordo modalidad
+				  2 que requiera trasladarse del puerto o terminal de carga
+				  aéreo a un depósito temporal por zona secundaria, previamente
+				  en la información de la descarga de la mercancía se rectifica
+				  el receptor de la carga, consignando el depósito temporal que
+				  recibe la mercancía.
+El traslado se realiza, según el
+				  tipo de carga, bajo las siguientes condiciones:
+a) En
+				  contenedores: con los precintos de origen o los aduaneros de
+				  corresponder.
+b) Como carga suelta: en vehículos tipo
+				  furgón con precintos aduaneros.
+c) Mercancías de gran peso
+				  o volumen: con sus respectivas etiquetas, marcas,
+				  contramarcas, precintos, seguros u otros, que permitan su
+				  identificación.
+En el caso que no se haya numerado la
+				  DAM, el traslado se sujeta a lo establecido en el
+				  procedimiento general “Manifiesto de carga” DESPA-PG.09.
+
+
+2. Con la entrega de la mercancía al depósito temporal el
+				  transportista le transfiere la responsabilidad de su custodia.
+				  El depósito temporal es responsable por la mercancía desde su
+				  recepción hasta su entrega al transportista encargado de la
+				  salida de la mercancía del país, al administrador o al
+				  concesionario de los puertos o aeropuertos, según corresponda.
+
+
+D. EMBARQUE
+1. Las
+				  mercancías destinadas al régimen son embarcadas por el
+				  declarante en la circunscripción de la intendencia de aduana
+				  en la que se numera la DAM. Aquellas destinadas en la
+				  Intendencia de Aduana Marítima del Callao o en la Intendencia
+				  de Aduana Aérea y Postal, que corresponda a la modalidad 3
+				  pueden embarcarse por la circunscripción de cualquiera de las
+				  dos intendencias de aduana, siempre que el embarque se realice
+				  por el total de las mercancías. Excepcionalmente, la autoridad
+				  aduanera evaluará la procedencia de un embarque por una aduana
+				  distinta al de numeración correspondiente a la modalidad 3,
+				  cuando se trate de las intendencias de aduana Marítima del
+				  Callao, Aérea y Postal, y Chancay.
+2. Las mercancías
+				  destinadas al régimen pueden ser embarcadas en forma total o
+				  parcial. En el caso de embarques parciales, el total de la
+				  mercancía declarada debe ser embarcada dentro del plazo del
+				  régimen. El declarante debe registrar el número de la DAM en
+				  el documento de transporte, del manifiesto de carga de salida
+				  o del manifiesto de carga consolidado.
+3. Cuando las
+				  mercancías no vayan a ser embarcadas dentro del plazo del
+				  régimen, el declarante debe ingresarlas a un depósito temporal
+				  dentro del referido plazo.
+4. Cuando las mercancías
+				  consignadas en una DAM modalidad 2 son embarcadas parcialmente
+				  o no han sido embarcadas, se procede conforme a lo siguiente:
+
+				  a) Si la DAM se encuentra dentro del plazo del régimen y las
+				  mercancías no embarcadas:
+a.1) Permanecen en el terminal
+				  de carga aéreo o en el puerto, se continúa el trámite bajo la
+				  modalidad 2; o
+a.2) Son el saldo de un embarque parcial,
+				  ingresan a un depósito temporal y mediante la rectificación
+				  del documento de transporte, del manifiesto de carga de
+				  ingreso o del manifiesto de carga desconsolidado consigna el
+				  indicador de carga parcial para numerar una DAM bajo la
+				  modalidad 3.
+a.3) Constituyen el total de la carga
+				  declarada, rectifica la modalidad del régimen a 3, previo
+				  ingreso de la mercancía al depósito temporal.
+
+				  Tratándose de una DAM cuyas mercancías se embarcaron
+				  parcialmente, debe rectificarse considerando las mercancías
+				  efectivamente embarcadas.
+b) Si la DAM se encuentra fuera
+				  del plazo del régimen y:
+b.1) El total de las mercancías
+				  declaradas ingresan a un depósito temporal, se legaja la DAM.
+
+				  b.2) El saldo de las mercancías no embarcadas ingresan al
+				  depósito temporal, se rectifica la DAM.
+5. El proceso y
+				  la autorización de embarque se realiza conforme lo dispone el
+				  procedimiento específico "Actos relacionados con la salida de
+				  mercancías y medios de transporte” DESPA-PE.00.21, excepto en
+				  las modalidades 1 y 2 de transbordo, en las que el embarque se
+				  autoriza con el levante.
+6. El administrador o
+				  concesionario del puerto o aeropuerto permite el embarque de
+				  las mercancías, cuando la DAM:
+a) Cuente con levante
+				  autorizado para la modalidad 2, o con autorización de embarque
+				  para la modalidad 3; y
+b) No cuente con una acción de
+				  control extraordinario.
+E. SOLICITUDES
+				  VINCULADAS AL RÉGIMEN
+E.1 Solicitud de rectificación
+				  de datos de la DAM
+1.
+				  Dentro del plazo del régimen y antes del embarque, el
+				  declarante puede solicitar la rectificación de los datos de la
+				  DAM mediante transmisión electrónica.
+2. La solicitud
+				  de rectificación de los siguientes datos es de aprobación
+				  automática:
+a) Modalidad:
+a.1) De modalidad 1 a 2, solo
+				  para la vía marítima.
+a.2) De modalidad 2 a 3, para las
+				  vías marítima y aérea.
+b) Aduana de salida, solo en la
+				  modalidad 3 hasta antes que se consigne el “Dato para
+				  regularizar el transbordo” y siempre que el depósito temporal,
+				  desde donde sale la mercancía para su embarque, pertenezca a
+				  la circunscripción de la aduana de salida.
+c) Peso y/o
+				  bultos:
+c.1) En la modalidad 1, siempre que coincidan con
+				  los registrados en el documento de transporte de ingreso.
+
+				  c.2) En la modalidad 2, siempre que sean iguales o menores a
+				  los registrados en el documento de transporte de ingreso.
+
+				  c.3) En la modalidad 3, siempre que coincidan con los
+				  registrados en el ingreso y recepción de mercancías (IRM).
+
+				  d) Tipo de bulto.
+e) Tipo y número de contenedor.
+f)
+				  Número de VIN.
+3. Para la aprobación automática de la
+				  solicitud de rectificación de la DAM, además de las
+				  condiciones señaladas en el numeral 2, se debe cumplir con lo
+				  siguiente:
+a) Debe formularse dentro del plazo del régimen.
+
+				  b) La DAM no debe encontrarse regularizada o legajada.
+c)
+				  En la vía aérea no debe tener asociada la relación de carga a
+				  embarcar (RCE) en estado "05 -Embarque autorizado" y en la vía
+				  marítima no debe tener RCE en estado "06 - Embarcada".
+d)
+				  No debe contar con una acción de control extraordinario.
+e)
+				  No debe tener solicitudes pendientes de aprobación.
+4.
+				  La solicitud de rectificación de datos no comprendidos en el
+				  numeral 2 es de evaluación previa.
+E.2 Solicitud
+				  de trasiego, llenado de contenedores, verificación de
+				  mercancías, cambio de precinto a uno aduanero y otras
+
+
+1. Dentro del plazo del régimen y
+				  antes del embarque, el declarante puede solicitar mediante
+				  transmisión electrónica las operaciones de trasiego, llenado
+				  de contenedores, verificación de mercancías, cambio de
+				  precinto a uno aduanero u otra operación.
+Para la
+				  transmisión electrónica de la solicitud, la DAM no debe:
+a)
+				  Tener RCE en estado “05 - Embarque autorizado” en la vía aérea
+				  y en estado “06 - Embarcada” en la vía marítima.
+b) Contar
+				  con una acción de control extraordinario.
+c) Tener
+				  solicitudes pendientes de aprobación.
+d) Estar regularizada
+				  o legajada.
+2. En el caso de la solicitud de trasiego,
+				  llenado de contenedores o cambio de precinto a uno aduanero,
+				  el sistema informático, en aplicación de técnicas de gestión
+				  de riesgo, selecciona si la solicitud se sujeta a control
+				  aduanero y asigna al funcionario aduanero encargado de su
+				  atención, quien registra la diligencia en el sistema
+				  informático. En caso de no ser seleccionada a control es de
+				  aprobación automática.
+3. Cuando existan bultos en mal
+				  estado, o contenedores con indicios de violación de precintos
+				  o de medidas de seguridad, el declarante comunica esta
+				  situación a la Administración Aduanera antes del embarque de
+				  las mercancías consignando el indicador de verificación de
+				  mercancías en la DAM. Con esa información el sistema
+				  informático genera la solicitud y asigna un funcionario
+				  aduanero para su atención, quien realiza la revisión física y
+				  registra su diligencia en la solicitud.
+4. Cuando con
+				  motivo de las operaciones realizadas se reemplazan o adicionan
+				  precintos, estos deben tener la condición de precintos
+				  aduaneros de conformidad con lo indicado en el procedimiento
+				  específico “Uso y control de precintos aduaneros y otras
+				  medidas de seguridad de la carga” CONTROL-PE.00.08.
+5.
+				  El trasiego, llenado de contenedores o la verificación de
+				  mercancías debe culminar dentro del plazo del régimen y antes
+				  del embarque.
+E.3 Solicitud de traslado de las
+				  mercancías entre depósitos temporales
+
+
+1. Dentro del plazo del régimen
+				  modalidad 3 y antes del embarque, el declarante puede
+				  solicitar, mediante transmisión electrónica, el traslado de
+				  las mercancías a otro depósito temporal de la misma
+				  circunscripción. Los ubicados en la Intendencia de Aduana
+				  Marítima del Callao o de la Intendencia de Aduana Aérea y
+				  Postal, pueden trasladarse indistintamente a los depósitos
+				  temporales de cualquiera de las dos circunscripciones, para su
+				  posterior embarque. Excepcionalmente, la autoridad aduanera
+				  evaluará la procedencia del traslado entre las mencionadas
+				  intendencias y la intendencia de aduana de Chancay.
+2.
+				  Para solicitar el traslado de las mercancías entre depósitos
+				  temporales mediante transmisión electrónica, se debe cumplir
+				  con lo siguiente:
+a) El total de las mercancías debe estar
+				  consignada en la DAM y encontrarse en el depósito temporal de
+				  origen.
+b) La DAM no debe:
+b.1) Tener RCE.
+b.2)
+				  Contar con una acción de control extraordinario.
+b.3) Tener
+				  una solicitud de traslado anterior pendiente de atención.
+
+				  b.4) Contar con embarques registrados.
+b.5) Estar
+				  regularizada o legajada.
+b.6) Encontrarse en abandono
+				  legal.
+3. Generada la solicitud electrónica, el sistema
+				  informático selecciona, en base a técnicas de gestión de
+				  riesgo, el traslado que se sujeta a control de un funcionario
+				  aduanero.
+4. El traslado de las mercancías entre
+				  depósitos temporales se realiza bajo las siguientes
+				  condiciones, de acuerdo al tipo de carga:
+a) En
+				  contenedores: con los precintos de origen consignados en la
+				  DAM transmitida al momento del arribo o con los precintos
+				  aduaneros en los casos de trasiego, llenado, verificación de
+				  las mercancías, cambio de precinto a uno aduanero u otra
+				  operación realizada antes del traslado efectuada ante la
+				  autoridad aduanera.
+b) Como carga suelta: en vehículo tipo
+				  furgón que permita su precintado. El precinto aduanero debe
+				  ser colocado por el depósito temporal de origen antes del
+				  traslado y en presencia del representante del declarante.
+
+				  c) Cuando es de gran peso o volumen: con sus respectivas
+				  etiquetas, marcas, contramarcas, precintos, seguros u otros,
+				  que permita su identificación.
+d) En equipos dollies o
+				  portapalets: con sus respectivas etiquetas, marcas,
+				  contramarcas, precintos, seguros u otros, que permitan su
+				  identificación, cuando el traslado se realice en la
+				  circunscripción de la Intendencia de Aduana Aérea y Postal,
+				  sin pasar por zona secundaria.
+5. Cuando el traslado se
+				  autoriza sin control, el depósito temporal de origen entrega
+				  las mercancías en su recinto al declarante y registra de
+				  inmediato la información en el portal del operador de comercio
+				  exterior, con lo cual la solicitud pasa al estado “Entregada”.
+				  El registro de entrega de las mercancías también se pone en
+				  conocimiento del depósito temporal de destino para su
+				  recepción, a través del citado portal.
+6. Cuando el
+				  traslado se autoriza con control, el sistema informático
+				  asigna al funcionario aduanero responsable de la atención,
+				  quien coordina con el declarante.
+El depósito temporal
+				  de origen entrega las mercancías al declarante para su
+				  traslado hacia el depósito temporal de destino, en presencia
+				  del funcionario aduanero, y procede conforme al numeral
+				  precedente.
+Culminada la verificación del traslado, el
+				  funcionario aduanero registra la diligencia e indica el tipo
+				  de incidencia en caso de haberse presentado.
+Con el
+				  registro de la información, la solicitud pasa al estado
+				  “Revisada”.
+7. El depósito temporal de destino
+				  registra, a través del portal del operador de comercio
+				  exterior, la fecha y hora de recepción del último vehículo que
+				  trasladó las mercancías hasta completar el peso y número de
+				  bultos de la DAM.
+8. Cuando el traslado es autorizado
+				  automáticamente, el sistema informático actualiza el estado de
+				  la solicitud a “Recepcionada conforme”.
+Si el traslado
+				  es autorizado con control y no tuvo incidencia, el sistema
+				  informático actualiza la solicitud al estado “Recepcionada
+				  conforme”. Si el funcionario aduanero registró el traslado con
+				  incidencia, el sistema informático actualiza el estado a
+				  “Recepcionada con incidencia”.
+9. El depósito temporal
+				  de origen es responsable de la custodia de la mercancía hasta
+				  su entrega al declarante, quien la asume hasta su entrega al
+				  depósito temporal de destino.
+10. El depósito temporal
+				  de destino es responsable de la custodia de la mercancía desde
+				  que la recibe hasta su entrega al transportista internacional
+				  que tiene a su cargo la salida de las mercancías del país, al
+				  administrador o concesionario del puerto o aeropuerto, o a
+				  otro depósito temporal.
+11. El declarante puede anular
+				  la solicitud de traslado antes de la entrega de las mercancías
+				  por parte del depósito temporal de origen, siempre que no
+				  cuente con una acción de control extraordinario.
+
+
+E.4 Legajamiento de la DAM
+
+
+1. El declarante puede solicitar el
+				  legajamiento de la DAM mediante transmisión electrónica.
+
+
+2. La solicitud es de aprobación automática en los
+				  siguientes casos:
+a) En la modalidad 3, cuando las
+				  mercancías se encuentran en abandono legal.
+b) En las
+				  modalidades 1 y 2, cuando las mercancías no arribaron.
+
+				  El sistema informático notifica al declarante el resultado de
+				  la solicitud a través del buzón electrónico.
+3. La
+				  solicitud es de evaluación previa en los supuestos no
+				  comprendidos en el numeral anterior.
+En estos casos el
+				  funcionario aduanero notifica al declarante el resultado de la
+				  solicitud a través del buzón electrónico.
+4. El
+				  procedimiento específico “Legajamiento de la declaración”
+				  DESPA-PE.00.07 es de aplicación supletoria.
+F.
+				  NOTIFICACIONES Y COMUNICACIONES
+F.1 Notificación a
+				  través del buzón electrónico
+
+
+1. Los siguientes actos
+				  administrativos pueden ser notificados a través del buzón
+				  electrónico:
+a) Requerimiento de información o
+				  documentación.
+b) Resolución de determinación o multa.
+
+				  c) El que declara la procedencia en parte o improcedencia de
+				  una solicitud.
+d) El que declara la procedencia cuya
+				  ejecución se encuentra sujeta al cumplimiento de
+				  requerimientos de la Administración Aduanera.
+e) El emitido
+				  de oficio por la Administración Aduanera.
+2. Para la
+				  notificación a través del buzón electrónico se debe considerar
+				  que:
+a) El declarante cuente con número de RUC y clave SOL.
+
+				  b) El acto administrativo que se genera automáticamente por el
+				  sistema informático sea transmitido al buzón electrónico del
+				  declarante, según corresponda.
+c) Cuando el acto
+				  administrativo no se genera automáticamente, el funcionario
+				  aduanero designado deposita en el buzón electrónico del
+				  declarante un archivo en formato digital.
+d) La
+				  notificación se considera efectuada en la fecha del depósito
+				  del documento en el buzón electrónico y surte efecto desde el
+				  día hábil siguiente al de su depósito. La confirmación de la
+				  entrega se realiza por la misma vía electrónica.
+3. La
+				  Administración Aduanera puede utilizar, indistintamente, las
+				  otras formas de notificación establecidas en el artículo 104
+				  del Código Tributario.
+F.2 Comunicaciones a la
+				  dirección de correo electrónico consignado en la MPV-SUNAT
+
+
+1. Cuando el declarante
+				  presenta su solicitud a través de la MPV-SUNAT y registra una
+				  dirección de correo electrónico, se obliga a:
+a) Asegurar
+				  que la capacidad del buzón del correo electrónico permita
+				  recibir las comunicaciones que la Administración Aduanera
+				  envíe.
+b) Activar la opción de respuesta automática de
+				  recepción.
+c) Mantener activa la dirección de correo
+				  electrónico hasta la culminación del trámite.
+d) Revisar
+				  continuamente el correo electrónico, incluyendo la bandeja de
+				  spam o de correo no deseado.
+2. Con el registro de la
+				  mencionada dirección de correo electrónico en la MPV-SUNAT,
+				  autoriza expresamente a la Administración Aduanera a enviar, a
+				  través de esta, las comunicaciones que se generen en el
+				  trámite de su solicitud.
+3. La respuesta del declarante
+				  a las comunicaciones realizadas por la Administración Aduanera
+				  se presenta a través de la MPV-SUNAT.
+
+
+
+
+VIII. VIGENCIA
+.
+
+
+El presente procedimiento entra en vigencia el
+				  día 18 de noviembre de 2024.
+IX. ANEXOS
+.
+
+
+No aplica.

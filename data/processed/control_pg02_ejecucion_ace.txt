@@ -1,0 +1,2230 @@
+Procedimientos de Fiscalización
+
+
+FISCALIZACIÓN Y PREVENCIÓN DEL CONTRABANDO Y CONTROL
+
+FRONTERIZO
+
+
+PROCEDIMIENTO GENERAL:
+
+
+
+
+CONTROL-PG.02:
+
+
+EJECUCIÓN DE ACCIONES
+
+DE CONTROL EXTRAORDINARIO
+
+
+
+
+
+
+
+
+Proc:
+
+
+
+CONTROL-PG.02
+
+
+						EJECUCIÓN DE ACCIONES DE CONTROL EXTRAORDINARIO
+
+
+Versión:
+
+
+ 1
+
+
+Publicación:
+
+
+					  01/12/2018
+
+
+Resolución:
+
+
+					  284-2018/SUNAT
+
+
+Fecha Res.:
+
+
+					  28/11/2018
+
+
+Vigencia:
+
+
+					  08/07/2022
+
+
+
+
+
+Circulares Anexas
+
+
+Control de
+
+ Cambios
+
+
+
+
+
+I
+. OBJETIVO
+
+
+
+Establecer las pautas a seguir para la
+
+		  ejecución de acciones de control extraordinario orientadas a la
+
+		  prevención, detección y represión de los delitos aduaneros, el tráfico
+
+		  ilícito de mercancías y el incumplimiento de las disposiciones
+
+		  tributario - aduaneras y otras que contengan regulaciones de control
+
+		  aduanero.
+
+
+II.
+
+ ALCANCE
+
+
+		  Está dirigido a los operadores de comercio exterior, a los
+
+
+operadores intervinientes, al
+
+
+		  personal de la SUNAT y a cualquier persona que intervenga en el
+
+		  presente procedimiento.
+
+
+(RS_0091-2022-SUNAT-08.07.2022)
+
+
+III.
+
+ RESPONSABILIDAD
+
+
+Son responsables de la aplicación,
+
+		  cumplimiento y seguimiento del presente procedimiento el Intendente
+
+		  Nacional de Desarrollo e Innovación Aduanera, el Intendente Nacional
+
+		  de Control Aduanero, el Intendente Nacional de Sistemas de
+
+		  Información, los intendentes de aduana de la República y el personal
+
+		  de las distintas unidades organizacionales que intervienen en las
+
+		  acciones de control extraordinario.
+
+
+IV.
+
+
+
+
+
+DEFINICIONES
+
+Y ABREVIATURAS
+
+
+		  Para efectos del presente procedimiento, se entiende por:
+
+
+		  (
+RS_00012-2026-SUNAT-29.01.2026
+)
+
+
+1. ACE:
+A la
+
+		  acción de control extraordinario.
+
+
+2. Acta de constatación de
+
+		  hechos
+: Al documento mediante el cual el funcionario
+
+		  aduanero deja constancia de la imposibilidad de realizar o de
+
+		  continuar la ejecución de la ACE.
+(
+RS_00012-2026-SUNAT-29.01.2026
+)
+
+
+3. Acta de hallazgo:
+
+
+		  Al documento mediante el cual el funcionario aduanero deja constancia
+
+		  de las incidencias detectadas, presuntamente vinculadas al tráfico
+
+		  ilícito de mercancías (anexo I).
+(
+RS_00012-2026-SUNAT-29.01.2026
+)
+
+
+4. Acta de inspección:
+
+
+		  Al documento mediante el cual el funcionario aduanero deja constancia
+
+		  de la realización de la inspección de la mercancía o medio de
+
+		  transporte y describe los hechos ocurridos (anexo V).
+
+
+5. Acta de retención de
+
+		  dinero en efectivo y/o IFN:
+ Al documento mediante el
+
+		  cual se deja constancia de la intervención efectuada y de la retención
+
+		  del dinero en efectivo y/o de los instrumentos financieros al
+
+		  portador, en aplicación de la Sexta Disposición Complementaria,
+
+		  Transitoria y Final de la Ley N.º 28306.
+
+
+6. Apertura y cierre de
+
+		  contenedores:
+ A la inspección mediante la cual el
+
+		  funcionario aduanero retira los precintos de un contenedor y verifica
+
+		  visualmente si existen bultos ajenos a la mercancía declarada; de no
+
+		  encontrar incidencia, dispone su cierre y coloca el precinto aduanero.
+
+
+7. CAF:
+
+
+		  Al centro de atención en frontera, centro binacional de atención en
+
+		  frontera, centro de control integrado en fronteras o puesto de control
+
+		  fronterizo.
+
+
+8. Clave de acceso:
+
+
+		  A la contraseña que permite al represente legal o persona autorizada
+
+		  acceder al sistema informático de la SUNAT para gestionar, por medio
+
+		  de los formularios electrónicos disponibles en el portal de la SUNAT,
+
+		  todas las operaciones necesarias previstas en este procedimiento.
+
+
+9. Clave SOL:
+
+
+		  Al texto conformado por números y letras, de conocimiento exclusivo
+
+		  del operador de comercio exterior u operador interviniente, que
+
+		  asociado al código de usuario otorga privacidad en el acceso a SUNAT
+
+		  Operaciones en Línea.
+
+
+10. Código de usuario
+:
+
+		  Al texto conformado por números y letras, que permite identificar al
+
+		  operador de comercio exterior u operador interviniente que ingresa a
+
+		  SUNAT Operaciones en Línea.
+
+
+11. Constancia de control
+
+		  de mercancía nacionalizada (CCMN):
+ Al documento
+
+		  emitido por el sistema informático de la SUNAT, que da constancia del
+
+		  control de la mercancía nacionalizada.
+
+
+12. Declaración:
+
+
+		  A la declaración aduanera de mercancías (DAM) o declaración
+
+		  simplificada.
+
+
+13. Descarga provisional de
+
+		  mercancía nacionalizada (DPMN)
+: Al registro
+
+		  electrónico efectuado por la empresa de transporte en el cual se
+
+		  detalla la cantidad de mercancías nacionalizadas a descargar.
+
+
+14. Equipaje:
+
+
+		  A los bienes nuevos o usados, que un pasajero pueda razonablemente
+
+		  necesitar, siempre que se advierta que son para su uso o consumo, de
+
+		  acuerdo con el propósito y duración del viaje y que por su cantidad,
+
+		  naturaleza o variedad se presuma que no están destinados al comercio o
+
+		  industria.
+1
+5.
+
+		  Equipos móviles de rayos X:
+ A los equipos de
+
+		  inspección no intrusiva que pueden ser trasladados por sus propios
+
+		  medios y que permiten escanear de manera individualizada a las
+
+		  mercancías, bultos y equipajes.
+
+
+16. Indicios
+:
+
+		  A las inconsistencias encontradas en la inspección, que permite
+
+		  presumir o inferir la existencia de incumplimiento de las formalidades
+
+		  aduaneras, delitos aduaneros, tráfico ilícito de mercancías y otras
+
+		  que contengan regulaciones de control aduanero.
+
+
+17. Inspección
+:
+
+		  A la acción de control que consiste en la revisión física de las
+
+		  mercancías, equipaje, personas y medios de transporte; así como la
+
+		  inspección no intrusiva y la apertura y cierre de contenedores, entre
+
+		  otros. La inspección de la mercancía se puede realizar antes, durante
+
+		  y después del despacho aduanero.
+
+
+		  18. Instrumentos financieros negociables emitidos al portador - IFN
+:
+
+		  Al cheque de viajero, cheque al portador, pagaré al portador, entre
+
+		  otros, que se transfieran con la entrega; bonos, certificados
+
+		  bancarios en moneda extranjera; instrumentos incompletos firmados o no
+
+		  en los cuales se consigna el monto, pero se omite el nombre del
+
+		  beneficiario.
+
+
+19. Revisión externa:
+
+
+		  A la acción de control que consiste en verificar la marca, modelo y
+
+		  placa de la unidad de transporte; el estado de conservación exterior
+
+		  de los bultos, marcas, dispositivos o medidas de seguridad impuestas
+
+		  en la unidad de carga en caso de carga suelta o la situación del
+
+		  precinto de origen o aduanero, cuando corresponda.
+
+
+20. TIM:
+
+
+		  Al tráfico ilícito de mercancías.
+
+
+21. UIF-Perú
+:
+
+		  A la Unidad de Inteligencia Financiera del Perú incorporada a la
+
+		  Superintendencia de Banca, Seguros y Administradoras Privadas de
+
+		  Fondos de Pensiones”.
+
+
+
+
+
+V.
+
+ BASE LEGAL
+
+
+
+
+-
+
+		  Ley General de Aduanas, Decreto Legislativo N° 1053, publicado el
+
+		  27.6.2008, y modificatorias.
+
+
+- Ley de los Delitos Aduaneros, Ley N°
+
+		  28008, publicada el 19.6.2003, y modificatorias.
+
+
+- Ley que crea la Unidad de Inteligencia
+
+		  Financiera - PERÚ, Ley N° 27693, publicada el 12.4.2002, y
+
+		  modificatorias.
+
+
+- Reglamento de la Ley General de Aduanas,
+
+		  aprobado por Decreto Supremo N° 010-2009-EF, publicado el 16.1.2009, y
+
+		  modificatorias.
+
+
+- Reglamento de la Ley de los Delitos
+
+		  Aduaneros, aprobado por Decreto Supremo N° 121-2003-EF, publicado el
+
+		  27.8.2003, y modificatorias.
+
+
+-
+
+
+Tabla de Sanciones aplicables a las
+
+		  infracciones previstas en la Ley General de Aduanas, aprobada por
+
+		  Decreto Supremo N° 418-2019-EF, publicado el 31.12.2019, y
+
+		  modificatoria.
+
+
+(RS_0091-2022-SUNAT-08.07.2022)
+
+
+- Reglamento de la
+
+
+o
+bligación
+
+		  de
+d
+eclarar
+
+		  el
+i
+ngreso
+
+		  o
+s
+alida
+
+		  de dinero en
+e
+fectivo
+
+		  y/o
+i
+nstrumentos
+
+
+f
+inancieros
+
+
+n
+egociables
+
+
+e
+mitidos
+
+		  al
+p
+ortador,
+
+		  aprobado por Decreto Supremo N° 195-2013-EF, publicado el 1.8.2013.
+
+
+- Reglamento del
+
+
+r
+égimen
+
+
+a
+duanero
+
+
+e
+special
+
+		  de
+e
+quipaje
+
+		  y
+m
+enaje
+
+		  de
+c
+asa,
+
+		  aprobado por Decreto Supremo N° 182-2013-EF, publicado el 25.7.2013, y
+
+		  modificatorias.
+
+
+- Disponen que las Fuerzas Armadas presten
+
+		  apoyo a ADUANAS en operativos que realice contra el contrabando,
+
+		  aprobado por Decreto Supremo N° 024-DE/SG, publicado el 10.5.2001.
+
+
+- Formato de “Declaración jurada de dinero
+
+		  ingreso - salida”, aprobado por Resolución de Superintendencia
+
+		  Nacional Adjunta de Aduanas N° 206-2013/SUNAT/300000, publicada el
+
+		  24.8.2013.
+
+
+		  - Formato de “Declaración Jurada de Equipaje” en inglés y en
+
+		  castellano, aprobado por Resolución de Intendencia Nacional N°
+
+		  03-2017/SUNAT/5F0000, publicada el 4.3.2017.
+
+
+-
+
+
+Formatos electrónicos "Declaración jurada
+
+		  de equipaje", "Declaración de salida temporal", "Declaración de
+
+		  ingreso temporal", "Comprobante de custodia", "Declaración jurada de
+
+		  dinero y/o instrumentos financieros negociables - Ingreso" y
+
+		  "Declaración jurada de dinero y/o instrumentos financieros negociables
+
+		  - Salida", aprobados con Resolución de Superintendencia N°
+
+		  000064-2022/SUNAT, publicada el 14.4.2022.
+
+
+(RS_0091-2022-SUNAT-08.07.2022)
+
+
+VI.
+
+			DISPOSICIONES GENERALES
+
+
+
+1. La ACE se efectúa para
+
+		  verificar el cumplimiento de las obligaciones y para prevenir los
+
+		  delitos aduaneros o infracciones administrativas.
+(RS_0091-2022-SUNAT-08.07.2022)
+
+
+2.
+
+
+La ACE se efectúa conforme a lo
+
+		  dispuesto en el presente procedimiento, con excepción de la que se
+
+		  realice con motivo de la fiscalización aduanera, que se encuentra
+
+		  regulada en los procedimientos específicos “Fiscalización aduanera”
+
+		  CONTROL-PE.01.09 y “Fiscalización aduanera a operadores de comercio
+
+		  exterior y operadores intervinientes” CONTROL-PE.01.10.
+(
+RS_00012-2026-SUNAT-29.01.2026
+)
+
+
+		  3. La ACE se efectúa sobre las personas, equipajes, mercancías o
+
+		  medios de transporte en cualquier parte del territorio aduanero, según
+
+		  corresponda.
+(RS_0091-2022-SUNAT-08.07.2022)
+
+
+El control del dinero o IFN se realiza en los aeropuertos
+
+		  internacionales, puertos o CAF, al ingreso o salida del país.
+
+
+
+
+		  (
+RS_00012-2026-SUNAT-29.01.2026
+)
+
+
+4. La ACE se efectúa en
+
+		  presencia del intervenido, que puede ser el conductor del vehículo, el
+
+		  responsable de los bienes o mercancías, el operador de comercio
+
+		  exterior o el operador interviniente, según corresponda.
+(RS_0091-2022-SUNAT-08.07.2022)
+
+
+5. La ACE se efectúa con el
+
+		  apoyo de los equipos especializados, equipos tecnológicos,
+
+		  herramientas u otros medios disponibles.
+(RS_0091-2022-SUNAT-08.07.2022)
+
+
+6. El operador de comercio
+
+		  exterior u operador interviniente está obligado a facilitar a la
+
+		  autoridad aduanera las labores relacionadas con la ACE y a prestar los
+
+		  elementos logísticos y el apoyo necesario.
+(RS_0091-2022-SUNAT-08.07.2022)
+
+
+7. El funcionario aduanero
+
+		  puede solicitar a otras autoridades apoyo para la ejecución de la ACE.
+(RS_0091-2022-SUNAT-08.07.2022)
+
+
+		  8.El funcionario aduanero numera o registra en el sistema informático
+
+		  las actas de inspección, de hallazgo, de constatación de hechos y de
+
+		  retención de dinero en efectivo y/o IFN, que se elaboran como
+
+		  resultado de la ejecución de una ACE.
+
+
+
+
+		  (
+RS_00012-2026-SUNAT-29.01.2026
+)
+Las medidas
+
+		  preventivas de inmovilización e incautación se regulan conforme al
+
+		  procedimiento específico “inmovilización-incautación y determinación
+
+		  legal de mercancías” CONTROL-PE.00.01.
+9. El vehículo de
+
+		  transporte de carga con mercancía nacionalizada o en tránsito, el
+
+		  vehículo de transporte interprovincial e internacional de pasajeros y
+
+		  el vehículo particular que se presentan a un puesto de control
+
+		  intermedio son sometidos a control aduanero.
+(
+RS_00012-2026-SUNAT-29.01.2026
+)
+
+
+10. El sistema informático
+
+		  determina el tipo de control al que es sometido un vehículo, el que
+
+		  puede ser
+:
+(RS_0091-2022-SUNAT-08.07.2022)
+
+
+a)
+
+		  Control documentario: consiste en la revisión de documentos que
+
+		  sustentan el traslado de la mercancía.
+
+
+El funcionario
+
+		  aduanero determina, en base a gestión de riesgo operativo, si
+
+		  adicionalmente corresponde la revisión externa del vehículo sujeto a
+
+		  este canal de control.
+
+
+b) Control físico: comprende
+
+		  el control documentario, así como la inspección de la mercancía y del
+
+		  medio de transporte.
+
+
+El control de los vehículos
+
+		  particulares que se presenten en el puesto de control intermedio se
+
+		  efectúa conforme a los numerales 5 y 6 del literal B.1 de la sección
+
+		  VII.
+
+
+		  11.El control de la mercancía nacionalizada, que se traslada desde la
+
+		  circunscripción de la Intendencia de Aduana de Tacna en buses de
+
+		  transporte interprovincial o por la vía aérea, se efectúa en el
+
+		  terminal terrestre o aeropuerto, según corresponda.
+(
+RS_00012-2026-SUNAT-29.01.2026
+)
+
+
+El trámite de control documentario es realizado en las oficinas de
+
+		  la SUNAT ubicadas en los referidos recintos, para lo cual el
+
+		  propietario o responsable de la mercancía indica el número de la
+
+		  declaración.
+Efectuado el control, el funcionario aduanero
+
+		  registra la descarga de la mercancía en el sistema informático y emite
+
+		  la respectiva CCMN.
+
+
+12. Antes del arribo del medio
+
+		  de transporte al puesto de control intermedio donde se efectúa la
+
+		  descarga, la empresa de transporte terrestre nacional o internacional
+
+		  que transporte mercancías nacionalizadas registra la DPMN en el portal
+
+		  de la SUNAT. Además:
+(RS_0091-2022-SUNAT-08.07.2022)
+
+
+a) Ingresa la siguiente
+
+		  información:
+
+
+1.
+
+		  Declaración.
+
+
+2. Datos de la empresa de transporte.
+
+
+3. Datos del conductor.
+
+
+4. Comprobantes de pago o guía de remisión
+
+		  remitente o carta porte, según corresponda.
+
+
+5. Datos del
+
+		  destinatario.
+
+
+b) Adjunta los siguientes
+
+		  documentos digitalizados, de corresponder:
+
+
+1.
+
+		  Guía de remisión remitente.
+
+
+2. Comprobantes de pago.
+
+
+3. Carta porte.
+
+
+4. Otros documentos que sustenten el
+
+		  traslado de la mercancía.
+
+
+Cuando los documentos han sido
+
+		  transmitidos electrónicamente a la SUNAT no se requiere adjuntarlos.
+
+
+Para ingresar la DPMN en el
+
+		  portal de la SUNAT (www.sunat.gob.pe), la empresa de transporte
+
+		  nacional debe contar con RUC y clave SOL vigente, y la empresa de
+
+		  transporte internacional, con código de usuario y clave de acceso
+
+		  vigente.
+(RS_0091-2022-SUNAT-08.07.2022)
+
+
+13.
+
+		  La ACE se concluye con el registro del acta de inspección en el
+
+		  sistema informático.
+(
+RS_00012-2026-SUNAT-29.01.2026
+)
+
+
+VII.
+
+			DESCRIPCIÓN
+
+
+
+A.
+
+
+ACE SOBRE MERCANC
+ÍAS
+
+
+(RS_0091-2022-SUNAT-08.07.2022)
+
+
+A.1 Operativo especial
+
+
+1.
+
+		  El operativo especial es el conjunto de acciones planificadas,
+
+		  organizadas, coordinadas, reservadas y seguras que se concretan en la
+
+		  realización de una intervención en un lugar y tiempo determinado, con
+
+		  la finalidad de prevenir y reprimir los delitos e infracciones
+
+		  aduaneras.
+
+
+		  Cuando se realice en locales cerrados, se debe contar con una
+
+		  autorización de allanamiento de inmuebles y descerraje, tramitada
+
+		  conforme al Reglamento de la Ley de los Delitos Aduaneros.
+
+
+		  Para su ejecución se puede solicitar la participación de otras
+
+		  entidades públicas.
+
+
+2.
+El funcionario
+
+		  aduanero se acredita ante el intervenido con una carta de presentación
+
+		  y con su documento de identificación institucional, siempre que la
+
+		  acción se realice en zona
+
+
+secundaria.
+
+
+		  (
+RS_00012-2026-SUNAT-29.01.2026
+)
+
+
+Se exceptúa de la presentación de la carta
+
+		  cuando:
+a)
+
+		  No se cuente con la información de la identificación del presunto
+
+		  infractor.
+
+
+		  b) Se cuente con orden de descerraje.
+
+
+c) La participación de la SUNAT es a
+
+		  requerimiento del Ministerio Público o de la Policía Nacional del
+
+		  Perú.
+3.
+Luego inspecciona la
+
+		  mercancía, para tal efecto:
+(
+RS_00012-2026-SUNAT-29.01.2026
+)
+
+
+a) Verifica la cantidad, descripción,
+
+		  estado, naturaleza, calidad u otras características y contrasta esta
+
+		  información con la consignada en la documentación que sustente su
+
+		  procedencia.
+
+
+b) Filma, efectúa tomas fotográficas o
+
+		  utiliza cualquier otro medio audiovisual para individualizar las
+
+		  mercancías y los contenedores o similares, o para registrar alguna
+
+		  situación que considere relevante, lo que se almacena en el sistema
+
+		  informático de la SUNAT.
+
+
+c) Realiza cualquier otra acción que estime
+
+		  necesaria.
+
+
+		  d) Adopta las acciones que considere necesarias en resguardo de la
+
+		  mercancía.
+
+
+4.
+
+
+Culminada la inspección, el
+
+		  funcionario aduanero formula un acta de inspección (anexo V), siempre
+
+		  que esta haya sido realizada en zona primaria.
+
+
+
+(RS_000131-2023-SUNAT-23.06.2023)
+
+
+5.
+
+		  Si determina alguna incidencia, el funcionario aduanero formula el
+
+		  acta de inmovilización-incautación conforme al procedimiento
+
+		  específico “Inmovilización, Incautación y Determinación Legal de
+
+		  Mercancías”, CONTROL-PE.00.01. Si la incidencia está referida al TIM
+
+		  aplica el literal D de esta sección.
+
+
+A.2
+
+
+		  Inspección en los almacenes aduaneros, puertos, aeropuertos,
+
+		  terminales terrestres internacionales y CAF
+
+
+
+
+
+1.
+
+		  El funcionario aduanero inspecciona las mercancías que han sido
+
+		  programadas para una
+ACE
+ conforme al
+
+		  literal A de la sección VII del procedimiento general “Programación y
+
+		  comunicación de acciones de control extraordinario” CONTROL-PG.01.
+
+		  Asimismo, si durante el ejercicio de sus funciones considera necesario
+
+		  realizar en forma inmediata una inspección, solicita el traslado de la
+
+		  mercancía a la zona de control aduanero y procede conforme a lo
+
+		  dispuesto en los numerales 3, 4 y 5
+
+
+2.
+
+		  El funcionario aduanero comunica electrónicamente la fecha y hora de
+
+		  inicio de la inspección al:
+
+
+a)
+
+		  almacén aduanero o al concesionario o administrador de los puertos,
+
+		  aeropuertos o terminales terrestres internacionales para el traslado
+
+		  de la carga a la zona de control aduanero, y/o
+
+
+b)
+
+		  operador de comercio exterior para que presente la documentación
+
+		  pertinente.
+
+
+3.
+El
+
+		  funcionario aduanero realiza la inspección para tal efecto, según
+
+		  corresponda:
+(
+RS_00012-2026-SUNAT-29.01.2026
+)
+
+
+a) Verifica si
+
+		  los precintos de seguridad colocados en contenedores, furgones,
+
+		  cisternas o cualquier vehículo que se encuentre precintado, han sido
+
+		  manipulados o violentados o si los bultos están en mal estado.
+
+
+b) Constata la
+
+		  cantidad, valor, descripción, estado, naturaleza, calidad u otra
+
+		  característica de la mercancía y la confronta con la documentación
+
+		  presentada.
+
+
+c) Extrae
+
+		  muestras conforme al procedimiento específico “Reconocimiento Físico -
+
+		  Extracción y Análisis de Muestras” DESPA-PE.00.03.
+
+
+d) Cuando
+
+		  utiliza equipos no intrusivos móviles o portátiles y se tiene un
+
+		  resultado sospechoso, se efectúa la inspección física.
+
+
+e) Precinta los
+
+		  contenedores conforme el procedimiento específico “Uso y control de
+
+		  precintos aduaneros y otras medidas de seguridad de la carga”
+
+		  CONTROL-PE.00.08, cuando efectúa la apertura y cierre de contenedores.
+
+
+f) Filma,
+
+		  efectúa tomas fotográficas o utiliza cualquier otro medio audiovisual
+
+		  para individualizar las mercancías y los contenedores o similares, o
+
+		  para registrar alguna situación que considere relevante, lo que se
+
+		  almacena en el sistema informático de la SUNAT.
+
+
+g) Realiza
+
+		  cualquier otra acción que estime necesaria.
+
+
+
+4
+.
+Culminada
+
+		  la inspección, el funcionario aduanero elabora el acta de inspección
+
+		  (anexo V), entrega una copia al responsable de la carga, al
+
+		  intervenido y a las autoridades participantes, de corresponder, y la
+
+		  registra en el sistema informático de la SUNAT, con lo cual se da por
+
+		  concluida la ACE
+.
+
+
+
+
+		  (
+RS_00012-2026-SUNAT-29.01.2026
+)
+
+
+5.
+
+		  De presentarse alguna incidencia, el funcionario aduanero formula el
+
+		  acta de inmovilización-incautación, conforme al procedimiento
+
+		  específico “Inmovilización, Incautación y Determinación Legal de
+
+		  Mercancías”, CONTROL-PE.00.01. Si la incidencia está referida al TIM,
+
+		  aplica el literal D de esta sección.
+
+
+6.
+
+		  Excepcionalmente, cuando el funcionario aduanero detecte una
+
+		  infracción leve asociada a una DAM y no existan tributos, ni recargos
+
+		  dejados de pagar o garantizar, notifica en el acto al intervenido o al
+
+		  responsable de la mercancía para que proceda con la rectificación y
+
+		  pago de la multa en el plazo máximo de tres (3) días hábiles.
+
+
+
+
+(
+RS_00012-2026-SUNAT-29.01.2026
+)
+
+
+El
+
+		  funcionario aduanero, dentro del día hábil siguiente a la presentación
+
+		  de la rectificación, evalúa la solicitud y verifica el pago de la
+
+		  multa. De ser conforme, registra la procedencia en el sistema
+
+		  informático, dando por subsanada la infracción y emite el acta de
+
+		  inspección, con lo cual se da por concluida la ACE.
+(
+RS_00012-2026-SUNAT-29.01.2026
+)
+
+
+En
+
+		  caso de no haberse subsanado la infracción dentro del plazo otorgado,
+
+		  el funcionario aduanero emite el acta de inspección y el acta de
+
+		  inmovilización - incautación.
+(
+RS_00012-2026-SUNAT-29.01.2026
+)
+
+
+B.
+
+
+ACE
+
+		  SOBRE MEDIOS DE TRANSPORTE
+
+
+(RS_0091-2022-SUNAT-08.07.2022)
+
+
+B.1 De vehículos terrestres o
+
+		  ferroviarios
+
+
+1.
+
+		  El funcionario aduanero realiza las siguientes acciones, según
+
+		  corresponda
+
+
+a)
+
+		  Solicita la licencia de conducir, la tarjeta de propiedad y el
+
+		  manifiesto de pasajeros.
+
+
+b) Solicita el manifiesto de carga, la guía
+
+		  de remisión
+remitente
+,
+
+		  los comprobantes de pago,
+la CCMN,
+
+		  la DPMN
+ y otros documentos que se
+
+		  requieran por la naturaleza u origen de la mercancía.
+
+
+		  Cuando la SUNAT cuente con la información en su sistema informático,
+
+		  solo solicita el número del documento.
+
+
+
+(RS_0091-2022-SUNAT-08.07.2022)
+
+
+c) Consulta si el vehículo está habilitado
+
+		  para el transporte internacional de carga y pasajeros en el portal de
+
+		  la SUNAT
+(www.sunat.gob.pe)
+.
+
+
+
+
+(RS_0091-2022-SUNAT-08.07.2022)
+
+
+d)
+
+		  Inspecciona el vehículo y verifica que la carga, el equipaje o las
+
+		  encomiendas estén amparadas en la documentación presentada.
+
+
+e)
+
+		  Filma, efectúa tomas fotográficas o utiliza cualquier otro medio
+
+		  audiovisual para individualizar las mercancías y los contenedores o
+
+		  similares o para registrar alguna situación que considere relevante.
+
+
+f)
+
+		  Otras que estime necesarias.
+
+
+2.
+
+		  Para el control de vehículos de transporte de carga con mercancía
+
+		  nacionalizada en el puesto de control intermedio, el funcionario
+
+		  aduanero realiza, además de las acciones señaladas en el numeral 1, lo
+
+		  siguiente:
+
+
+a)
+
+		  Verifica que el vehículo:
+
+
+a.1
+
+		  Cuente con una DPMN en el sistema informático, cuando se presente en
+
+		  el primer puesto de control intermedio. Si la empresa de transporte no
+
+		  cuenta con una DPMN, la registra en el sistema informático, para lo
+
+		  cual proporciona la información y documentación consignada en el
+
+		  numeral 12 de la sección VI.
+
+
+a.2 Cuente con una CCMN asociada, cuando se
+
+		  presente en los siguientes puestos de control intermedio.
+
+
+b) Registra el inicio del
+
+		  control de paso en el sistema informático, para la asignación del tipo
+
+		  de control. El vehículo seleccionado a control físico debe ser ubicado
+
+		  en el lugar que se designe para su inspección.
+
+
+c)
+
+		  Cambia el tipo de control documentario a físico cuando verifique
+
+		  indicios de incumplimiento de las disposiciones tributario -
+
+		  aduaneras. Este cambio se registra en el sistema informático.
+
+
+d)
+
+		  Registra la descarga de mercancías nacionalizadas en el sistema
+
+		  informático cuando se trate del primer puesto de control intermedio.
+
+
+e)
+
+		  Emite la respectiva CCMN, la cual es remitida de forma automática por
+
+		  medios electrónicos a la empresa de transporte, importador, dueño o
+
+		  consignatario.
+
+
+f)
+
+		  Registra el resultado del control en el sistema informático.
+
+
+(RS_0091-2022-SUNAT-08.07.2022)
+
+
+3.
+
+
+Para el control del vehículo nacionalizado
+
+		  sin placa nacional que se traslada por sus propios medios en el puesto
+
+		  de control intermedio, el funcionario aduanero registra el control de
+
+		  paso en el sistema informático. Para tal efecto ingresa el número de
+
+		  la declaración para la asignación del tipo de control y procede según
+
+		  lo señalado en los numerales precedentes.
+
+
+
+(RS_0091-2022-SUNAT-08.07.2022)
+
+
+4.
+
+		  Para el control de vehículos d
+e
+
+		  transporte terrestre interprovincial e internacional de pasajeros
+
+
+		  en el puesto de control intermedio, el funcionario aduanero
+
+
+realiza
+,
+
+		  además de las acciones señaladas en el numeral 1,
+
+
+lo siguiente
+:
+
+
+a)
+
+		  Verifica que el vehículo que traslada mercancía nacionalizada cuente
+
+		  con una CCMN asociada en el sistema informático. De no contar con
+
+		  esta, registra la información del manifiesto de pasajeros en el
+
+		  sistema informático.
+
+
+b)
+
+		  Registra el inicio del control de paso en el sistema informático para
+
+		  la asignación del tipo de control.
+
+
+Cuando el vehículo seleccionado a control
+
+		  documentario traslada mercancía nacionalizada, solicita la
+
+		  documentación sustentatoria al responsable de la mercancía.
+
+
+En el caso de
+
+		  vehículo seleccionado a control físico, una vez que éste se ubique en
+
+		  el lugar designado para la inspección, dispone que se abran las
+
+		  bodegas, a fin de que los pasajeros retiren sus equipajes e ingresen
+
+		  al módulo de revisión.
+
+
+c) Cambia el tipo de control documentario a
+
+		  físico cuando verifique indicios de incumplimiento de las
+
+		  disposiciones tributario - aduaneras. Este cambio se registra en el
+
+		  sistema informático.
+
+
+d) Registra la descarga de
+
+		  mercancías nacionalizadas en el sistema informático, de corresponder,
+
+		  y emite la respectiva CCMN, la cual es remitida de forma automática
+
+		  por medios electrónicos al propietario o responsable de la mercancía.
+
+
+e)
+
+		  Registra el resultado del control en el sistema informático.
+
+
+5.
+
+		  Para el control del vehículo particular de placa nacional en el puesto
+
+		  de control intermedio, el funcionario aduanero, además de las acciones
+
+		  señaladas en el numeral 1:
+
+
+a)
+
+		  Efectúa la revisión externa del vehículo.
+
+
+De ser conforme, autoriza la continuación
+
+		  del viaje.
+
+
+b)
+
+		  Dispone la inspección del vehículo, cuando encuentre indicios de
+
+		  incumplimiento de las disposiciones tributario - aduaneras. En este
+
+		  supuesto:
+
+
+b.1
+
+		  Registra el inicio del control de paso en el sistema informático, el
+
+		  cual asigna obligatoriamente el tipo de control físico.
+
+
+b.2 Realiza el
+
+		  control físico.
+
+
+b.3 Cuando constata que se traslada
+
+		  mercancía nacionalizada, verifica en el sistema informático si el
+
+		  vehículo cuenta con una CCMN asociada a dicha mercancía.
+
+
+De no existir una
+
+		  CCMN, registra la descarga de la mercancía en el sistema informático y
+
+		  emite la respectiva CCMN, la cual es remitida de forma automática por
+
+		  medios electrónicos al propietario o responsable de la mercancía.
+
+
+b.4 Registra el resultado del control en el
+
+		  sistema informático.
+
+
+6.
+
+		  Para el control, en el puesto de control intermedio, del vehículo
+
+		  particular de placa extranjera que ingresa al amparo de convenios o
+
+		  normas de internamiento temporal de vehículos para fines turísticos,
+
+		  el funcionario aduanero realiza, además de las acciones señaladas en
+
+		  el numeral 1, lo siguiente:
+
+
+a)
+
+		  Solicita la presentación de los formatos correspondientes según
+
+		  convenio o norma que sustente su ingreso temporal, en formato físico o
+
+		  medio electrónico.
+
+
+b) Efectúa la revisión externa del vehículo.
+
+
+De ser conforme, autoriza la
+
+		  continuación del viaje.
+
+
+c)
+
+		  Dispone la inspección del vehículo, cuando encuentre indicios de
+
+		  incumplimiento de las disposiciones tributario - aduaneras. En este
+
+		  supuesto:
+
+
+c.1
+
+		  Registra el inicio del control de paso en el sistema informático, el
+
+		  cual asigna obligatoriamente el tipo de control físico.
+
+
+c.2 Realiza el
+
+		  control físico y verifica que la documentación presentada concuerde
+
+		  con la información registrada y que el plazo otorgado esté vigente.
+
+
+c.3 De
+
+		  constatar que se traslada mercancía nacionalizada, verifica en el
+
+		  sistema informático si el vehículo cuenta con una CCMN asociada a
+
+		  dicha mercancía.
+
+
+De no existir una CCMN, registra la
+
+		  descarga de la mercancía en el sistema informático y emite la
+
+		  respectiva CCMN, la cual es remitida de forma automática por medios
+
+		  electrónicos al propietario o responsable de la mercancía.
+
+
+c.4 Registra el resultado del control en el
+
+		  sistema informático.
+
+
+7.
+
+		  Para el control, en los puestos de control intermedio de la
+
+		  Intendencia de Aduana de Tacna, de vehículos de transporte terrestre
+
+		  interprovincial e internacional de pasajeros y de vehículos
+
+		  particulares de placa nacional que trasladan mercancía proveniente de
+
+		  la Zona Comercial de Tacna, el funcionario aduanero, además de lo
+
+		  señalado en los numerales 4 y 5, respectivamente, realiza lo
+
+		  siguiente:
+
+
+a)
+
+		  Solicita la declaración jurada de equipaje de ZOFRATACNA y sus
+
+		  comprobantes de pago.
+
+
+b)
+
+		  Cuando el vehículo sea seleccionado a control físico, verifica que los
+
+		  bienes lleven un distintivo que permita identificar que su
+
+		  comercialización es exclusiva en la Zona Comercial de Tacna y que son
+
+		  solo para el uso o consumo del turista que los adquiere.
+
+
+8.
+
+		  Para el control de vehículos y unidades de carga que se encuentran
+
+		  amparadas en una declaración de transito aduanero internacional en el
+
+		  puesto de control intermedio, el funcionario aduanero realiza, además
+
+		  de las acciones señaladas en el numeral 1, lo siguiente:
+
+
+a)
+
+		  Efectúa la revisión externa.
+
+
+b)
+
+		  Registra el control de paso en el sistema informático para la
+
+		  continuación del tránsito. El sistema informático comunica el control
+
+		  efectuado al transportista terrestre internacional y a las aduanas
+
+		  intervinientes mediante el aviso de paso por un puesto de control
+
+		  intermedio.
+
+
+c) De encontrarse indicios de manipulación o
+
+		  vulneración de los precintos aduaneros, programa una ACE:
+
+
+c.1
+
+		  De ser conforme, coloca nuevos precintos aduaneros y finaliza el
+
+		  control de paso en el sistema informático para la continuación del
+
+		  tránsito.
+
+
+		  c.2 De presentarse alguna incidencia, procede conforme a lo señalado
+
+		  en el numeral 12.
+
+
+(RS_0091-2022-SUNAT-08.07.2022)
+
+
+9.
+
+		  Para el control de otros vehículos en el puesto de control intermedio,
+
+		  el funcionario aduanero, además de las acciones señaladas en el
+
+		  numeral 1, debe consignar el paso de los vehículos en el
+
+
+“Registro de vehículos de transporte de
+
+		  carga con mercancía de otros regímenes aduaneros, vehículos sin carga
+
+		  o que transporten pasajeros locales en el PCI” (anexo IV)
+,
+
+		  el mismo que también se puede registrar en otros medios tecnológicos
+
+		  como las cámaras de reconocimiento óptico de caracteres (OCR).
+
+
+10. Para el control de
+
+		  vehículos de transporte terrestre de carga con mercancías
+
+		  nacionalizadas cuyo punto de llegada sea el CAF y el destino de la
+
+		  mercancía sea fuera de la jurisdicción de la aduana de frontera, el
+
+		  funcionario aduanero registra la descarga en el sistema informático y
+
+		  emite la respectiva CCMN, la cual es remitida de forma automática por
+
+		  medios electrónicos al importador, dueño o consignatario.
+
+
+11. Para el control en el
+
+		  CEBAF - Desaguadero de vehículos de transporte terrestre de carga con
+
+		  mercancías nacionalizadas en un depósito aduanero de la jurisdicción
+
+		  de la Intendencia de Aduana de Puno, se realiza lo siguiente:
+
+
+a) Una vez nacionalizada la
+
+		  mercancía, el transportista se presenta en el CEBAF - Desaguadero y
+
+		  solicita la descarga, sin que sea necesaria la presentación del
+
+		  vehículo.
+
+
+b) El funcionario aduanero
+
+		  realiza los pasos señalados en el numeral 2.
+
+
+c) De asignarse el tipo de
+
+		  control físico, el funcionario aduanero dispone el ingreso del
+
+		  vehículo a las instalaciones del CEBAF-Desaguadero para su control.
+
+
+12.
+
+		  De
+encontrarse
+
+
+		  alguna incidencia
+en la ACE
+,
+
+		  el funcionario aduanero formula el acta de inmovilización-incautación,
+
+		  conforme al procedimiento específico “Inmovilización-incautación y
+
+		  determinación legal de mercancías” CONTROL-PE.00.01. Si la incidencia
+
+		  está referida al TIM, aplica el literal D.
+
+
+13.
+
+
+Cuando la ACE sea planificada y programada,
+
+		  el funcionario aduanero elabora el acta de inspección (anexo V),
+
+		  entrega una copia al intervenido y a las autoridades participantes y
+
+		  la registra en el sistema informático de la SUNAT.
+
+
+(RS_000131-2023-SUNAT-23.06.2023)
+
+
+B.2 De naves y aeronaves
+
+
+1.
+
+		  El funcionario aduanero se acredita ante el capitán o responsable de
+
+		  la nave o aeronave y comunica el inicio y los alcances de la
+
+
+ACE
+.
+P
+ara
+
+		  tal efecto:
+
+
+(RS_0091-2022-SUNAT-08.07.2022)
+
+
+a)
+
+		  Solicita los planos de la nave o aeronave.
+
+
+b)
+
+		  Solicita el manifiesto de carga, los documentos de transporte y otros
+
+		  de corresponder.
+
+
+c)
+
+		  Coordina la apertura de compartimentos.
+
+
+d)
+
+		  Inspecciona la nave o aeronave,
+
+
+e)
+
+		  Verifica la carga, el equipaje y las encomiendas, confrontando la
+
+		  información obtenida con la documentación presentada, cuando
+
+		  corresponda.
+
+
+f)
+
+		  Cumple con las medidas de seguridad, conforme a las disposiciones
+
+		  legales vigentes.
+
+
+2.
+
+		  Tratándose del control subacuático, el supervisor de buceo adopta y
+
+		  comunica las medidas de seguridad al responsable de la nave para su
+
+		  implementación y cumplimiento antes del inicio y hasta la culminación
+
+		  de la inspección, acorde con la normativa vigente, tales como:
+
+
+a)
+
+		  La inmovilización, rotulado y bloqueo de seguridad de la sala de
+
+		  máquinas de la nave.
+
+
+b)
+
+		  El izado de la bandera Alfa a fin de alertar que un buzo se encuentra
+
+		  sumergido y deben mantenerse alejado de la nave.
+
+
+c)
+
+		  El retiro del etiquetado de bloqueo de seguridad de la sala de
+
+		  máquinas y arrío de la bandera Alfa, cuando los buzos estén a bordo de
+
+		  la plataforma de buceo.
+
+
+3.
+
+
+Culminada la inspección, el funcionario
+
+		  aduanero elabora el acta de inspección (anexo V), entrega una copia al
+
+		  intervenido, al responsable de la nave o aeronave y a las autoridades
+
+		  participantes, según corresponda; y la registra en el sistema
+
+		  informático de la SUNAT.
+
+
+
+(RS_000131-2023-SUNAT-23.06.2023)
+
+
+4.
+
+		  De presentarse alguna incidencia, el funcionario aduanero formula el
+
+		  acta de inmovilización-incautación, conforme al procedimiento
+
+		  específico “Inmovilización, Incautación y Determinación Legal de
+
+		  Mercancías”, CONTROL-PE.00.01. Si la incidencia está referida al TIM,
+
+		  aplica el literal D de esta sección.
+
+
+C.
+ACE
+
+		  SOBRE PERSONAS, EQUIPAJES Y DINERO EN EFECTIVO O IFN
+
+
+
+1.
+
+		  El funcionario aduanero solicita la identificación de la persona
+
+		  sujeta a control, la inspecciona y revisa su equipaje; de estimarlo
+
+		  pertinente, requiere el apoyo a la Policía Nacional del Perú.
+
+
+Si
+
+		  considera que debe efectuar una inspección no invasiva de personas,
+
+		  solicita el consentimiento del intervenido a través del formato de
+
+		  “Autorización de Examen No Invasivo” (Anexo III del presente
+
+		  procedimiento) y coordina con el funcionario aduanero encargado del
+
+		  escáner para realizar la inspección.
+
+
+Si
+
+		  el intervenido no presta su consentimiento, el funcionario aduanero
+
+		  efectúa una inspección física o lo pone a disposición de la autoridad
+
+		  pertinente.
+
+
+2.
+
+		  De presentarse alguna incidencia, el funcionario aduanero formula el
+
+		  acta de inmovilización-incautación, conforme al procedimiento
+
+		  específico “Inmovilización, Incautación y Determinación Legal de
+
+		  Mercancías”, CONTROL-PE.00.01. Si la incidencia está referida al TIM
+
+		  se aplica el literal D de esta sección.
+
+
+3.
+Cuando,
+
+		  de acuerdo con la normativa vigente, se detecta incidencias vinculadas
+
+		  a dinero en efectivo o IFN, el funcionario aduanero convoca al
+
+		  representante del Ministerio Público y en presencia de este y del
+
+		  intervenido realiza lo siguiente:
+(
+RS_00012-2026-SUNAT-29.01.2026
+)
+
+
+a) Cuenta, fotocopia o digitaliza el dinero
+
+		  en efectivo y/o IFN de modo legible y dispone su retención temporal.
+
+
+
+
+b) Elabora el Acta de retención de dinero
+
+		  en efectivo y/o IFN (anexo III), y adjunta las fotocopias o
+
+		  impresiones del dinero o IFN retenido.
+
+
+c) Coloca el dinero en efectivo o IFN
+
+		  retenido en un sobre y lo entrega debidamente lacrado al funcionario
+
+		  del Banco de la Nación, quien a su vez entrega una constancia de
+
+		  recepción, cuya información se consigna en el Acta de retención de
+
+		  dinero en efectivo y/o IFN.
+
+
+4.
+
+		  Al término de la inspección, el funcionario aduanero remite una
+
+		  comunicación electrónica a su jefe inmediato y emite informe
+
+		  acompañado del Acta de retención de dinero en efectivo y/o IFN y de
+
+		  los demás documentos, para su envío inmediato a la Unidad de
+
+		  Inteligencia Financiera (UIF). Un ejemplar del referido informe es
+
+		  remitido a la unidad orgánica de la SUNAT encargada de evaluar la
+
+		  aplicación de las sanciones que correspondan.
+
+
+5.
+
+		  Cuando el representante del Ministerio Público dispone la incautación
+
+		  del dinero en efectivo o IFN, no procede su retención temporal por
+
+		  parte de la SUNAT; la que informa a la UIF de lo actuado, para fines
+
+		  estadísticos. En estos casos, el funcionario aduanero elabora el Acta
+
+		  de Hallazgo (Anexo I del presente procedimiento).
+
+
+6.
+
+
+El funcionario aduanero registra en el
+
+		  sistema informático de la SUNAT, en la opción “Control de Pasajero”,
+
+		  la acción realizada.
+
+(RS_000131-2023-SUNAT-23.06.2023)
+
+
+D. CONTROL ADUANERO DE TIM
+
+
+1.Si en el desarrollo de la ACE el
+
+		  funcionario aduanero encuentra indicios que hagan presumir que las
+
+		  mercancías, personas o medio de transporte están vinculados al TIM,
+
+		  comunica inmediatamente el hecho a las autoridades administrativas
+
+		  competentes, tales como: Ministerio de Cultura; Servicio Nacional
+
+		  Forestal y de Fauna Silvestre (SERFOR); Superintendencia Nacional de
+
+		  Control de Servicios de Seguridad, Armas, Municiones y Explosivos de
+
+		  Uso Civil (SUCAMEC); Oficina Central de Lucha contra la Falsificación
+
+		  de Numerario (OCN); Instituto Peruano de Energía Nuclear (IPEN); etc.
+
+		  De no presentarse las mencionadas entidades, comunica a la Policía
+
+		  Nacional del Perú.
+(
+RS_00012-2026-SUNAT-29.01.2026
+)
+
+
+En el caso de drogas, el funcionario
+
+		  aduanero comunica inmediatamente al representante del Ministerio
+
+		  Público y a la policía especializada en tráfico ilícito de drogas
+.
+(
+RS_00012-2026-SUNAT-29.01.2026
+)
+
+
+2.
+
+		  La comunicación a las autoridades administrativas competentes debe
+
+		  realizarse por escrito, vía electrónica, por teléfono o en forma
+
+		  personal, dejando constancia de dicha comunicación en el Acta de
+
+		  Hallazgo (Anexo I del presente procedimiento).
+
+
+El
+
+		  jefe de la División de Control Operativo de la intendencia de aduana
+
+		  correspondiente o el jefe de la División de Acciones Inmediatas y
+
+		  Masivas es responsable de mantener un directorio actualizado de las
+
+		  diferentes autoridades, el cual debe estar a disposición de todos los
+
+		  funcionarios aduaneros.
+
+
+3.
+
+		  El funcionario aduanero implementa las medidas de seguridad necesarias
+
+		  para mantener las condiciones en las que efectuó el hallazgo hasta la
+
+		  llegada del representante del Ministerio Público o de la autoridad
+
+		  administrativa competente. De ser necesario solicita el apoyo de la
+
+		  Policía Nacional de Perú.
+
+
+4.
+
+
+El funcionario aduanero elabora el Acta de
+
+		  Hallazgo (anexo I del presente procedimiento) y la registra en la
+
+		  opción “Acta de Hallazgo” del sistema informático de la SUNAT.
+
+
+El
+
+		  documento emitido por la autoridad competente se registra en la opción
+
+		  “Informe de Hallazgo” del sistema informático de la SUNAT.
+
+
+
+(RS_000131-2023-SUNAT-23.06.2023)
+
+
+5.
+
+		  Culminada la intervención, el funcionario aduanero emite un informe de
+
+		  los hechos y remite todos los documentos relacionados con la acción de
+
+		  control a su jefe inmediato.
+
+
+VIII. VIGENCIA
+
+
+El presente procedimiento
+
+		  entrará en vigencia a partir del 1.1.2019.
+
+
+I
+X. ANEXOS
+
+
+Anexo I :
+
+		  Acta de hallazgo
+
+
+
+		  (
+RS_00012-2026-SUNAT-29.01.2026
+)
+
+
+Anexo II :
+
+		  Autorización de examen no invasivo
+
+
+(RS_000131-2023-SUNAT-23.06.2023)
+
+
+
+(RS_0091-2022-SUNAT-08.07.2022)
+
+
+Anexo III :
+
+		  Acta de retención de dinero en efectivo y/o IFN
+
+
+		  (
+RS_00012-2026-SUNAT-29.01.2026
+)
+
+
+Anexo IV
+
+		  : Registro de vehículos de transporte de carga con mercancía de otros
+
+		  regímenes aduaneros, vehículos sin carga o que transporten pasajeros
+
+		  locales en el PCI
+
+
+(RS_000131-2023-SUNAT-23.06.2023)
+
+
+(RS_0091-2022-SUNAT-08.07.2022)
+
+
+Anexo V :
+
+		  Acta de inspección
+
+
+		  (
+RS_00012-2026-SUNAT-29.01.2026
+)
+
+
+Anexo VI: Acta de
+
+		  constatación de hechos
+
+
+
+		  (
+RS_00012-2026-SUNAT-29.01.2026
+)

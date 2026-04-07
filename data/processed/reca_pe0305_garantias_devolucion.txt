@@ -1,0 +1,428 @@
+Procedimientos de Recaudación
+
+
+RECAUDACIÓN
+
+
+PROCEDIMIENTO ESPECÍFICO
+RECA-PE.03.05:
+RECEPCIÓN Y DEVOLUCIÓN DE GARANTÍAS EN EFECTIVO ART.13° DEL ACUERDO DE LA O.M.C.
+
+
+ <-- Retroceder
+
+
+
+
+
+Proc:
+
+
+						RECA-PE.03.05
+
+
+(antes
+IFGRA-PE.21)
+
+
+RECEPCIÓN Y
+						DEVOLUCIÓN DE GARANTÍAS EN EFECTIVO ART.13° DEL ACUERDO
+						DE LA O.M.C.
+
+
+Versión:
+
+ 1
+
+
+Publicación:
+
+ 04/01/2004
+
+
+Resolución:
+ 000581
+
+
+Fecha Res.:
+  19/12/2003
+
+
+Vigencia:
+ 05/01/2004
+
+
+
+Lista:
+
+
+Maestra
+
+
+Circulares Anexas
+
+
+Control de Cambios
+
+
+
+
+
+I. OBJETIVO
+
+
+Establecer pautas para la recepción, custodia, devolución y control de
+ garantías en efectivo, constituidas en aplicación del artículo 13° del Acuerdo del Valor
+ de la OMC.
+
+
+II. ALCANCE
+
+
+Es de aplicación en las áreas de Importación, Destinos Aduaneros
+ Especiales, Recaudación y Contabilidad de las Intendencias de Aduanas, Intendencia de
+ Fiscalización y Gestión de Recaudación Aduanera Intendencia Nacional de Técnica Aduanera,
+ Intendencia Nacional de Sistemas de Información, agencias de aduanas, importadores y bancos
+ autorizados.
+
+
+III. RESPONSABILIDAD
+
+
+La aplicación y cumplimiento de lo establecido en el presente
+ procedimiento es de responsabilidad de los Intendentes de Aduanas, Intendente Nacional de Técnica
+ Aduanera (INTA), Intendente de Fiscalización y de Gestión de Recaudación Aduanera (IFGRA),
+ Intendente Nacional de Sistemas de Información (INSI), y del personal que interviene en el
+ presente procedimiento.
+
+
+IV. VIGENCIA
+
+
+Vigente a partir del día siguiente de su publicación en el diario oficial
+ El Peruano.
+
+
+V. BASE LEGAL
+
+
+Resolución Legislativa Nº 26407 Acuerdo Relativo a la Aplicación del Artículo
+ VII del Acuerdo General sobre Aranceles Aduaneros y Comercio de 1994 publicado el 18.12.1994.
+
+
+Decreto Legislativo N° 809 Ley General de Aduanas publicado el 19.04.1996,
+ y sus modificatorias.
+
+
+Ley N° 26702 Ley General del Sistema Financiero y del Sistema de Seguros y
+ Orgánica de la Superintendencia de Banca y Seguros publicada el 09.12.1996, y sus
+ modificatorias.
+
+
+Decreto Supremo N° 121-96-EF Reglamento de la Ley General de Aduanas
+ publicado el 24.12.1996, y sus modificatorias.
+
+
+Decreto Supremo Nº 135-99 EF Texto Único Ordenado del Código Tributario
+ publicado el 19.08.1999, y sus modificatorias.
+
+
+Decreto Supremo N° 186-99-EF Reglamento del Acuerdo Relativo a la Aplicación
+ del Artículo VII del GATT de 1994 publicado el 29.12.1999, y sus modificatorias.
+
+
+VI. NORMAS GENERALES
+
+
+Las Órdenes de Depósito de Garantía y las Órdenes de Devolución de
+ Garantía son documentos que se generan por los módulos de Importación Definitiva,
+ Simplificadas, y Courier.
+
+
+La recepción del depósito en garantía se realiza mediante el formato
+ denominado "Orden de Depósito de Garantía" consignado en el Anexo 1 del presente
+ procedimiento, el mismo que puede realizarse en efectivo, cheque de gerencia ó cheque
+ certificado, en dólares de los Estados Unidos de América.
+
+
+De realizar el depósito con cheque, éste debe ser girado a la orden del
+ banco donde efectúa el depósito.
+
+
+El usuario o despachador de aduana efectúa el depósito en las agencias de
+ los bancos autorizados señalados en la relación contenida en el Anexo 3 del presente
+ procedimiento.
+
+
+La entidad bancaria autorizada, devuelve al importador la garantía
+ depositada en dólares de los Estados Unidos de América, mediante cheque de gerencia (costo
+ de emisión a cargo del usuario) o mediante abono en la cuenta del usuario.
+
+
+La entidad bancaria autorizada custodia el monto recibido en garantía, el
+ mismo que no generará intereses, hasta que la autoridad aduanera, a través del sistema,
+ autorice al importador la devolución de su garantía, previa presentación del formato
+ denominado "Orden de Devolución de Garantía" contenido en el Anexo 2 del presente
+ procedimiento.
+
+
+En caso de pérdida o destrucción parcial o total de la Orden de Devolución
+ de Garantía, el importador presenta una solicitud a la intendencia de aduana que corresponda,
+ la misma que es derivada al área de importaciones o de destinos aduaneros especiales que
+ emitió la Orden de Devolución, para su resolución en el plazo máximo de diez (10) días útiles
+
+
+VII.  DESCRIPCIÓN
+
+
+A) DE LA RECEPCION DE LA GARANTIA
+
+
+Establecida la duda razonable, el especialista en Aduanas del área de
+ importaciones o destinos aduaneros especiales adjunta a la notificación efectuada al
+ importador, a través del despachador de aduana, la Orden de Depósito de Garantía en
+ original y tres (3) copias; la referida orden también es entregada al importador que declare
+ valor provisional de acuerdo con el procedimiento INTA-PE.01.10a Valoración de las Mercancías
+ según la OMC.
+
+
+El importador o despachador de aduana, efectúa el depósito en garantía
+ presentando al banco autorizado la Orden de Depósito en original y tres (3) copias. El banco
+ sella y refrenda o sella y adjunta el voucher respectivo, como constancia del depósito
+ efectuado, devolviendo el original y la primera copia.
+
+
+La distribución de las copias se realiza de acuerdo al siguiente detalle:
+Original
+ : Usuario o Despachador
+1° copia: Usuario (para su entrega al área de Importaciones –
+ Fianzas)
+2° copia: Banco (para su entrega al área de Recaudación)
+3° copia: Banco
+
+
+
+El monto de las garantías recibidas por las entidades bancarias
+ autorizadas e identificadas en el sistema de la SUNAT, ingresa como garantía a la referida
+ entidad a las veinticuatro (24) horas de recibida tratándose de depósitos en efectivo, y
+ setentidós (72) horas para el caso de los depósitos efectuados con cheque de gerencia o
+ certificado, de acuerdo a los plazos de acreditación señalados en el procedimiento
+ IFGRA-PE.15 Pagos – Extinción de Adeudos.
+
+
+B) AUTORIZACION DE LEVANTE
+
+
+El importador o despachador de aduanas presenta al personal encargado en el
+ área correspondiente de la Aduana respectiva, la primera copia de la Orden de Depósito de
+ Garantía con el sello y refrendo (o sello y voucher) que acredita el depósito efectuado ante
+ el banco autorizado, según lo indicado en el numeral 2 del acápite A) del presente
+ procedimiento.
+
+
+El Especialista en Aduanas autoriza el levante de la mercancía cuando el
+ depósito se encuentre registrado en el módulo de Importación Definitiva, Simplificada o
+ Courier, según corresponda, además de verificar el cumplimiento de las obligaciones que se
+ detallan en el procedimiento INTA-PG.01 Importación Definitiva.
+
+
+C) DEVOLUCION DE LA GARANTIA
+
+
+Generación de Orden de Devolución por Duda Razonable desvirtuada
+
+
+De autorizarse la devolución de la garantía de acuerdo a los
+ procedimientos de ajuste de valor establecidos en el procedimiento INTA-PE.01.10a, el personal
+ designado emite la orden de devolución de garantía en el módulo de Importación Definitiva,
+ Simplificada o Courier según corresponda.
+
+
+
+Generación de Orden de Devolución por
+ Duda Razonable confirmada
+
+
+De determinarse la emisión de la liquidación de cobranza tipo 30 (Cargo
+ – artículo 13º Acuerdo OMC), según el procedimiento INTA-PE.01.10a, el área de
+ importaciones o de destinos aduaneros especiales notifica dicha liquidación al agente de
+ aduana y al importador, la cual debe ser cancelada en las entidades bancarias que han suscrito
+ contrato de prestación de servicios de recaudación con Aduanas.
+
+
+Cancelada la liquidación de cobranza, el importador o agente de aduana
+ presenta a la misma área que le notificó, la liquidación debidamente cancelada. Verificada
+ la cancelación en el módulo que corresponda, el personal encargado entrega la Orden de
+ Devolución de Garantía al portador de la liquidación de cobranza, quien registra su firma
+ en la referida orden.
+
+
+Notificación de Orden de Devolución
+El Especialista en
+ Aduanas notifica al importador el formato denominado Orden de Devolución de Garantía que
+ consta de un original y tres (3) copias siendo la distribución como sigue:
+
+
+
+Original : Usuario
+1º copia : Banco ( para entrega al área de
+ Recaudación)
+2º copia : Banco ( para entrega al área de Recaudación)
+3º copia :
+ Banco
+
+Envío de Archivo de Devolución al Banco
+
+
+La Intendencia Nacional de Sistemas de Información transmite a la entidad
+ bancaria, el archivo con las ordenes de devoluciones, en el mismo horario que transmite el
+ Cuadre Automático Diario, dicho archivo debe contener entre otros, el número de la orden,
+ nombre del importador y monto a devolver en dólares.
+
+
+
+Del Banco Autorizado
+
+
+El importador o despachador de aduana se acerca al banco donde realizó el
+ depósito de su garantía, presenta la Orden de Devolución en original y tres (3) copias, según
+ lo indicado en el numeral 2° precedente; el banco verifica que los datos de la Orden de
+ Devolución presentado coincida con los datos transmitidos en el envío de archivo de devolución
+ y verifica que la firma del portador coincida con el documento de identificación presentado.
+
+
+Las devoluciones atendidas por la entidad bancaria autorizada son
+ transmitidas por la misma vía a la Intendencia Nacional de Sistemas de Información quien a
+ su vez utiliza el archivo correspondiente para actualizar el estado de las ordenes de devolución
+ de garantía.
+
+
+D) COBRANZA POR NO PAGO DE LA LIQUIDACION DE COBRANZA
+
+
+En caso que la liquidación de cobranza notificada no fuera cancelada
+ vencido el plazo para interponer reclamación establecido en el artículo 137° del Código
+ Tributario, el área responsable ejecuta la garantía
+
+depositada
+ en la entidad bancaria.
+
+
+Para tal efecto, el personal asignado del área de importaciones o de
+ destinos aduaneros especiales remite, en el día, al área de recaudación y contabilidad de
+ la intendencia de aduana, que corresponda, la liquidación de cobranza referida en el numeral
+ anterior, conjuntamente con la Orden de Devolución de Garantía a nombre de Aduanas en
+ original y tres (3) copias.
+
+
+El personal designado del área de recaudación y contabilidad de la
+ intendencia de aduana se presenta debidamente acreditado ante la entidad bancaria autorizada
+ que corresponda a fin de solicitar la devolución de la referida Orden, registrada previamente
+ en su sistema para su verificación.
+
+
+El banco autorizado verifica previamente que los datos de la Orden de
+ Devolución presentado, coincida con los datos transmitidos por la Intendencia Nacional de
+ Sistemas de Información, verifica que la firma del portador coincida con el documento de
+ identificación presentado y emite un cheque de gerencia a nombre de Aduanas, en nuevos soles,
+ previa deducción del costo de emisión del cheque de gerencia, utilizando el tipo de cambio
+ compra del día que se efectúa la operación.
+
+
+Cuando el monto de la orden de devolución de garantía no cubre el pago
+ total de la liquidación de cobranza tipo 30 (Cargo – artículo 13º Acuerdo OMC), el
+ personal autorizado del área de recaudación y contabilidad de la intendencia de aduana que
+ corresponda, emite una liquidación de cobranza tipo - 0015 (Pago a Cuenta) generando una
+ notificación al usuario a efectos de que en el plazo de diez (10) días útiles cancele el
+ saldo de la liquidación original, en caso de incumplimiento se iniciará el procedimiento de
+ cobranza coactiva.
+
+
+Para la emisión de la liquidación de cobranza tipo - 0015, el personal
+ asignado del área de recaudación y contabilidad de la intendencia de aduana, consigna el
+ monto del cheque convertido y redondeado, de existir un sobrante del referido cheque una vez
+ efectuada la cancelación de la liquidación original se coordinará con la División de
+ Control de Recaudación de la Intendencia de Fiscalización de Gestión de Recaudación
+ Aduanera, la emisión de la Liquidación de Cobranza tipo 0014 –Sobrante de Caja.
+
+
+E) CONTROL
+
+
+Intendencias de Aduana de la República
+
+
+Al día siguiente de recibido el depósito, la entidad bancaria autorizada
+ remite al área de Recaudación y Contabilidad de la Intendencia de Aduana que corresponda, el
+ físico de las órdenes de depósitos y en duplicado las órdenes de devolución conjuntamente
+ con los reportes denominado detalle de depósitos y devolución según corresponda.
+
+
+El personal encargado del área de Recaudación y Contabilidad de la
+ Intendencia de Aduana verifica que la información consignada en el Detalle de Ordenes de Depósitos,
+ coincida con las órdenes de depósito recibidas y se encuentren registrados en el módulo de
+ Cuadre Diario.
+
+
+El personal encargado del área de recaudación y contabilidad de la
+ intendencia de aduana entrega diariamente al área de importaciones o de destinos aduaneros
+ especiales de la intendencia de aduana que corresponda, una copia de las órdenes de devolución
+ remitida por la entidad bancaria autorizada, para su verificación en los módulos
+ correspondientes.
+
+
+El personal encargado del área de recaudación y contabilidad controla el
+ ingreso de las ordenes de depósito y ordenes de devolución, y si detecta diferencia entre el
+ Detalle de Ordenes de Depósito con el físico ó que no coincida con lo registrado en el módulo
+ de Cuadre Diario, sigue las instrucciones de control detalladas en el procedimiento
+ IFGRA-PE.15 Pago - Extinción de Adeudos.
+
+
+El personal encargado en las zonas ubicadas en el Aeropuerto Internacional
+ Jorge Chávez, Santa Rosa (Tacna), Desaguadero (Puno), desarrollan las actividades mencionadas
+ en los numerales anteriores utilizando el Módulo de Recaudación – Caja.
+
+
+Intendencia de Fiscalización y de Gestión de Recaudación Aduanera
+
+
+El personal encargado de la División de Control de Recaudación de la Intendencia de Fiscalización y Gestión de Recaudación Aduanera mediante el módulo del Cuadre Diario y de ser el caso, el módulo Recaudación - Caja, elabora un registro de control por Intendencia de Aduana considerando monto parcial y total por entidad bancaria autorizada, verifica que las Órdenes de Depósito de Garantía emitidas se depositen en las respectivas entidades bancarias autorizadas según localidad asignada
+
+
+
+VIII. FLUJOGRAMA
+
+
+Ver documentos
+
+
+IX. INFRACCIONES, SANCIONES Y DELITOS
+
+
+Según lo dispuesto en el INTA-PE.01.10a
+
+
+
+X. REGISTROS
+
+
+Orden de Depósito de Garantía - OMC.
+
+
+Orden de Devolución de Garantía
+
+
+ANEXOS
+
+
+Orden de Depósito
+ de Garantía - OMC
+.
+
+
+Orden de
+ Devolución de Garantía
+
+
+Bancos
+ Autorizados

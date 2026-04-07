@@ -1,0 +1,921 @@
+Procedimientos - IMPORTACION DEFINITIVA
+
+
+
+IMPORTACION PARA EL CONSUMO
+
+
+PROCEDIMIENTO ESPECIFICO: BENEFICIO TRIBUTARIOS:
+HIDROCARBUROS
+
+
+Proc:
+
+
+ DESPA-PE.01.0
+4
+
+
+Beneficio
+ Tributario:Hidrocarburos
+
+
+Versión:
+
+ 1
+
+
+Publicación:
+
+ 19/09/1999
+
+
+Resolución:
+
+ 001059
+
+
+Fecha Res.:
+14/09/1999
+
+
+Vigencia:
+
+ 04/10/1999
+
+
+
+Lista:
+
+
+ Maestra
+
+
+Circulares
+ Anexas
+
+
+Control de Cambios
+
+
+I. OBJETIVO
+
+
+Establecer las pautas a seguir para la
+ importación de bienes e insumos que sean necesarios para la
+ ejecución de contratos de exploración de hidrocarburos, acogiéndose
+ al Beneficio Tributario en favor de las Empresas Contratistas
+ que cuentan con Contrato de Licencia para dicha exploración en
+ los Lotes autorizados, con la finalidad de lograr el correcto
+ cumplimiento de las normas que la regulan.
+
+
+
+II. ALCANCE
+
+
+Está dirigido al personal de Aduanas y
+ Operadores de Comercio Exterior que intervienen en el Régimen
+ Definitivo de Importación.
+
+
+
+III. RESPONSABILIDAD
+
+
+La aplicación, cumplimiento y seguimiento de
+ lo establecido en el presente Procedimiento es de
+ responsabilidad de las Intendencias de Aduanas de la República,
+ de la Intendencia Nacional de Técnica Aduanera y de la
+ Intendencia Nacional de Fiscalización Aduanera.
+
+
+
+IV. VIGENCIA
+
+
+A partir del 27/09/1999.
+
+
+
+V. BASE LEGAL
+
+
+- Ley de Simplificación administrativa y su
+ Reglamento, aprobados por Ley Nº25035 del 11.06.89 y Decreto
+ Supremo Nº070-89-PCM del 02.09.89.
+
+ - Ley Orgánica y Estatuto de la Superintendencia Nacional de
+ Aduanas, aprobados por Decreto Ley Nº 26020 del 28.12.92 y
+ Resolución de Superintendencia de Aduanas Nº 0021 del 10.04.97
+ modificada por Resolución de Superintendencia de Aduanas Nº
+ 001591 del 20.06.97.
+
+ - Ley Orgánica de Hidrocarburos, aprobada por Ley Nº26221 del
+ 20.08.93.
+
+ - Ley de los Delitos Aduaneros, Ley Nº 26461 del 08.06.95.
+
+ - Relación de bienes e insumos destinados a la actividad de
+ exploración aprobado por Decreto Ley Nº21807 y Decreto Supremo
+ Nº 138-94-EF del 06.11.94.
+
+ - Ley del Impuesto General a las Ventas e Impuesto Selectivo al
+ Consumo, Decreto Legislativo Nº 821 del 22.03.96.
+
+ - Ley General de Aduanas, Decreto Legislativo Nº 809 del
+ 19.04.96 y su Reglamento aprobado por Decreto Supremo Nº121-96-EF
+ del 24.12.96.
+
+ - Tabla de Sanciones aplicables a las infracciones previstas en
+ la Ley General de Aduanas, aprobada con Decreto Supremo Nº
+ 122-96-EF de 24.12.96,
+modificada por Decreto Supremo Nº
+ 027-2000-EF de 27.03.2000 y Decreto Supremo Nº 050-2000-EF de
+ 25.05.2000.
+
+ - Ley de Normas Generales y Procedimientos Administrativos, cuyo
+ Texto Unico Ordenado ha sido aprobado por D.S.Nº002-94-JUS del
+ 31.01.94.
+
+ - Reglamento de Estabilidad Tributaria en Hidrocarburos,
+ aprobado por Decreto Supremo Nº 32-95-EF.
+
+
+VI. NORMAS GENERALES
+
+
+ 1. Las actividades de exploración y de explotación de
+ Hidrocarburos pueden realizarse bajo las formas contractuales
+ siguientes:
+
+ a) Contrato de Licencia es el celebrado por PERUPETRO S.A. con
+ el Contratista y por el cual éste obtiene la autorización de
+ explorar y explotar o de explorar Hidrocarburos en el área de
+ Contrato; en mérito del cual PERUPETRO S.A. transfiere el
+ derecho de propiedad de los Hidrocarburos extraídos al
+ contratista, quien debe pagar una regalía al Estado.
+
+b) Contrato de Servicios es el celebrado por
+ PERUPETRO S.A. con el contratista, para que éste ejercite el
+ derecho de llevar a cabo actividades de exploración y explotación
+ de Hidrocarburos en el área de Contrato, recibiendo el
+ Contratista una retribución en función a la Producción
+ Fiscalizada de Hidrocarburos.
+
+
+ c) Otras Modalidades de contratación autorizadas por el
+ Ministerio de Energía y Minas.
+
+
+ Los señalados contratos pueden celebrarse a criterio del
+ Contratista, previa negociación directa o por convocatoria; una
+ vez aprobados y suscritos, sólo pueden ser modificados por
+ acuerdo escrito entre las partes.
+
+
+2. Las importaciones de bienes e insumos
+ requeridos en la fase de exploración de cada contrato para las
+ actividades de exploración, se encuentran exoneradas de todo
+ tributo, incluyendo aquéllas que requieren mención expresa,
+ por el plazo que dure dicha fase, la cual tendrá una duración
+ máxima de siete (07) años, contados a partir de la fecha
+ efectiva establecida en cada contrato, pudiendo dividirse esta
+ fase en varios períodos conforme se acuerde en el mismo. (arts
+ 22º, 56º de la Ley Nº 26221).
+
+
+ 3. Los bienes e insumos a que se refiere el Artículo 56º de la
+ Ley Nº 26221 son aquéllos que se encuentran detalladas en la
+ Ley Nº 21807 y en el Decreto Supremo Nº 138-94-EF del 4.11.94.
+
+
+ 4. La empresa Contratista no puede destinar a otro fin distinto,
+ ni transferir o ceder por ningún título, ni permitir la
+ utilización por terceros los bienes e insumos sujetos a
+ Beneficio Tributario, sin autorización expresa de PERUPETRO
+ S.A. En caso de producirse dichos supuestos está obligado a
+ pagar los tributos a la importación, salvo en los siguientes
+ casos:
+
+a) Cuando sean vendidos o entregados en uso
+ para ser utilizados por el adquirente o usuario en actividades
+ de exploración, durante la fase de exploración, de otro
+ contrato sujeto a dicha exoneración.
+
+
+ b) Cuando sean reexportados, con autorización de PERUPETRO.
+
+
+ c) Cuando sean utilizados en actividades de exploración,
+ durante la fase de exploración, de otro contrato sujeto a dicha
+ exoneración del mismo Contratista.
+
+
+El Contratista debe informar a ADUANAS cada
+ vez que se produzca algunos de los casos anteriormente señalados.
+
+
+ El caso señalado en el inciso b) se rige por lo dispuesto en el
+ Procedimiento General del Régimen de Exportacion Definitiva
+ INTA.PG.02, con las excepciones a que hubiere lugar de acuerdo a
+ la naturaleza del contrato.
+
+
+ En los demás casos en que deba pagarse los tributos, éstos se
+ determinan conforme a la legislación vigente a la fecha de
+ celebración del contrato, aplicando las Reglas de Valoración
+ para el caso de bienes usados contenidas en el Arancel de
+ Aduanas, vigente a la fecha en que se produzcan los supuestos de
+ utilización o venta.
+
+5. Los contratos celebrados por los
+ beneficiarios serán presentados por PERUPETRO S.A. ante la
+ Intendencia Nacional de Técnica Aduanera con la finalidad de
+ que previa evaluación de éstos, se ingresen los datos
+ correspondientes al SIGAD.
+
+
+Asimismo al vencimiento de los mencionados
+ contratos PERUPETRO S.A. deberá comunicar a la mencionada
+ Intendencia Nacional la información proporcionada por el
+ contratista de acuerdo a lo señalado en el artículo 21 del
+ Decreto Supremo N° 032-95-EF.
+
+
+
+6. Las situaciones previstas en el numeral
+ anterior serán comunicadas por la Intendencia Nacional de Técnica
+ Aduanera a las Aduanas Operativas para los fines respectivos.
+
+
+VII. DESCRIPCION
+
+
+1.
+El Despachador de Aduana solicita la
+ destinación aduanera del Régimen de Importación mediante
+ transmisión por vía electrónica, debiendo indicar en la
+ casilla 7.25 de la DUA – Importación (A, A1) el código
+ liberatorio 1501 y en la casilla 7.37 consignar: Número y fecha
+ del Decreto Supremo que aprueba el Contrato de Licencia de
+ Exploración y Explotación, o de Exploración y/o Modificación
+ o Cesión del Contrato de Licencia de Exploración y el Número
+ de Lote.
+
+
+El Despachador de Aduanas, tratándose de
+ Declaración Simplificada de Importación, consigna en el rubro
+ Modalidad el dígito 10; en el rubro 6.7 el Código Liberatorio
+ 1501.
+
+
+En ambos casos en el rubro de descripción de
+ mercancía, se debe detallar ésta, conforme a la factura
+ comercial, a fin de permitir una clara identificación de las
+ mismas.
+
+
+
+2. Las Declaraciones se presentan por el
+ Despachador de Aduanas ante el Area de Importaciones de la
+ Intendencia de Aduana de despacho, adjuntando copias
+ autenticadas, legibles u originales, teniendo en cuenta los
+ documentos a que se refiere el Procedimiento General de
+ Importación Definitiva (INTA-PG.01) así como los que se
+ mencionan en el Procedimiento Despacho Simplificado de Importación
+ (INTA-PE.01.01).
+
+Asimismo debe presentar Declaración Jurada
+ del Importador indicando la vigencia del contrato o la prórroga
+ de éste en el caso de corresponder.
+
+
+ 3. Las Declaraciones Unicas de Importación y las Declaraciones
+ Simplificadas de Importación deben ceñirse al trámite
+ detallado de los mencionados Procedimientos INTA-PG.01 e
+ INTA-PE.01.01, respectivamente.
+
+
+ 4. Si por efecto de la revisión documentaria o reconocimiento físico
+ de las mercancías amparadas en declaraciones numeradas por
+ Teledespacho, se verifica que no le corresponde el beneficio
+ tributario, se procede a retirar el código liberatorio N°
+ 1501, continuando el trámite de acuerdo a lo señalado en el
+ numeral anterior.
+
+
+ 5. De ser el caso, se procede con la extracción de la muestra,
+ a fin de efectuar el análisis químico correspondiente y
+ determinar la correcta clasificación arancelaria, conforme al
+ trámite detallado en el Procedimiento Específico de
+ Reconocimiento Físico INTA.PE.00.03.
+
+
+VIII. FLUJOGRAMA
+
+
+No aplica.
+
+
+
+IX. INFRACCIONES, SANCIONES Y DELITOS
+
+
+1. Serán sancionados con multa los
+ Beneficiarios de la Inafectación por las infracciones
+ siguientes:
+
+
+INFRACCION SANCION
+
+
+a) Destinar las mercancías a un
+ fin distinto a la autorizada, numeral 1, inciso k) del
+ Art.103º del D.L. 809.
+
+
+Multa equivalente al triple de los
+ tributos inafectos, exonerados o con Beneficio
+ Tributario.
+
+ **
+(Mod. DS. 030-2001-EF Pub. 23.02.2001)
+
+
+b) Transferir mercancías antes de
+ los plazos establecidos, numeral 2, inciso k) Art.103º
+ D.L. 809.
+
+
+Multa equivalente al triple de los
+ tributos inafectos, exonerados o con Beneficio
+ Tributario.
+
+ **
+(Mod. DS. 030-2001-EF Pub. 23.02.2001)
+
+
+c) Permitir la utilización de las
+ mercancías por Terceros, numeral 3, inciso k) Art.103º
+ D.L. 809.
+
+
+Multa equivalente al triple de los
+ tributos inafectos, exonerados o con Beneficio
+ Tributario.
+
+ **
+(Mod. DS. 030-2001-EF Pub. 23.02.2001)
+
+
+**
+
+DS. 030-2001-EF (Mod. Tabla de Sanciones)
+
+
+2. En los demás casos que se configuren
+ infracciones o delitos aduaneros, se aplica lo dispuesto en el
+ Rubro IX numerales 1) y 2) del Procedimiento General "Régimen
+ Definitivo de Importación".
+
+X. REGISTROS
+
+
+Relación de Declaraciones que se acojan al
+ beneficio y aquéllas a las que se le deniega el beneficio.
+
+
+
+XI. DEFINICIONES Y ABREVIATURAS
+
+ No aplica.
+
+
+ANEXO
+
+
+Relación de bienes e Insumos sujetos al
+ beneficio tributario establecido en la Ley Nº26221,
+ comprendidos en el Anexo del D.S. 138-94-EF.
+
+
+RELACIÓN DE BIENES E INSUMOS SUJETOS AL
+ BENEFICIO TRIBUTARIO
+
+
+ESTABLECIDO EN LA LEY N° 26221 Anexo del D. S. N°
+ 138-94-EF
+
+
+1404109000
+
+ 2501001100
+
+ 2501001900
+
+ 2504100000
+
+ 2505900000
+
+ 2508100000
+
+ 2508400000
+
+ 2511100000
+
+ 2512000000
+
+ 2523290000
+
+ 2524001000
+
+ 2524009000
+
+ 2525100000
+
+ 2525300000
+
+ 2530900000
+
+ 2710007900
+
+ 2710008000
+
+ 2710009900
+
+ 2715002000
+
+ 2715009000
+
+ 2811229000
+
+ 2811299000
+
+ 2815110000
+
+ 2815200000
+
+ 2818200000
+
+ 2825500000
+
+ 2825904000
+
+ 2825905000
+
+ 2825909000
+
+ 2826111000
+
+ 2826112000
+
+ 2826900000
+
+ 2827100000
+
+ 2827200000
+
+ 2827360000
+
+ 2827391000
+
+ 2827392000
+
+ 2827399000
+
+ 2828100000
+
+ 2828901100
+
+ 2828901900
+
+ 2829901000
+
+ 2829909000
+
+ 2830900000
+
+ 2832100000
+
+ 2832201000
+
+ 2832209000
+
+ 2833220000
+
+ 2833250000
+
+ 2833291000
+
+ 2833299000
+
+ 2834210000
+
+ 2834291000
+
+ 2834299000
+
+ 2835310000
+
+ 2836100000
+
+ 2836300000
+
+ 2836400000
+
+ 2836500000
+
+ 2836700000
+
+ 2836992000
+
+ 2836993000
+
+ 2836994000
+
+ 2836995000
+
+ 2836996000
+
+ 2836999000
+
+ 2838000000
+
+ 2839110000
+
+ 2839190000
+
+ 2839901000
+
+ 2839903000
+
+ 2839909000
+
+ 2840200000
+
+ 2841100000
+
+ 2841300000
+
+ 2841400000
+
+ 2841500000
+
+ 2849100000
+
+ 2849200000
+
+ 2912600000
+
+ 2915210000
+
+ 2915399000
+
+ 2915701000
+
+ 2915702100
+
+ 2915702200
+
+ 2915702900
+
+ 2921300000
+
+ 3201100000
+
+ 3201909000
+
+ 3402909000
+
+ 3403990000
+
+ 3601000000
+
+ 3602001900
+
+ 3602009000
+
+ 3603001000
+
+ 3603002000
+
+ 3603003000
+
+ 3603004000
+
+ 3603005000
+
+ 3603006000
+
+ 3702950000
+
+ 3801200000
+
+ 3803000000
+
+ 3804001000
+
+ 3804009000
+
+ 3811211000
+
+ 3811212000
+
+ 3811219000
+
+ 3811290000
+
+ 3815190000
+
+ 3824400000
+
+ 3824901100
+
+ 3824901200
+
+ 3824901300
+
+ 3824903100
+
+ 3824906000
+
+ 3824909300
+
+ 3824909500
+
+ 3824909911
+
+ 3824909912
+
+ 3824909913
+
+ 3824909914
+
+ 3824909915
+
+ 3824909920
+
+ 3824909930
+
+ 3824909941
+
+ 3824909942
+
+ 3824909951
+
+ 3824909959
+
+ 3824909960
+
+ 3906909000
+
+ 3912310000
+
+ 3912900000
+
+ 3913904000
+
+ 3914000000
+
+ 4016951000
+
+ 6307200000
+
+ 6307902000
+
+ 6806200000
+
+ 6807900000
+
+ 7112100000
+
+ 7112200000
+
+ 7112900000
+
+ 7304210000
+
+ 7304290000
+
+ 7304390000
+
+ 7304490000
+
+ 7305200000
+
+ 7306200000
+
+ 7306400000
+
+ 7306900000
+
+ 7307210000
+
+ 7307220000
+
+ 7309000000
+
+ 7613000000
+
+ 8207131000
+
+ 8207132000
+
+ 8207191000
+
+ 8207192100
+
+ 8207192900
+
+ 8207199000
+
+ 8407210000
+
+ 8407900000
+
+ 8408901000
+
+ 8408902000
+
+ 8413500000
+
+ 8413600000
+
+ 8413701900
+
+ 8413702900
+
+ 8413819000
+
+ 8424200000
+
+ 8426910000
+
+ 8426991000
+
+ 8426992000
+
+ 8426999000
+
+ 8429190000
+
+ 8429510000
+
+ 8429590000
+
+ 8430100000
+
+ 8430410000
+
+ 8430490000
+
+ 8431430000
+
+ 8467199000
+
+ 8471100000
+
+ 8471300000
+
+ 8471410000
+
+ 8471490000
+
+ 8471500000
+
+ 8471700000
+
+ 8473300000
+
+ 8481802000
+
+ 8481804000
+
+ 8481805000
+
+ 8481806000
+
+ 8481807000
+
+ 8481808000
+
+ 8481809000
+
+ 8484100000
+
+ 8501404900
+
+ 8501611000
+
+ 8501612000
+
+ 8501619000
+
+ 8501620000
+
+ 8502111000
+
+ 8502121000
+
+ 8502131000
+
+ 8504321000
+
+ 8504330000
+
+ 8523110000
+
+ 8523120000
+
+ 8523130000
+
+ 8523200000
+
+ 8523901000
+
+ 8524310000
+
+ 8524320000
+
+ 8524390000
+
+ 8524400000
+
+ 8524600000
+
+ 8524910000
+
+ 8524999000
+
+ 8525201000
+
+ 8529102000
+
+ 8532290000
+
+ 8532300000
+
+ 8535401000
+
+ 8541401000
+
+ 8541409000
+
+ 8542120000
+
+ 8542130000
+
+ 8542140000
+
+ 8542190000
+
+ 8542300000
+
+ 8542400000
+
+ 8542500000
+
+ 8542900000
+
+ 8905200000
+
+ 8907909000
+
+ 9011100000
+
+ 9011200000
+
+ 9012100000
+
+ 9015100000
+
+ 9015201000
+
+ 9015202000
+
+ 9015300000
+
+ 9015401000
+
+ 9015409000
+
+ 9015801000
+
+ 9015809000
+
+ 9015901000
+
+ 9015909000
+
+ 9026109000
+
+ 9026801100
+
+ 9031801900
+
+ 9031809900
+
+ 9303900000
+
+ 9406000000

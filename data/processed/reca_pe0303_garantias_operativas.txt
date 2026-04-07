@@ -1,0 +1,1783 @@
+Procedimientos de Recaudación
+
+
+RECAUDACIÓN
+
+
+RECA-PE.03.03:
+GARANTÍAS DE ADUANAS OPERATIVAS
+
+
+ <-- Retroceder
+
+
+
+
+
+Proc:
+
+
+
+RECA-PE.03.03
+
+
+(antes IFGRA-PE.13)
+
+
+GARANTÍAS DE
+						ADUANAS OPERATIVAS
+
+
+Versión:
+
+ 3
+
+
+Publicación:
+
+ 06/02/2010
+
+
+Resolución:
+ 000065
+
+
+Fecha Res.:
+ 05/02/2010
+
+
+Vigencia:
+ 07/02/2010
+
+
+
+Lista: Maestra
+
+
+Circulares Anexas
+
+
+Control de Cambios
+
+
+
+
+
+
+I.
+ OBJETIVO
+
+
+Establecer
+ las pautas a seguir para la
+ aceptación, custodia, renovación, devolución, canje y ejecución
+ de las garantías con la finalidad de lograr el
+ correcto cumplimiento de las normas que lo regulan.
+
+
+II.       ALCANCE
+
+
+Dirigido
+ al personal de la Superintendencia Nacional Adjunta de Aduanas y a
+ los operadores de comercio exterior que intervienen en el trámite
+ de las garantías.
+
+
+III.
+ RESPONSABILIDAD
+
+
+La
+ aplicación, cumplimiento y seguimiento de lo establecido en el
+ presente procedimiento es de responsabilidad del Intendente de
+ Fiscalización y Gestión de Recaudación Aduanera, del Intendente
+ Nacional de Técnica Aduanera, del Intendente de Prevención del
+ Contrabando y Control Fronterizo, del Intendente Nacional de
+ Sistemas de Información, de los intendentes de aduana de la República,
+ y de todo el  personal
+ que interviene en el presente procedimiento.
+
+
+ IV.    VIGENCIA
+
+
+La
+ presente resolución entrará en vigencia el día siguiente de su
+ publicación.
+
+
+V.        BASE
+ LEGAL
+
+
+·
+
+
+Código Civil aprobado por el Decreto Legislativo Nº
+ 295, publicado el 25.07.1984 y normas modificatorias.
+
+
+·
+
+
+Código Procesal Civil aprobado por el Decreto
+ Legislativo Nº 768, publicado el 04.03.1992, y normas modificatorias.
+
+
+·
+
+
+Ley General del Sistema Financiero y del Sistema de
+ Seguros y Orgánica de la Superintendencia de Banca, Seguros y AFP-Ley
+ Nº 26702, publicada el 09.12.1996, y normas modificatorias.
+
+
+·
+
+
+Texto Único Ordenado del Código Tributario,
+ aprobado por el
+
+Decreto
+ Supremo Nº 135-99-EF, publicado el 19.08.1999, y normas
+ modificatorias. En adelante Código Tributario.
+
+
+·
+
+
+
+
+Ley de Títulos Valores-Ley Nº 27287, publicada el
+ 19.06.2000 y normas modificatorias.
+
+
+·
+
+
+Ley
+ del Procedimiento Administrativo General, Ley Nº 27444, publicada el
+ 11.04.2001, y normas modificatorias.
+
+
+·
+
+
+Ley de Garantías Mobiliarias - Ley 28677, publicada
+ el 01.03.2006.
+
+
+·
+
+
+Ley de Facilitación del Despacho de Mercancías
+ donadas provenientes del exterior, Ley Nº 28905, publicada el
+ 24.11.2006.
+
+
+·
+
+
+Ley General de Aduanas, aprobada por Decreto
+ Legislativo N° 1053 y publicada el 27.06.2008.
+
+
+·
+
+
+Reglamento de Notas de Crédito Negociables,
+ aprobado por Decreto Supremo Nº 126-94-EF, publicado el 29.09.1994 y
+ sus normas modificatorias.
+
+
+·
+
+
+Reglamento de Equipaje y Menaje de Casa, aprobado
+ por Decreto Supremo Nº 016-2006-EF publicado el 17.03.2006, y norma
+ modificatoria.
+
+
+·
+
+
+Establecen normas para el ejercicio de la función
+ notarial de la formalización de actos previstos en la Ley de Garantía
+ Mobiliaria y en el saneamiento de tracto sucesivo interrumpido de
+ bienes muebles, aprobado por Decreto Supremo N° 012-2006-JUS y
+ publicado el 16.06.2006.
+
+
+·
+
+
+Reglamento de la Ley de facilitación del despacho
+ de mercancías donadas provenientes del exterior, aprobado por Decreto
+ Supremo Nº 021-2008-EF y publicado 08.02.2008.
+
+
+·
+
+
+Reglamento de la Ley General de Aduanas, aprobado
+ por Decreto Supremo N° 010-2009-EF, publicado el 16.01.2009 y norma
+ modificatoria.
+
+
+·
+
+
+Reglamento del Procedimiento de Cobranza Coactiva de
+ la SUNAT, aprobado por Resolución de Superintendencia N°
+ 216-2004/SUNAT, publicado el 25.09.2004.
+
+
+
+
+
+·
+
+
+Reglamento de Inscripción del Registro Mobiliario
+ de Contratos y su vinculación con los Registros Jurídicos de Bienes
+ Muebles - Resolución N° 142-2006-SUNARP/SN, publicado el 26.05.2006.
+
+
+VI.      NORMAS GENERALES
+
+
+A.   Terminología
+
+
+Cuando se
+ haga referencia a un numeral, literal, inciso, sección o anexo sin
+ mencionar la norma, se  entenderá
+ referido al presente procedimiento.
+
+
+
+B.    Modalidades de garantías
+
+
+Constituyen modalidades de
+ garantía las siguientes:
+
+
+
+a)     Carta Fianza;
+
+
+b)     Nota de crédito negociable;
+
+
+c)     Póliza de caución;
+
+
+d)     Warrant;
+
+
+e)     Certificado bancario;
+
+
+f)      Pagaré;
+
+
+g)     Garantía Mobiliaria;
+
+
+
+
+
+h)     Hipoteca;
+
+
+
+
+
+i)     Garantía en efectivo;
+
+
+
+
+
+j)     Garantía nominal;
+
+
+
+
+C.    Características
+ y condiciones generales
+
+
+1.    La carta fianza
+ o Póliza de caución
+
+
+La
+ carta fianza  o póliza de
+ caución debe:
+
+
+a)    Ser emitida por una entidad
+ garante supervisada por la Superintendencia de Banca, Seguros y
+ Administradoras Privadas de Fondos de Pensiones.
+
+
+b)    Ceñirse al modelo establecido en el Anexo 7.
+
+
+c)    Indicar la deuda que garantiza.
+
+
+d)    Tener la condición de solidaria, irrevocable, incondicional,
+ indivisible, de realización automática y sin beneficio de excusión.
+
+
+
+e)
+
+
+
+
+Ser
+ emitida en papel membretado de la entidad garante.
+
+
+f)
+
+Estar
+ suscrita por el funcionario autorizado con su respectiva antefirma,
+ sello y refrendada con marca de seguridad de la entidad emisora.
+
+
+g)
+
+
+Indicar el lugar donde se va a notificar su ejecución, el cual
+ debe estar ubicado en la circunscripción territorial de la aduana
+ encargada de verificar el cumplimiento de las obligaciones
+ respectivas.
+
+
+h)
+
+
+Ser emitida por una
+
+entidad
+ garante que no tenga garantías pendientes de honrar.
+
+
+La
+
+ Intendencia de Fiscalización y Gestión de Recaudación Aduanera -
+ IFGRA publica, en la carpeta pública/IFGRA1/GGRA/DCR/Entidades
+ suspendidas, la relación de las entidades garantes que no están
+ aptas para garantizar obligaciones aduaneras.
+
+
+Asimismo, la carta fianza o póliza de
+ caución no debe contener cláusulas que limiten, restrinjan o
+ condicionen su ejecución, ni consignar anotaciones en el dorso, ni
+ ninguna tachadura o enmendadura.
+
+
+2.    El warrant
+
+
+El warrant:
+
+
+a)    Debe
+ contener los siguientes requisitos:
+
+
+a.1)
+
+
+Nombre, RUC y domicilio del depositante.
+
+
+a.2)
+
+
+Lugar y fecha de
+
+emisión.
+
+
+a.3)
+
+
+La clase y especie de las mercancías depositadas, señalando
+ su
+
+cantidad, peso,
+ calidad y estado de conservación, marca de los bultos y toda otra
+ indicación que sirvan para identificarlas y conocer su valor,
+ expresando la condición que las mercancías se encuentren depositadas
+ en el propio almacén del depositante.
+
+
+a.4)
+
+
+Fecha de vencimiento (día, mes y año).
+
+
+b)     Debe ser endosado a favor de la Superintendencia Nacional de
+ Administración Tributaria  –
+ SUNAT. El endoso debe tener la siguiente información:
+
+
+b.1)    La fecha en la que se hace el endoso.
+
+
+b.2)    El nombre, el
+ RUC
+ o número del documento de identidad y firma del   endosante.
+
+
+b.3)    El nombre, domicilio y firma del endosatario.
+
+
+b.4)    El monto de la deuda garantizada.
+
+
+b.5)    La fecha de vencimiento o pago de la deuda, que no excederá
+ del plazo  del depósito.
+
+
+
+
+
+b.6)    Los intereses de la deuda que se garantiza.
+
+
+
+
+
+b.7)    La indicación del lugar de pago de la deuda que se garantiza.
+
+
+b.8)    La certificación del almacén general de depósito que el
+ endoso del  warrant ha
+ quedado registrado en su matrícula o libro talonario.
+
+
+En
+ los endosos posteriores del warrant es facultativo el registro y
+ certificación a los que está sujeto su primer endoso.
+
+
+
+c)
+ El valor del bien o bienes que ampara el warrant, debe exceder como mínimo
+ en un cincuenta por ciento
+ (50%) del monto de la deuda a garantizar.
+
+
+d)
+ No se acepta esta modalidad de garantía sobre mercancías perecibles.
+
+
+e)   Estar acompañado por una póliza de seguro contra todo tipo de riesgo
+ endosada a favor de la Superintendencia Nacional de Administración
+ Tributaria – SUNAT y que asegure los
+ bienes contra todo tipo de riesgo.
+
+
+
+3.
+ Pagaré
+
+
+
+
+
+
+El pagaré debe contener las siguientes cláusulas:
+
+
+a)    Prórroga automática
+ sin intervención del obligado conforme al artículo 49° de la Ley de
+ Títulos y Valores.
+
+
+b)    Estar  sujeto a intereses
+ moratorios y compensatorios conforme al artículo  51° de la Ley de Títulos Valores.
+
+
+c)    No
+ requiere de protesto conforme al artículo 52° de la Ley de Títulos
+ Valores.
+
+
+4.   Garantía mobiliaria
+
+
+La garantía
+ mobiliaria:
+
+
+a)
+ Debe tener una vigencia máxima de dos (02) años, contados a partir de
+ la fecha de suscripción del contrato de garantía mobiliaria por
+ parte del funcionario autorizado.
+
+
+b)
+ Debe ofrecerse en garantía un bien o bienes muebles, de
+ propiedad del  deudor o de terceros, cuyo valor exceda como mínimo en un
+ cincuenta por ciento (50%) del monto de la deuda a garantizar.
+
+
+c)
+ Debe ser sustituida por otro bien o bienes cuando éstos se
+ pierden o deterioran, de modo que resulte insuficiente para cubrir la
+ deuda.
+
+
+El
+ deudor está obligado a reemplazar el bien por otra garantía en el
+ plazo de quince (15) días hábiles computados a partir del día
+ siguiente de la recepción de la notificación emitido para tal
+ efecto;  de no cumplir con
+ la sustitución, se procede con la ejecución de la garantía
+ mobiliaria, sin perjuicio de volver a solicitar la entrega de un bien
+ mueble de igual o mayor valor a la que reemplaza.
+
+
+d)    No se acepta garantía mobiliaria sobre:
+
+
+
+d.1)  Mercancías
+ nacionalizadas cuyos tributos se encuentren acogidos a fraccionamiento
+ y aún no hubieren sido cancelados en su totalidad o se encuentren
+ impugnados.
+
+
+
+
+d.2)  Bienes
+ perecibles.
+
+
+
+
+d.3)  Títulos valores.
+
+
+e)    Con la solicitud de aceptación de la garantía mobiliaria se
+ debe presentar:
+
+
+ e.1)
+ El contrato original de la garantía mobiliaria con entrega jurídica
+ de bien, conforme al Anexo 1.
+
+
+ e.2)   La póliza de seguros endosada a
+ favor de la SUNAT que asegure los bienes en garantía mobiliaria,
+ contra todo tipo de riesgo.
+
+
+e.3)   La tasación actualizada de los
+ bienes ofrecidos en garantía mobiliaria,  elaborada por un profesional inscrito en el Cuerpo Técnico de
+ Tasaciones del Perú o en el Consejo Nacional de Tasaciones. En el
+ caso de provincias, el perito puede ser un profesional inscrito en el
+ Colegio de Ingenieros debidamente habilitado.
+
+
+e.4)   Los
+ documentos que acrediten la propiedad de los bienes; si son bienes
+ nacionalizados debe presentar el formato de la DUA y la liquidación
+ debidamente cancelada, y si se trata de bienes nacionales debe
+ adjuntar la factura comercial, el contrato de compraventa u otros
+ documentos.
+
+
+e.5)   Copia de la
+ constancia certificada de registro fiscal de venta a plazos, que
+ acredite que sobre los bienes ofrecidos en garantía mobiliaria no
+ recae ningún tipo de carga o gravamen judicial ni extrajudicial
+ alguno que limite o restrinja su derecho de propiedad y libre
+ disposición.
+
+
+e.6)   Copia del
+ poder vigente del representante legal de la empresa, copia del
+ documento de identidad del representante legal de la empresa y copia
+ de la escritura de constitución de la empresa.
+
+
+
+
+e.7)   Copia de la
+ constitución de la empresa o documento de identidad (si se trata de
+ persona natural), en caso de terceros.
+
+
+5.
+ Hipoteca
+
+
+
+La hipoteca debe cumplir los siguientes requisitos
+ y/o condiciones:
+
+
+a)   El valor del bien o bienes muebles ofrecidos en garantía, de
+ propiedad del deudor o de terceros, debe exceder como mínimo en un
+ cincuenta por ciento (50%) del monto de la deuda a garantizar.
+
+
+b)   No es otorgada bajo condición o plazo alguno.
+
+
+c)
+ Con la solicitud de aceptación se debe presentar
+
+
+c.1
+ El contrato de hipoteca conforme al Anexo 2. Este contrato no debe
+ contener condición o plazo alguno.
+
+
+c.2
+ El
+ título de
+ propiedad del inmueble materia de la hipoteca y la copia literal de la
+ ficha registral del inmueble expedida por la SUNARP.
+
+
+c.3
+ La tasación
+ actualizada del inmueble elaborada por un profesional inscrito en el
+ Cuerpo Técnico de Tasaciones del Perú o en el Consejo Nacional de
+ Tasaciones. En el caso de provincias, el perito puede ser un
+ profesional debidamente habilitado inscrito en el Colegio de
+ Ingenieros.
+
+
+c.4
+ La copia
+ del poder vigente otorgado al representante legal de la empresa y
+ copia de su documento de identidad, así como de la escritura de
+ constitución de la empresa  garantizada.
+
+
+c.5
+ La copia de la constitución de la empresa si es persona jurídica o
+ documento de identidad si se trata de una persona natural, en caso de
+ terceros.
+
+
+
+
+
+c.6
+ La copia de los formatos HR y PU correspondientes a la última
+ declaración jurada del impuesto predial (autoavalúo) y del
+ comprobante de pago del impuesto correspondiente
+
+
+
+c.7
+ La póliza de
+ seguros contra todo riesgo, que asegure el inmueble en garantía,
+ endosada a favor de la SUNAT y en la cual se debe consignar la
+ denominación Superintendencia Nacional de Administración Tributaria
+ y/o SUNAT, y contener firma y sello de la compañía aseguradora.
+
+
+
+
+
+c.8
+ Certificado de carga y gravamen
+ expedido por la SUNARP que acredite que sobre los inmuebles ofrecidos
+ en garantía no recae ningún tipo de carga o gravamen judicial ni
+ extrajudicial que limite o restrinja su derecho de propiedad y libre
+ disposición.
+
+
+6.   Certificado bancario en moneda extranjera
+
+
+El
+ certificado bancario en moneda extranjera:
+
+
+
+a)   Debe ser emitido en papel de seguridad al portador y entregado en las
+ intendencias de aduana de la Superintendencia Nacional Adjunta de
+ Aduanas.
+
+
+
+b)   Debe ser emitido por un monto no menor a un mil dólares de los Estados
+ Unidos de América  (US $
+ 1 000,00) y suscrito por los funcionarios autorizados de la entidad
+ bancaria facultada por la Superintendencia de Banca, Seguros y AFP. El
+ plazo para el pago no debe superar a un (01) año, contado desde la
+ fecha de su emisión.
+
+
+7.
+ Garantía
+ Nominal
+
+
+La
+ garantía nominal:
+
+
+
+a)   Debe ceñirse al modelo establecido en el Anexo 6.
+
+
+
+b)   Debe emitirse en papel membretado de la entidad garante.
+
+
+
+c)   Debe ser emitidas por entidades de prestigio y solvencia moral.
+
+
+
+d)   Debe ser autorizada por las intendencias de aduana. Esta
+ autorización puede ser revocada en cualquier momento, debiéndose
+ comunicar este hecho a la entidad garante.
+
+
+
+e)   Debe ser presentada por cada despacho para obtener el levante
+ de la mercancía.
+
+
+
+f)    No debe ser emitido por entidad garante que tenga garantías
+ pendientes de honrar. La IFGRA publica la relación de entidades
+ garantes que no están aptas para garantizar obligaciones aduaneras en
+ las carpetas públicas IFGRA1/GGRA/DCR/ Entidades suspendidas.
+
+
+
+g)   Para su aceptación, el deudor tributario debe haber
+ regularizado las garantías nominales vencidas y cumplir con lo
+ siguiente:
+
+
+
+g.1)
+ No registrar antecedentes de garantías requeridas y no
+ honradas a nivel nacional.
+
+
+
+
+g.2)
+ No
+ tener la condición de contribuyente no habido o estado de
+ contribuyente baja o baja de oficio. Esta
+ información se consulta en la
+ ficha RUC del deudor tributario en la página web de la SUNAT.
+
+
+
+
+g.3)    No
+ registrar deudas exigibles ante la SUNAT.
+
+Esta exigencia no es aplicable a las
+		  entidades del sector público nacional cuando tramiten el régimen de
+		  admisión temporal para reexportación en el mismo estado
+
+
+
+
+		  (R.SUNAT N° 217-2016 - 03.09.2016)
+
+
+g.4)
+ Presentar
+ fotocopia simple de la copia certificada de vigencia de poderes
+ otorgado a quien(es) suscribe(n) la garantía.
+
+
+
+g.5)
+ Presentar
+ copia simple de la constancia o resolución vigente de su inscripción
+ en el registro que tiene a su cargo la Agencia Peruana de Cooperación
+ Internacional (APCI), cuando se trate de donaciones de mercancías
+ provenientes del exterior, gestionadas por Entidades e Instituciones
+ Extranjeras de Cooperación Técnica Internacional (ENIEX);
+ Organizaciones No Gubernamentales de Desarrollo (ONGD) nacionales e
+ Instituciones Privadas sin fines de lucro receptoras de donaciones de
+ carácter asistencial o educacional (IPREDA).
+
+
+
+h)
+ Las entidades que no sean del sector público nacional, universidades,
+ organismos internacionales o misiones diplomáticas deben
+ cumplir adicionalmente con los siguientes requisitos:
+
+
+
+
+
+h.1)
+ No
+ registrar acogimiento al sistema concursal. Esta información está
+ disponible en el Módulo de Requerimiento de Verificación de
+ Deudas – Intranet en Línea – Aduanas.
+
+
+
+h.2)
+ Registrar por
+ lo menos tres (03) despachos de un régimen aduanero en el plazo de un
+ año (fecha a fecha), queda exceptuado el trámite de donaciones
+
+
+
+h.3)
+ Presentar copia de la escritura pública de constitución
+ social de la empresa, en caso corresponda; en
+ la que conste la facultad de la persona o de su representante de
+ emitir y suscribir garantías a favor de terceros, instituciones públicas
+ o privadas.
+
+
+
+
+h.4)
+ Presentar
+ copia legalizada del último testimonio inscrito en los Registros
+ Públicos  sobre
+ aumento de capital.
+
+
+
+
+h.5)
+ Presentar
+ una declaración jurada, en la cual declara que los miembros del
+ directorio y representantes legales no tienen antecedentes penales
+ (Anexo 8).
+
+
+8.   Garantía en efectivo
+
+
+La garantía en efectivo se constituye para
+ garantizar:
+
+
+
+a)   Las obligaciones de los viajeros no residentes que arriban al
+ país, de acuerdo a lo dispuesto en el Reglamento
+ de Equipajes y Menaje de Casa y demás normas correspondientes.
+
+
+
+b)   La aplicación de duda razonable del valor en el despacho de
+ mercancías señalada en el artículo 13º Acuerdo de la Organización
+ Mundial del Comercio, de acuerdo a lo dispuesto en el Procedimiento
+ Específico de Recepción y devolución de garantías en efectivo /
+ artículo 13º del Acuerdo de la OMC, IFGRA-PE.21.
+
+
+
+La
+ garantía en efectivo debe estar expresada en dólares de los Estados
+ Unidos de América.
+
+
+
+D.       Condiciones
+ específicas
+
+
+En los siguientes casos, el contenido de las garantías
+ se rige por las siguientes
+
+normas
+ y procedimientos específicos:
+
+
+1.
+
+
+Los beneficiarios de admisión temporal para reexportación en
+ el mismo estado y admisión temporal para perfeccionamiento activo que
+ califiquen dentro del Régimen de Buenos Contribuyentes respaldan sus
+ obligaciones en la forma y modo que se establezca mediante Decreto
+ Supremo y de acuerdo al Procedimiento Específico Buenos
+ Contribuyentes, IFGRA-PE.14.
+
+
+2.
+
+
+La garantía emitida para la restitución de derechos
+ arancelarios debe ser presentada ante el área de recaudación de las
+ intendencias de aduana de la República de acuerdo a lo establecido en
+ el Procedimiento General de Restitución de Derechos Arancelarios,
+ INTA-PG.07.
+
+
+3.
+
+
+La garantía nominal que presenten los transportistas en el régimen
+ de tránsito, de acuerdo al artículo 118° del Reglamento de la Ley
+ General de Aduanas, se rige
+
+por
+ el presente procedimiento y por el Procedimiento General de Tránsito
+ Aduanero, INTA-PG 08 y sus procedimientos específicos.
+
+
+4.
+
+
+La carta fianza bancaria o financiera presentada en una
+ reclamación extemporánea, apelación extemporánea o por presentación
+ extemporánea de medio probatorio de la reclamación debe cubrir el
+ monto de la deuda tributaria, actualizada hasta por seis (06) meses
+ posteriores a la fecha de interposición de la reclamación, apelación
+ o medio probatorio extemporáneo, y tener una vigencia no menor a seis
+ (06) meses.
+
+
+5.
+
+
+En caso de que se garantice por impugnación de deuda
+ tributaria a que se refiere el primer párrafo del artículo 161° de
+ la Ley General de Aduanas, la carta fianza bancaria o financiera se
+ sujetará al plazo establecido en el segundo
+
+
+párrafo del inciso c), numeral 8) literal A, Sección VII del
+ procedimiento IFGRA-PG.04 Reclamos Tributarios.
+
+
+
+6.
+ La garantía presentada para la importación
+de bienes cuyo
+ destino final es la Amazonía o el territorio comprendido en el
+
+
+Convenio de Cooperación Aduanera Peruano Colombiano debe tener
+ una vigencia no menor de cuatro (04) meses, contados a partir de la
+ fecha de presentación de la solicitud de aceptación garantía
+ por la administración.
+
+
+7.
+
+
+En caso de diferencia de valor en razón de la duda
+ razonable o valor provisional del Acuerdo del Valor de la OMC, en los
+ despachos no garantizados por el artículo 160º de la Ley General de
+ Aduanas, la carta fianza debe tener una vigencia no menor a cuarenta
+ (40) días hábiles.
+
+
+8.
+
+
+La garantía presentada para levantar una medida cautelar
+ durante el procedimiento coactivo está a cargo del área de recaudación
+ y se regula por el Reglamento de Cobranza Coactiva de la SUNAT.
+
+
+E.  Garantía Global
+
+
+La
+ Administración Aduanera acepta una garantía global siempre que se
+ cumpla los  requisitos y
+ condiciones establecidos en el literal B de la Sección VI, según la
+ modalidad de garantía de que se trate.
+
+
+
+
+No
+ se aceptan como garantías globales al pagaré, a la garantía en
+ efectivo y a la garantía nominal.
+
+
+
+F.
+ Registro de la Garantía en el Módulo de Control de
+ Garantías en Web
+
+
+
+1.    El
+ personal encargado es responsable del ingreso oportuno de la información
+ en
+ el Módulo de Control de Garantías en web, en el cual debe consignar
+ la información detallada de los documentos garantizados.
+
+
+2.   La
+ Intendencia Nacional de Sistemas de Información (INSI) es responsable
+ del mantenimiento del Módulo de Control de Garantías en web y de las
+ implementaciones necesarias para su correcto funcionamiento.
+
+
+VII.
+ DESCRIPCIÓN
+
+
+A.  PRESENTACIÓN
+
+
+1.    El deudor presenta la solicitud de aceptación de la garantía,
+ copia de la garantía y demás documentación que corresponda, en el
+ área de Trámite Documentario de las intendencias de aduana de la República,
+ la cual es derivada al área encargada de la verificación de la
+ garantía.
+
+
+2.    Asimismo, el deudor presenta el original de la garantía ante
+ el área donde se generó la deuda  o al área de recaudación cuando corresponda.
+
+
+3.    En el caso de las deudas generadas por la IFGRA, INTA o IPCCF,
+ la garantía es derivada a la División de Control de Recaudación
+ (DCR) de la IFGRA para su  registro,
+ control, custodia y ejecución, de corresponder.
+
+
+4.    Para el caso de warrant, garantía mobiliaria o hipoteca, el
+ personal del área de Trámite Documentario recibe la solicitud de
+ aceptación con la documentación correspondiente y la remite al jefe
+ del área de Asesoría Legal o quien haga sus veces.
+
+
+B.    ACEPTACIÓN
+
+
+1.    El personal encargado recibe la solicitud de aceptación de la
+ garantía y demás documentación y verifica el cumplimiento de los
+ requisitos y condiciones establecidos; de estar conforme, registra los
+ datos de la garantía en el Módulo de Control de Garantías en web.
+
+
+2.    De no cumplir la garantía con los requisitos o condiciones
+ establecidos, el personal encargado la rechaza, deja constancia de tal
+ acto en el Módulo de Control de Garantías web y entrega al usuario
+ el cargo del rechazo en el cual se indica el motivo de la no aceptación
+ de la garantía.
+
+
+3.    En caso del warrant, garantía mobiliaria o hipoteca, el
+ personal de asesoría legal o quién haga sus veces evalúa dichas
+ garantías; de encontrarlo conforme, lo visa y lo deriva al intendente
+ de aduana para el endose o firma del contrato respectivo, en
+ representación de la SUNAT.
+
+
+Una
+ vez endosado el warrant, se le deriva al área generadora de la deuda
+ para su registro y certificación ante el almacén general de depósito,
+ así como para su custodia y control.
+
+
+4.   Suscrito el contrato de garantía mobiliaria o el de hipoteca,
+ el personal encargado le entrega al deudor o beneficiario para su
+ elevación a escritura pública e inscripción ante la
+ Superintendencia Nacional de Registros Públicos (SUNARP), luego del
+ cual el deudor o beneficiario debe presentar, a través de una
+ solicitud, el original del testimonio y un certificado de gravamen
+ donde conste la inscripción del bien a favor de la SUNAT.
+
+
+Esta
+ documentación es derivada al jefe del área de asesoría legal o
+ quien haga sus veces para su verificación y posterior remisión al área
+ donde se efectúa el trámite, o régimen aduanero, para su registro y
+ control.
+
+
+C.     CONFIRMACIÓN DE AUTENTICIDAD
+
+
+1.    En la Intendencia de Aduana Marítima del Callao y en la
+ Intendencia de Aduana Aérea del Callao, el jefe del área responsable
+ de la custodia de la garantía confirma con la entidad garante la
+ autenticidad de la carta fianza, póliza de caución o certificado
+ bancario en moneda extranjera o nacional en forma mensual y
+ aleatoriamente, según el reporte emitido por el Módulo de Control de
+ Garantías en la web. El porcentaje de confirmación de la garantía
+ es equivalente al quince por ciento (15%) de las garantías aceptadas
+ durante el mes calendario anterior.
+
+
+2.     En las demás intendencias de aduana
+ y en la IFGRA, la confirmación a que se refiere el párrafo
+ anterior se realiza al cien por ciento (100%) de las garantías
+ aceptadas.
+
+
+3.     La confirmación
+ y
+ verificación de la autenticidad de las garantías se puede realizar por cualquiera de las formas siguientes:
+
+
+a)
+ A través de consultas por medios electrónicos, en la página
+ web de  la entidad
+ garante. El reporte de la consulta debe adjuntarse a los actuados de
+ la garantía.
+
+
+b)
+ Mediante correo electrónico e-mail, dirigido a los funcionarios
+ designados previa coordinacióncon las entidades bancarias o
+ financieras, la prueba se registra en la forma indicada en el numeral
+ anterior.
+
+
+c)
+ Mediante fax
+
+
+d)
+ Mediante carta de confirmación
+
+
+Si
+ la entidad garante no responde sobre la conformidad de la garantía en
+ el plazo de cinco (05) días hábiles computados a partir del día
+ siguiente de su notificación, solicitada a través de las formas señaladas
+ en los incisos b), c) y d), se asume la conformidad de la garantía.
+
+
+D.     RENOVACIÓN DE LA GARANTIA
+
+
+1.   El personal encargado de
+ la custodia y control puede comunicar al deudor  tributario que renueve oportunamente la garantía quince (15) días
+ hábiles antes de su vencimiento, por cualquiera de las formas de
+ notificación establecidas en el artículo 104° del Código
+ Tributario. Tratándose de garantías nominales, el personal encargado
+ comunica al usuario el vencimiento de su garantía en todos los casos.
+
+
+
+2.   El deudor presenta la nueva garantía ante la dependencia de la
+ SUNAT donde presentó la garantía inicial y dentro del plazo de la
+ vigencia de ésta, por el monto de la deuda o por el saldo existente a
+ la fecha de renovación.  El
+ plazo de la nueva garantía debe cubrir el plazo del régimen o del trámite
+ que se va a garantizar.
+
+
+3.   El personal encargado de la aceptación verifica que la nueva
+ garantía cumpla con lo previsto en el literal C de la Sección VI, en
+ cuanto corresponda y las demás disposiciones exigidas para la
+ renovación.
+
+
+4.   La carta fianza bancaria o financiera emitida por una reclamación
+ extemporánea, apelación extemporánea o por presentación extemporánea
+ de medio probatorio de la reclamación, debe renovarse cada seis (06)
+ meses, por el monto de la garantía inicialmente aceptada. En caso se
+ declare infundada o  fundada
+ en parte una reclamación extemporánea y el deudor apele, se debe
+ mantener la vigencia de la citada garantía durante la etapa de
+ apelación por el monto de la deuda apelada y actualizada.
+
+
+5.   Si al momento de la renovación de una garantía nominal
+ hubiera cambio del Consejo Directivo o de alguno de sus miembros
+ encargado de firmar la citada garantía se debe presentar el
+ Certificado de Vigencia de Poder actualizado.
+
+
+6.   En el caso de transferencia de mercancías de un beneficiario a
+ otro, dentro de los regímenes de admisión temporal para reexportación
+ en el mismo estado o admisión temporal para perfeccionamiento activo,
+ el último beneficiario es el obligado a renovar la garantía del régimen
+ que corresponda por la mercancía transferida.
+
+
+7.   Renovada
+ la garantía, el personal encargado prosigue con la custodia y control
+ de la nueva garantía y registra la renovación en el Módulo de
+ Control de Garantías en Web.
+
+
+E.     CANJE
+ DE LA
+ GARANTIA
+
+
+1.    El deudor puede canjear la garantía inicial dentro de su
+ vigencia, en los siguientes casos, cuando:
+
+
+a)        Exista cambio de personería jurídica o razón social del
+ beneficiario o fiador.
+
+
+b)        Presente garantía por monto mayor o menor al inicial.
+
+
+c)        Exista un
+ cambio de fiador (entidad bancaria, financiera o de seguros).
+
+
+d)        Contenga
+ errores materiales o formales en su redacción.
+
+
+2.   El deudor presenta el original de la nueva garantía ante el área
+ encargada de la custodia y control de la garantía que va a ser objeto
+ de canje, debiendo el personal encargado registrar los datos en el Módulo
+ de Control de Garantías en Web y devolver la garantía anterior,
+ previa verificación de su conformidad.
+
+
+3.   En el caso de  reclamación
+ extemporánea, apelación extemporánea o por presentación extemporánea
+ de medio probatorio en las reclamaciones, interpuestas  ante
+ la IFGRA, el
+ original de la nueva garantía se presenta en el área de tramite
+ documentario de la Sede Chucuito - Callao, quien la deriva al área
+ encargada de resolver el recurso.
+
+
+4.   Si la reclamación extemporánea es resuelta
+ a favor de la Administración, la carta fianza es ejecutada una
+ vez transcurrido el plazo para interponer recurso de apelación.
+
+
+5.   Si el deudor, durante el proceso de ejecución de la carta
+ fianza, apela en forma extemporánea sin presentar otra garantía que
+ la sustituya, se prosigue con la ejecución de la garantía.
+
+
+6.   Cuando se realice el canje, el plazo de vigencia de la nueva
+ garantía debe ser mayor o igual al de de la inicialmente otorgada
+
+
+7.   En el caso de transferencia de mercancías de un beneficiario a
+ otro, dentro de los regímenes de admisión temporal para reexportación
+ en el mismo estado o admisión temporal para perfeccionamiento activo,
+ el último beneficiario es el obligado a canjear la garantía del régimen
+ que corresponda a la mercancía transferida.
+
+
+8.   En caso de intervención y posterior disolución de la entidad
+ bancaria, financiera o de seguros, el deudor debe presentar una nueva garantía en un plazo que no exceda a los quince (15)
+ días hábiles siguientes de publicada, en el diario oficial El
+ Peruano, la Resolución de Superintendencia de Banca, Seguros y
+ Administradora de Fondo de Pensiones que declara la disolución de la
+ entidad bancaria, financiera o de seguros.
+
+
+9.   En caso de reorganización societaria de la entidad bancaria o
+ financiera que implique el cambio de razón social de la misma, el
+ deudor debe presentar una nueva garantía dentro del plazo de quince
+ (15) días hábiles siguientes de publicada, en el diario Oficial El
+ Peruano, la Resolución de Superintendencia de Banca, Seguros y AFP
+ que aprueba la reorganización societaria.
+
+
+F.      DEVOLUCIÓN
+
+
+1.    El deudor o su representante de corresponder debe presentar su
+ solicitud de devolución de garantía en las oficinas de trámite
+ documentario de las intendencias de aduana de la República, las
+ cuales son derivadas al área correspondiente.
+
+
+2.    El personal encargado de la custodia y control devuelve la
+ garantía al deudor o a su representante cuando:
+
+
+a)
+ Se regularice o concluya el  régimen aduanero.
+
+
+b)
+ Se renueve la garantía, con las características iniciales.
+
+
+
+c)
+ Se extinga la deuda.
+
+
+d)
+ Se expida resolución favorable.
+
+
+e)
+ Se desista de continuar con el régimen de restitución de
+ derechos arancelarios.
+
+
+f)
+ Se notifique al deudor la  boleta de rechazo de solicitud de restitución por error
+ no subsanable.
+
+
+3.
+ El personal encargado registra la devolución de la garantía
+ en el Módulo de Control de Garantías en Web.
+
+
+4.    Cuando la deuda que
+ originó la constitución de la garantía mobiliaria o hipotecaria se
+ hubiera  cancelado  o  regularizado
+ conforme a la normatividad vigente, el intendente de aduana debe
+ autorizar el levantamiento de la inscripción en la SUNARP, mediante
+ Contrato de Cancelación de Garantía Mobiliaria o Contrato de Levantamiento de
+ Hipoteca, utilizando el modelo del Anexo 4 ó Anexo 5; en caso del
+ warrant, debe autorizar su liberación a través de los formatos
+ correspondientes emitidos por el almacén general de depósito.
+
+
+5.   Transcurridos treinta (30) días hábiles contados a partir de
+ la conclusión del régimen, de la solicitud de devolución o de la
+ extinción de la deuda, sin que el deudor haya recogido la garantía,
+ el jefe del área debe disponer el archivamiento o devolución de la
+ garantía a la entidad garante.
+
+
+6.   Para
+ el  caso  de  donaciones,  la  garantía
+ nominal  o  carta  fianza  que  garantiza la deuda
+ tributaria  aduanera  podrá  ser  devuelta  de
+ oficio  por  la  Administración Aduanera cuando el Sector correspondiente
+ notifique una copia de la resolución de aprobación de la donación.
+
+
+7.   En caso que el interesado no recoja la garantía en el plazo de
+ 15 días calendarios de efectuada la regularización de la donación,
+ el personal encargado podrá disponer su archivamiento.
+
+
+G.
+ EJECUCIÓN
+
+
+  La SUNAT ejecuta la garantía cuando se cumpla el supuesto
+ legal para su ejecución, observando el siguiente procedimiento:
+
+
+1.   Carta fianza o Póliza de Caución
+
+
+a)   Para la ejecución de la carta fianza o póliza de caución, el
+ personal encargado de la custodia
+ de la garantía elabora la
+ carta de requerimiento de ejecución dirigida a la entidad garante, la
+ misma que es suscrita por el funcionario facultado y remitida
+ vía
+ notarial o judicial a la entidad garante, dentro
+ de los quince (15) días calendarios posteriores al vencimiento de la
+ garantía.
+
+
+b)   Si la
+ carta fianza o póliza de caución no
+ hubiera sido renovada de acuerdo a las condiciones y requisitos
+ establecidos, el personal encargado de su custodia procede a ejecutarla en la
+ forma y plazo señalado en el inciso a) del presente numeral.
+
+
+c)   La ejecución de la carta fianza presentada por reclamación
+ extemporánea, apelación extemporánea o por presentación extemporánea
+ de medio probatorio de la reclamación, por deudas generadas en IFGRA,
+ INTA e IPCCF, se efectúa a solicitud del área encargada del trámite
+ del recurso, quién  señala
+ el monto de la deuda actualizada.
+
+
+En
+ el caso que el deudor no renueve la garantía conforme al literal D de
+ la Sección VII, el personal encargado de la custodia procede a
+ ejecutar la garantía conforme a lo indicado en el inciso a) del
+ presente numeral.
+
+
+
+
+d)   Si se ejecuta una garantía global en forma parcial,
+ la entidad garante debe emitir una nueva garantía por el saldo no
+ ejecutado.
+
+
+e)   La entidad garante honra la garantía, en el plazo de cuarenta
+ y ocho (48) horas,  computados a partir del día siguiente de recibida la carta
+ de requerimiento, con la entrega de un cheque de gerencia a nombre de
+ la Superintendencia Nacional de Administración Tributaria y/o SUNAT,
+ girado en moneda nacional, al tipo de cambio venta emitido por la
+ Superintendencia de Banca, Seguros y AFP y publicado en el diario
+ oficial El Peruano el día de la entrega del cheque.
+
+
+
+
+f)    Dentro de un (01) día hábil de recibido el cheque de
+ gerencia, el personal encargado de la ejecución emite y cancela la
+ liquidación de cobranza en los bancos recaudadores.
+
+
+2.
+ Warrant
+
+
+a)   Vencido el warrant o verificado el supuesto legal para su
+ ejecución, el encargado de  su  custodia  y  control
+ gestiona  el  protesto  notarial  dentro  de los ocho (08) días calendarios siguientes a su vencimiento,
+ luego del cual el funcionario de la Administración Aduanera solicita
+ al almacén general de depósito la venta de la mercancía, acompañando
+ a su escrito el warrant y el testimonio de protesto.
+
+
+
+
+b)   Después de dos (02) días hábiles de efectuado el protesto
+ del warrant, el administrador del almacén general de depósito
+ realiza la venta de las mercancías depositadas, para lo cual realiza
+ el remate de las mercancías con intervención del martillero público
+ y un representante de la intendencia de aduana que solicitó el
+ remate.
+
+
+
+
+c)   Efectuada la venta de las mercancías, el personal encargado
+ del almacén general de depósito pone a disposición de la SUNAT el
+ monto del remate para la cancelación de la deuda mediante liquidación
+ de cobranza, previa deducción de los derechos, gastos de conservación
+ y seguros por concepto de deudas al almacén, a la comisión del
+ martillero y demás gastos de venta.
+
+
+3.
+ Garantía mobiliaria e hipoteca
+
+
+
+
+a)   El jefe del área que generó la deuda solicita al ejecutor
+ coactivo la ejecución de estas garantías, para lo cual le remite el
+ testimonio de escritura pública del contrato de garantía mobiliaria
+ o el contrato de hipoteca con todos sus actuados.
+
+
+
+
+b)   El  ejecutor coactivo debe
+ ejercer el derecho de persecución del bien, convoca
+ a remate, el cual se realiza de acuerdo con el Reglamento de Cobranzas
+ Coactivas y en lo que fuera aplicable por las normas contenidas en el
+ Código Procesal Civil.
+
+
+
+
+c)   El valor de la tasación del bien es el presentado por el
+ deudor.
+
+
+
+
+d)   El procedimiento de ejecución no puede ser suspendido o
+ impedida de realizar por ninguna acción  del deudor o de terceros.
+
+
+
+
+e)   El monto obtenido por el remate del bien sirve para la
+ cancelación de la deuda mediante liquidación de cobranza.
+
+
+
+
+f)    El
+ ejecutor coactivo inscribe el levantamiento de la garantía en la
+ SUNARP luego de concluido el remate y cancelada la deuda.
+
+
+
+
+4.    Certificado
+ bancario en moneda extranjera
+
+
+
+
+a)   El funcionario facultado requiere la ejecución del certificado
+ bancario en moneda extranjera ante la entidad bancaria solicitando la
+ emisión de un cheque de gerencia a nombre de la Superintendencia
+ Nacional de Administración Tributaria.
+
+
+
+
+b)    La entidad garante emite el cheque a nombre de la
+ Superintendencia  Nacional
+ de Administración Tributaria y/o SUNAT, por el monto del certificado,
+ en moneda nacional.
+
+
+c)   Dentro de un (01) día hábil de recibido el cheque de
+ gerencia, el personal encargado de la ejecución emite y cancela la
+ liquidación de cobranza en los bancos recaudadores
+
+
+5.
+ Pagaré
+
+
+
+a)   El personal encargado de la custodia del pagaré comunica al área
+ generadora de la deuda, a fin que se emita la resolución y su
+ respectiva liquidación de cobranza,  de corresponder.
+
+
+b)   Vencido el plazo sin haberse cancelado la deuda ni haberse
+ presentado reclamación de la resolución, el jefe del área que emitió
+ la resolución de determinación remite los actuados al ejecutor
+ coactivo para la cobranza respectiva.
+
+
+
+
+c)   Sin perjuicio de la cobranza coactiva, el personal encargado de
+ la custodia y control de la garantía gestiona la remisión del
+ original del pagaré al Procurador Público para su cobranza judicial,
+ acompañado de un informe técnico legal.
+
+
+d)   Concluida la cobranza judicial, se entrega el monto cobrado al
+ área que  aceptó el
+ pagaré, para la cancelación de la deuda mediante liquidación de
+ cobranza.
+
+
+
+
+e)   Cancelada la deuda, el personal encargado del área que emitió
+ el documento de determinación comunica dicha situación, por medios
+ electrónicos, al ejecutor coactivo para la suspensión definitiva de
+ la cobranza.
+
+
+6.      Garantía nominal
+
+
+
+
+a)   En los casos que la garantía nominal, presentada ante las
+ intendencias de aduana, no hubiera sido renovada, el personal
+ encargado de su custodia notifica a la entidad garante a fin de que
+ proceda a la cancelación de la deuda, otorgándole el plazo
+ improrrogable de quince (15) días hábiles. Vencido
+ este plazo sin haberse cumplido con el pago de la deuda, el personal
+ encargado comunica, de ser el caso, al área generadora de la deuda a
+ fin que emita y notifique la resolución de determinación y la
+ liquidación de cobranza respectiva. De no cumplir el deudor con el
+ pago de la deuda, se la remite al ejecutor coactivo.
+
+
+
+
+b)   Asimismo, comunica este hecho al intendente de aduana a fin que
+ haga de conocimiento a la IFGRA que existe garantía nominal requerida
+ sin honrar.
+
+
+
+
+c)   Para el caso de donaciones, la garantía nominal que garantiza
+ la deuda tributaria aduanera podrá ser regularizada de oficio por la
+ Administración cuando el Sector correspondiente notifique una copia
+ de la Resolución de aprobación de la donación.
+
+
+d)   En
+ caso que el interesado no recoja la garantía en el plazo de 15 días
+ calendarios de efectuada la regularización, el personal encargado
+ podrá disponer su archivamiento.
+
+
+H.     SALDO DE DEUDA LUEGO DE LA EJECUCIÓN
+
+
+Dentro
+ de los tres (03) días siguientes a la cancelación de la liquidación
+ de cobranza generada por la ejecución de la garantía, el área
+ encargada de la ejecución notifica al deudor copia de la liquidación
+ de cobranza cancelada; en el caso que la garantía ejecutada no cubra
+ la totalidad de la deuda, se notifica el saldo pendiente para su
+ cancelación en el plazo de cinco (05) días hábiles, ante el
+ incumplimiento, se remite la documentación sustentatoria de la deuda
+ al Ejecutor Coactivo quien toma como pago a cuenta la liquidación de
+ cobranza por ejecución.
+
+
+
+
+VIII.  FLUJOGRAMA
+
+
+
+
+No aplica
+
+
+IX.    INFRACCIONES, SANCIONES Y DELITOS
+
+
+No
+ aplica
+
+
+
+
+X.     REGISTROS
+
+
+
+Garantías
+ aceptadas
+
+
+Garantías
+ renovadas
+
+
+
+
+Garantías
+ devueltas
+
+
+Garantías
+ ejecutadas
+
+
+Tipo de
+ almacenamiento: Magnético
+
+
+Tiempo
+ de conservación: Permanente
+
+
+
+          Responsable: INSI / Intendencias operativas
+
+
+
+
+XI.    DEFINICIONES Y ABREVIATURAS
+
+
+
+
+Deuda:
+ A
+ la deuda de naturaleza tributaria y tributaria aduanera y a la deuda
+ de   naturaleza
+ administrativa.
+
+
+
+
+Deudor:
+ Al deudor tributario y al deudor de deuda de naturaleza
+ administrativa.
+
+
+
+
+RUC:
+ Registro Único de Contribuyentes.
+
+
+
+
+Warrant:
+ Instrumento de crédito por el cual se puede
+ garantizar el cumplimiento de las obligaciones pendientes a cargo del
+ deudor tributario, utilizando para tal efecto, mercancías no
+ perecederas, las mismas que deben estar depositadas en los Almacenes
+ Generales de Depósito autorizados por la Superintendencia de Banca y
+ Seguros.
+
+
+
+
+X
+II.
+ ANEXOS
+
+
+
+1.
+
+Modelo Contrato de
+ Garantía Mobiliaria con Entrega Jurídica de bien propio del
+ deudor.
+
+
+2.
+
+Modelo Contrato de Hipoteca de
+ bien propio del deudor.
+
+
+		  3.
+
+Modelo Contrato de
+ Hipoteca de Bien de un Tercero.
+
+
+4.
+
+Modelo de Contrato de
+ Cancelación Garantía Mobiliaria.
+
+
+5.
+
+Modelo de  Contrato de Levantamiento de Hipoteca.
+
+
+6.
+
+Modelo de Garantía
+ Nominal.
+
+
+7.
+
+Modelo de Carta Fianza o Póliza de
+ Caución.
+
+
+8.
+
+Modelo de Declaración Jurada de Antecedentes Penales

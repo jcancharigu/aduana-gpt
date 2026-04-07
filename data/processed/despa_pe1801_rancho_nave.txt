@@ -1,0 +1,629 @@
+Procedimientos - RANCHO DE NAVE
+
+
+REPARACION MANTENIMIENTO DE RANCHO DE NAVE
+
+
+PROCEDIMIENTO ESPECIFICO
+
+
+
+
+
+
+
+Proc:
+
+
+DESP
+A-PE.18.01
+
+
+Rancho
+
+ de Nave
+
+
+Vigencia:
+
+
+ 28/01/19
+
+
+Publicación:
+ 25/01/19
+
+
+Resolución
+:
+
+
+ 18-2019
+
+
+Fecha Res.
+: 24/01/19
+
+
+Versión:
+
+
+ 1
+
+
+Circulares:
+
+Anexas
+
+
+Lista:
+
+
+Complementaria
+
+
+Control de Cambios
+
+
+
+
+
+I. OBJETIVO
+
+
+Establecer las pautas a seguir para el
+
+				  trámite de salida de las mercancías calificadas como rancho de
+
+				  nave o provisiones de a bordo a la zona secundaria para
+
+				  reparación o mantenimiento, y su posterior reingreso a zona
+
+				  primaria, con la finalidad de asegurar el correcto
+
+				  cumplimiento de las normas que lo regulan.
+
+
+II. ALCANCE
+
+
+Está dirigido al personal de la
+
+				  Superintendencia Nacional de Aduanas y de Administración
+
+				  Tributaria - SUNAT, a los operadores de comercio exterior y a
+
+				  quienes intervienen en el presente procedimiento.
+
+
+III
+.
+RESPONSABILIDAD
+
+
+La aplicación, cumplimiento y seguimiento
+
+				  de lo establecido en el presente procedimiento es de
+
+				  responsabilidad del Intendente Nacional de Desarrollo e
+
+				  Innovación Aduanera, del Intendente Nacional de Control
+
+				  Aduanero, del Intendente Nacional de Sistemas de Información y
+
+				  de los intendentes de aduana de la República.
+
+
+IV.
+DEFINICIONES Y ABREVIATURAS
+
+
+Para efectos del presente procedimiento se
+
+				  entiende por:
+
+
+1. Declarante.
+Al
+
+				  transportista beneficiario del régimen o su representante
+
+				  legal en el país, o al despachador de aduana que estos
+
+				  designen.
+2. Sistema informático
+. Al
+
+				  portal del funcionario aduanero, al sistema de gestión de
+
+				  riesgo y a los procesos automáticos de la SUNAT.
+3.
+
+				  Terminal.
+ Al terminal portuario, terminal de carga
+
+				  aéreo, o terminal terrestre.
+V. BASE LEGAL
+
+
+Ley General de Aduanas, Decreto
+
+					  Legislativo Nº 1053, publicada el 27.6.2008 y
+
+					  modificatorias.
+
+
+
+
+Ley de los Delitos Aduaneros, Ley Nº
+
+					  28008, publicada el 19.6.2003 y modificatorias.
+
+
+Texto Único Ordenado del Código
+
+					  Tributario, aprobado por el Decreto Supremo N°
+
+					  133-2013-EF, publicado el 22.6.2013 y modificatorias.
+
+
+Texto Único Ordenado de la Ley del
+
+					  Procedimiento Administrativo General Ley Nº 27444,
+
+					  aprobado por el Decreto Supremo Nº 006-2017-JUS, publicado
+
+					  el 20.3.2017.
+
+
+Reglamento de la Ley General de Aduanas,
+
+					  aprobado por el Decreto Supremo Nº 010-2009-EF, publicado
+
+					  el 16.1.2009 y modificatorias.
+
+
+Tabla de Sanciones Aplicables a las
+
+					  Infracciones previstas en la Ley General de Aduanas,
+
+					  aprobada por el Decreto Supremo Nº 031-2009-EF, publicada
+
+					  el 11.2.2009 y modificatorias.
+
+
+Reglamento de la Ley de los Delitos
+
+					  Aduaneros, aprobado por el Decreto Supremo Nº 121-2003-EF,
+
+					  publicado el 27.8.2003, y modificatorias.
+
+
+Reglamento de Organización y Funciones de
+
+					  la Superintendencia Nacional de Aduanas y de
+
+					  Administración Tributaria, aprobado por la Resolución de
+
+					  Superintendencia Nº 122-2014/SUNAT, publicado el 1.5.2014
+
+					  y modificatorias.
+
+
+VI. DISPOSICIONES GENERALES
+
+
+1. El declarante es responsable del traslado
+
+				  de la mercancía desde su salida del terminal hacia la zona
+
+				  secundaria hasta su embarque.
+
+
+2. El plazo máximo para el embarque de la
+
+				  mercancía es de treinta días calendario contados a partir del
+
+				  día siguiente de numerada la declaración. Cuando la mercancía
+
+				  no puede ser embarcada, debe ser ingresada a un depósito
+
+				  temporal hasta su embarque, sin que se interrumpa el plazo
+
+				  autorizado por la Autoridad Aduanera.
+
+
+ 3. Las mercancías consignadas en una declaración no deben ser
+
+				  embarcadas de forma parcial.
+
+
+4. El legajamiento de las declaraciones se rige por la
+
+				  Ley General de Aduanas, por su Reglamento, y por el
+
+				  procedimiento específico “Legajamiento de la Declaración”,
+
+				  DESPA-PE.00.07 (versión 4).
+
+
+
+
+ 5. Las mercancías que se encuentran bajo el régimen aduanero
+
+				  de admisión temporal para la reexportación en el mismo estado
+
+				  no están comprendidas en el presente procedimiento.
+
+
+VII. DESCRIPCION
+
+
+A. Numeración y control de la declaración
+
+
+1. El declarante ingresa al portal del
+
+				  operador de comercio exterior utilizando la clave electrónica
+
+				  SOL y registra los datos requeridos por el formulario
+
+				  electrónico para numerar la declaración.
+
+
+2. El sistema informático numera la
+
+				  declaración, envía un aviso al buzón SOL del declarante y al
+
+				  correo electrónico vinculado a su ficha RUC de la SUNAT y
+
+				  asigna el canal de control a la declaración, que puede ser
+
+				  verde o rojo.
+
+
+Con el canal verde se autoriza el traslado de
+
+				  la mercancía declarada hacia la zona secundaria.
+
+
+Las mercancías sujetas a canal rojo deben ser
+
+				  sometidas a control aduanero para lo cual el sistema
+
+				  informático, el Jefe de la División de Control Operativo o el
+
+				  funcionario encargado según la operatividad de la intendencia
+
+				  de aduana, designa al funcionario aduanero del control
+
+				  aduanero.
+
+
+3. El declarante se presenta, con la
+
+				  mercancía, en el terminal ante el funcionario aduanero del
+
+				  control aduanero y le indica el número de la declaración.
+
+
+4. El funcionario aduanero efectúa el control
+
+				  aduanero. De ser conforme, registra en el sistema informático
+
+				  el resultado y autoriza el traslado de la mercancía hacia la
+
+				  zona secundaria. De no ser conforme, registra el motivo de la
+
+				  observación en el sistema informático para la subsanación por
+
+				  el declarante; sin perjuicio de las sanciones según
+
+				  correspondan.
+
+
+5. Cuando se subsana la observación, el
+
+				  funcionario aduanero registra la conformidad en el sistema
+
+				  informático y autoriza el traslado de la mercancía hacia la
+
+				  zona secundaria. Si no se subsana el motivo de la observación
+
+				  dentro del plazo para el embarque, el área que administra el
+
+				  régimen aduanero especial legaja la declaración.
+
+
+B. Traslado de la mercancía y
+
+				  registro de datos complementarios
+
+
+1. Para efectuar el traslado de la
+
+				  mercancía hacia la zona secundaria, el declarante se presenta
+
+				  con la mercancía ante el representante del terminal y le
+
+				  indica el número de la declaración.
+
+
+2. El personal del terminal ingresa al
+
+				  portal del operador de comercio exterior y:
+
+
+ a) Selecciona el número de la declaración.
+
+
+b) Verifica que la declaración cuente con
+
+				  el estado traslado autorizado.
+
+
+c) Registra la salida y el número de ticket
+
+				  asociado, de corresponder, en la opción “Tipo de Operación” de
+
+				  la sección Salida e Ingreso de Carga.
+
+
+d) Permite el traslado de la mercancía
+
+				  hacia la zona secundaria.
+
+
+e) Verifica que no se encuentra legajada la
+
+				  declaración.
+
+
+f) Verifica que la mercancía no se
+
+				  encuentre en abandono legal.
+
+
+3. Una vez que se ha realizado la
+
+				  reparación o el mantenimiento, el declarante ingresa al portal
+
+				  del operador de comercio exterior, selecciona la declaración,
+
+				  y registra en la sección Taller de Reparación y Mantenimiento
+
+				  los datos concernientes al:
+
+
+a
+) Comprobante de pago:
+
+
+Número del RUC del taller, tipo de
+
+				  documento, número, fecha, tipo de moneda y monto del
+
+				  comprobante de pago.
+
+
+b) Aduana de Salida:
+
+
+Aduana de salida, operador (terminal
+
+				  portuario), número del RUC del operador (terminal portuario),
+
+				  nombre de la nave y registro único de la nave asignado por la
+
+				  Organización Internacional Marítima (IMO Number)
+
+
+c) Observaciones:
+
+
+Información que considera relevante.
+
+
+C. Reingreso de la mercancía al
+
+				  terminal
+
+
+1. Para el reingreso de la mercancía, el
+
+				  declarante se presenta con la mercancía e indica el número de
+
+				  la declaración al personal del terminal.
+
+
+2. El personal del terminal ingresa al
+
+				  portal del operador de comercio exterior y:
+
+
+a) Selecciona el número de la declaración.
+
+
+b) Verifica que la declaración cuente con
+
+				  el estado trasladado.
+
+
+c) Registra el reingreso y el número de
+
+				  ticket asociado, de corresponder, en la opción “Tipo de
+
+				  Operación” de la sección Salida e Ingreso de Carga.
+
+
+d) Permite el reingreso de la mercancía
+
+				  hacia el terminal.
+ Asimismo,
+
+				  verifica que no se haya dispuesto una acción de control
+
+				  extraordinario sobre la carga.
+
+
+3. El funcionario aduanero designado por el
+
+				  Jefe de la División de Control Operativo o el funcionario
+
+				  encargado que haga sus veces realiza el control aduanero de la
+
+				  mercancía en base a la gestión de riesgo a cargo de la
+
+				  Administración Aduanera. De ser conforme, registra en el
+
+				  sistema informático el resultado y autoriza el embarque.
+
+
+4. De no ser conforme, el funcionario
+
+				  aduanero registra el motivo de observación en el sistema
+
+				  informático para la subsanación, la comunica al declarante a
+
+				  través del buzón SOL y la publica en el portal del operador de
+
+				  comercio exterior. La mercancía es ingresada a un depósito
+
+				  temporal hasta que el declarante subsane las observaciones.
+
+
+Cuando se subsana la observación, el
+
+				  funcionario aduanero registra la conformidad en el sistema
+
+				  informático y autoriza el embarque.
+
+
+5. Si no se subsana el motivo de la
+
+				  observación dentro del plazo para el embarque, el área que
+
+				  administra el régimen aduanero especial determina las acciones
+
+				  que correspondan.
+
+
+D. Embarque de la mercancía
+
+
+				  1. Autorizado el embarque, el declarante entrega la mercancía
+
+				  al responsable del medio de transporte para su embarque.
+
+
+2. Efectuado el embarque, el declarante
+
+				  registra la cantidad de bultos, fecha y hora del término del
+
+				  embarque en el portal del operador de comercio exterior,
+
+				  sección Registro de Embarque, dentro del plazo de sesenta
+
+				  días, computado a partir del día siguiente de numerada la
+
+				  declaración.
+
+
+3. Culminado el plazo para el registro del
+
+				  embarque, el sistema informático valida que la mercancía haya
+
+				  sido embarcada dentro del plazo autorizado. De ser conforme,
+
+				  el sistema informático concluye el régimen; caso contrario, el
+
+				  área que administra el régimen aduanero especial determina las
+
+				  acciones que correspondan. .
+
+
+E. Rectificación de la declaración
+
+
+				  1. El declarante registra la solicitud de rectificación de la
+
+				  declaración en el portal del operador del comercio exterior.
+
+
+2. La rectificación es con evaluación
+
+				  previa
+
+
+3. La rectificación con evaluación previa
+
+				  de la declaración procede:
+
+
+a) Cuando no se haya dispuesto una acción
+
+				  de control extraordinario sobre la carga.
+
+
+b) Cuando no se encuentre legajada.
+
+
+4. En la evaluación previa, el funcionario
+
+				  aduanero designado ingresa al sistema informático, evalúa la
+
+				  solicitud y consigna el resultado en la sección Observaciones
+
+				  de la declaración.
+
+
+De no ser conforme, el funcionario aduanero
+
+				  registra el motivo de observación en el sistema informático
+
+				  para la subsanación, y la comunica al declarante a través del
+
+				  buzón SOL y correo electrónico vinculado a su RUC.
+
+
+F. Revaluación del riesgo
+
+
+				  Cuando el declarante haya rectificado con posterioridad a la
+
+				  selección de canal de control, y no se haya autorizado el
+
+				  embarque de la mercancía, la Administración Aduanera puede
+
+				  reevaluar el riesgo de la declaración y asignar un nuevo canal
+
+				  de control antes del embarque de la mercancía y se procede, de
+
+				  acuerdo a lo dispuesto en los numerales 2 y siguientes del
+
+				  literal A de la sección VII del presente procedimiento, en lo
+
+				  que corresponda.
+
+
+
+
+VIII. VIGENCIA
+
+
+ El presente procedimiento entra en vigencia a partir del 28 de
+
+				  enero de 2019.
+
+
+IX. ANEXOS
+
+
+Publicado en el portal electrónico de la
+
+				  SUNAT:
+http://
+
+				  www.sunat.gob.pe/operatividadaduanera/fast/tutoriales/
+
+				  tutoriales_fast.html

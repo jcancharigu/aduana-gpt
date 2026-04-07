@@ -1,0 +1,627 @@
+Despacho - Procedimientos Asociados
+
+
+PROCEDIMIENTO
+ESPECÍFICO: CABOTAJE MARÍTIMO DE CARGA CON RECALADA EN PUERTOS INTERNACIONALES
+
+
+Proc:
+
+
+
+
+						DESPA-PE.00.22
+
+
+Cabotaje Marítimo de Carga con Recalada en
+						Puertos Internacionales.
+
+
+Versión:
+
+2
+
+
+Publicación:
+
+ 27/11/2022
+
+
+Resolución:
+
+						256-2022
+
+
+Fecha Res.:
+
+25/11/2022
+
+
+Vigencia:
+
+						31/01/2023
+
+
+
+Lista:
+
+Maestra
+
+
+Circulares Anexas
+
+
+Control de
+ Cambios
+
+
+
+
+
+I. OBJETIVO
+
+
+Establecer las pautas a seguir para el control de la salida e
+			ingreso al territorio nacional de mercancías nacionales o
+			nacionalizadas por cabotaje marítimo de carga con recalada en
+			puertos internacionales.
+II. ALCANCE
+
+
+Está dirigido al personal de la Superintendencia Nacional de
+			Aduanas y de Administración Tributaria - SUNAT, al operador de
+			comercio exterior (OCE) y al operador interviniente (OI) que
+			participan en el control de la salida e ingreso de
+carga de
+			cabotaje marítimo con recalada en puertos internacionales.
+
+
+III. RESPONSABILIDAD
+La aplicación,
+			cumplimiento y seguimiento de lo dispuesto en el presente
+			procedimiento es de responsabilidad del Intendente Nacional de
+			Desarrollo e Innovación Aduanera, del Intendente Nacional de
+			Sistemas de Información, del Intendente Nacional de Control
+			Aduanero, de los intendentes de aduana de la República, de las
+			jefaturas y del personal de las distintas unidades de organización
+			que intervienen.
+IV. DEFINICIONES Y ABREVIATURAS
+
+
+Para efectos del presente procedimiento se entiende por:
+
+			1. Buzón electrónico: A la sección ubicada dentro del portal de la
+			SUNAT (www.sunat.gob.pe) Operaciones en Línea, asignada al OCE u OI,
+			en la que se pueden depositar actos administrativos y
+			comunicaciones, conforme a lo señalado en la Resolución de
+			Superintendencia N° 014-2008/SUNAT y en el presente procedimiento.
+
+			2. Cabotaje: Al cabotaje marítimo de carga con recalada en puertos
+			internacionales. Es el transporte de carga de cabotaje que se
+			efectúa entre puertos habilitados para realizar operaciones de
+			salida e ingreso de mercancías nacionales o nacionalizadas al
+			territorio nacional con recalada en puertos internacionales.
+3.
+			CAE: A la carga a embarcarse.
+4. Carga de cabotaje: A la carga
+			nacional o nacionalizada embarcada en un puerto nacional, para ser
+			descargada en otro puerto nacional, previa recalada en puertos
+			internacionales.
+5. CE: A la carga embarcada.
+6. Clave SOL: Al
+			texto conformado por números y letras, de conocimiento exclusivo del
+			OCE u OI, que asociado al código de usuario otorga privacidad en el
+			acceso a SUNAT Operaciones en Línea.
+7. CNE: A la salida del
+			vehículo con la carga no embarcada.
+8. Documento para el
+			transporte marítimo de cabotaje: Al documento exigible para el
+			tráfico de cabotaje. En el caso de carga es el conocimiento de
+			embarque, que como mínimo tiene la siguiente información: la
+			descripción de la carga de cabotaje embarcada, puerto de
+			carga/descarga, peso/volumen, monto del flete, así como los datos
+			del embarcador y del consignatario de la carga de cabotaje.
+9.
+			Funcionario aduanero: Al personal de la SUNAT que ha sido designado
+			o encargado para desempeñar actividades o funciones en su
+			representación, ejerciendo la potestad aduanera de acuerdo con su
+			competencia.
+10. MPV - SUNAT: A la mesa de partes virtual de la
+			SUNAT, consistente en una plataforma informática disponible en el
+			portal de la SUNAT que facilita la presentación virtual de
+			documentos.
+11. RCE: A la relación de carga de cabotaje a
+			embarcarse en el medio de transporte. Tiene la condición de
+			declaración jurada.
+12. RIP: Al registro del ingreso del vehículo
+			con la carga al puerto.
+13. RUC: Al Registro Único de
+			Contribuyentes a cargo de la SUNAT.
+V. BASE LEGAL
+
+
+- Decreto Legislativo para promover y facilitar el transporte
+			marítimo en tráfico decabotaje de pasajeros y de carga, Decreto
+			Legislativo N° 1413, publicado el 13.9.2018.
+- Reglamento del
+			Decreto Legislativo N° 1413, aprobado por Decreto Supremo N°
+			029-2019-MTC, publicado el 6.8.2019.
+- Ley General de Aduanas,
+			Decreto Legislativo N°1053, publicado el 27.6.2008, y
+			modificatorias.
+- Reglamento del Decreto Legislativo N° 1053, Ley
+			General de Aduanas, aprobado por Decreto Supremo N° 010-2009-EF,
+			publicado el 16.1.2009, y modificatorias.
+- Tabla de sanciones
+			aplicables a las infracciones previstas en la Ley General de
+			Aduanas, aprobada por Decreto Supremo N° 418-2019-EF, publicado el
+			31.12.2019, y modificatoria.
+- Ley de los Delitos Aduaneros, Ley
+			N° 28008, publicada el 19.6.2003, y modificatorias.
+- Reglamento
+			de la Ley de los Delitos Aduaneros, aprobado por Decreto Supremo N°
+			121-2003-EF, publicado el 27.8.2003, y modificatorias.
+- Texto
+			Único Ordenado del Código Tributario, aprobado por Decreto Supremo
+			N° 133-2013-EF publicado el 22.6.2013, y modificatorias.
+-
+			Reglamento de Comprobantes de Pago, aprobado por Resolución de
+			Superintendencia N° 007-99/SUNAT, publicada el 24.1.1999, y
+			modificatorias.
+- Texto Único Ordenado de la Ley N° 27444 - Ley
+			del Procedimiento Administrativo General, aprobado por Decreto
+			Supremo N° 004-2019-JUS, publicado el 25.1.2019, y modificatorias.
+
+			- Mesa de partes virtual de la SUNAT, creada por Resolución de
+			Superintendencia N° 077-2020/SUNAT, publicada el 8.5.2020, y
+			modificatoria.
+VI. DISPOSICIONES GENERALES
+A.
+			CARGA DE CABOTAJE, PLAZO Y DOCUMENTOS
+1. El presente
+			procedimiento establece las disposiciones necesarias para el control
+			aduanero sobre la carga de cabotaje.
+2. Están excluidos del
+			cabotaje los líquidos a granel, distintos al gas natural
+			licuefactado.
+3. El cabotaje se realiza en un plazo máximo de
+			treinta días calendario, computado desde la fecha del término del
+			embarque en el puerto de salida hasta la fecha de llegada del medio
+			de transporte al puerto de llegada.
+4. La salida del país de
+			la carga de cabotaje se sustenta con la siguiente información:
+a)
+			RCE.
+b) Documento para el transporte marítimo de cabotaje.
+c)
+			Manifiesto de carga de salida.
+5. El ingreso al país de la
+			carga de cabotaje se sustenta con la siguiente información:
+a)
+			Documento para el transporte marítimo de cabotaje.
+b) Manifiesto
+			de carga de ingreso.
+6. La División de Control Operativo
+			realiza el control de la salida e ingreso de la carga de cabotaje
+			durante las veinticuatro horas del día.
+B.
+			OBLIGACIONES DEL TRANSPORTISTA O SU REPRESENTANTE EN EL PAÍS Y DEL
+			ADMINISTRADOR O CONCESIONARIO DE LAS INSTALACIONES PORTUARIAS
+
+
+1. EI transportista o su representante en el país, en adelante
+			el transportista, está obligado a:
+a) Transmitir a la
+			Administración Aduanera los documentos dispuestos en los numerales 4
+			y 5 del literal A de esta sección, en la forma establecida en el
+			presente procedimiento.
+b) Diferenciar la carga de cabotaje del
+			resto de la carga en el manifiesto de ingreso y de salida;
+			declarándola como tal en el campo de descripción del documento de
+			transporte consignado en el manifiesto de carga respectivo.
+c)
+			Mantener la carga de cabotaje a bordo de la nave durante su travesía
+			en el exterior. Lo anterior no aplica al desembarque que se realice
+			para la organización de la carga, siempre que se proceda a su
+			posterior embarque en la misma nave y la operación no implique la
+			apertura del contenedor o del bulto.
+2. Si producto del
+			control aduanero efectuado en el puerto extranjero se apertura el
+			contenedor o bulto, el transportista debe sustentar a su ingreso al
+			país la acción de control con la presentación de la documentación
+			correspondiente,
+a través de la MPV-SUNAT.
+3. El
+			administrador o concesionario de las instalaciones portuarias está
+			obligado a:
+a) Exigir al transportista la RCE a fin de permitirle
+			el ingreso a sus recintos.
+b) Contar con la autorización de la
+			Administración Aduanera para permitir el embarque de la carga de
+			cabotaje.
+c) Diferenciar en el registro del terminal portuario,
+			la carga de cabotaje del resto de la carga.
+C.
+			ACCIONES DE CONTROL Y MEDIDAS DE SEGURIDAD
+1. El
+			sistema informático, mediante técnicas de gestión de riesgo,
+			selecciona la carga de cabotaje que será verificada físicamente,
+			tanto a la salida como a su ingreso al país.
+Para la
+			verificación física de la carga de cabotaje se aplica el
+			procedimiento específico “Reconocimiento físico - extracción y
+			análisis de muestras” DESPA-PE.00.03, en lo que no se oponga al
+			presente procedimiento.
+La responsabilidad del funcionario
+			aduanero encargado de la verificación se circunscribe a la carga de
+			cabotaje que verificó físicamente y culmina con el registro de la
+			diligencia y la autorización correspondiente, quedando la carga de
+			cabotaje bajo responsabilidad del administrador o concesionario de
+			las instalaciones portuarias para su embarque.
+2. La carga de
+			cabotaje acondicionada en contenedores es precintada, conforme a lo
+			señalado en el procedimiento específico “Uso y control de precintos
+			aduaneros y otras obligaciones que garanticen la integridad de la
+			carga” CONTROL-PE.00.08.
+La carga de cabotaje que no está
+			acondicionada en contenedores debe contar con marcas y señales que
+			permitan su identificación y verificación.
+3. Las acciones de
+			control extraordinario se disponen conforme al procedimiento general
+			“Ejecución de acciones de control extraordinario” CONTROL-PG.02.
+
+
+D. NOTIFICACIONES Y COMUNICACIONES
+
+
+D.1) Notificaciones a través del buzón electrónico
+
+
+1. Los siguientes actos administrativos pueden ser notificados a
+			través del buzón electrónico:
+a) Requerimiento de información o
+			documentación.
+b) Resolución de determinación o multa.
+c) El
+			que declara la procedencia en parte o improcedencia de una
+			solicitud.
+d) El que declara la procedencia de una solicitud,
+			cuya ejecución se encuentra sujeta al cumplimiento de requerimientos
+			de la Administración Aduanera.
+e) El emitido de oficio por la
+			Administración Aduanera.
+2. Para la notificación a través del
+			buzón electrónico se debe considerar que:
+a) El OCE y el OI
+			cuenten con número de RUC y clave SOL.
+b) El acto administrativo
+			que se genera automáticamente por el sistema informático sea
+			transmitido al buzón electrónico del OCE o del OI, según
+			corresponda.
+c) Cuando el acto administrativo no se genera
+			automáticamente, el funcionario aduanero designado deposita en el
+			buzón electrónico del OCE o del OI un archivo en formato digital.
+
+			d) La notificación surte efecto al día hábil siguiente a la fecha de
+			depósito del documento. La confirmación de la entrega se realiza por
+			la misma vía electrónica.
+3. La Administración Aduanera puede
+			utilizar, indistintamente, las otras formas de notificación
+			establecidas en el artículo 104 del Código Tributario.
+
+
+D.2) Comunicaciones a la dirección de correo electrónico
+			consignado en la MPV-SUNAT
+1. Cuando el OCE o el OI
+			presente su solicitud a través de la MPV-SUNAT y registre una
+			dirección de correo electrónico, se obliga a:
+a) Asegurar que la
+			capacidad del buzón del correo electrónico permita recibir las
+			comunicaciones que la Administración Aduanera envíe.
+b) Activar
+			la opción de respuesta automática de recepción.
+c) Mantener
+			activa la dirección de correo electrónico hasta la culminación del
+			trámite.
+d) Revisar continuamente el correo electrónico,
+			incluyendo la bandeja de spam o de correo no deseado.
+2. Con
+			el registro de la mencionada dirección de correo electrónico en la
+			MPV-SUNAT, autoriza expresamente a la Administración Aduanera a
+			enviar a través de esta las comunicaciones que se generen en el
+			trámite de su solicitud.
+3. La respuesta del OCE o del OI a
+			las comunicaciones realizadas por la Administración Aduanera se
+			presenta a través de la MPV-SUNAT.
+VII. DESCRIPCIÓN
+
+
+A. SALIDA DE LA CARGA DE CABOTAJE
+A.1) Numeración de la
+			RCE
+1. Para transmitir la RCE se debe contar
+			previamente con la reserva de la carga o booking.
+2. El
+			transportista comunica que va a realizar la operación de cabotaje
+			marítimo de carga con recalada en puertos internacionales mediante
+			la transmisión electrónica de la RCE.
+La transmisión de la
+			RCE es realizada conforme a la estructura de transmisión de datos
+			publicada en el portal de la SUNAT. Cuando la carga de cabotaje es
+			trasladada para ayuda humanitaria, se indica esta condición en la
+			RCE.
+3. El sistema informático valida los datos de la
+			información transmitida. De ser conforme, genera automáticamente el
+			número de la RCE. De no ser conforme, comunica por el mismo medio el
+			motivo del rechazo para las correcciones pertinentes.
+4. La
+			numeración de la RCE tiene la siguiente estructura:
+
+			XXX-YYYY-CA-NNNNNN
+Donde:
+XXX : Código de la aduana
+YYYY :
+			Año
+CA : Código de la RCE
+NNNNNN : Número correlativo
+
+			5. Cuando se requiera realizar embarques parciales se numera una RCE
+			por cada embarque parcial.
+A.2) Ingreso al terminal
+			portuario y embarque de la carga
+1. El administrador
+			o concesionario portuario:
+a) Permite el ingreso de la carga de
+			cabotaje a sus recintos, previa verificación:
+a.1. De la
+			numeración de la RCE y
+a.2. Que la carga contenerizada cuente con
+			el precinto aduanero registrado en la RCE y la no contenerizada con
+			las marcas, sellos o distintivos.
+b) Registra el ingreso de la
+			carga de cabotaje a su recinto, diferenciándola del resto de la
+			carga.
+c) Implementa, adopta y mantiene las medidas de seguridad
+			de la carga o las necesarias que garanticen la integridad de la
+			carga de cabotaje bajo su responsabilidad.
+2. Cuando recibe
+			la información del RIP, el sistema informático selecciona la carga
+			de cabotaje sujeta a verificación física, mediante la aplicación de
+			técnicas de gestión de riesgo.
+El sistema informático
+			autoriza automáticamente el embarque de la carga de cabotaje que no
+			es seleccionada a verificación física.
+La RCE seleccionada se
+			muestra pendiente de verificación física en la bandeja del jefe o
+			supervisor de la División de Control Operativo, quien la asigna al
+			funcionario aduanero encargado de esa labor.
+3. El
+			transportista y el administrador o concesionario portuario consultan
+			si la RCE ha sido seleccionada para verificación física o cuenta con
+			autorización automática, a través del portal del operador de
+			comercio exterior ubicado en el portal de la SUNAT.
+4. El
+			funcionario aduanero encargado de verificar físicamente la carga de
+			cabotaje revisa la coincidencia con los datos consignados en la RCE,
+			respecto de:
+a) el número de contenedor,
+b) el número de
+			precinto aduanero,
+c) el número de bultos y
+d) la descripción
+			de la carga.
+De detectar incidencias, las notifica al buzón
+			electrónico del transportista para la subsanación, a través del
+			sistema informático, dentro del plazo de tres días hábiles contados
+			a partir del día hábil siguiente a la fecha del depósito de la
+			notificación. De no cumplirse con la subsanación dentro del plazo no
+			se autoriza el embarque.
+Cuando la verificación física es
+			conforme, reemplaza el precinto aduanero de la carga contenerizada
+			por uno nuevo y registra la diligencia en el sistema informático,
+			con lo cual se autoriza el embarque al exterior.
+5. El
+			administrador o concesionario portuario transmite la CAE.
+6.
+			El sistema informático realiza las validaciones correspondientes; de
+			ser conforme y no existir una acción de control extraordinario,
+			autoriza el embarque de la carga de cabotaje.
+7. El
+			administrador o concesionario portuario verifica que la carga de
+			cabotaje cuente con la autorización de la Administración Aduanera
+			para permitir su embarque y transmite la CE después del embarque y
+			hasta antes del zarpe de la nave.
+8. Culminado el embarque,
+			el transportista transmite el documento para el transporte marítimo
+			de cabotaje en el manifiesto de carga de salida y adiciona el número
+			de este documento en la RCE, a través de una rectificación
+			electrónica, a fin de que pueda retirar la carga de cabotaje del
+			terminal portuario en la aduana de ingreso cuando esta retorne al
+			país.
+B. INGRESO DE LA CARGA DE CABOTAJE
+
+
+1. El transportista transmite la información del manifiesto de
+			carga de ingreso, incluyendo el documento para el transporte
+			marítimo de cabotaje, de acuerdo al procedimiento general
+			“Manifiesto de Carga” DESPA-PG.09.
+2. Cuando recibe la
+			información de la descarga, el sistema informático selecciona la
+			carga de cabotaje sujeta a verificación física, mediante la
+			aplicación de técnicas de gestión de riesgo.
+La RCE que es
+			seleccionada se muestra pendiente de verificación física en la
+			bandeja del jefe o supervisor de la División de Control Operativo,
+			quien la asigna al funcionario aduanero encargado de esa labor.
+
+
+3. El transportista y el administrador o concesionario portuario
+			consultan si una RCE ha sido seleccionada para verificación física o
+			cuenta con autorización automática, a través del portal del operador
+			de comercio exterior.
+4. El transportista pone a disposición
+			de la Administración Aduanera la carga de cabotaje con el fin de
+			facilitar la realización de la labor de la verificación física.
+
+
+5. El funcionario aduanero encargado de verificar físicamente la
+			carga de cabotaje revisa la coincidencia con los datos consignados
+			en la RCE, respecto de:
+a) el número de contenedor,
+b) el
+			número de precinto aduanero,
+c) el número de bultos y
+d) la
+			descripción de la carga.
+De detectarse incidencias, las
+			notifica al buzón electrónico del transportista para la subsanación,
+			a través del sistema informático, dentro del plazo de tres días
+			hábiles contados a partir del día hábil siguiente a la fecha del
+			depósito de la notificación. De no cumplirse con la subsanación
+			dentro del plazo, aplica la medida preventiva respectiva y emite un
+			informe a su jefe inmediato para las acciones correspondientes.
+
+
+Cuando la verificación física es conforme, registra su
+			diligencia en el sistema informático, con lo cual queda autorizada
+			la salida de la carga del terminal portuario.
+6. El
+			transportista y el administrador o concesionario portuario consultan
+			la autorización de salida de la carga, a través del portal del
+			operador de comercio exterior.
+C. RECTIFICACIÓN
+
+
+1. El transportista solicita, a través del sistema informático,
+			la rectificación de la RCE siempre que no exista una acción de
+			control extraordinario.
+No son rectificables los siguientes
+			datos de la RCE:
+a) Tipo de transporte de la mercancía.
+b)
+			Número de RUC del administrador o concesionario de las instalaciones
+
+			portuarias (de salida o ingreso), cuando cuenta con el RIP.
+c)
+			Información complementaria, cuando cuenta con el RIP.
+d) Número
+			de contenedor.
+e) Tara del contenedor.
+f) Condición de la
+			carga.
+2. La solicitud de rectificación de la RCE es de:
+
+			a) Aprobación automática: en los siguientes datos, de cumplirse las
+			condiciones que se detallan:
+a.1. Cantidad de bultos y peso
+			bruto, cuando estos han sido verificados físicamente.
+a.2.
+			Información complementaria, cuando la carga de cabotaje:
+i) Es
+			trasladada en contenedor y no se cuenta con el RIP.
+ii) Es carga
+			suelta y no se cuenta con la CE.
+a.3. Número de RUC del
+			administrador o concesionario de las instalaciones portuarias,
+			cuando no se cuenta con el RIP.
+a.4. Número de precinto.
+a.5.
+			Indicador del último envío.
+a.6. Nombre de la nave, cuando antes
+			de embarcarse la mercancía se produce el cambio de la unidad de
+			transporte programada sin el retiro de la carga del puerto. Esta
+			rectificación es independiente de la transmisión de la CAE.
+b)
+			Evaluación previa: en todos los datos del inciso a), cuando se
+			cuenta con la CE.
+3. El administrador o concesionario
+			portuario solicita la rectificación del RIP, a través del sistema
+			informático.
+4. La solicitud de rectificación de los datos de
+			la RIP es de:
+a) Aprobación automática, cuando se realiza antes
+			de transmitir la:
+a.1. CAE, si la mercancía ingresa al puerto en
+			contenedor.
+a.2. CE, en los demás casos.
+b) Evaluación previa,
+			cuando se realiza después de haberse efectuado las
+			transmisiones señaladas en el inciso a).
+5. El transportista,
+			o el administrador o concesionario portuario presenta la
+			documentación sustentatoria de la solicitud de rectificación con
+			evaluación previa en forma digitalizada a través del portal de la
+			SUNAT, utilizando su RUC y clave SOL, conforme al anexo II del
+			procedimiento específico “Actos relacionados con la salida de
+			mercancías y medios de transporte” DESPAPE.00.21, con indicación del
+			número de requerimiento asignado, dentro del plazo de tres días
+			hábiles contados a partir del día siguiente de numerada la
+			solicitud. En caso contrario se tiene por no presentada.
+La
+			solicitud de aprobación automática no requiere que se adjunten
+			documentos.
+6. El funcionario aduanero asignado por el
+			sistema informático verifica la información y los documentos
+			digitalizados, registra el resultado de su evaluación en el sistema
+			informático y comunica la procedencia o notifica su improcedencia a
+			través del buzón electrónico.
+Si como resultado de la
+			evaluación requiere documentos adicionales, notifica al
+			transportista, o al administrador o concesionario portuario, a
+			través del buzón electrónico.
+7. El transportista, o el
+			administrador o concesionario portuario puede desistirse de una
+			solicitud de rectificación pendiente de atención, a través del
+			portal de la SUNAT. Este desistimiento es de aprobación automática.
+
+
+D. ANULACIÓN
+1. El transportista
+			solicita la anulación de la RCE, a través del sistema informático,
+			hasta antes del ingreso de la carga de cabotaje al terminal
+			portuario, siempre que no exista una acción de control
+			extraordinario.
+2. El administrador o concesionario portuario
+			solicita la anulación de los siguientes actos relacionados, siempre
+			que se cumplan las condiciones que se detallan:
+a) RIP : hasta
+			antes de transmitir la CAE.
+b) CAE : hasta antes de transmitir la
+			CE.
+c) CE : hasta la fecha estimada de salida.
+3. La
+			solicitud de anulación es de aprobación automática, salvo que exista
+			una acción de control extraordinario.
+4. El administrador o
+			concesionario portuario registra la CNE correspondiente a la carga
+			de cabotaje que ingresó al terminal portuario y no fue embarcada,
+			con lo cual el sistema informático anula la RCE.
+E.
+			CASOS ESPECIALES
+E.1) Caso fortuito o de fuerza mayor
+
+
+El cabotaje se realiza en el plazo previsto en el
+			numeral 3 del literal A de la sección VI, salvo caso fortuito o
+			fuerza mayor debidamente acreditado conforme a lo dispuesto en el
+			artículo 138 de la Ley General de Aduanas.
+E.2)
+			Cambio de puerto de llegada
+El transportista
+			solicita a la intendencia de aduana de salida, a través de la
+			MPV-SUNAT, el cambio del puerto de llegada dentro del plazo
+			establecido en el numeral 3 del literal A de la sección VI y antes
+			del arribo del medio de transporte al puerto de llegada, con el
+			sustento correspondiente.
+El funcionario aduanero designado
+			para la evaluación comunica al transportista, a través de su correo
+			electrónico registrado en la MPVSUNAT, el resultado de la solicitud,
+			así como el cambio del puerto de llegada a las intendencias de
+			aduana involucradas.
+VIII.VIGENCIA
+A
+			partir del 31 de enero de 2023.
+IX. ANEXO
+
+
+No aplica.

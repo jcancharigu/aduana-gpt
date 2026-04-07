@@ -1,0 +1,1138 @@
+Despacho - Procedimientos Asociados
+
+
+PROCEDIMIENTO ESPECIFICO:
+
+
+SOLICITUD DE RECTIFICACIÓN ELECTRÓNICA DE DECLARACIÓN
+
+
+Proc:
+
+
+DESPA-PE.00.11
+
+
+Solicitud
+
+						de Rectificación Electrónica de Declaración
+
+
+Versión:
+
+ 3
+
+
+Publicación:
+
+
+ 11/05/2020
+
+
+Resolución:
+
+
+						079/2020
+
+
+Fecha Res.:
+
+
+09/05/2020
+
+
+Vigencia:
+
+
+					  31.08.2020
+
+
+
+Lista:
+
+Maestra
+
+
+Circulares Anexas
+
+
+Control de
+
+ Cambios
+
+
+I. OBJETIVO
+
+
+Establecer las pautas a seguir
+
+para solicitar la rectificación de la declaración aduanera de mercancías.
+
+
+II. ALCANCE
+
+
+Está dirigido al personal de
+
+la Superintendencia Nacional de Aduanas y de Administración Tributaria - SUNAT,
+
+a los operadores de comercio exterior y a los operadores intervinientes que
+
+solicitan la rectificación de una declaración aduanera de mercancías.
+
+
+III. RESPONSABILIDAD
+
+
+La aplicación, cumplimiento y
+
+seguimiento de lo dispuesto en el presente procedimiento es de responsabilidad
+
+del Intendente Nacional de Desarrollo e Innovación Aduanera, del Intendente
+
+Nacional de Sistemas de Información, del Intendente Nacional de Control
+
+Aduanero, de los intendentes de aduana de la República y de las jefaturas y
+
+personal de las distintas unidades de organización que intervienen.
+
+
+IV. DEFINICIONES Y
+
+ABREVIATURAS
+
+
+Para efectos del presente procedimiento se entiende
+
+por:
+
+
+1.
+ Buzón electrónico
+: A la sección
+
+ubicada dentro del portal de la SUNAT (www.sunat.gob.pe) Operaciones en Línea,
+
+asignada al operador de comercio exterior u operador interviniente,
+
+
+en la que se pueden depositar actos administrativos y
+
+comunicaciones conforme a lo señalado en la Resolución de Superintendencia N°
+
+014-2008/SUNAT y en el presente procedimiento
+.
+
+
+(RS N°
+
+276-2024/SUNAT - 09.12.2024)
+2.
+ CDA
+: Al código de documento
+
+aduanero.
+3.
+
+
+Clave Sol
+: Al texto conformado por números y letras, de conocimiento
+
+exclusivo del operador de comercio exterior u operador interviniente, que
+
+asociado al código de usuario otorga privacidad en el acceso a SUNAT Operaciones
+
+en Línea.
+4.
+
+
+Código de usuario
+: Al texto conformado por números y letras, que
+
+permite identificar al operador de comercio exterior u operador interviniente
+
+que ingresa a SUNAT Operaciones en Línea.
+
+
+5.
+Declaración
+: A la declaración
+
+aduanera de mercancías.
+
+
+6.
+Funcionario aduanero
+: Al personal de la SUNAT designado o
+
+encargado para desempeñar actividades o funciones en su representación,
+
+ejerciendo la potestad aduanera de acuerdo con su competencia.
+
+
+7.
+OCE
+: Al operador de comercio
+
+exterior.
+8.
+OI
+:
+
+Al operador interviniente.
+
+
+9.
+ RUC:
+ Al Registro Único de
+
+Contribuyentes a cargo de la Superintendencia Nacional de Aduanas y
+
+Administración Tributaria - SUNAT.
+10.
+
+
+MPV-SUNAT:
+ A la mesa de partes virtual de la SUNAT consistente en una
+
+plataforma informática disponible en el portal de la SUNAT que facilita la
+
+presentación virtual de documentos
+.
+
+
+(RS N°
+
+276-2024/SUNAT - 09.12.2024)
+
+
+V. BASE LEGAL
+
+
+- Ley General de Aduanas, Decreto Legislativo Nº 1053,
+
+publicado el 27.6.2008, y modificatorias; en adelante, la Ley.
+
+
+- Reglamento del Decreto
+
+Legislativo Nº 1053, Ley General de Aduanas, aprobado por el Decreto Supremo Nº
+
+010-2009-EF, publicado el 16.1.2009, y modificatorias; en adelante, el
+
+Reglamento.
+- Texto
+
+Único Ordenado del Código Tributario aprobado por el Decreto Supremo Nº
+
+133-2013-EF, publicado el 22.6.2013, y modificatorias.
+
+
+- Texto Único Ordenado de la Ley Nº 27444 - Ley del
+
+Procedimiento Administrativo General aprobado por el Decreto Supremo N°
+
+004-2019-JUS, publicado el 25.1.2019.
+-
+Resolución
+
+de Superintendencia N° 077-2020/SUNAT que crea la Mesa de partes virtual de la
+
+SUNAT, publicada el 8.5.2020 y modificatoria
+.
+
+
+(RS N°
+
+276-2024/SUNAT - 09.12.2024)
+
+
+VI. DISPOSICIONES GENERALES
+
+
+1. El presente procedimiento
+
+regula la rectificación de la declaración solicitada mediante la transmisión por
+
+medios electrónicos, expediente o a través de la
+
+
+MPV-SUNAT
+.
+
+
+(RS N°
+
+276-2024/SUNAT - 09.12.2024)
+
+
+También se considera
+
+rectificación la anulación o apertura de series para mercancías amparadas en una
+
+declaración.
+
+
+2. No es materia de rectificación:
+a) El número de
+
+la cuenta corriente de la garantía a que se refiere el artículo 160 de la Ley.
+
+Esta disposición no aplica a la solicitud de rectificación transmitida por el
+
+operador económico autorizado para modificar la garantía nominal por una fianza
+
+o póliza de caución cuando cambia de modalidad de despacho anticipado a
+
+diferido.
+b) La incorporación de la garantía a que se refiere el artículo 160
+
+de la Ley cuando se trate de mercancías en abandono legal por vencimiento de
+
+plazo para la destinación aduanera.
+c) La declaración cuyas mercancías tengan
+
+la condición de dispuestas según la sección novena de la Ley o los datos de
+
+aquellas series de las declaraciones que tengan dicha condición.
+d)
+
+
+El número de RUC del dueño o consignatario de la
+
+declaración
+.
+
+
+(RS N°
+
+276-2024/SUNAT - 30.06.2025)
+
+
+3. La rectificación de la
+
+declaración se realiza a pedido de parte o de oficio, en las condiciones
+
+dispuestas en el presente procedimiento, determinándose la deuda tributaria
+
+aduanera y los recargos que correspondan.
+
+
+La rectificación de la
+
+declaración no exime de la aplicación de las sanciones por la comisión de las
+
+infracciones, salvo disposición legal en contrario.
+
+
+4. Cuando la solicitud de
+
+rectificación electrónica incida en algún dato relacionado con el manifiesto de
+
+carga o con un régimen aduanero de precedencia de la declaración, el sistema
+
+informático, en forma automática o con la conformidad del funcionario aduanero,
+
+actualiza la información de los datos de la cuenta corriente de los regímenes
+
+aduaneros de precedencia. De ser el caso, el funcionario aduanero encargado
+
+comunica al área competente para la determinación de las infracciones que
+
+correspondan.
+
+
+Cuando la solicitud de rectificación se presenta
+
+
+a través de la MPV-SUNAT
+, la actualización de
+
+lo señalado en el párrafo precedente la efectúa el funcionario aduanero.
+
+
+(RS N°
+
+276-2024/SUNAT - 09.12.2024)
+
+
+5. En la solicitud de
+
+rectificación electrónica, los datos consignados originalmente en la
+
+declaración, los datos rectificados, así como los documentos y actos que se
+
+generen en el procedimiento se visualizan en el portal de la SUNAT.
+
+
+6. La notificación de los
+
+siguientes actos administrativos puede ser realizada al buzón electrónico:
+
+
+a) El requerimiento de información o documentación
+
+sustentatoria.
+b) La
+
+resolución de determinación o de multa.
+
+
+c) La resolución que declara la procedencia en parte o
+
+improcedencia de la solicitud de rectificación.
+
+
+d) La resolución que declara la procedencia de la
+
+solicitud de rectificación y cuya ejecución se encuentra sujeta al cumplimiento
+
+de requerimientos de la Administración Aduanera.
+
+
+e) El cambio de canal de control debido a la
+
+reevaluación del riesgo.
+
+
+7. Para la notificación por medios electrónicos se
+
+debe tener en cuenta que:
+a) El OCE y el OI cuenten con número de RUC y clave
+
+SOL.
+b) El acto administrativo que se genere automáticamente por el sistema
+
+informático sea transmitido al buzón electrónico del OCE o del OI, según
+
+corresponda.
+c) El acto administrativo que no se genere automáticamente sea
+
+depositado en el buzón electrónico del OCE o del OI, según corresponda, en
+
+formato de documento portátil (PDF).
+d) La notificación se considera
+
+efectuada
+en la fecha del depósito del documento y
+
+surte efecto desde el día hábil siguiente al de su depósito.
+ La
+
+confirmación de la entrega se realiza por la misma vía electrónica.
+
+
+(RS N°
+
+276-2024/SUNAT - 09.12.2024)
+
+
+8.
+Numeral derogado
+.
+
+
+(RS N°
+
+276-2024/SUNAT - 09.12.2024)
+
+
+9.
+
+
+Numeral derogado
+.
+
+
+(RS N°
+
+276-2024/SUNAT - 09.12.2024)
+
+
+10. Las disposiciones
+
+específicas sobre rectificación de la declaración previstas en el procedimiento
+
+que regula el régimen prevalecen sobre lo establecido en el presente
+
+procedimiento.
+
+
+VII. DESCRIPCIÓN
+
+
+A. SOLICITUD DE RECTIFICACIÓN
+
+
+1. La solicitud de
+
+rectificación:
+a) Se transmite por medios electrónicos en los casos previstos
+
+en los literales B y C
+de la presente sección
+,
+
+indicando el motivo y los datos a rectificar.
+b) Se presenta
+
+
+a través de la MPV-SUNAT los casos detallados en el
+
+literal E de la presente sección
+, en tanto se implemente el sistema
+
+informático para su atención
+y de manera excepcional,
+
+en casos debidamente justificados, cuando no sea posible efectuar la transmisión
+
+electrónica
+.
+c) Se tiene por presentada cuando se cumpla con
+
+transmitir o presentar la documentación sustentatoria solicitada, según
+
+corresponda.
+
+
+(RS N° 276-2024/SUNAT - 09.12.2024)
+
+
+2. Es de aprobación automática
+
+la solicitud de rectificación transmitida por medios electrónicos que no tenga
+
+una medida preventiva
+o una acción de control
+
+extraordinario
+ pendiente dispuesta sobre las mercancías por la autoridad
+
+aduanera y que se solicite:
+a) Antes de la asignación del canal de control.
+
+
+b) Con posterioridad a la asignación del canal de control, únicamente en el
+
+régimen de importación para el consumo en la modalidad de despacho anticipado
+
+
+que se transmita
+:
+
+
+(RS N° 276-2024/SUNAT - 30.06.2025)
+b.1. En todos los canales de
+
+control: hasta antes de la salida de la mercancía del punto de llegada, cuando
+
+se solicite rectificar:
+
+
+i) El punto de llegada a depósito temporal o a
+
+terminal portuario
+ii)
+
+El tipo de lugar de descarga, tipo de punto de llegada, número de RUC del punto
+
+de llegada y su local anexo.
+
+
+(RS N° 276-2024/SUNAT - 30.06.2025)
+
+
+b.2. En el canal de control
+
+verde: hasta antes de los quince días calendario siguientes a la fecha del
+
+término de la descarga o del levante, lo que ocurra primero, o hasta antes de
+
+los quince días calendario siguientes a la fecha del término de la descarga en
+
+el caso de la declaración numerada por un importador certificado como operador
+
+económico autorizado, siempre que:
+
+
+i) No se rectifique el número de documento de
+
+transporte, el número de la factura o su fecha; o la rectificación no genere
+
+tributos o recargos dejados de pagar.
+
+
+ii) Se rectifique el número del documento de
+
+transporte, el número de la factura o su fecha o algún dato que genere tributos
+
+o recargos dejados de pagar y además se transmita:
+
+
+- Antes de la llegada del medio de transporte en las
+
+vías marítima, terrestre y fluvial, o antes de las veinticuatro horas desde la
+
+llegada del medio de transporte en la vía aérea, o
+
+
+- Después de la llegada del medio de transporte en
+
+las vías marítima, terrestre y fluvial, o después de las veinticuatro horas
+
+desde la llegada del medio de transporte en la vía aérea. En este caso, se
+
+transmite la autoliquidación de la multa cancelada, cuando corresponda.
+
+
+iii) No se trate de la adición de una nueva serie
+.
+
+
+
+(RS N° 276-2024/SUNAT - 30.06.2025)
+
+
+3. El cambio de modalidad de
+
+despacho anticipado a diferido y las demás solicitudes de rectificación no
+
+consideradas en el numeral 2 precedente se encuentran sujetas a evaluación
+
+previa
+.
+
+
+(RS N° 276-2024/SUNAT - 30.06.2025)
+
+
+B. SOLICITUD DE RECTIFICACIÓN ELECTRÓNICA DE
+
+APROBACIÓN AUTOMÁTICA
+
+
+1. El OCE transmite la
+
+solicitud de rectificación indicando el motivo y los datos a rectificar.
+
+
+2.
+
+Cuando la solicitud de rectificación no incide en la liquidación de los
+
+tributos, intereses o recargos aplicables, el sistema informático rectifica
+
+automáticamente la declaración con los datos transmitidos.
+
+
+3. Cuando la solicitud de
+
+rectificación incide en la liquidación de los tributos, intereses o recargos
+
+aplicables, se trate del régimen de importación para el consumo y:
+
+
+a) La declaración está
+
+amparada con la garantía a que se refiere el artículo 160 de la Ley y esta se
+
+encuentra vigente y con saldo operativo suficiente, el sistema informático
+
+realiza las siguientes acciones:
+
+
+a.1) Si la deuda tributaria aduanera de la declaración
+
+no está cancelada, sin suspender el plazo para su cancelación:
+
+
+- Reliquida los tributos, intereses o recargos
+
+aplicables.
+- Genera un
+
+nuevo CDA.
+- De contar
+
+con liquidaciones de cobranza tipo 0022 por concepto de impuesto selectivo al
+
+consumo (en adelante ISC) o tipo 0038 de percepción del impuesto general a las
+
+ventas (en adelante IGV), las anula y genera nuevas liquidaciones de cobranza
+
+por el monto reliquidado.
+
+
+- Afecta el saldo operativo de la garantía con los
+
+nuevos montos producto de la reliquidación.
+
+
+- Rectifica la declaración con los datos transmitidos.
+
+
+a.2) Si la deuda
+
+tributaria aduanera de la declaración está cancelada:
+
+
+- Genera la liquidación de cobranza (tipo 0010) por
+
+los tributos, intereses o recargos diferenciales en dólares; de existir montos
+
+diferenciales en soles por concepto de percepción del IGV o ISC, se genera las
+
+liquidaciones de cobranza tipo 0038 y 0022, producto de la rectificación.
+
+
+- Afecta el saldo operativo de
+
+la garantía por el monto de las liquidaciones de cobranza generadas.
+
+
+- Rectifica la declaración con
+
+los datos transmitidos.
+
+
+b) La declaración no está amparada con la garantía a que se refiere el artículo
+
+160 de la Ley o esta no se encuentra vigente o no cuenta con saldo operativo
+
+suficiente, el sistema informático realiza las siguientes acciones:
+
+
+b.1) Si la deuda tributaria aduanera de la declaración
+
+no está cancelada, sin suspender el plazo para su cancelación:
+
+
+- Reliquida los tributos,
+
+intereses o recargos aplicables.
+
+
+- Genera un nuevo CDA.
+
+
+- De contar con liquidaciones de cobranza tipo 0022 o
+
+tipo 0038, las anula y genera nuevas liquidaciones de cobranza por el monto
+
+reliquidado, de corresponder.
+
+
+- Rectifica la declaración con los datos transmitidos.
+
+
+b.2) Si la declaración
+
+está cancelada:
+-
+
+Verifica que los tributos, intereses y recargos diferenciales producto de la
+
+rectificación se encuentren cancelados con las autoliquidaciones enviadas por
+
+concepto de tributos (tipo 0026 y tipo 0038).
+
+
+- Rectifica la declaración con los datos transmitidos;
+
+en caso contrario, rechaza la transmisión y envía al OCE el motivo del rechazo.
+
+
+4. Cuando se solicite la
+
+inclusión de la garantía a que se refiere el artículo 160 de la Ley:
+
+
+a) el número del RUC del consignatario de la
+
+declaración debe coincidir con el número de RUC del beneficiario de la cuenta
+
+corriente de la garantía,
+
+
+b) la garantía debe tener saldo operativo suficiente y
+
+encontrarse vigente a la fecha de numeración de la declaración y a la fecha de
+
+transmisión de la rectificación,
+
+
+c) el CDA de la declaración o sus liquidaciones
+
+complementarias no deben encontrarse cancelados,
+
+
+d) no debe existir autoliquidación por tributos
+
+asociada a la declaración, y
+
+
+e) la mercancía no debe estar en situación de abandono
+
+legal.
+
+
+De ser conforme, el sistema informático rectifica la
+
+declaración con los datos transmitidos.
+
+
+C. SOLICITUD DE
+
+RECTIFICACIÓN ELECTRÓNICA SUJETA A EVALUACIÓN PREVIA
+
+
+C.1 Transmisión
+
+
+1. El OCE transmite la solicitud de rectificación
+
+indicando el motivo y los datos a rectificar.
+
+
+2. Tratándose del régimen de
+
+importación para el consumo, cuando la solicitud de rectificación incide en la
+
+liquidación de los tributos, intereses o recargos aplicables y la declaración se
+
+encuentre cancelada o no esté amparada con la garantía a que se refiere el
+
+artículo 160 de la Ley (o esta no se encuentra vigente o no cuente con saldo
+
+operativo suficiente), el OCE transmite las autoliquidaciones canceladas por los
+
+tributos, intereses o recargos diferenciales.
+
+
+3. Cuando el OCE solicite la
+
+inclusión de la garantía a que se refiere el artículo 160 de la Ley y la deuda
+
+tributaria aduanera se encuentra pendiente de pago, se procede conforme a lo
+
+dispuesto en el numeral 4 del literal B.
+
+
+4. El sistema informático
+
+valida los datos enviados y de estar conforme notifica al buzón electrónico del
+
+OCE el requerimiento para la presentación de los documentos digitalizados.
+
+
+En caso contrario, el sistema
+
+informático rechaza la transmisión y envía el motivo del rechazo al OCE.
+
+
+5. La solicitud de
+
+rectificación de una declaración con modalidad de despacho anticipado o urgente
+
+transmitida dentro del plazo establecido para la regularización suspende este
+
+plazo durante el tiempo de atención de la rectificación.
+
+
+El plazo de suspensión se
+
+computa desde la fecha de aceptación de la transmisión de la solicitud de
+
+rectificación hasta la fecha del registro del resultado de la solicitud por
+
+parte del funcionario aduanero. Cuando la solicitud de rectificación se haya
+
+presentado en el décimo quinto día calendario siguiente a la fecha del término
+
+de la descarga, el plazo para la regularización se suspende por dos días
+
+calendario contados a partir de la fecha del registro del resultado de la
+
+solicitud.
+
+
+C.2 Presentación de documentos
+
+
+1. Dentro del plazo de tres días siguientes de
+
+transmitida la solicitud de rectificación, el OCE ingresa al portal de la SUNAT
+
+con su código de usuario y clave SOL y adjunta la documentación sustentatoria
+
+digitalizada.
+
+
+2. De no presentarse la documentación sustentatoria en
+
+el plazo antes señalado se entiende por no transmitida la solicitud de
+
+rectificación.
+
+
+3. Cuando no haya mandato vigente, el OCE presenta
+
+adicionalmente el anexo II “Autorización para la rectificación”.
+
+
+4. El funcionario aduanero
+
+encargado de la evaluación de la solicitud de rectificación puede requerir
+
+documentación complementaria, efectuar el reconocimiento físico de las
+
+mercancías o aplicar cualquier otra medida que estime necesaria.
+
+
+C.3 Evaluación
+
+
+1. El sistema informático
+
+asigna la solicitud de rectificación:
+
+
+a) Al funcionario aduanero que tiene a su cargo la
+
+declaración asignada:
+-
+
+A canal naranja o rojo y sin registro de diligencia de despacho.
+
+
+- Al proceso post levante.
+
+
+b) Al funcionario aduanero que tiene a su cargo la
+
+evaluación de las solicitudes de rectificación de las declaraciones:
+
+
+- Asignadas a canal naranja o
+
+rojo y que cuentan con la diligencia de despacho.
+
+
+- Asignadas a canal verde.
+
+
+- Sin canal de control que cuenten con medida
+
+preventiva
+o acción de control extraordinario
+.
+
+
+(RS N°
+
+276-2024/SUNAT - 09.12.2024)
+
+
+2. De ser procedente o procedente en parte la
+
+rectificación, el funcionario aduanero, sin requerir informe previo, registra en
+
+el sistema informático la procedencia de la rectificación con el sustento
+
+correspondiente. Si la rectificación solicitada no incide en la liquidación de
+
+los tributos, intereses o recargos aplicables, el sistema informático convierte
+
+en definitivos los datos temporalmente registrados.
+
+
+Si la
+
+rectificación incide en la liquidación de los tributos, intereses o recargos
+
+aplicables, el sistema informático valida que se encuentren cancelados o
+
+garantizados, según corresponda; realiza las acciones previstas en el numeral 3
+
+del literal B de la presente sección en lo que le es aplicable y convierte en
+
+definitivos los datos temporalmente registrados. De no encontrarse cancelados
+
+los tributos, intereses y recargos diferenciales, la solicitud queda pendiente
+
+de evaluación por parte de la autoridad aduanera hasta la cancelación total de
+
+la deuda tributaria aduanera.
+
+
+Después del levante, no se
+
+genera liquidación de cobranza por concepto de percepción.
+
+
+3. Antes del registro de la
+
+diligencia de despacho, de la diligencia de regularización y de la diligencia
+
+post levante, el funcionario aduanero resuelve la solicitud de rectificación
+
+asociada a la declaración pendiente de atención.
+
+
+4. Si como resultado de la
+
+evaluación, el funcionario aduanero requiere documentos adicionales, efectúa la
+
+notificación al buzón electrónico del OCE. La documentación solicitada se
+
+transmite de manera digitalizada a través del portal de la SUNAT.
+
+
+5. La procedencia en parte e
+
+improcedencia de la rectificación se registra en el sistema informático con el
+
+sustento respectivo dejando sin efecto el archivo temporal y se notifica el acto
+
+administrativo correspondiente al buzón electrónico.
+
+
+6. Cuando la documentación
+
+presentada no guarde relación con la información transmitida en la solicitud de
+
+rectificación, el funcionario aduanero notifica al OCE las inconsistencias
+
+encontradas otorgándole un plazo no menor de tres días hábiles para la
+
+subsanación respectiva. De no subsanarse las observaciones formuladas en el
+
+plazo otorgado, se determina la improcedencia de la rectificación.
+
+
+7.
+
+Cuando lo solicita el interesado, el funcionario aduanero puede registrar en el
+
+sistema el rechazo de la solicitud de rectificación, a fin de que pueda volver a
+
+transmitir la rectificación con los datos correctos.
+
+
+D. REVALUACIÓN DEL RIESGO
+
+
+1. Si
+
+la solicitud de rectificación electrónica es transmitida antes del levante, el
+
+sistema informático revalúa el riesgo y puede asignar un nuevo canal de control
+
+a la declaración, acto que se notifica al buzón electrónico del OCE.
+
+
+2.
+
+Cuando se asigna un nuevo canal de control se prosigue con el trámite que
+
+corresponde al nuevo canal.
+
+
+E. CASOS ESPECIALES
+
+
+1. La rectificación de la
+
+declaración de importación para el consumo que ampara vehículos y cuenta con
+
+levante autorizado se solicita mediante expediente cuando el propietario actual
+
+del vehículo no es el importador.
+
+
+2. La documentación requerida
+
+para solicitar la rectificación de la declaración de importación para el consumo
+
+que ampara vehículos es la siguiente:
+
+
+a) Copia del documento de transporte, factura
+
+comercial, ficha técnica, reporte de inspección, informe de verificación o
+
+certificado de inspección, según corresponda, y demás documentos que amparan el
+
+despacho. No es exigible la documentación señalada cuando el propietario no es
+
+el importador.
+b)
+
+Original del certificado policial de identificación vehicular. Verificado el
+
+documento, se devuelve al solicitante el certificado original.
+
+
+c) Anexo II “Autorización para la rectificación”,
+
+cuando corresponda.
+d)
+
+Anexo III “Declaración jurada”.
+
+
+e) Original del poder otorgado por instrumento público
+
+o privado con firma legalizada notarialmente que autorice realizar el trámite a
+
+otra persona.
+f) Copia
+
+legalizada del contrato de compraventa o del documento con el cual adquirió el
+
+vehículo cuando el propietario no es el importador.
+
+
+3. Cuando la autoridad
+
+aduanera lo requiera, el solicitante debe presentar el vehículo para su examen
+
+físico en el lugar determinado por dicha autoridad, así como la documentación
+
+que resulte necesaria.
+
+
+VIII. VIGENCIA
+
+
+A partir del 31 de
+
+agosto de 2020.
+
+
+IX. ANEXOS
+
+
+Anexo I :
+
+
+Anexo derogado
+
+
+
+(RS N°
+
+276-2024/SUNAT - 09.12.2024)
+
+
+Anexo II :
+
+
+Autorización para la rectificación.
+
+
+Anexo III :
+
+
+Declaración jurada.

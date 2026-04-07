@@ -1,0 +1,268 @@
+Despacho - Procedimientos Asociados
+
+
+PROCEDIMIENTO ESPECIFICO: CONTINUACION
+
+TRAMITE DE DESPACHO
+
+
+Proc:
+
+
+
+DESPA-PE.00.04
+
+
+Continuación Trámite de
+
+ Despacho
+
+
+Versión:
+
+
+ 3
+
+
+Publicación:
+
+
+ 27/01/2020
+
+
+Resolución:
+ 017-2020-SUNAT
+
+
+Fecha Res.:
+
+
+24/01/2020
+
+
+Vigencia:
+ 28/01/2020
+
+
+
+Lista:
+
+
+Maestra
+
+
+Circulares Anexas
+
+
+Control de
+
+ Cambios
+
+
+
+
+
+I. OBJETIVO
+Establecer las pautas a seguir
+
+		  para la continuación del trámite de despacho por un agente de aduana
+
+		  distinto al que lo inició.
+II. ALCANCE
+
+
+Está dirigido al personal de la Superintendencia Nacional de
+
+		  Aduanas y de Administración Tributaria - SUNAT, a los agentes de
+
+		  aduana y a los dueños, consignatarios o consignantes.
+
+
+		  III. RESPONSABILIDAD
+La aplicación, cumplimiento y
+
+		  seguimiento de lo dispuesto en el presente procedimiento es de
+
+		  responsabilidad del Intendente Nacional de Desarrollo e Innovación
+
+		  Aduanera, del Intendente Nacional de Sistemas de Información, del
+
+		  Intendente Nacional de Control Aduanero, de los intendentes de aduana
+
+		  de la República y de las jefaturas y personal de las distintas
+
+		  unidades de organización que intervienen.
+IV.
+
+		  DEFINICIONES Y ABREVIATURAS
+Para efectos del presente
+
+		  procedimiento se entiende por:
+DAM: A la declaración aduanera
+
+		  de mercancías.
+V. BASE LEGAL
+- Ley
+
+		  General de Aduanas, aprobada por Decreto Legislativo Nº 1053,
+
+		  publicado el 27.6.2008, y modificatorias.
+- Reglamento del Decreto
+
+		  Legislativo Nº 1053, Ley General de Aduanas, aprobado por Decreto
+
+		  Supremo Nº 010-2009-EF, publicado el 16.1.2009, y modificatorias.
+
+
+		  - Texto Único Ordenado de la Ley Nº 27444 - Ley del Procedimiento
+
+		  Administrativo General, aprobado por Decreto Supremo N° 004-2019-JUS,
+
+		  publicado el 25.1.2019.
+- Código Civil, Decreto Legislativo N° 295,
+
+		  publicado el 25.7.1984, y modificatorias.
+VI.
+
+		  DISPOSICIONES GENERALES
+1. Para efectos del presente
+
+		  procedimiento, el mandato es el acto por el cual el dueño,
+
+		  consignatario o consignante encomienda el despacho aduanero de sus
+
+		  mercancías a un agente de aduana, que lo acepta por cuenta y riesgo de
+
+		  aquellos.
+2. El dueño, consignatario o consignante está
+
+		  facultado para disponer la continuación del trámite de un despacho
+
+		  aduanero por un agente de aduana distinto al que lo inició.
+3.
+
+		  El agente de aduana que va a continuar con el trámite de despacho
+
+		  aduanero debe encontrarse autorizado para operar dentro de la
+
+		  circunscripción en la que se numeró la DAM.
+4. El registro de
+
+		  la continuación del trámite de despacho de la DAM numerada a través
+
+		  del Sistema de Despacho Aduanero (SDA) se realiza en el portal de la
+
+		  SUNAT. En los demás casos, el registro lo realiza la autoridad
+
+		  aduanera previa presentación del anexo único.
+5. El agente de
+
+		  aduana que inició el despacho aduanero es responsable por los actos
+
+		  realizados desde la numeración de la DAM hasta la aceptación
+
+		  electrónica de la continuación del trámite de despacho por el otro
+
+		  agente de aduana o el registro por la Administración Aduanera, según
+
+		  corresponda, momento a partir del cual el nuevo agente de aduana asume
+
+		  la responsabilidad.
+6. Cuando el registro de la continuación
+
+		  del trámite de despacho se origine por la cancelación, revocación o
+
+		  inhabilitación del agente que lo inició, la actualización en el
+
+		  sistema informático de la SUNAT constituye su autorización.
+7.
+
+		  La información sobre el cambio de agente de aduana puede ser
+
+		  consultada en el portal de la SUNAT.
+VII. DESCRIPCIÓN
+
+
+A. Registro electrónico
+1. El dueño,
+
+		  consignante o consignatario accede al portal de la SUNAT en la opción
+
+		  “Registro de solicitud de continuación de trámite” e ingresa la
+
+		  siguiente información:
+a) Número de la DAM, aduana, año y régimen.
+
+
+		  b) Número del RUC del agente de aduana que continuará el trámite.
+
+
+		  c) Motivo del cambio del agente de aduana.
+2. El agente de
+
+		  aduana que continuará el trámite accede al portal de la SUNAT en la
+
+		  opción “Aceptación de solicitud de continuación de trámite” e ingresa
+
+		  el número de la DAM. A partir de ese momento se considera efectuado el
+
+		  registro para la continuación de dicho trámite.
+La aceptación
+
+		  por parte del agente de aduana debe realizarse dentro del plazo de
+
+		  tres días hábiles computado a partir del día siguiente del ingreso de
+
+		  la información señalada en el numeral 1; de no realizarse la
+
+		  aceptación en dicho plazo, se tiene por no efectuado el trámite de
+
+		  registro.
+3. Efectuado el registro de la aceptación de la
+
+		  continuación del trámite de despacho, el sistema informático actualiza
+
+		  la información de la DAM y del mandato electrónico y comunica el
+
+		  resultado a través del buzón electrónico al dueño, consignatario o
+
+		  consignante, al agente de aduana que inició el despacho aduanero y al
+
+		  que continuará su trámite.
+B. Registro con formato
+
+		  físico
+1. El dueño, consignatario o consignante
+
+		  presenta mediante expediente el formato del anexo único para el
+
+		  registro de la continuación del trámite de despacho por otro agente de
+
+		  aduana.
+El funcionario aduanero designado recibe el formato y
+
+		  le asigna el código de expediente 3032.
+2. De ser conforme, el
+
+		  funcionario aduanero designado registra en el sistema el cambio de
+
+		  agente de aduana y notifica al dueño, consignatario o consignante, al
+
+		  agente de aduana que inició el despacho aduanero y al que continuará
+
+		  el trámite; de no ser conforme, notifica los motivos de la no
+
+		  conformidad.
+VIII. VIGENCIA
+El
+
+		  presente procedimiento entra en vigencia al día siguiente de su
+
+		  publicación.
+IX. ANEXO
+Anexo Único:
+
+
+
+
+		  Formato de registro de continuación del trámite de despacho.

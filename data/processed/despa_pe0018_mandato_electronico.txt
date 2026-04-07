@@ -1,0 +1,546 @@
+Despacho - Procedimientos Asociados
+
+
+PROCEDIMIENTO ESPECIFICO:
+
+MANDATO ELECTRÓNICO
+
+
+
+
+Proc:
+
+
+
+
+
+						DESPA-PE.00.1
+8
+
+
+						Nombre:"Mandato Electrónico"
+
+
+Versión:
+
+
+1
+
+
+Publicación:
+
+
+ 13/09/2017
+
+
+Resolución:
+
+
+						06-2017
+
+
+Fecha Res.:
+
+
+08/09/2017
+
+
+Vigencia:
+
+
+						25/09/2017
+
+
+
+Lista:
+
+Maestra
+
+
+Circulares Anexas
+
+
+Control de
+
+ Cambios
+
+
+
+
+
+			I. OBJETIVO
+
+
+a) Importación para el
+
+			consumo, incluyendo la importación simplificada;
+b) Admisión
+
+			temporal para reexportación en el mismo estado;
+c) Admisión
+
+			temporal para perfeccionamiento activo;
+d) Reimportación en el
+
+			mismo estado;
+e) Exportación definitiva, incluyendo la
+
+			exportación simplificada;
+f) Exportación temporal para
+
+			reimportación en el mismo estado, incluyendo la reimportación;
+g)
+
+			Exportacion temporal para perfeccionamiento pasivo, incluyendo la
+
+			reimportación;
+h) Depósito aduanero y
+i) Reembarque
+
+
+j) Tránsito aduanero
+
+
+(RS N°
+
+			282-2024/SUNAT - 31.12.2024)
+
+
+II. ALCANCE
+
+
+Esta d
+irigido
+
+
+al personal de la
+
+
+Superintendencia Nacional de Aduanas y de
+
+			Administración Tributaria - SUNAT;
+
+
+al operador de comercio exterior (OCE) y
+
+
+a
+l
+
+			operador interviniente (OI)
+
+
+
+que participan en los regímenes aduaneros
+
+			en los que se otorga el manndato electrónico
+.
+
+
+
+			(RS N° 173-2020/SUNAT-06.11.2020)
+III. RESPONSABILIDAD
+
+
+			La aplicación, cumplimiento y seguimiento
+
+
+de lo dispuesto en el presente
+
+			procedimiento es de responsabilidad del Intendente Nacional de
+
+			Desarrollo e Innovación Aduanera, del Intendente Nacional de
+
+			Sistemas de Información, del Intendente Nacional de Control
+
+			Aduanero, de los intendentes de aduana de la República y de las
+
+			jefaturas y personal de las distintas unidades de organización que
+
+			intervienen
+.
+
+
+			(RS N° 173-2020/SUNAT-06.11.2020)
+IV. DEFINICIONES
+
+
+Para efectos del presente procedimiento se entiende por:
+
+
+Mandato electrónico:
+ al acto por el cual el dueño o
+
+			consignatario encomienda el despacho aduanero de sus mercancías a un
+
+			agente de aduana, que lo acepta por cuenta y riesgo de aquellos, y
+
+			que se constituye mediante medios electrónicos.
+V.
+
+			BASE LEGAL
+- Ley General de Aduanas, Decreto
+
+			Legislativo N° 1053, publicado el 27.6.2008
+
+			y modificatorias.
+
+
+- Reglamento de
+l
+
+			Decreto Legislativo N° 1053,
+
+
+Ley General de Aduanas,
+
+			aprobado por Decreto Supremo N° 010-2009-EF,
+
+			publicado el 16.1.2009, y modificatorias.
+
+
+- Texto Único Ordenado
+
+			de la Ley N
+.
+° 27444
+
+
+			-
+ Ley del Procedimiento
+
+			Administrativo General, aprobado por Decreto Supremo N°
+
+			00
+4
+-201
+9
+-JUS, publicado el 2
+5
+.
+1
+.
+2
+01
+9
+
+			y modificatoria
+.
+
+
+- Código Civil, Decreto
+
+			Legislativo N
+.
+° 295, publicado el 24.7.84, y
+
+			modificatorias.
+
+
+			(RS N° 173-2020/SUNAT-06.11.2020)
+VI. DISPOSICIONES GENERALES
+
+
+1.
+Para otorgar el mandato
+
+			electrónico, el dueño, consignatario o consignante debe contar con
+
+			Registro Único de Contribuyentes (RUC) activo y no tener la
+
+			condición de no habido.
+2.
+
+
+El dueño, consignatario o consignante
+
+			puede otorgar el mandato electrónico a más de un agente de aduana y
+
+			por varios regímenes aduaneros o circunscripciones.
+
+
+			3.
+El agente de aduana debe estar
+
+			autorizado para operar en la circunscripción de la aduana donde
+
+			arriba la carga o se numera la declaración del régimen aduanero de
+
+			salida respectivo.
+4.
+
+
+El mandato electrónico se otorga por:
+
+
+
+
+
+a) Periodo: Hasta por un plazo de un año,
+
+			debiendo indicarse las circunscripciones y los regímenes aduaneros.
+
+
+
+b)
+
+
+			Documento de transporte: Se debe indicar el número de documento de
+
+			transporte, el número de manifiesto de carga y el número de detalle
+
+			cuando corresponda, aplicable solo para los regímenes aduaneros de
+
+			ingreso.
+
+
+(RIN
+
+			N° 21-2017/SUNAT/310000 - 07.12.2017)
+
+
+VII. DESCRIPCIÓN
+
+
+A. Registro del mandato electrónico
+1.
+
+
+Para registrar el mandato electrónico, el dueño
+,
+
+
+consignatario
+
+
+			o consignante
+:
+
+
+
+(RIN
+
+			N° 21-2017/SUNAT/310000 - 07.12.2017)
+
+
+a) Ingresa a S
+UNAT
+ Operaciones en Línea
+
+			del Portal Web de la S
+UNAT
+ utilizando su
+
+			usuario y clave SOL y en la opción Registro de Mandato Electrónico,
+
+			consigna el número de RUC del agente de aduana a quien otorga el
+
+			mandato.
+b) Selecciona el tipo de mandato electrónico que otorga
+
+			y:
+i. Para el mandato electrónico por periodo, registra el
+
+			periodo seleccionando la fecha de inicio y fin, y las
+
+			circunscripciones y regímenes aduaneros.
+ii. Para el mandato
+
+			electrónico por documento de transporte, selecciona la
+
+			circunscripción, la vía de transporte y el año, y registra el número
+
+			de manifiesto, el número de documento de transporte y el número de
+
+			detalle de corresponder.
+2.
+Una vez grabada la información
+
+			señalada en el numeral anterior, el sistema comunica, a través del
+
+			Buzón SOL, al dueño
+,
+ consignatario
+
+
+			o consignante
+ y al agente de aduana, que el
+
+			mandato electrónico ha sido registrado.
+
+
+(RIN
+
+			N° 21-2017/SUNAT/310000 - 07.12.2017)
+3. En caso se considere
+
+			más circunscripciones o regímenes aduaneros, se debe registrar otro
+
+			mandato electrónico por periodo.
+B. Rectificación del
+
+			mandato electrónico
+1.
+
+
+			Para rectificar el mandato electrónico, el dueño, consignatario o
+
+			consignante ingresa a SUNAT Operaciones en Línea del Portal Web de
+
+			la SUNAT utilizando su usuario y clave SOL, y en la opción
+
+			Rectificación de Mandato Electrónico consigna el número de RUC del
+
+			agente de aduana a quien otorgó el mandato, selecciona el mandato
+
+			electrónico a rectificar y modifica los datos que correspondan.
+
+
+(RIN
+
+			N° 21-2017/SUNAT/310000 - 07.12.2017)
+
+
+ 2. Solo procede la
+
+			rectificación de lo siguiente:
+
+
+
+ a) Reducción del periodo del
+
+			mandato electrónico, siempre que no haya vencido el periodo
+
+			otorgado.
+
+ b) Del número de manifiesto, de documento de transporte
+
+			o de detalle, siempre que no se haya numerado una declaración
+
+			aduanera vinculada a dicho mandato.
+3.
+
+
+Una vez grabada la información señalada en
+
+			el numeral anterior, el sistema comunica, a través del Buzón SOL, al
+
+			dueño, consignatario o consignante y al agente de aduana, que el
+
+			mandato electrónico ha sido rectificado.
+
+
+(RIN
+
+			N° 21-2017/SUNAT/310000 - 07.12.2017)
+4. En
+
+			caso se considere reducir las circunscripciones o regímenes
+
+			aduaneros, se debe rectificar el mandato electrónico por periodo
+
+			otorgado hasta el plazo que el dueño o consignatario desee que se
+
+			mantenga y posteriormente registrar otro mandato electrónico por
+
+			periodo que considere las circunscripciones o regímenes aduaneros
+
+			deseados
+C. Anulación de mandato electrónico
+
+
+1.
+Para anular el mandato electrónico,
+
+			el dueño, consignatario o consignante ingresa a SUNAT Operaciones en
+
+			Línea del Portal Web de la SUNAT utilizando su usuario y clave SOL,
+
+			y en la opción Anulación de Mandato Electrónico consigna el número
+
+			de RUC del agente de aduana a quien otorgó dicho mandato,
+
+			seleccionando el mandato electrónico a anular.
+
+
+(RIN
+
+			N° 21-2017/SUNAT/310000 - 07.12.2017)
+2. Procede la anulación del mandato
+
+			electrónico cuando no se ha numerado una declaración aduanera
+
+			vinculada a dicho mandato.
+3.
+Una vez
+
+			grabada la anulación el sistema comunica a través del Buzón SOL al
+
+			dueño, consignatario o consignante y al agente de aduana, que el
+
+			mandato electrónico ha sido anulado.
+
+
+(RIN
+
+			N° 21-2017/SUNAT/310000 - 07.12.2017)
+
+
+D. Vinculación del mandato electrónico con la
+
+			declaración
+1. Se considera que la declaración
+
+			aduanera está vinculada a un mandato electrónico cuando el agente de
+
+			aduana:
+a) cuenta con un mandato por periodo vigente, o
+b)
+
+			cuenta con un mandato por cada uno de los documentos de transporte
+
+			consignados en la declaración.
+2. La vinculación del mandato
+
+			electrónico con la declaración aduanera se realiza de manera
+
+			automática en la numeración y en la rectificación de la misma,
+
+			registrándose la indicación “con mandato electrónico”.
+
+
+3.
+
+
+Si los datos a rectificar en la
+
+			declaración aduanera son el RUC del dueño, consignatario o
+
+			consignante, o el documento de transporte, el sistema actualiza la
+
+			vinculación del mandato electrónico con la declaración aduanera.
+
+
+(RIN
+
+			N° 21-2017/SUNAT/310000 - 07.12.2017)
+
+
+VIII. Flujograma
+No aplica.
+
+
+			IX. Infracciones, sanciones y delitos
+No aplica.
+
+
+X. Registros
+No aplica.
+XI.
+
+			Vigencia
+A partir del 25 de setiembre del 2017.
+
+
+XII. Anexos
+No aplica.

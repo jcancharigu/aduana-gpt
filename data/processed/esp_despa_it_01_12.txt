@@ -1,0 +1,847 @@
+Procedimientos - IMPORTACION DEFINITIVA
+
+
+IMPORTACION DEFINITIVA
+
+
+INSTRUCTIVO: DESCRIPCIONES MINIMAS DE PRODUCTOS DE LAS
+
+PARTIDAS 6907
+
+
+
+
+
+
+
+						Proc:
+
+
+DESPA-IT.01.12
+
+
+Descripciones
+
+						mínimas de Productos de las Partidas 6907
+
+
+						(modificado por RIN 04-2017-SUNAT/5F0000)
+
+
+Versión:
+
+
+ 1
+
+
+Publicación:
+
+
+ 12/08/2010
+
+
+Resolución:
+
+
+ 462-2010/SUNAT/A
+
+
+Fecha Res.:
+
+
+						11/08/2010
+
+
+						Vigencia :
+
+
+ 19/08/2010
+
+
+
+
+
+Lista:
+
+
+Maestra
+
+
+Circulares Anexas
+
+
+Control de Cambios
+
+
+
+I.
+
+
+
+OBJETIVO
+
+
+
+Establecer las pautas para una
+
+			correcta descripción de la mercancía y determinación del valor en
+
+			aduana en la importación de manufacturas clasificadas en las
+
+			partidas 6907 y 6908.
+
+
+		II.
+
+ALCANCE
+
+
+Está dirigido al personal de la
+
+			Superintendencia Nacional de Administración Tributaria – SUNAT y a
+
+			los operadores del comercio exterior que intervienen en los
+
+			regímenes de Importación para el Consumo, Admisión Temporal para
+
+			Perfeccionamiento Activo y Admisión Temporal para Reexportación en
+
+			el mismo estado.
+
+
+
+ III.
+
+
+
+		REFERENCIA
+
+
+
+
+
+		Instructivo de Trabajo de la Declaración Única de Aduanas (DUA),
+
+
+
+INTA-IT.00.04.
+
+
+IV
+.
+
+NORMAS GENERALES
+
+
+
+
+
+		1.
+
+El
+
+		presente instructivo es de aplicación obligatoria en los regímenes de
+
+		Importación para el Consumo, Admisión Temporal para Perfeccionamiento
+
+		Activo y Admisión Temporal para Reexportación en el mismo estado, cuando
+
+		se hayan destinado mercancías que se clasifican en las partidas del
+
+		sistema armonizado
+
+6907 y 6908;
+
+
+
+su incumplimiento conllevará a la aplicación de las sanciones
+
+		establecidas en la Ley General de Aduanas.
+
+
+2.
+
+
+
+
+
+Para el presente
+
+		instructivo se deben considerar los conceptos generales y terminología
+
+		contenidas en los anexos del mismo.
+
+
+		3.
+La clasificación arancelaria que se
+
+		consigna en el presente instructivo, es referencial, ya que la
+
+		clasificación arancelaria se basa en las características propias o
+
+		específicas de cada mercancía que se presenta a despacho.
+
+
+		V
+.
+
+
+
+DESCRIPCION
+
+
+		E  INSTRUCCIONES:
+
+
+El
+
+		importador debe consignar la información que corresponde a la
+
+		descripción en las siguientes casillas del ejemplar B de la Declaración
+
+		Única de Aduanas (DUA):
+
+
+		5.11 Unidad comercial:
+
+
+		Se indica la unidad comercial de la mercancía en metros cuadrados (m2).
+
+
+		5.12 Nombre del producto:
+
+
+
+		Se indica el nombre con el cual se conoce a la mercancía según la Tabla
+
+		N° 1 del presente instructivo
+.
+
+
+		5.13 Marca comercial
+:
+
+
+Se indica la marca del producto, la cual constituye
+
+		cualquier signo que sea apto para distinguir productos en el mercado. La
+
+		marca es la denominación que otorga el fabricante, el vendedor o el
+
+		importador al producto para distinguirlo de los productos de otra
+
+		persona.
+
+
+5.14
+
+
+
+Modelo:
+
+
+S
+e indica la
+
+		denominación que se da a las mercancías según sus características
+
+		específicas.
+
+
+
+		Corresponde al nombre o código representado por caracteres numéricos o
+
+		alfanuméricos (letras y números), los cuales identifican a un
+
+		determinado producto haciéndolo distinto de otros.
+
+
+		5.19  Características:
+
+
+		S
+e
+
+		indican en las cuatro filas que contiene esta casilla los siguientes
+
+		datos:
+
+
+
+
+
+
+
+		P
+rimera fila:
+
+
+-
+ Acabados:
+
+
+
+Para todos los
+
+		productos, considerar los acabados señalados en la Tabla N° 2 del
+
+		presente instructivo.
+
+
+
+
+
+
+
+-
+
+
+Materia Prima:
+
+
+
+Para todos los productos,
+
+
+
+considerar la materia prima de la
+
+
+
+Tabla N° 3 del presente instructivo.
+
+
+
+
+
+Segunda fila:
+
+
+		-
+
+
+
+
+
+
+Moldeo:
+
+
+
+
+		Considerar el moldeo según lo señalado en la Tabla N° 4 del presente
+
+		instructivo
+
+
+-
+
+
+
+Cocción:
+
+
+
+Considerar
+
+		lo señalado según Tabla N° 5 del presente instructivo
+
+
+-
+
+
+
+  Uso :
+
+
+
+Considerar lo
+
+		señalado en la Tabla N° 6 del presente instructivo.
+
+
+-
+
+
+
+Colores
+:
+
+
+		Derogado
+ (
+Modificado
+
+		mediante RIN Nº 04-2017-SUNAT/5F0000 Vigente a partir del 25.04.2017
+)
+
+
+
+
+(Precision dispuesta por art. 4º de la R.S.N.
+
+		198-2020-SUNAT 17.11.2020)
+
+
+		Tercera Fila:
+
+
+-
+
+
+
+Grado de
+
+		Dimensiones y espesor:
+
+
+
+C
+onsiderar las dimensiones:
+
+		largo, ancho en centímetros y el espesor en milímetros
+
+
+-
+Capacidad de
+
+		absorción de agua:
+ Considerar la capacidad según lo
+
+		señalado en la Tabla N° 8
+.
+(Modificado por RIN-17-2014/SUNAT/5C0000-13.12.2014) (Vigente a partir
+
+		del 12.01.2015
+)
+(Precision
+
+		  dispuesta por art. 4º de la R.S.N. 198-2020-SUNAT 17.11.2020)
+
+
+5
+.
+20
+
+Observaciones
+:
+
+
+En esta casilla se consigna información adicional
+
+		no detallada en las casillas anteriores.
+
+
+
+
+
+Ejemplo: Subpartida
+
+		Nacional 6907.90.00.00
+
+
+Se desea registrar, cuyas características son las
+
+		siguientes:
+
+
+		“Porcelanato sin esmaltar de marca ABC modelo 041, de acabado pulido,
+
+		moldeado por extrusión y posteriormente cocido por monococcion,
+
+
+
+		elaborado de arcilla , de f
+ormatos
+
+		de superficie: 3
+0 x 60 cm, espesor 8 mm, de color blanco, para
+
+		construcción de pisos de viviendas”.
+
+
+El formato impreso del ejemplar B debe
+
+		considerar las descripciones, tal como se muestra a continuación:
+
+
+
+
+
+5.11 Unidad Comercial
+
+
+5.12 Nombre Comercial
+
+
+				5.13
+
+				Marca
+
+
+5.14 Modelo
+
+
+U
+
+
+Porcelanato
+
+
+ABC
+
+
+041
+
+
+
+
+
+5.19 Características
+
+
+
+1.
+
+
+
+
+
+				Acabado:
+ Porcelanato pulido
+
+
+Materia Prima:
+ de arcilla
+
+
+2.
+
+
+
+
+
+				Moldeo:
+ Extruido
+
+
+
+
+				Cocción:
+ de monococción
+
+
+Uso:
+ para piso
+
+
+Color:
+de color
+
+				blanco
+
+
+
+3.
+
+
+
+
+
+				Dimensiones y espesor:
+ Largo y ancho: 30 x 60cm, espesor:8
+
+				mm
+
+
+5.20 Observaciones
+
+
+        Sin observaciones
+
+
+
+
+		Ejemplo 2
+
+
+
+
+
+
+		Subpartida Nacional 6908900000
+
+
+
+
+
+		Se desea registrar, cuyas características son las siguientes:
+
+
+
+“Porcelanato esmaltado de marca ABC modelo
+
+		043, de acabado rustico, moldeado por prensado y posteriormente cocido
+
+		por bicoccion,
+
+elaborado de
+
+		feldespato, de formatos de superficie: 60 x 60 cm, espesor 10 mm. de
+
+		color beige, para construcción de pisos de tiendas comerciales o
+
+		supermercados”.
+
+
+
+El formato impreso del ejemplar B debe
+
+		considerar las descripciones, tal como se muestra a continuación:
+
+
+
+
+
+5.11 Unidad Comercial
+
+
+5.12 Nombre Comercial
+
+
+5.13 Marca
+
+
+5.14 Modelo
+
+
+U
+
+
+				Porcelanato esmaltado
+
+
+ABC
+
+
+043
+
+
+5.19 Características
+
+
+
+
+1.
+
+
+
+
+
+				Acabado:
+
+
+Porcelanato rústico
+
+
+
+Materia Prima:
+
+
+
+de feldespato,
+
+
+2.
+
+
+
+
+
+				Moldeo:
+
+
+Prensado
+
+
+
+
+				Cocción:
+
+de bicoccion
+
+
+
+
+				Uso:
+
+para piso de tiendas
+
+				comerciales
+
+
+
+
+
+ Color:
+
+
+				de color beige
+
+
+
+
+
+3.
+
+
+
+
+
+				Dimensiones y espesor:
+ Largo y ancho:
+
+
+60 x 60 cm,
+ espesor:
+
+
+				10 mm
+
+
+				5.20 Observaciones
+
+
+Sin observaciones
+
+
+VI.
+
+		ANEXOS
+
+
+Publicados en el portal web de la
+
+		SUNAT (
+www.sunat.gob.pe
+)
+
+
+
+Anexo
+
+		1
+
+
+		Tabla N° 1
+
+
+
+Nombre del producto
+-
+DEROGADO
+
+
+(
+Modificado mediante RIN
+
+		Nº04-2017-SUNAT/5F0000 vigente a partir del 25.04.2017)
+(Precision
+
+		dispuesta por art. 4º de la R.S.N. 198-2020-SUNAT 17.11.2020)
+
+
+Tabla N° 2
+
+
+Acabados del
+
+		Producto
+ -
+(
+Modificado mediante RIN
+
+		Nº04-2017-SUNAT/5F0000 vigente a partir del 25.04.2017)
+(Precision
+
+		dispuesta por art. 4º de la R.S.N. 198-2020-SUNAT 17.11.2020)
+
+
+Tabla N° 3
+
+
+Materia prima
+
+		del producto
+-
+(
+Modificado mediante RIN
+
+		Nº04-2017-SUNAT/5F0000 vigente a partir del 25.04.2017)
+(Precision
+
+		dispuesta por art. 4º de la R.S.N. 198-2020-SUNAT 17.11.2020)
+
+
+Tabla N° 4
+
+
+
+Moldeo del
+
+		producto
+
+
+Tabla N° 5
+
+
+
+Cocción del
+
+		producto
+
+
+Tabla N° 6
+
+
+Uso del Producto
+
+
+Tabla N° 7
+
+
+Colores del
+
+		producto
+DEROGADO
+
+
+(
+Modificado mediante RIN
+
+		Nº04-2017-SUNAT/5F0000 vigente a partir del 25.04.2017)
+(Precision
+
+		dispuesta por art. 4º de la R.S.N. 198-2020-SUNAT 17.11.2020)
+
+
+Tabla N° 8
+
+
+
+
+
+
+(Modificado por RIN-17-2014/SUNAT/5C0000-13.12.2014) (Vigente a partir
+
+		del 12.01.2015
+)
+(Precision
+
+		  dispuesta por art. 4º de la R.S.N. 198-2020-SUNAT 17.11.2020)
+
+
+Anexo 2
+
+
+Glosario de Términos

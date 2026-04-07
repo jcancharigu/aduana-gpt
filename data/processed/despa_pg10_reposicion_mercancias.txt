@@ -1,0 +1,1215 @@
+Procedimientos - REPOSICION DE MERCANCIAS CON FRANQUICIA ARANCELARIA
+
+
+REPOSICION DE MERCANCIAS CON FRANQUICIA ARANCELARIA
+
+
+PROCEDIMIENTO GENERAL
+
+
+
+
+
+
+
+Proc:
+
+
+DESPA-PG.10
+
+
+Reposición
+
+ de Mercancías con Franquicia Arancelaria
+
+
+Vigencia:
+
+
+ 19/03/2021
+
+
+Publicación:
+ 18/03/2021
+
+
+Resolución:
+
+
+ 039
+
+
+Fecha Res.:
+16/03/2021
+
+
+Versión:
+
+
+						5
+
+
+Circulares:
+
+Anexas
+
+
+Lista:
+
+
+Complementaria
+
+
+Control de Cambios
+
+
+
+I. OBJETIVO
+
+
+Establecer las pautas a seguir para el
+
+				  despacho de las mercancías destinadas al régimen de reposición
+
+				  de mercancías con franquicia arancelaria, con la finalidad de
+
+				  lograr el cumplimiento de las normas que lo regulan.
+
+
+II. ALCANCE
+Está dirigido al personal
+
+				  de la Superintendencia Nacional de Aduanas y de Administración
+
+				  Tributaria – SUNAT, al operador de comercio exterior (OCE) y
+
+				  al operador interviniente (OI) que participan en el proceso de
+
+				  reposición de mercancías con franquicia arancelaria.
+
+
+III. RESPONSABILIDAD
+La aplicación,
+
+				  cumplimiento y seguimiento de lo dispuesto en el presente
+
+				  procedimiento es de responsabilidad del Intendente Nacional de
+
+				  Desarrollo e Innovación Aduanera, del Intendente Nacional de
+
+				  Sistemas de Información, del Intendente Nacional de Control
+
+				  Aduanero, de los intendentes de aduana de la República y de
+
+				  las jefaturas y personal de las distintas unidades de
+
+				  organización que intervienen.
+IV. DEFINICIONES
+
+				  Y ABREVIATURAS
+Para efectos del presente
+
+				  procedimiento se entiende por:
+1. Buzón
+
+				  electrónico:
+ A la sección ubicada dentro del portal
+
+				  de la SUNAT Operaciones en Línea y asignada al OCE u OI, donde
+
+				  se depositan las copias de los documentos en los cuales
+
+				  constan los actos administrativos que son materia de
+
+				  notificación, así como comunicaciones de tipo informativo.
+
+
+2. Clave SOL:
+ Al texto conformado por números
+
+				  y letras, de conocimiento exclusivo del OCE u OI, que asociado
+
+				  al código de usuario otorga privacidad en el acceso a SUNAT
+
+				  Operaciones en Línea.
+3. Código de usuario:
+
+
+				  Al texto conformado por números y letras, que permite
+
+				  identificar al OCE u OI que ingresa a SUNAT Operaciones en
+
+				  Línea.
+4. Funcionario aduanero:
+ Al
+
+				  personal de la SUNAT que ha sido designado o encargado para
+
+				  desempeñar actividades o funciones en su representación,
+
+				  ejerciendo la potestad aduanera de acuerdo con su competencia.
+
+
+5. Mercancía equivalente:
+A aquella idéntica
+
+				  o similar a la que fue importada y que será objeto de
+
+				  reposición, reparación o cambio.
+Debe entenderse por
+
+				  mercancía idéntica a la que es igual en todos los aspectos a
+
+				  la importada en lo que se refiere a la calidad, marca y
+
+				  prestigio comercial.
+Debe entenderse por mercancía similar
+
+				  a la que, sin ser igual en todos los aspectos a la importada,
+
+				  presenta características próximas a esta en cuanto a especie y
+
+				  calidad.
+6. MPV - SUNAT:
+ A la mesa de
+
+				  partes virtual de la SUNAT, consistente en una plataforma
+
+				  informática disponible en el portal de la SUNAT que facilita
+
+				  la presentación virtual de documentos.
+7. RUC:
+
+
+				  Al Registro Único de Contribuyentes a cargo de la SUNAT.
+
+
+V. BASE LEGAL
+- Ley General de
+
+				  Aduanas, aprobada por Decreto Legislativo N° 1053, publicado
+
+				  el 27.6.2008, y modificatorias.
+- Reglamento del Decreto
+
+				  Legislativo N° 1053, Ley General de Aduanas, aprobado por
+
+				  Decreto Supremo N° 010-2009-EF, publicado el 16.1.2009, y
+
+				  modificatorias.
+- Tabla de sanciones aplicables a las
+
+				  infracciones previstas en la Ley General de Aduanas, aprobada
+
+				  por Decreto Supremo N° 418-2019-EF, publicado el 31.12.2019 y
+
+				  modificatoria.
+- Ley de los Delitos Aduaneros, Ley N°
+
+				  28008, publicada el 19.6.2003, y modificatorias.
+-
+
+				  Reglamento de la Ley de los Delitos Aduaneros, aprobado por
+
+				  Decreto Supremo N° 121-2003-EF, publicado el 27.8.2003, y
+
+				  modificatorias.
+- Texto Único Ordenado de la Ley N° 27444 -
+
+				  Ley del Procedimiento Administrativo General, aprobado por
+
+				  Decreto Supremo N° 004-2019-JUS, publicado el 25.1.2019, y
+
+				  modificatorias.
+- Reglamento de Comprobantes de Pago,
+
+				  aprobado con Resolución de Superintendencia N° 007-99/SUNAT,
+
+				  publicada el 24.1.1999, y modificatorias.
+- Texto Único
+
+				  Ordenado de la Ley del Impuesto General a las Ventas e
+
+				  Impuesto Selectivo al Consumo, aprobado por Decreto Supremo N°
+
+				  055-99-EF, publicado el 15.4.1999, y modificatorias.
+-
+
+				  Texto Único Ordenado del Código Tributario, aprobado por
+
+				  Decreto Supremo N° 133-2013-EF publicado el 22.6.2013, y
+
+				  modificatorias.
+- Disposiciones reglamentarias del Decreto
+
+				  Legislativo N° 943 que aprobó la Ley de Registro Único de
+
+				  Contribuyentes, Resolución de Superintendencia N° 210-
+
+				  2004/SUNAT, publicada el 18.9.2004, y modificatorias.
+-
+
+				  Resolución de Superintendencia N° 077-2020/SUNAT, que crea la
+
+				  mesa de partes virtual de la SUNAT, publicada el 8.5.2020.
+
+
+VI. DISPOSICIONES GENERALES
+1. La
+
+				  reposición de mercancías con franquicia arancelaria es el
+
+				  régimen aduanero que permite la importación para el consumo de
+
+				  mercancías equivalentes a las que, habiendo sido
+
+				  nacionalizadas, han sido utilizadas para obtener las
+
+				  mercancías exportadas previamente con carácter definitivo, sin
+
+				  el pago de los derechos arancelarios y demás impuestos
+
+				  aplicables a la importación para el consumo.
+2. Para
+
+				  acogerse al régimen de reposición de mercancías con franquicia
+
+				  arancelaria, la declaración de exportación definitiva o
+
+				  declaración simplificada de exportación debe haberse numerado
+
+				  en el plazo de un año, contado a partir de la fecha de levante
+
+				  de la declaración de importación para el consumo que sustente
+
+				  el ingreso de la mercancía a reponer.
+Es requisito para
+
+				  acogerse al régimen de reposición de mercancías con franquicia
+
+				  arancelaria que el beneficiario exprese su voluntad en la
+
+				  declaración de exportación definitiva o declaración
+
+				  simplificada de exportación.
+El beneficiario del
+
+				  régimen o el despachador de aduana en su representación
+
+				  transmite el cuadro de insumo-producto (CIP) y presenta la
+
+				  documentación que sustenta la reposición a la Administración
+
+				  Aduanera en un plazo máximo de ciento ochenta días calendario
+
+				  contados a partir de la fecha del término del embarque de la
+
+				  mercancía exportada.
+3. Puede ser objeto de este régimen
+
+				  de reposición de mercancías con franquicia arancelaria toda
+
+				  mercancía que es sometida a un proceso de transformación o
+
+				  elaboración, que se hubiere incorporado en un producto de
+
+				  exportación o consumido al participar directamente durante su
+
+				  proceso productivo.
+No pueden ser objeto de reposición las
+
+				  mercancías que intervienen en el proceso productivo de manera
+
+				  auxiliar (tales como lubricantes, combustibles o cualquier
+
+				  otra fuente energética, cuando su función sea la de generar
+
+				  calor o energía) ni los repuestos y útiles de recambio cuando
+
+				  no están materialmente incorporados en el producto final y no
+
+				  son utilizados directamente en el producto a exportar, salvo
+
+				  que estas mercancías sean en sí mismas parte principal de un
+
+				  proceso productivo.
+4. Es beneficiario del régimen de
+
+				  reposición de mercancías con franquicia arancelaria el
+
+				  importador y el exportador productor que hayan importado por
+
+				  cuenta propia los bienes sujetos a reposición de mercancía con
+
+				  franquicia arancelaria.
+El párrafo precedente comprende al
+
+				  importador productor que exporte a través de terceros.
+
+
+				  5. La nacionalización de la mercancía ingresada bajo el
+
+				  régimen de admisión temporal para perfeccionamiento activo o
+
+				  admisión temporal para reexportación en el mismo estado que
+
+				  resulte incorporada en el producto de exportación, así como
+
+				  aquella mercancía importada para el consumo acogida a un
+
+				  fraccionamiento de pago o a una exoneración parcial o total de
+
+				  tributos aplicables a la importación, puede dar derecho a la
+
+				  obtención del certificado de reposición.
+6. El CIP
+
+				  constituye la solicitud del certificado de reposición y tiene
+
+				  carácter de declaración jurada.
+La información del CIP
+
+				  transmitida vía electrónica por el despachador de aduana en
+
+				  representación del beneficiario goza de plena validez. En caso
+
+				  se produzca disconformidad de datos de un mismo documento
+
+				  registrado en los archivos del despachador de aduana o
+
+				  beneficiario con los de la SUNAT, se presumen válidos estos
+
+				  últimos, salvo prueba en contrario.
+7. A través del
+
+				  portal de la SUNAT (www.sunat.gob.pe) se pone a disposición
+
+				  del beneficiario o su representante la información sobre los
+
+				  datos del CIP y los estados de la cuenta corriente de la
+
+				  declaración de importación para el consumo y del certificado
+
+				  de reposición, tal como se encuentra registrado en el sistema
+
+				  informático.
+8. El certificado de reposición se expide
+
+				  por la misma cantidad de mercancías que fue utilizada en el
+
+				  proceso productivo de los bienes exportados y no se considera
+
+				  para su expedición los excedentes con valor comercial, salvo
+
+				  que estos sean exportados.
+9. La importación para el
+
+				  consumo de mercancías con franquicia arancelaria se efectúa en
+
+				  el plazo de un año, contado a partir de la fecha de emisión
+
+				  del certificado de reposición. Dichas mercancías pueden
+
+				  provenir del exterior, de las Zonas Especiales de Desarrollo -
+
+				  ZED, de la Zona Económica Especial de Puno - ZEEDEPUNO o de la
+
+				  Zona Franca de Tacna - ZOFRATACNA.
+El certificado de
+
+				  reposición puede ser utilizado en la nacionalización de
+
+				  mercancías equivalentes sometidas a los regímenes de depósito
+
+				  aduanero, admisión temporal para perfeccionamiento activo o
+
+				  admisión temporal para reexportación en el mismo estado,
+
+				  previo cumplimiento de las obligaciones establecidas para cada
+
+				  uno de los regímenes citados.
+Las mercancías importadas
+
+				  bajo el régimen de reposición de mercancías con franquicia
+
+				  arancelaria son de libre disponibilidad; sin embargo, en el
+
+				  caso que éstas se exporten, pueden ser objeto de nuevo
+
+				  beneficio.
+10. El certificado de reposición puede ser
+
+				  transferido parcial o totalmente a favor de terceros por
+
+				  endoso del beneficiario, sin requerir autorización previa de
+
+				  la intendencia de aduana que lo emitió. Para la utilización
+
+				  del certificado por el endosatario es indispensable que el
+
+				  endosante comunique previamente la transferencia a la
+
+				  Administración Aduanera para su registro en el sistema
+
+				  informático.
+11. El certificado de reposición puede ser
+
+				  usado ante una intendencia de aduana distinta a la que lo
+
+				  expidió y puede aplicarse en forma parcial o total en un solo
+
+				  despacho de importación para el consumo dentro del plazo de su
+
+				  vigencia, en cuyo caso la mercancía declarada en una serie
+
+				  debe corresponder a un único ítem del certificado de
+
+				  reposición.
+Se puede acumular varios certificados en un
+
+				  solo despacho de importación para el consumo dentro del plazo
+
+				  de su vigencia, en cuyo caso la mercancía declarada en una
+
+				  serie debe corresponder a un único certificado de reposición y
+
+				  a un único ítem.
+12. Un certificado de reposición puede
+
+				  ser aplicado a una declaración de importación para el consumo
+
+				  o declaración simplificada de importación, aunque la cantidad
+
+				  de mercancías a reponer no cubra la totalidad de las
+
+				  mercancías declaradas. Para tal efecto, se consigna el número
+
+				  del certificado de reposición en una serie de la declaración y
+
+				  se indica en series diferentes el saldo no amparado por el
+
+				  referido certificado.
+13. La nulidad de un certificado
+
+				  de reposición impide su utilización para acogerse al régimen
+
+				  de reposición de mercancías con franquicia arancelaria.
+
+
+Si el certificado de reposición es nulo parcialmente, la
+
+				  nulidad solo afecta las series de la declaración que
+
+				  corresponde a la parte viciada.
+Si la nulidad es
+
+				  declarada con posterioridad a la numeración de la declaración
+
+				  de importación para el consumo o declaración simplificada de
+
+				  importación, se procede al cobro de los derechos arancelarios
+
+				  y demás impuestos.
+14. El certificado de reposición que
+
+				  exceda el plazo de un año desde su emisión sin que haya sido
+
+				  utilizado o se haya utilizado parcialmente pierde su vigencia
+
+				  y validez por la totalidad o por la parte no utilizada.
+
+
+15. La Intendencia Nacional de Control Aduanero efectúa en
+
+				  forma selectiva y posterior las verificaciones de la
+
+				  información a cargo del solicitante y la equivalencia de la
+
+				  mercancía ingresada bajo el régimen de reposición de
+
+				  mercancías con franquicia arancelaria.
+16. La
+
+				  Intendencia Nacional de Sistemas de Información vela por la
+
+				  actualización, integración y oportuna consolidación de la
+
+				  información a nivel nacional.
+VII. DESCRIPCIÓN
+
+
+				  A) TRAMITACIÓN DEL RÉGIMEN
+A1) Manifestación de la
+
+				  voluntad de aplicación del régimen
+1. A
+
+				  solicitud del beneficiario, el despachador de aduana
+
+				  manifiesta la voluntad de acogerse al régimen de reposición de
+
+				  mercancías con franquicia arancelaria indicando a nivel de
+
+				  cada serie de la declaración de exportación definitiva (40) el
+
+				  código 12, conforme a lo señalado en el numeral 5 del anexo I
+
+				  del procedimiento general "Exportación definitiva"
+
+				  DESPA-PG.02.
+Adicionalmente, indica como “cantidad
+
+				  unidad equiv/prod" de la declaración de exportación definitiva
+
+				  la cantidad y el tipo de unidad de producción o de
+
+				  comercialización del producto exportado, en estricta
+
+				  concordancia con las consignadas en el CIP. Tratándose del
+
+				  envío electrónico de datos de la declaración de exportación,
+
+				  indica en el archivo de datos de detalle (ADUADET1), la
+
+				  información antes mencionada.
+2. En caso de declaración
+
+				  simplificada de exportación se consigna el código 12, la
+
+				  descripción de la mercancía, la cantidad y el tipo de unidad
+
+				  de producción o de comercialización del producto exportado
+
+				  concordante con las consignadas en el CIP.
+3. Cuando
+
+				  se trate de una declaración simplificada web de exportación se
+
+				  consigna el código 12 como "Reg. Precedente o Aplicación", la
+
+				  descripción de la mercancía, la cantidad y el tipo de unidad
+
+				  de producción o de comercialización del producto exportado
+
+				  concordante con las consignadas en el CIP.
+A2)
+
+				  Transmisión de la información del CIP
+1. El
+
+				  beneficiario elabora el CIP conforme al formato del anexo I y
+
+				  al instructivo para su llenado.
+2. El despachador de
+
+				  aduana, en representación del beneficiario, transmite la
+
+				  información contenida en el CIP, utilizando la clave que le ha
+
+				  sido asignada y que reemplaza a la firma manuscrita, con
+
+				  posterioridad a la regularización del régimen de exportación
+
+				  definitiva y en un plazo máximo de ciento ochenta días
+
+				  calendario contados a partir de la fecha del término del
+
+				  embarque de la mercancía exportada.
+3. Aceptada la
+
+				  transmisión del CIP y estando conforme, se genera y comunica
+
+				  automáticamente el número, fecha y hora de la aceptación
+
+				  correspondiente; en caso contrario, se comunica los errores
+
+				  encontrados para la subsanación respectiva.
+4. Para la
+
+				  transmisión del CIP se tiene en cuenta que, en el caso que una
+
+				  misma serie de la declaración de importación para el consumo o
+
+				  declaración simplificada de importación agrupe a más de un
+
+				  tipo de mercancía, se transmite, solo la primera vez, la
+
+				  información elaborada por el beneficiario indicando lo
+
+				  siguiente: declaración de importación para el consumo o
+
+				  declaración simplificada de importación (COD-AAAA-NNNNNN),
+
+				  serie, unidad física o equivalente, ítem (el mismo que se
+
+				  utiliza durante todo el régimen) y descripción comercial por
+
+				  tipo de producto. Debe tenerse en cuenta que para todos los
+
+				  ítems que conforman una serie, la unidad señalada debe ser la
+
+				  misma.
+A3) Presentación de documentos de
+
+				  sustento del CIP
+1. En el plazo máximo de
+
+				  ciento ochenta días calendario, contados a partir de la fecha
+
+				  de término del embarque de la mercancía exportada, el
+
+				  despachador de aduana, en representación del beneficiario
+
+				  presenta de manera digitalizada el CIP firmado por el
+
+				  representante legal de la empresa y los documentos
+
+				  sustentatorios que se detallan a continuación, con la
+
+				  indicación del número de la solicitud asignado por el sistema
+
+				  informático:
+a) Factura o boleta de venta, según
+
+				  corresponda, de la mercancía exportada, solo si fue emitida
+
+				  físicamente en contingencia.
+b) Factura, documento
+
+				  equivalente o contrato, según corresponda, de la mercancía
+
+				  importada.
+c) Factura, documento equivalente o contrato,
+
+				  según corresponda, de la mercancía admitida temporalmente.
+
+
+				  d) Última liquidación de cobranza debidamente cancelada en
+
+				  casos de fraccionamiento de pago de tributos a la importación.
+
+
+En tanto no se implemente la transmisión de documentos
+
+				  digitalizados por el portal de la SUNAT, la remisión de la
+
+				  documentación se realiza a través de la MPV-SUNAT.
+2.
+
+				  El funcionario aduanero designado registra la recepción de los
+
+				  documentos sustentatorios y el número del CIP en el sistema
+
+				  informático.
+A4) Revisión de documentos y
+
+				  emisión del certificado de reposición
+1. El
+
+				  funcionario aduanero designado verifica que la información del
+
+				  CIP y de la documentación coincida con la información
+
+				  registrada en el sistema informático y, adicionalmente:
+a)
+
+				  Que la descripción de la mercancía de la factura comercial, la
+
+				  declaración de importación para el consumo o declaración de
+
+				  admisión temporal y la del CIP transmitido coincidan;
+b)
+
+				  Que las liquidaciones de cobranza correspondientes a las
+
+				  declaraciones de importación para el consumo que se encuentren
+
+				  acogidas a un fraccionamiento de pago de tributos estén
+
+				  canceladas;
+c) Que la liquidación de cobranza
+
+				  correspondiente a la mercancía admitida temporalmente se
+
+				  encuentre cancelada y
+d) Que la descripción de la mercancía
+
+				  de la factura comercial, la declaración de exportación
+
+				  definitiva y la del CIP transmitido coincidan.
+2. De
+
+				  ser conforme, el funcionario aduanero designado registra su
+
+				  aceptación en el sistema informático, emitiéndose
+
+				  automáticamente el respectivo certificado de reposición de
+
+				  acuerdo con el anexo II.
+3. De encontrar incidencias en
+
+				  el CIP o en la documentación sustentatoria, el funcionario
+
+				  aduanero designado notifica al despachador de aduana a su
+
+				  buzón electrónico e indica las observaciones, a fin de que en
+
+				  el plazo de tres días hábiles contados a partir del día
+
+				  siguiente de la notificación proceda a subsanarlas a través de
+
+				  la MPV-SUNAT.
+Durante el plazo de subsanación queda
+
+				  suspendido el cómputo del plazo señalado en el numeral 1 del
+
+				  subliteral A6) de la sección VII.
+4. El despachador de
+
+				  aduana, en representación del beneficiario, remite a través de
+
+				  la MPV-SUNAT, de manera digitalizada, la documentación
+
+				  sustentatoria tendiente a levantar las observaciones
+
+				  efectuadas y, de corresponder, adjunta la liquidación de
+
+				  cobranza debidamente cancelada por concepto de multa por la
+
+				  infracción prevista en la Ley General de Aduanas. De ser
+
+				  conforme, el funcionario aduanero designado procede con lo
+
+				  dispuesto en el numeral 1 del presente subliteral y rectifica
+
+				  el CIP, de corresponder.
+5. En caso la documentación
+
+				  sustentatoria haya sido remitida de manera incompleta y no
+
+				  satisfaga la totalidad de la observación formulada, el
+
+				  funcionario aduanero procede a emitir el certificado de
+
+				  reposición por los ítems cuyos datos se encuentran
+
+				  correctamente sustentados. Asimismo, lo notifica al buzón
+
+				  electrónico del beneficiario y del despachador de aduana,
+
+				  indicando las razones por las cuales se da por no recibida la
+
+				  otra parte del CIP.
+De no ser subsanada ninguna de las
+
+				  observaciones, se da por no recibido el CIP y se notifica este
+
+				  acto al buzón electrónico del beneficiario y despachador de
+
+				  aduana.
+6. El descargo automático de la cuenta
+
+				  corriente de la declaración de importación para el consumo o
+
+				  de la declaración simplificada de importación se efectúa con
+
+				  la numeración del certificado de reposición.
+7. El
+
+				  certificado de reposición se emite a nombre de cada
+
+				  beneficiario y tiene una vigencia de un año contado a partir
+
+				  de la fecha de su emisión.
+8. El funcionario aduanero
+
+				  que emite el certificado de reposición y el jefe del área
+
+				  insertan su firma electrónica en el certificado en señal de
+
+				  conformidad.
+A5) Comunicación del CIP al sector
+
+				  competente
+1. Una vez emitido el certificado
+
+				  de reposición, la Administración Aduanera pone a disposición
+
+				  del sector competente, vía electrónica, el CIP transmitido por
+
+				  el beneficiario o su representante.
+2. En caso el
+
+				  sector competente anule o rectifique el CIP, la Administración
+
+				  Aduanera realiza los ajustes en el sistema informático,
+
+				  comunicándolo al beneficiario a su buzón electrónico.
+
+
+A6) Del certificado de reposición
+1.
+
+				  El certificado de reposición emitido es puesto a disposición
+
+				  del beneficiario en su buzón electrónico dentro de los diez
+
+				  días hábiles siguientes al registro de la recepción de la
+
+				  documentación sustentatoria. Este certificado puede ser
+
+				  consultado en el portal de la SUNAT.
+2. El funcionario
+
+				  aduanero designado deja constancia en el sistema informático
+
+				  de la fecha y hora de notificación del certificado de
+
+				  reposición.
+B) USO DEL CERTIFICADO DE
+
+				  REPOSICIÓN
+1. Durante la transmisión
+
+				  electrónica de los datos de la declaración de importación para
+
+				  el consumo o de la declaración simplificada de importación, el
+
+				  despachador de aduana consigna:
+a) El código de la aduana
+
+				  de emisión;
+b) El año de numeración;
+c) El código 12
+
+				  correspondiente al régimen;
+d) El número del certificado
+
+				  de reposición;
+e) El número de ítem;
+f) El código del
+
+				  TPN 93;
+g) La cantidad de unidades equivalentes con la
+
+				  autorizada en el certificado de reposición, aun cuando estas
+
+				  coincidan con las unidades físicas.
+En la
+
+				  nacionalización de mercancías amparadas con declaración
+
+				  simplificada de importación, el despachador de aduana consigna
+
+				  adicionalmente la cantidad de unidades comerciales.
+2.
+
+				  El trámite de despacho de las mercancías en reposición se
+
+				  efectúa conforme al procedimiento de importación para el
+
+				  consumo o al procedimiento de despacho simplificado de
+
+				  importación, según corresponda.
+3. La mercancía en
+
+				  reposición está sujeta a reconocimiento físico obligatorio.
+
+
+4. En el caso de reconocimiento físico sin incidencia, el
+
+				  funcionario aduanero confirma la información del certificado
+
+				  de reposición transmitida por el despachador y registrada en
+
+				  el sistema informático.
+Si la cantidad de la mercancía
+
+				  a reponer es modificada luego del reconocimiento físico, en la
+
+				  regularización del despacho urgente o anticipado, o debido a
+
+				  una solicitud de rectificación de la declaración, el sistema
+
+				  informático registra la nueva cantidad de mercancía a reponer
+
+				  y la fecha del descargo, y actualiza la cuenta corriente del
+
+				  certificado de reposición.
+5. El funcionario aduanero
+
+				  designado puede conceder la franquicia arancelaria aun cuando
+
+				  la subpartida nacional determinada en el reconocimiento físico
+
+				  no coincida con la indicada en el certificado de reposición,
+
+				  siempre que la mercancía sea equivalente a la autorizada.
+
+
+6. En la nacionalización de mercancías ingresadas bajo el
+
+				  régimen de admisión temporal para perfeccionamiento activo, el
+
+				  beneficiario o su representante solicita, a través de la
+
+				  MPV-SUNAT, el uso del certificado de reposición para la
+
+				  nacionalización parcial o total de la mercancía admitida
+
+				  temporalmente, para lo cual consigna el número del certificado
+
+				  de reposición, la serie, la cantidad de unidades comerciales y
+
+				  las unidades equivalentes.
+El funcionario aduanero
+
+				  designado verifica el cumplimiento de los requisitos exigidos
+
+				  en el régimen de reposición de mercancías con franquicia
+
+				  arancelaria. De ser conforme, descarga de la cuenta corriente
+
+				  de la admisión temporal aquellas mercancías sujetas a
+
+				  reposición y solicita la actualización de datos a la
+
+				  Intendencia Nacional de Sistemas de Información para que se
+
+				  descargue la cantidad de mercancía usada en la nacionalización
+
+				  del certificado de reposición.
+C) CASOS
+
+				  ESPECIALES
+C1) TRANSFERENCIA DEL CERTIFICADO DE
+
+				  REPOSICIÓN
+1. El representante legal de la
+
+				  empresa endosante comunica a la Administración Aduanera, a
+
+				  través de la MPV – SUNAT, la transferencia de mercancías que
+
+				  correspondan a uno o más certificados de reposición indicando:
+
+
+a) El número del certificado de reposición (aduana - año -
+
+				  código 12 - número), nombre o razón social de la empresa,
+
+				  número de RUC del endosatario y cantidad total que se
+
+				  transfiere.
+b) Si la transferencia se hubiere efectuado
+
+				  solo por una parte del saldo del certificado de reposición, se
+
+				  consigna el número de ítem que le corresponda en el mencionado
+
+				  certificado y las cantidades parciales transferidas al
+
+				  endosatario.
+2. El funcionario aduanero designado
+
+				  ingresa al sistema informático el número de la solicitud y los
+
+				  datos de la transferencia y notifica al endosante su
+
+				  conformidad.
+C2) RECTIFICACIONES AL CUADRO DE
+
+				  INSUMO-PRODUCTO (CIP) Y
+NULIDAD DEL CERTIFICADO DE
+
+				  REPOSICIÓN
+1. Si como consecuencia de una
+
+				  fiscalización posterior o de acuerdo a lo señalado en el
+
+				  numeral 2 del subliteral A5) de la sección VII se determina la
+
+				  nulidad o rectificación del certificado de reposición, se
+
+				  ejecutan las siguientes acciones:
+a) Cuando se trate de
+
+				  la nulidad del certificado de reposición, la intendencia de
+
+				  aduana que expidió el certificado o el área a quien se delegue
+
+				  declara, mediante resolución de intendencia, la nulidad de
+
+				  dicho documento, con conocimiento de las intendencias de
+
+				  aduana donde el certificado haya sido utilizado, a efecto de
+
+				  que ordenen el cobro de los tributos de importación e
+
+				  intereses moratorios correspondientes a la cantidad de
+
+				  mercancía que fue objeto de reposición.
+b) Cuando se trate
+
+				  de rectificar la cantidad autorizada en el certificado de
+
+				  reposición por una mayor, la intendencia de aduana emisora de
+
+				  dicho documento, o el área a quien se delegue, ordena mediante
+
+				  resolución de intendencia la cancelación del certificado y la
+
+				  emisión de uno nuevo por el faltante y los saldos del primero,
+
+				  de corresponder, con la misma fecha de vencimiento del
+
+				  inicialmente otorgado.
+c) Cuando se trate de rectificar la
+
+				  cantidad autorizada en el certificado de reposición por una
+
+				  menor, la intendencia de aduana emisora de dicho documento o
+
+				  el área a quien se delegue ordena mediante resolución de
+
+				  intendencia la cancelación del certificado y emite uno nuevo
+
+				  por los saldos del primero, de corresponder; en caso
+
+				  contrario, verifica la autoliquidación por los tributos e
+
+				  intereses moratorios que correspondan, los mismos que son
+
+				  cancelados en la intendencia de aduana donde se utilizó el
+
+				  certificado.
+En los casos que correspondan se aplican las
+
+				  sanciones de acuerdo a ley.
+
+
+				  NOTIFICACIONES Y COMUNICACIONES
+D1) Notificaciones a
+
+				  través del buzón electrónico
+1. Los
+
+				  siguientes actos administrativos pueden ser notificados a
+
+				  través del buzón electrónico:
+a) Requerimiento de
+
+				  información o documentación.
+b) Resolución de determinación
+
+				  o multa.
+c) El que declara la procedencia en parte o
+
+				  improcedencia de una solicitud.
+d) El que declara la
+
+				  procedencia cuya ejecución se encuentra sujeta al cumplimiento
+
+				  de requerimientos de la Administración Aduanera.
+e) El
+
+				  emitido de oficio por la Administración Aduanera.
+2.
+
+				  Para la notificación a través del buzón electrónico se debe
+
+				  considerar que:
+a) El OCE y el OI cuente con número de RUC
+
+				  y clave SOL.
+b) El acto administrativo que se genera
+
+				  automáticamente por el sistema informático sea transmitido al
+
+				  buzón electrónico del OCE o del OI, según corresponda.
+c)
+
+				  Cuando el acto administrativo no se genera automáticamente, el
+
+				  funcionario aduanero designado deposita en el buzón
+
+				  electrónico del OCE o del OI un archivo en formato digital.
+
+
+				  d) La notificación surte efecto al día hábil siguiente a la
+
+				  fecha de depósito del documento. La confirmación de la entrega
+
+				  se realiza por la misma vía electrónica.
+3. La
+
+				  Administración Aduanera puede utilizar, indistintamente, las
+
+				  otras formas de notificación establecidas en el artículo 104
+
+				  del Código Tributario.
+D2) Comunicaciones a la
+
+				  dirección del correo electrónico consignado en la MPV-SUNAT
+
+
+1. Cuando el OCE o el OI presenta su
+
+				  solicitud a través de la MPV-SUNAT y registra una dirección
+
+				  del correo electrónico, se obliga a:
+a) Asegurar que la
+
+				  capacidad del buzón del correo electrónico permita recibir las
+
+				  comunicaciones que la Administración Aduanera envíe.
+b)
+
+				  Activar la opción de respuesta automática de recepción.
+c)
+
+				  Mantener activa la dirección de correo electrónico hasta la
+
+				  culminación del trámite.
+d) Revisar continuamente el correo
+
+				  electrónico, incluyendo la bandeja de spam o de correo no
+
+				  deseado.
+2. Con el registro de la mencionada dirección
+
+				  del correo electrónico en
+la MPV-SUNAT, autoriza
+
+				  expresamente a la Administración Aduanera a enviar, a través
+
+				  de esta, las comunicaciones que se generen en el trámite de su
+
+				  solicitud.
+3. La respuesta del OCE o del OI a las
+
+				  comunicaciones realizadas por la Administración Aduanera se
+
+				  presenta a través de la MPV - SUNAT.
+
+
+VIII. VIGENCIA
+A partir del día
+
+				  siguiente de su publicación.
+IX. ANEXOS
+
+
+				  Anexo I : Cuadro de Insumo - Producto (Reposición) e
+
+				  instructivo de llenado
+
+
+Anexo
+
+				  II : Certificado de reposición
+
+
+Anexo
+
+				  III: Consideraciones para digitalizar documentos

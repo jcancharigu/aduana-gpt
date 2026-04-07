@@ -1,0 +1,1681 @@
+Procedimientos - IMPORTACION DEFINITIVA
+
+
+
+IMPORTACION PARA EL CONSUMO
+
+
+PROCEDIMIENTO ESPECIFICO: BENEFICIO TRIBUTARIOS: SECTOR
+AGRARIO Y DISCAPACITADOS
+
+
+Proc:
+
+
+ DESPA-PE.01.0
+3
+
+
+Beneficios
+ Tributarios:Sector agrario y discapacitados
+
+
+Versión:
+
+ 1
+
+
+Publicación:
+
+ 19/09/1999
+
+
+Resolución:
+
+ 000984
+
+
+Fecha Res.:
+14/09/1999
+
+
+Vigencia:
+
+ 04/10/1999
+
+
+
+Lista:
+
+
+ Maestra
+
+
+Circulares
+ Anexas
+
+
+Control de Cambios
+
+
+I. OBJETIVO
+
+
+Establecer las pautas para acogerse al
+ Beneficio Tributario referente al pago de tributos con
+ documentos cancelatorios en favor del Sector Agrario y de las
+ Personas con Discapacidad con la finalidad de lograr el correcto
+ cumplimiento de las normas que lo regulan.
+
+
+II. ALCANCE
+
+
+Esta dirigido al personal de Aduanas y
+ Operadores de Comercio Exterior que intervienen en el Régimen
+ Definitivo de Importación.
+
+
+III. RESPONSABILIDAD
+
+
+La aplicación, cumplimiento y seguimiento de
+ lo establecido en el presente Procedimiento es de
+ responsabilidad de las Intendencias de Aduanas de la República,
+ de la Intendencia Nacional de Técnica Aduanera y de la
+ Intendencia Nacional de Sistemas.
+
+
+IV. VIGENCIA
+
+
+A partir del 27/09/1999
+
+
+
+V. BASE LEGAL
+
+
+ -
+Ley General de la Persona con Discapacidad, Ley Nº 27050
+ del 6.1.99 y su Reglamento aprobado con
+
+
+Decreto Supremo Nº 003-2000-PROMUDEH del 5.4.2000
+.
+
+- Ley de Simplificación Administrativa y su
+ Reglamento, aprobados por Ley Nº25035 del 11.6.89 y Decreto
+ Supremo Nº070-89-PCM del 2.9.89.
+
+
+ - Ley Orgánica y Estatuto de la Superintendencia Nacional de
+ Aduanas, aprobados por Decreto Ley Nº26020 del 28.12.92 y
+ Resolución de Superintendencia de Aduanas Nº0021 del 10.4.97
+ modificada por Resolución de Superintendencia de Aduanas Nº001591
+ del 20.6.97.
+
+
+ - Ley de Normas Generales y Procedimientos Administrativos, cuyo
+ Texto Unico Ordenado ha sido aprobado por D.S. Nº 002-94-JUS
+ del 31.1.94.
+
+
+ - Ley de los Delitos Aduaneros, Ley Nº26461 del 8.6.95.
+
+
+ - Ley de Promoción del Sector Agrario, aprobada por Decreto
+ Legislativo Nº 885 del 10.11.96, y su Reglamento aprobado con
+ Decreto Supremo Nº 002-98-AG de 17.01.98.
+
+
+(Derogado por Decreto Legislativo Nº 956 Pub. 05.02.2004)
+
+
+ - Decreto Supremo 055-99-EF, Texto Unico Ordenado de la Ley del
+ Impuesto General a las Ventas e Impuesto Selectivo al Consumo
+ del 15.04.99.
+
+
+ - Ley General de Aduanas, Decreto Legislativo Nº 809 del
+ 19.4.96.
+
+
+ - Reglamento aprobado por Decreto Supremo Nº121-96-EF del
+ 24.12.96.
+
+
+ - Normas Reglamentarias para la Importación de Vehículos
+ Especiales, Decreto Supremo Nº 129-95-EF del 19.9.95.
+
+
+- Tabla de Sanciones aplicables a las
+ infracciones previstas en la Ley General de Aduanas, aprobada
+con
+ Decreto Supremo Nº 122-96-EF de 24.12.96, modificada por
+ Decreto Supremo Nº 027-2000-EF de 27.03.2000 y Decreto Supremo
+ Nº 050-2000-EF de 25.05.2000.
+
+
+- Normas Reglamentarias sobre la Inafectación
+ del Impuesto General a las Ventas, Impuesto Selectivo al Consumo
+ y Derechos Arancelarios, Decreto Supremo Nº 069-96-EF del
+ 21.06.1996 y D.S. Nº 029-98-EF, del 25.03.1998.
+
+
+ -
+Norma que autoriza al MEF emitir Documentos Cancelatorios
+ para el pago de tributos, que gravan la importación y venta de
+ fertilizantes, agroquímicos y otros, aprobado con la Ley Nº
+ 27400 del 18.1.2001 y reglamentado con el Decreto Supremo Nº
+ 026-2001-EF de 17.2.2001 y Decreto Supremo Nº 123-97-EF de
+ 2.10.97
+.
+
+
+(Derogado por Decreto Legislativo Nº 956 Pub. 05.02.2004)
+
+
+ - Ley que amplía beneficios del Decreto Legislativo Nº 885,
+ Ley 26865 del 15.10.97.
+
+
+(Derogado por Decreto Legislativo Nº 956 Pub. 05.02.2004)
+
+
+ - Norma que incorpora nuevas partidas arancelarias al Anexo del
+ Decreto Supremo Nº 123-97-EF, aprobado con Decreto de Urgencia
+ Nº 001-98 del 14.01.98.
+
+
+(Derogado por Decreto Legislativo Nº 956 Pub. 05.02.2004)
+
+
+ - Norma que aprueba el Nuevo Texto de D.S. Nº 123-97-EF,
+ aprobado con Decreto Supremo Nº020-98-EF del 06.03.98.
+
+
+(Derogado por Decreto Legislativo Nº 956 Pub. 05.02.2004)
+VI. NORMAS GENERALES
+
+
+A. SECTOR AGRARIO
+
+ (Derogado por Decreto Legislativo Nº 956 Pub. 05.02.2004)
+EXCEPTO
+ EL NUMERAL 7
+
+
+ 1. El beneficio tributario al sector agrario consiste en el pago
+ de los tributos a la importación, correspondientes a Derechos
+ Arancelarios, Impuesto General a las Ventas e Impuesto de
+ Promoción Municipal, mediante Documentos Cancelatorios emitidos
+ por la Dirección General de Tesoro Público del Ministerio de
+ Economía y Finanzas.
+
+
+ 2. Pueden acogerse al citado beneficio, las personas naturales o
+ jurídicas que importen alguna de las mercancías de la relación
+ de Subpartidas Nacionales detalladas en el Anexo 1 adjunto, para
+ destinarla(s) exclusivamente a la actividad agraria.
+
+
+ 3. Mediante Declaración Jurada, según formato detallado en
+ Anexo 2 adjunto, el importador confirmará que la(s) mercancía(s)
+ será(n) utilizada(s) exclusivamente en la agricultura.
+
+
+ 4. (Eliminado por RIN Nº 001886 de 22.08.2001)
+
+
+ 5. La Declaración sólo ampara mercancías materia del
+ beneficio.
+
+
+ 6. El beneficio será otorgado en la medida que exista saldo
+ disponible, de acuerdo al monto asignado por el Ministerio de
+ Economía y Finanzas a ADUANAS.
+
+
+ 7. El beneficiario, de renunciar al compromiso asumido respecto
+ al uso exclusivo de los bienes en la actividad agraria, deberá
+ pagar los tributos que fueron cubiertos por el Estado mediante
+ documentos Cancelatorios.
+
+
+ 8. El presente Procedimiento sigue el mismo tratamiento
+ dispuesto en el Procedimiento General del Régimen de Importación
+ Definitiva INTA.PG-01, o Procedimiento Específico de Despacho
+ Simplificado INTA-PE.01.01 cuando corresponda.
+
+
+B. DISCAPACITADOS
+
+
+1. Pueden gozar del beneficio tributario para
+ Discapacitados las personas con discapacidad que importe alguna
+ de las mercancías señaladas en el Anexo 3 adjunto.
+
+
+2. El beneficiario deberá acreditar ante la Aduana de
+ despacho mediante copia de la Resolución expedida por la
+ Secretaría Ejecutiva del CONADIS, su condición de
+ discapacitado.
+
+
+ 3. La importación de las mercancías materia del beneficio está
+ exonerada del pago de Derechos Arancelarios y sujeta al pago
+ mediante Documentos Cancelatorios, emitidos por la Dirección
+ General de Tesoro Público del Ministerio de Economía y
+ Finanzas, de los siguientes tributos: Impuesto General a las
+ Ventas, Impuesto de Promoción Municipal e Impuesto Selectivo al
+ Consumo.
+
+
+ 4. El beneficio tributario, tratándose de vehículos
+ especiales, se aplicará hasta para un valor CIF de Diez Mil Dólares
+ Americanos (US$ 10,000). En el caso de vehículos especiales
+ cuyo valor CIF sea mayor a la suma antes indicada, las Aduanas
+ deberán aplicar y liquidar los tributos a la importación que
+ correspondan, sobre el exceso de dicho valor.
+
+
+ 5.
+El pago de los tributos sobre el exceso del valor a que se
+ hace referencia en el numeral 4. precedente, serán cancelados
+ mediante Liquidación de Cobranza
+.
+
+
+ 6. La Declaración sólo amparará mercancías materia del
+ beneficio.
+
+
+ 7. La prohibición de compra-venta, permuta, cesión,
+ arrendamiento o comodato de los bienes materia de beneficio es
+ por un plazo máximo de dos años contados a partir de la fecha
+ de numeración de la Declaración.
+
+
+ 8. El presente Procedimiento sigue el mismo tratamiento
+ dispuesto en el Procedimiento General del Régimen de Importación
+ Definitiva INTA.PG-01, o Procedimiento Específico de Despacho
+ Simplificado INTA-PE.01.01 cuando corresponda.
+
+
+
+VII. DESCRIPCION
+
+
+A. SECTOR AGRARIO
+
+ (Derogado por Decreto Legislativo Nº 956 Pub. 05.02.2004)
+EXCEPTO
+ EL NUMERAL 7
+
+
+ 1.
+El Agente de Aduana o Despachador Oficial solicita la
+ destinación aduanera del Régimen de Importación mediante
+ transmisión por vía electrónica, debiendo indicar en la
+ casilla 7.24 de la DUA – Importación (A, A1) el Trato
+ Preferencial Nacional Nº181 y en la casilla 7.37 consignar
+ "D.S. Nº 026-2001-EF". Asimismo, cuando la descripción
+ de la subpartida señale "Solo" en la casilla 7.22
+ consigna el código 1.
+
+
+Tratándose de Declaraciones
+ Simplificadas, el Agente de Aduana o Despachador Oficial
+ consigna la información detallada en el párrafo precedente en
+ las casillas 6.8, 6.6 y 6.7 respectivamente.¨
+
+
+2. El Agente de Aduana, Despachador Oficial o
+ dueño/consignatario presenta ante la Ventanilla del Area de
+ Despacho, la Declaración de importación adjuntando además de
+ los documentos exigidos en el despacho de Importación
+ Definitiva, los siguientes:
+
+a) Declaración Jurada del beneficiario
+
+
+ b) Certificado de Origen, en el caso de importación de vacunos
+ y ovinos, que acredite la condición de vacunos reproductores,
+ vaquillonas registradas preñadas y ovinos de pelo para
+ reproducción.
+
+
+ c) Otros que se requieran (Certificado Zoosanitario, Autorización
+ del MITINCI, etc.)
+
+
+3. (Eliminado por RIN Nº 001886 de
+ 22.08.2001)
+
+
+ 4. El Especialista en Aduanas durante el despacho verifica el
+ cumplimiento de los requisitos señalados anteriormente;
+ asimismo, que la mercancía declarada se encuentre incluida en
+ la relación de Subpartidas Nacionales que gozan del beneficio
+ y, que la Declaración Jurada esté correcta de acuerdo al
+ formato establecido; procediendo conforme a lo señalado en los
+ procedimientos indicados en el numeral 8. rubro VI. Normas
+ Generales - A, del presente documento.
+
+
+ 5.
+De resultar aplicable el beneficio y estando las mercancías
+ aptas para el levante, el Especialista en Aduanas retiene los
+ siguientes documentos:
+
+
+a) Declaración Jurada del Beneficiario.
+
+
+b) Copia del Ejemplar A, A1 y C de la DUA-Importación, o
+ Declaración Simplificada.
+
+
+c) Copia de la Liquidación de Cobranza de existir
+ incidencias en el despacho.
+
+
+Dichos documentos son entregados al personal
+ designado por el Jefe del Area de Despacho, encargado de su
+ custodia.
+
+6. Las entidades depositarias permiten el
+ retiro de las mercancías de sus recintos, con la presentación
+ de la Declaración debidamente diligenciada por el Especialista
+ en Aduanas, acompañada de la Liquidación de Cobranza
+ cancelada.
+
+
+ 7.
+El beneficiario puede renunciar al compromiso asumido
+ respecto al uso exclusivo de los bienes en la actividad agraria,
+ pagando los tributos que fueron cubiertos por el estado,
+ debiendo el personal encargado de formular la Liquidación de
+ Cobranza consignando necesariamente al inicio de la glosa la
+ frase: Renuncia al TPN 181, adicionalmente se debe consignar el
+ número de la serie o series involucradas
+.
+
+
+B. DISCAPACITADOS
+
+
+1. El Agente de Aduana solicita la destinación
+ aduanera del Régimen de Importación
+mediante transmisión
+ por vía electrónica, debiendo indicar en la casilla 7.25 de la
+ DUA – Importación (A, A1) el código liberatorio Nº 4201 ó
+ 4202, según corresponda, a efecto de la exoneración de los
+ derechos arancelarios.
+
+
+Para acogerse al pago de los demás tributos
+ a la importación (IGV, IPM e ISC) mediante documentos
+ cancelatorios emitidos por la DGTP – MEF, vía transmisión
+ electrónica remite en el archivo: ADUADET1, campo: CEXCNAN, el
+ código "S". Asimismo, en la casilla 7.37 de la DUA
+ –Importación, consigna el número y fecha de la
+Resolución
+ de la Secretaría Ejecutiva del CONADIS
+ y la frase:
+ "IGV, IPM e ISC – cancelados con Documentos Cancelatorios
+ -– Tesoro Público".
+
+
+Tratándose del despacho de vehículos
+ especiales, debe indicar en l
+a casilla 7.35 de la DUA –
+ Importación
+, la descripción detallada de las adaptaciones
+ o equipamiento especial con el que está acondicionado el mismo,
+ conforme a la respectiva factura comercial.
+
+2. En la Declaración Simplificada presentada
+ por el Agente de Aduanas, debe consignar en el rubro Modalidad
+ de Despacho el dígito diez (10) y en el rubro 6.7 el Código
+ Liberatorio que corresponda; vía transmisión electrónica
+ remite
+
+en el archivo: ADUADET1, campo CEXCNAN, el código
+ "S", y en rubro 5.11
+,
+ el número de la
+Resolución
+ de la Secretaría Ejecutiva del CONADIS
+, así como la frase
+ "IGV, IPM e ISC - Cancelados con Documento Cancelatorio -
+ Tesoro Público".
+
+Tratándose de Declaraciones presentadas por
+ el dueño o consignatario de la mercancía, debe consignar en el
+ rubro Modalidad de Despacho el dígito diez (10) y en el rubro
+ 5.11, el número de la Resolución del Ministerio de Salud e
+ indicar la frase "IGV, IPM e ISC cancelados con Documento
+ Cancelatorio - Tesoro Público".
+
+
+ En el despacho de vehículos especiales, en el rubro 6.1 de la
+ Declaración Simplificada, debe consignar la descripción
+ detallada de las adaptaciones o equipamiento especial con el que
+ está acondicionado conforme a la respectiva Factura Comercial.
+
+
+3.
+El Agente de Aduana o Despachador
+ Oficial solicita ante la Ventanilla del Area de Despacho, la
+ emisión de la liquidación de cobranza por concepto de los
+ tributos diferenciales en caso de corresponder, indicando el número
+ de la misma asignado por el SIGAD en la transmisión de los
+ datos de la Declaración numerada
+.
+
+El personal encargado por el Jefe del Area
+ procede a imprimir la Liquidación de Cobranza generada por el
+ SIGAD al momento de la numeración de la
+DUA-Importación,
+
+ la cual debe estar debidamente cancelada para proceder al
+ despacho.
+
+
+Tratándose de Declaraciones Simplificadas
+ presentadas por el dueño o consignatario de la mercancía, la
+ citada Liquidación de Cobranza será solicitada concluido el
+ reconocimiento físico.
+
+4. El Agente de Aduana o dueño/consignatario
+ presenta ante la Ventanilla del Area de Despacho, la Declaración
+ de importación adjuntando además de los documentos exigidos en
+ el Procedimiento General de Importación Definitiva o
+ Procedimiento Específico de Despacho Simplificado de Importación,
+ la
+Resolución de la Secretaría Ejecutiva del CONADIS.
+
+
+5. El Especialista en Aduanas durante el
+ despacho verifica el cumplimiento de los requisitos señalados
+ anteriormente; asimismo, que la mercancía declarada se
+ encuentre incluida en la relación de Subpartidas Nacionales que
+ gozan del beneficio; procediendo conforme a lo señalado en los
+ procedimientos indicados en el numeral 8. rubro VI. Normas
+ Generales - B, del presente documento.
+
+6. De proceder el beneficio, el Especialista
+ consigna en el formato C de la Declaración la siguiente
+ información: "Art. 74 del Decreto Supremo 055-99-EF y
+ Decreto Supremo N° 029-98-EF".
+
+
+
+7. De resultar aplicable el beneficio y
+ estando las mercancías aptas para el levante, el Especialista
+ en Aduanas retiene los siguientes documentos:
+
+a) Copia de la
+Resolución de la Secretaría
+ Ejecutiva del CONADIS.
+
+
+ b)
+Copia de la Liquidación de Cobranza por concepto de los
+ tributos diferenciales, debidamente cancelados
+.
+
+
+ c) Copia del Formato C de la
+DUA-Importación
+, o
+ Declaración Simplificada.
+
+
+ Dichos documentos son entregados al personal designado por el
+ Jefe del Area de Despacho, encargado de su custodia.
+
+
+8. Las entidades depositarias permiten el
+ retiro de las mercancías de sus recintos, con la presentación
+ de la Declaración debidamente diligenciada por el Especialista
+ en Aduanas, acompañada de la Liquidación Cobranza cancelada.
+
+C. DE LA REGULARIZACION
+
+
+1. Dentro de los tres primeros días útiles
+ del mes siguiente, el Area de Despacho remite a la Intendencia
+ Nacional de Recaudación Aduanera, los siguientes documentos:
+
+a) Para el caso de Beneficio Tributario al
+ Sector Agrario:
+
+
+(Derogado por Decreto Legislativo Nº 956 Pub. 05.02.2004)
+
+
+Una (01) copia de la Declaración Jurada del
+ Beneficiario
+
+Dos copias del Ejemplar A, A1 y C de la
+ DUA-Importación, o Declaración Simplificada y Liquidación de
+ Cobranza de existir incidencias.
+
+
+Reporte ¨Anexo a la solicitud de
+ Documentos Cancelatorios Decreto Supremo Nº 026-2001-EF¨.
+
+
+(Derogado por Decreto Legislativo Nº 956 Pub. 05.02.2004)
+
+
+ b) Para el caso de Beneficio Tributario para
+ Discapacitados:
+
+·
+Una ( 01 ) copia de la Resolución de
+ la Secretaría Ejecutiva del CONADIS.
+
+ · Dos (02) copias, del Formato C de la
+DUA-Importación
+
+ o Liquidación de Tributos de la Declaración Simplificada
+ cuando corresponda y, Liquidación de Cobranza de existir
+ incidencias en el despacho.
+
+ · Reporte de las Declaraciones de Importación acogidas al
+ Decreto Supremo Nº 069-96-EF y Decreto Supremo Nº 029-98-EF.
+
+
+
+2. La Intendencia Nacional de Recaudación
+ Aduanera consolida y solicita a la Dirección General del Tesoro
+ Público la emisión de los Documentos Cancelatorios de las
+ diversas Intendencias de Aduana, de acuerdo a lo establecido en
+ el Procedimiento de Documentos Valorados INRA-PE.14.
+
+
+ 3. La Intendencia Nacional de Recaudación Aduanera remitirá a
+ las Intendencias de Aduana copias legalizadas de los Documentos
+ Cancelatorios y copia del Acta de Recepción entregada por la
+ Dirección General del Tesoro Público, debiendo las citadas
+ Intendencias de Aduana, efectuar la regularización de las
+ Declaraciones de Importación y Liquidaciones de Cobranza
+ acogidas a estos beneficios, tomando para efectos del registro,
+ la fecha consignada en la respectiva "Acta de Recepción".
+
+
+VIII. FLUJOGRAMA
+
+
+No aplica
+
+
+
+IX. INFRACCIONES, SANCIONES Y DELITOS
+
+
+Serán sancionados con multa los
+ Beneficiarios por las infracciones previstas en los siguientes
+ dispositivos:
+
+ - Tabla de sanciones aplicable a las infracciones previstas en
+ la Ley General de Aduanas aprobada por D.S.Nº 122-96-EF del
+ 24.12.96
+
+
+**(Mod.DS.030-2001-EF
+ Pub.23.02.2001)
+
+
+ - Ley de los Delitos Aduaneros, Ley Nº26461 del 8.6.95.
+
+
+X. REGISTROS
+
+
+- Declaraciones de Importación sujetas al
+ pago de tributos con documentos cancelatorios para el Sector
+ Agrario y Discapacitados.
+
+
+XI. DEFINICIONES Y ABREVIATURAS
+
+
+DISCAPACITADO.-
+Es la persona que por
+ causa congénita o sobreviniente, tiene disminuidas algunas de
+ sus facultades físicas en forma permanente, que le ocasione pérdida
+ de la habilidad para desarrollar determinadas actividades.
+
+
+PROTESIS.-
+Aparatos que reemplazan en todo o en parte un
+ órgano que falta y aquellos que lleve la propia persona o se le
+ implanten para compensar un defecto o incapacidad.
+
+
+VEHÍCULOS ESPECIALES.-
+Aquellos destinados al uso
+ exclusivo del minusválido, siempre que se encuentren
+ modificados con adaptaciones integradas al vehículo, para ser
+ maniobrados por estas personas.
+
+
+ANEXOS
+
+
+1. Partidas arancelarias sujetas al beneficio
+ tributario del Sector Agrario.
+
+
+(Derogado por Decreto Legislativo Nº 956 Pub. 05.02.2004)
+
+
+ 2. Formato de Declaración Jurada del Sector Agrario.
+
+
+(Derogado por Decreto Legislativo Nº 956 Pub. 05.02.2004)
+
+
+ 3. Partidas arancelarias sujetas al beneficio tributario para
+ Discapacitados.
+
+
+ANEXO 1
+
+ (Derogado por Decreto Legislativo Nº 956 Pub. 05.02.2004)
+
+
+PARTIDAS ARANCELARIAS SUJETAS AL BENEFICIO TRIBUTARIO DEL
+ SECTOR AGRARIO
+
+
+Subpartida Nacional
+
+
+Código Adicional
+
+
+Descripción
+
+
+0102.10.00.00
+
+
+
+Animales vivos de la especie
+ bovina, reproductores de raza pura, excepto los de la
+ especie vacuna
+
+
+0102.10.00.00
+
+
+
+1
+
+
+
+Sólo:Vacunos reproductores y
+ vaquillonas registradas con preñez certificada, de
+ raza pura
+
+
+0102.90.90.00
+
+
+
+Animales vivos de la especie
+ bovina, excepto los de la especie vacuna
+
+
+0102.90.90.00
+
+
+
+1
+
+
+
+Sólo:Vacunos reproductores
+ (ejemplo: puros por cruza)
+
+
+0104.10.10.00
+
+
+
+Ovinos reproductores de raza pura
+ excepto los ovinos de "pelo"
+
+
+0104.10.10.00
+
+
+
+1
+
+
+
+Sólo: Ovinos de "pelo"
+ reproductores de raza pura
+
+
+0104.10.90.00
+
+
+
+Ovinos reproductores excepto los
+ ovinos de "pelo"
+
+
+0104.10.90.00
+
+
+
+1
+
+
+
+Sólo: Ovinos reproductores de
+ "pelo"
+
+
+2510.10.00.00
+
+
+
+Fosfatos de calcio naturales,
+ fosfatos aluminocálcicos naturales y cretas
+ fosfatadas, sin moler
+
+
+2510.20.00.00
+
+
+
+Fosfatos de calcio naturales,
+ fosfatos aluminocálcicos naturales y cretas
+ fosfatadas, molidos
+
+
+2833.21.00.00
+
+
+
+Sulfato de magnesio
+
+
+2834.21.00.00
+
+
+
+Nitrato de potasio excepto para uso
+ agrícola
+
+
+2834.21.00.00
+
+
+
+1
+
+
+
+Sólo: Nitrato de potasio para uso
+ agrícola
+
+
+2835.24.00.00
+
+
+
+Fosfato de potasio, excepto para
+ uso agrícola
+
+
+2835.24.00.00
+
+
+
+1
+
+
+
+Sólo: Fosfato de potasio para uso
+ agrícola
+
+
+2835.29.20.00
+
+
+
+Fosfato de triamonio excepto para
+ uso agrícola
+
+
+2835.29.20.00
+
+
+
+1
+
+
+
+Sólo: Fosfato de triamonio para
+ uso agrícola
+
+
+2904.90.00.90
+
+
+
+Los demás derivados sulfonados,
+ nitrados o nitrosados de los hidrocarburos incluso
+ halogenados, excepto el pentacloronitrobenceno para
+ uso agrícola
+
+
+2904.90.00.90
+
+
+
+1
+
+
+
+Sólo: Pentacloronitrobenceno para
+ uso agrícola
+
+
+2906.29.00.00
+
+
+
+Los demás alcoholes cíclicos y
+ sus derivados halogenados, sulfonados, nitrados o
+ nitrosados excepto el producto "Dicofol"
+
+
+2906.29.00.00
+
+
+
+1
+
+
+
+Sólo: Dicofol
+
+
+2916.20.20.00
+
+
+
+Permetrina (ISO)(DCI)
+
+
+2918.90.10.00
+
+
+
+2,4 D (ISO)(acido
+ 2,4-diclorofenoxiacetico)
+
+
+2919.00.20.00
+
+
+
+Dimetil-dicloro-vinil-fosfato
+ (DDVP)
+
+
+2922.49.30.00
+
+
+
+Alaninas excepto matalaxyl
+
+
+2922.49.30.00
+
+
+
+Fenilalanina (DCI), leucina (DCI),
+ isoleucina (DCI) y ácido aspártico (DCI)
+
+
+2922.49.30.00
+
+
+
+1
+
+
+
+Sólo: Matalaxyl
+
+
+2924.10.90.00
+
+
+
+Las demás amidas acíclicas y sus
+ derivados excepto el producto "Monocrotofos"
+
+
+2924.10.90.00
+
+
+
+1
+
+
+
+Sólo: Monocrotofos
+
+
+2924.29.30.00
+
+
+
+Carbarilo (DCI)
+
+
+2924.29.30.00
+
+
+
+1
+
+
+
+Sólo: Carbaril (ISO)
+
+
+2924.29.40.00
+
+
+
+Propanil (ISO)
+
+
+2924.29.90.90
+
+
+
+Las demás amidas cíclicas (incluídos
+ los carbamatos) y sus derivados; sales de estos
+ productos excepto el producto "Butachlor"
+
+
+2924.29.90.90
+
+
+
+1
+
+
+
+Sólo: Butachlor
+
+
+2926.90.50.00
+
+
+
+Cipermetrina
+
+
+2926.90.90.90
+
+
+
+Los demás compuestos con función
+ nitrilo excepto el producto "Fenvalerato"
+
+
+2926.90.90.90
+
+
+
+1
+
+
+
+Sólo: Fenvalerato
+
+
+2930.20.00.00
+
+
+
+Tiocarbamato y ditiocarbamatos,
+ excepto el producto "Cartap"
+
+
+2930.20.00.00
+
+
+
+1
+
+
+
+Sólo: Cartap
+
+
+2930.90.30.00
+
+
+
+Malation (ISO)
+
+
+2930.90.40.00
+
+
+
+Butilato (ISO), tiobencarb,
+ vernolato
+
+
+2930.90.40.00
+
+
+
+1
+
+
+
+Sólo: Metamidofos (ISO)
+
+
+2930.90.90.10
+
+
+
+Dimetoato (ISO)
+
+
+2930.90.90.99
+
+
+
+Los demás tiocompuestos orgánicos
+ excepto Fentoato y Themethos
+
+
+2930.90.90.99
+
+
+
+1
+
+
+
+Sólo: Fentoato y Themethos
+
+
+2931.00.30.00
+
+
+
+Glyfosato (ISO)
+
+
+2931.00.90.10
+
+
+
+Triclorfon (ISO)
+
+
+2932.99.90.10
+
+
+
+Carbofuran (ISO)
+
+
+2933.32.00.00
+
+
+
+Piperidina y sus sales
+
+
+2933.39.00.20
+
+
+
+Dicloruro de paraquat
+
+
+2933.39.00.99
+
+
+
+Los demás compuestos cuya
+ estructura contenga ciclo piridina (incluso
+ hidrogenado), sin condensar, excepto el producto
+ chlorpirifos
+
+
+2933.39.00.99
+
+
+
+1
+
+
+
+Sólo: Chlorpirifos
+
+
+2933.59.90.90
+
+
+
+Los demás compuestos cuya
+ estructura contenga ciclo pirimidina (incluso
+ hidrogenado) o piperazina, excepto los productos
+ Diazinon y Pirimiphos metil
+
+
+2933.59.90.90
+
+
+
+1
+
+
+
+Sólo: Diazinon y Pirimiphos metil
+
+
+2933.69.00.00
+
+
+
+Los demás compuestos cuya
+ estructura contenga ciclo triazina (incluso
+ hidrogenado), sin condensar excepto los productos
+ atrazina, ametrina, terbutilazina y terbutrin
+
+
+2933.69.00.00
+
+
+
+1
+
+
+
+Sólo: Atrazina, ametrina,
+ terbutilazina y terbutrin
+
+
+2933.90.90.90
+
+
+
+Los demás compuestos heterocíclicos
+ con heteroatomo(s) de nitrógeno exclusivamente
+ excepto Molinate
+
+
+2933.90.90.90
+
+
+
+1
+
+
+
+Sólo: Molinate
+
+
+2941.90.90.00
+
+
+
+Los demás antibióticos excepto el
+ producto Abamectina
+
+
+2941.90.90.00
+
+
+
+1
+
+
+
+Sólo: Abamectina
+
+
+3101.00.00.00
+
+
+
+Abonos de origen animal o vegetal
+ incluso mezclados entre si o tratados quimicamente
+
+
+3102.10.00.10
+
+
+
+Urea para uso agrícola
+
+
+3102.21.00.00
+
+
+
+Sulfato de amonio
+
+
+3102.30.00.10
+
+
+
+Nitrato de amonio para uso agrícola
+
+
+3103.10.00.00
+
+
+
+Superfosfatos
+
+
+3104.20.00.10
+
+
+
+Cloruro de potasio para uso agrícola
+
+
+3104.30.00.00
+
+
+
+Sulfato de potasio
+
+
+3104.90.10.00
+
+
+
+Sulfato de magensio y potasio
+
+
+3104.90.90.00
+
+
+
+Los demás abonos minerales o químicos
+ potásicos
+
+
+3105.10.00.00
+
+
+
+Abonos del Capítulo 31 en tabletas
+ o formas similares o en envases de un peso bruto
+ inferior o igual a 10 k
+
+
+3105.20.00.00
+
+
+
+Abonos minerales o químicos con
+ los tres elementos fertilizantes: nitrógeno, fósforo
+ y potasio
+
+
+3105.30.00.00
+
+
+
+Hidrogenoortofosfato de diamonio
+ (fosfato diamónico)
+
+
+3105.40.00.00
+
+
+
+Dihidrogenoortofosfato de amonio
+ (fosfato monoamónico), incluso mezclado con el
+ hidrogenoortofosfato de diamonio (fosfato diamónico)
+
+
+3105.51.00.00
+
+
+
+Abonos minerales o químicos que
+ contengan nitratos y fosfatos
+
+
+3105.59.00.00
+
+
+
+Los demás abonos minerales o químicos
+ con los dos elementos fertilizantes: nitrógeno y fósforo
+
+
+3105.60.00.00
+
+
+
+Abonos minerales o químicos con
+ los dos elementos fertilizantes: fósforo y potasio
+
+
+3105.90.10.00
+
+
+
+Nitrato sódico potásico (salitre)
+
+
+3105.90.20.00
+
+
+
+Los demás abonos minerales o químicos
+ con los dos elementos fertilizantes: nitrógeno y
+ potasio
+
+
+3105.90.90.00
+
+
+
+Los demás abonos minerales o químicos
+
+
+3808.10.11.00
+
+
+
+Insecticidas presentados en formas
+ o en envases para la venta al por menor o en artículos:
+ a base de permetrina o cipermetrina o demas sustitutos
+ sinteticos del piretro
+
+
+3808.10.99.10
+
+
+
+Los demás insecticidas a base de
+ bromuro de metilo
+
+
+3808.20.10.00
+
+
+
+Fungicidas, presentados en envases
+ para la venta al por menor o en forma de artículos
+
+
+3808.20.20.00
+
+
+
+Fungicidas presentados en otra
+ forma, a base de compuestos de cobre
+
+
+3808.20.90.00
+
+
+
+Los demás fungicidas
+
+
+3808.30.10.00
+
+
+
+Herbicidas, inhibidores de
+ germinación y reguladores del crecimiento en envases
+ para la venta al por menor o en otra forma
+
+
+3808.30.90.00
+
+
+
+Los demás herbicidas, inhibidores
+ de germinación y reguladores del crecimiento
+
+
+3824.90.91.00
+
+
+
+Maneb, zineb, propineb
+
+
+3824.90.91.00
+
+
+
+1
+
+
+
+Sólo: Mancozeb
+
+
+3917.23.00.10
+
+
+
+Tubos rígidos, de polímeros de
+ cloruro de vinilo para sistemas de riego agrícola
+
+
+3917.29.90.10
+
+
+
+Tubos rígidos, de los demás plásticos,
+ para sistemas de riego agrícola
+
+
+3917.32.90.10
+
+
+
+Los demás tubos de plástico,
+ especiales para sistemas de riego por goteo, por
+ aspersión u otros
+
+
+3917.33.00.10
+
+
+
+Los demás tubos de plásticos, con
+ accesorios, especiales para sistemas de riego por
+ aspersión u otros
+
+
+3917.39.00.10
+
+
+
+Los demás tubos de plástico,
+ especiales para sistemas de riego por goteo, por
+ aspersión u otros
+
+
+8424.81.30.00
+
+
+
+Sistemas de riego
+
+
+8424.90.00.10
+
+
+
+Partes para sistemas de riego de
+ uso agrícola
+
+
+8481.10.00.10
+
+
+
+Válvulas reductoras de presión:
+ de características especiales para riego
+
+
+8481.20.00.10
+
+
+
+Válvulas para transmisiones : de
+ características especiales para riego
+
+
+8481.30.00.10
+
+
+
+Válvulas de retención: de
+ características especiales para riego
+
+
+8481.40.00.10
+
+
+
+Válvulas de alivio de seguridad:
+ de características especiales para riego
+
+
+ ANEXO 2
+
+ (Derogado por Decreto Legislativo Nº 956 Pub. 05.02.2004)
+
+
+FORMATO DE DECLARACION JURADA DEL SECTOR AGRARIO
+
+
+D.S. Nº 026-2001-EF
+ y D.S. Nº 123-97-EF
+
+
+ Señor
+
+ Intendente de la Aduana de .……………… :
+
+
+ S.I.
+
+
+ …………………………………………………………………………………………………….,
+
+
+
+(Nombre o Razón Social del Beneficiario)
+
+
+
+identificado con
+ …………………………, con domicilio en
+ …………………………………., declara bajo juramento
+ que va a realizar la importación de la(s) siguientes(s) mercancía(s):
+
+
+ SUBPARTIDA NACIONAL DESCRIPCCION
+
+
+ Que se encuentra(n) detallada(s) en el Anexo 1 del Procedimiento
+ Específico Beneficio Tributario: Sector Agrario y
+ Discapacitados (INTA-PE.01.03), amparada(s) en Factura Comercial
+ Nº ……………. y C/E, G/A o C/P (según corresponda al
+ medio de transporte) Nº …………………………., para
+ su uso exclusivo en la actividad agraria, por lo que solicita
+ acogerse al pago de tributos con Documento Cancelatorio
+ establecido en el Decreto Supremo Nº 026-2001-EF.
+
+
+ La presente Declaración Jurada se extiende para efectos de lo
+ dispuesto en el Art. 3º Inc. a) del D.S. Nº 123-97-EF.
+
+
+ ……….….…………………...
+
+ (Fecha)
+
+
+ …………………………………
+
+ (Firma y Sello)
+
+
+
+ANEXO 3
+
+
+PARTIDAS ARANCELARIAS SUJETAS AL
+ BENEFICIO TRIBUTARIO PARA DISCAPACITADOS
+
+
+Subpartida Nacional Descripción
+
+
+ 887.03.21.00.10 Sólo vehículos especiales con adaptaciones
+ especificas para hacerlos maniobrables por Minusválidos .
+
+ 87.03.22.00.20
+
+ 87.03.23.00.20
+
+ 87.03.24.00.20
+
+ 87.03.31.00.20
+
+ 87.03.32.00.20
+
+ 87.03.33.00.20
+
+ 87.03.90.00.20
+
+
+87.12.00.20.00 Solo bicicletas con adaptaciones especificas
+ para hacerlas maniobrales por minusvalidos
+
+ 87.13.10.00.00 Sillones de ruedas
+
+ 87.13.90.00.00
+
+ 90.21.11.00.00 Prótesis Articulares
+
+ 90.21.30.00.00 Los demás Aparatos de Prótesis
+
+ 90.21.40.00.00 Audífonos con exclusión de las partes y
+ Accesorios
+
+ 90.21.90.90.00 Aparatos que lleve la propia persona o se
+ implanten para compensar un defecto o incapacidad.

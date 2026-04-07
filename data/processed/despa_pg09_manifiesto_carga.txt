@@ -1,0 +1,2049 @@
+Procedimientos - MANIFIESTOS
+
+
+MANIFIESTO DE CARGA
+
+
+PROCEDIMIENTO GENERAL
+
+
+
+
+
+
+Proc:
+
+
+DESPA-PG.09
+
+
+Manifiesto de Carga
+
+
+Vigencia:
+
+ 28/01/2020
+
+
+
+Publicación:
+27/01/2020
+
+
+Resolución:
+
+ 16-2020
+
+
+Fecha Res.:
+
+
+24/01/2020
+
+
+Versión:
+
+ 7
+
+
+Circulares:
+
+Anexas
+
+
+Lista:
+
+
+Maestra
+
+
+Control de Cambios
+
+
+I. OBJETIVO
+Establecer las
+		actividades para la transmisión, registro y trámite del manifiesto de
+		carga y sus documentos vinculados, manifiesto de carga desconsolidado,
+		manifiesto de carga consolidado, y actos relacionados con el ingreso y
+		salida de las mercancías y medios de transporte, con la finalidad de
+		lograr el debido cumplimiento de las normas que lo regulan.
+
+
+II. ALCANCE
+Está dirigido al:
+1. Operador de
+		comercio exterior, en adelante OCE:
+a) transportista o su
+		representante en el país, en adelante transportista;
+b) agente de
+		carga internacional;
+c) almacén aduanero;
+d) despachador de aduana
+		y
+e) empresa de servicio de entrega rápida, en adelante ESER.
+
+		2. Operador interviniente, en adelante OI:
+a) administrador o
+		concesionario de las instalaciones portuarias y aeroportuarias;
+b)
+		zona franca de Tacna, en adelante ZOFRATACNA;
+c) zona especial de
+		desarrollo, en adelante ZED;
+d) terminal de carga del transportista
+		aéreo;
+e) dueño, consignatario o consignante y
+f) operador de base
+		fija.
+3. Personal de la Superintendencia Nacional de Aduanas y de
+		Administración Tributaria - SUNAT.
+III. RESPONSABILIDAD
+
+
+La aplicación, cumplimiento y seguimiento de lo establecido en el
+		presente procedimiento es responsabilidad del Intendente Nacional de
+		Control Aduanero, del Intendente Nacional de Sistemas de Información,
+		del Intendente Nacional de Desarrollo e Innovación Aduanera, de los
+		intendentes de aduana de la República, de las jefaturas y del personal
+		de las distintas unidades de organización que intervienen.
+
+
+IV. DEFINICIONES Y ABREVIATURAS
+Para efectos del
+		presente procedimiento se entiende como:
+1.
+
+
+Almacenamiento simple
+: Al servicio de almacenamiento
+		que, de acuerdo con el Reglamento de la Ley General de Aduanas, se
+		encuentran facultados a brindar los almacenes aduaneros respecto de
+		mercancías nacionales no vinculadas a un régimen aduanero y de
+		mercancías nacionalizadas.
+2.
+
+
+Arribo forzoso
+: A la llegada del medio de transporte a
+		un lugar del territorio aduanero distinto al fijado como su destino
+		final, por caso fortuito o fuerza mayor, debidamente sustentado
+.
+3.
+
+
+Carga a granel
+: Al producto que se transporta en
+		grandes volúmenes y sin envasar
+.
+4.
+
+
+Carga arribada en mala condición exterior
+: A la carga
+		arribada cuyo envase o embalaje que sirve de acondicionamiento o
+		continente exterior presenta daño o deterioro, tales como parihuelas,
+		contenedores, bultos, jabas plásticas, bandejas, cajas de cartón, cajas
+		de madera, cilindros, fardos y tambores, entre otros.
+5.
+
+
+Caso fortuito o fuerza mayor
+: A la causa no imputable,
+		consistente en un evento extraordinario, imprevisible e irresistible,
+		que impide la ejecución de la obligación o determina su cumplimiento
+		parcial, tardío o defectuoso
+.
+6.
+
+
+		DUE
+: Al documento único de escala asignado por la Autoridad
+		Portuaria Nacional.
+7.
+
+
+Funcionario aduanero
+: Al personal de la SUNAT designado
+		o encargado para desempeñar actividades o funciones en su
+		representación, ejerciendo la potestad aduanera de acuerdo con su
+		competencia.
+8.
+
+
+IRM
+: Al ingreso y recepción de la mercancía.
+
+9.
+
+
+		IVA
+: Al ingreso del vehículo con la
+		carga al almacén aduanero.
+10.
+
+
+Medida de seguridad violentada
+: Al precinto u otra
+		medida de seguridad colocado en el contenedor o en los bultos y
+		declarado en el manifiesto de carga, que haya sido retirado, se
+		encuentre roto o dañado, o haya sido objeto de alguna manipulación
+		indebida
+.
+11.
+
+
+MPV-SUNAT
+: A
+		la mesa de partes virtual de la SUNAT, consistente en una plataforma
+		informática disponible en el portal de la SUNAT que facilita la
+		presentación virtual de documentos
+.
+12.
+
+
+Vuelo no regular
+: A aquel que se realiza sin horario o
+		itinerario prefijado, a cargo de un transportista que no cuenta con la
+		autorización de la Administración Aduanera como OCE
+.
+
+
+
+(RS N°
+		286-2024/SUNAT - 20.12.2024)
+V.
+		BASE LEGAL
+- Acuerdo de Alcance Parcial sobre Transporte
+		Internacional
+Terrestre
+, aprobado por
+		Decreto Supremo N° 028-91-TC, publicado el 27.9.1991, y acuerdos
+		complementarios.
+- Decisión 837 - Sustituye la
+		Decisión 399 de la Comisión de la Comunidad Andina sobre Transporte
+		Internacional de Mercancías por Carretera, publicada el 29.4.2019 en la
+		Gaceta Oficial de la CAN, y modificatorias.
+- Ley General de Aduanas,
+		Decreto Legislativo N° 1053, publicada el 27.6.2008, y modificatorias.
+
+		- Reglamento del Decreto Legislativo N° 1053, Ley General de Aduanas,
+		aprobado por Decreto Supremo N° 010-2009-EF, publicado el 16.1.2009, y
+		modificatorias.
+-
+Texto Único Ordenado del
+		Código Tributario aprobado por Decreto Supremo N° 133-2013-EF, publicado
+		el 22.6.2013, y modificatorias
+.
+-
+Texto
+		Único Ordenado de la Ley N° 27444 - Ley del Procedimiento Administrativo
+		General, aprobado por Decreto Supremo N° 004-2019-JUS, publicado el
+		25.1.2019
+.
+-
+Tabla de
+		Sanciones aplicables a las infracciones previstas en la Ley General de
+		Aduanas aprobada por Decreto Supremo N° 418-2019-EF, publicada el
+		31.12.2019, y modificatorias
+.
+-
+
+		Resolución de Superintendencia N° 007-99/SUNAT que aprueba el Reglamento
+		de Comprobante de Pagos, publicada el 24.1.1999 y modificatorias, en
+		adelante Reglamento de Comprobante de Pagos
+.
+-
+
+Resolución de Superintendencia N° 077-2020/SUNAT
+		que crea la mesa de partes virtual de la SUNAT, publicada el 8.5.2020, y
+		modificatoria.
+
+
+
+
+(RS N°
+		286-2024/SUNAT - 20.12.2024)
+VI. DISPOSICIONES GENERALES
+
+
+Transmisión de la información
+1. El presente
+		procedimiento regula la transmisión o presentación de la información de:
+
+		a) El manifiesto de carga de ingreso o salida, manifiesto de carga
+		desconsolidado y manifiesto de carga consolidado;
+b) Los documentos
+		vinculados al manifiesto de carga de ingreso o salida, en adelante los
+		documentos vinculados;
+c) Los actos relacionados con el ingreso o
+		salida de las mercancías y medios de transporte, en adelante los actos
+		relacionados.
+Medios de transmisión de la información
+
+
+2. El OCE y el OI transmiten la información a través de los sistemas
+		informáticos previstos en el presente procedimiento o la registran en el
+		portal de la SUNAT. La información es transmitida a través de las
+		estructuras que se encuentran a disposición del OCE y del OI en el
+		citado portal.
+El sistema informático valida la información
+		transmitida o registrada y de ser conforme comunica su aceptación. De no
+		ser conforme se genera un mensaje de no aceptación.
+
+
+Casilla electrónica del usuario (CEU) y casilla electrónica corporativa
+		aduanera (CECA
+)
+
+3. Para la habilitación de la CEU, el OCE y el OI
+
+		registran, a través de la MPV-SUNAT
+, previamente y por única vez,
+		el formato del anexo I ante la intendencia de aduana respectiva.
+
+		La intendencia de aduana, a través de la
+CECA
+,
+		comunica al OCE y al OI, según corresponda, el número de expediente
+		administrativo y adopta las acciones necesarias para cautelar, preservar
+		y custodiar los archivos escaneados y las comunicaciones cursadas a
+		través de este medio, conforme a la normativa vigente.
+
+
+
+(RS N°
+		286-2024/SUNAT - 20.12.2024)
+
+		Presentación de la información
+
+
+		4. De manera excepcional,
+		el OCE o el OI presentan a la autoridad aduanera la información señalada
+		en el numeral 1, según corresponda,
+a través de la
+		MPV-SUNAT
+, en los siguientes casos:
+a) Arribo forzoso,
+		dentro de las veinticuatro horas siguientes a la llegada del medio de
+		transporte.
+b) Ingreso o salida del país de vehículos particulares
+		con o sin carga, en cuyo caso presentan de manera adicional una
+		declaración jurada que indique tal condición, a la llegada o salida del
+		medio de transporte. El dueño o consignatario
+asume
+
+		las responsabilidades y obligaciones inherentes al transportista.
+c) Retorno de
+		vehículos que se trasladan por sus propios medios y que salieron del
+		país bajo el régimen de exportación temporal;
+en
+		este supuesto presentan adicionalmente una declaración jurada que
+		indique tal condición a la llegada del medio de transporte. El dueño
+		asume las responsabilidades y obligaciones inherentes al transportista
+.
+d) Otros que la
+		intendencia de aduana de la circunscripción autorice.
+
+
+Para presentar la información se puede utilizar los
+		formularios señalados en los anexos del I al XI u otros, siempre que la
+		información proporcionada en ellos contenga los datos que se indican en
+		los formularios previstos en los citados anexos
+.
+
+
+
+(RS N°
+		286-2024/SUNAT - 20.12.2024)
+
+		Responsabilidad del transportista por la carga que le corresponde
+
+
+5.
+El transportista que traslada efectivamente
+		las mercancías, en nombre propio o por encargo de otras compañías
+		transportistas, es responsable de la información de los datos generales
+		y de los documentos de transporte que se transmite o registra.
+
+
+Para la vía marítima, el
+		transportista que traslada efectivamente las mercancías es responsable
+		de la información de los datos generales y de los documentos de
+		transporte de la carga que traslada en nombre propio, así como de su
+		transmisión o registro. Respecto de las mercancías trasladadas por
+		encargo de otras compañías transportistas, serán estas últimas las
+		responsables de la información de los documentos de transporte que les
+		corresponde, así como de su transmisión o registro
+.
+
+
+
+		(RS-172-2021-SUNAT-29.11.2021)
+6. En la vía
+		fluvial, el manifiesto de carga comprende adicionalmente la información
+		de las maquinarias y equipos utilizados para transferir la carga de una
+		embarcación a otra.
+Registro de información de la
+		condición de la carga
+7. La Administración Aduanera
+		registra o vincula la información de la destinación de la mercancía, su
+		traslado, disposición u otro acto similar con la información de los
+		documentos de transporte.
+En los casos de la carga detallada a
+		continuación, una vez realizado el control aduanero se registra en el
+		sistema la condición de la carga o los datos que identifiquen el
+		expediente, la resolución o las autorizaciones emitidas por la autoridad
+		o sector competente, según corresponda:
+a) valija diplomática;
+b)
+		restos humanos;
+c) órganos humanos;
+d) remesas de dinero;
+e)
+		mascotas en calidad de equipaje no acompañado, que no pagan tributos.
+
+
+Requerimiento de documentación
+8.La
+		autoridad aduanera puede solicitar al OCE y al OI la presentación de la
+		documentación que sustenta la información transmitida.
+
+		Exención de la transmisión o presentación de información
+
+
+9. La Administración Aduanera publica en el portal de la SUNAT las
+		vías de transporte y jurisdicciones en las que cuenta con la información
+		de los documentos vinculados o de los actos relacionados, así como el
+		operador eximido de la obligación de transmitir, registrar o presentar
+		dicha información.
+La citada información se encuentra en la
+		dirección:
+		http://www.sunat.gob.pe/legislacion/procedim/despacho/cuadrosInforma/cinforma.html,
+		a la que se accede a través de: operatividad aduanera/manifiesto de
+		carga/información general/cuadros informativos.
+
+		Transporte terrestre internacional
+10.
+
+El transporte terrestre internacional se sujeta a
+		lo establecido en el presente procedimiento y a los convenios
+		internacionales sobre la materia, salvo que la mercancía se encuentre
+		amparada en una declaración de tránsito aduanero internacional, en cuyo
+		caso se aplica el procedimiento general “Tránsito aduanero internacional
+		de mercancías CAN-ALADI” DESPA-PG.27.
+
+
+El manifiesto de carga terrestre
+		puede contener mercancías transportadas en varios vehículos, siempre que
+		estos sean presentados por una misma compañía transportista.
+
+
+Cuando el transportista ha
+		numerado una declaración de tránsito aduanero internacional no se
+		requiere numerar un manifiesto de carga de salida para el régimen de
+		exportación definitiva.
+
+
+
+		(RS-172-2021-SUNAT-29.11.2021)
+
+		Rectificación del manifiesto de carga, documentos vinculados y actos
+		relacionados
+11. La rectificación del manifiesto de
+		carga, de los documentos vinculados y de los actos relacionados se
+		realiza conforme a lo previsto en el procedimiento específico
+		“Rectificación del manifiesto de carga, actos relacionados, documentos
+		vinculados e incorporación” DESPA-PE.09.02 y Procedimiento Específico
+		“Actos relacionados con la salida de mercancías y medios de transporte”
+		DESPA-PE.00.21, según corresponda.
+Diferencia de peso en
+		carga a granel
+12.
+En el caso de
+		carga a granel transportada por la vía marítima al amparo de más de un
+		documento de transporte, a efectos de la aplicación del artículo 152 del
+		Reglamento de la Ley General de Aduanas, el cálculo de la diferencia
+		entre el peso manifestado y el recibido por el almacén aduanero o el
+		dueño o consignatario, según corresponda, se efectúa con la suma de los
+		pesos consignados en los documentos de transporte que cumplan en forma
+		conjunta las siguientes condiciones:
+
+
+a) correspondan al mismo embarcador; y
+
+
+b) amparan mercancía a granel con la misma
+		descripción
+.
+En caso de mercancías
+		descargadas en diferentes puertos, la verificación se realiza en la
+		circunscripción de la aduana del último puerto de descarga,
+		considerándose la cantidad descargada en cada uno de los puertos
+		anteriores
+.
+
+
+(RS N°
+		286-2024/SUNAT - 20.12.2024)
+
+		Transmisión de información a cargo del operador de base fija
+
+
+13.
+En la vía aérea, para vuelos no regulares,
+		el operador de base fija que transmite el manifiesto de carga de ingreso
+		o salida y sus documentos vinculados es responsable de transmitir, en
+		los plazos establecidos, la información de los siguientes actos
+		relacionados con el ingreso y salida de mercancías y medios de
+		transporte:
+a) De ingreso:
+		llegada del medio de transporte, descarga de la mercancía, inventario de
+		la carga arribada en mala condición exterior o con medidas de seguridad
+		violentadas y término de la descarga.
+
+
+b) De salida: autorización de carga y término del
+		embarque
+.
+En tanto no se implemente
+		el sistema informático para la transmisión de la información antes
+		detallada, esta se presenta con los formularios establecidos en los
+		anexos II, VII, VIII y IX, según corresponda, a través de la MPV-SUNAT.
+		Puede utilizarse otros formatos siempre que estos contengan los datos
+		que se indican en los formularios previstos en los referidos anexos
+.
+
+
+La autorización de carga se efectúa con la sola
+		presentación del anexo II
+.
+
+
+(RS N°
+		286-2024/SUNAT - 20.12.2024)
+
+		Transmisión de Información a cargo de la ZOFRATACNA
+
+
+14. La Administración de la ZOFRATACNA transmite la
+		información del ingreso de las mercancías a la ZOFRATACNA, así como la
+		información detallada de las mercancías recibidas en los depósitos
+		francos de acuerdo con las estructuras de transmisión aplicables al IVA
+		e IRM, respectivamente, conforme numeral 2 de la sección VI del presente
+		procedimiento y dentro de los plazos previstos en el procedimiento
+		general “ZOFRATACNA” DESPA-PG.23
+.
+
+
+(RS N°
+		286-2024/SUNAT - 20.12.2024)
+15.
+
+Notificaciones y comunicaciones
+
+
+15.1 Notificaciones a través del buzón electrónico
+
+
+a) Los siguientes actos administrativos pueden ser
+		notificados a través del buzón electrónico:
+
+
+a.1 Requerimiento de información o documentación.
+
+
+a.2 Resolución de determinación o multa.
+
+
+a.3 El que declara la procedencia en parte o
+		improcedencia de una solicitud.
+
+
+a.4 El que declara la procedencia cuya ejecución se
+		encuentra sujeta al cumplimiento de requerimientos de la Administración
+		Aduanera.
+a.5 El emitido
+		de oficio por la Administración Aduanera.
+
+
+b) Para la notificación a través del buzón
+		electrónico se considera que:
+
+
+b.1 El OCE o el OI cuente con número de RUC y clave
+		SOL.
+b.2 El acto
+		administrativo que se genera automáticamente por el sistema informático
+		sea transmitido al buzón electrónico del OCE o del OI, según
+		corresponda.
+b.3 Cuando el
+		acto administrativo no se genera automáticamente, el funcionario
+		aduanero deposita en el buzón electrónico del OCE o del OI un archivo en
+		formato digital.
+b.4 La
+		notificación surte efecto al día hábil siguiente a la fecha de depósito
+		del documento. La confirmación de la entrega se realiza por la misma vía
+		electrónica.
+c) La
+		Administración Aduanera puede utilizar, indistintamente, las otras
+		formas de notificación establecidas en el artículo 104 del Código
+		Tributario
+.
+15.2 Comunicaciones a la
+		dirección de correo electrónico consignado en la MPV-SUNAT
+
+
+a) Cuando el OCE o el OI presentan su solicitud a
+		través de la MPV-SUNAT y registran una dirección de correo electrónico,
+		se obligan a:
+a.1 Asegurar
+		que la capacidad del buzón del correo electrónico permita recibir las
+		comunicaciones que la Administración Aduanera envíe.
+
+
+a.2 Activar la opción de respuesta automática de
+		recepción.
+a.3 Mantener
+		activa la dirección de correo electrónico hasta la culminación del
+		trámite.
+a.4 Revisar
+		continuamente el correo electrónico, incluyendo la bandeja de spam o de
+		correo no deseado.
+b) Con
+		el registro de la mencionada dirección del correo electrónico en la
+		MPV-SUNAT se autoriza expresamente a la Administración Aduanera a
+		enviar, a través de esta, las comunicaciones que se generen en el
+		trámite de su solicitud.
+
+		c) La respuesta del OCE o del OI a las comunicaciones realizadas por la
+		Administración Aduanera se presenta a través de la MPV-SUNAT.
+
+
+d) En tanto no se implemente la transmisión de
+		documentos digitalizados por el portal de la SUNAT, la remisión de la
+		documentación se realiza a través de la MPV-SUNAT
+.
+
+
+(RS N°
+		286-2024/SUNAT - 20.12.2024)
+Registro
+		de mercancía en almacenamiento simple
+
+
+16. El almacén aduanero registra en su sistema de
+		control automatizado de almacenamiento de mercancías que se encuentra
+		obligado a llevar de conformidad con el subliteral C.3 del literal C del
+		anexo I del Reglamento de la Ley General de Aduanas, la siguiente
+		información relativa a la mercancía que tiene en sus recintos en
+		condición de almacenamiento simple
+:
+
+		a) Mercancía nacional que ingresa sin estar sujeta a un régimen
+		aduanero:
+a.1. Fecha y
+		hora de inicio del almacenamiento simple.
+
+
+a.2. Descripción general de la mercancía
+
+
+a.3. Ubicación
+
+
+b) Mercancía nacionalizada:
+
+b.1. Fecha y hora de
+		inicio de almacenamiento simple.
+
+
+b.2. Cantidad de bultos y peso en kg. de la
+		mercancía.
+b.3. Ubicación
+		de la mercancía.
+b.4.
+		Fecha y hora del registro.
+
+
+b.5. El número de la
+		Declaración Aduanera de Mercancías, en el caso de la mercancía que
+		obtiene el levante aduanero en su recinto y pasa a condición
+		nacionalizada en almacenamiento simple
+.
+
+
+(RS N°
+		286-2024/SUNAT - 20.12.2024)
+VII. DESCRIPCIÓN
+
+
+A. INFORMACIÓN RELACIONADA CON EL INGRESO DE MERCANCÍAS Y MEDIOS DE
+		TRANSPORTE
+A.1 CONTENIDO DE LA INFORMACION DEL MANIFIESTO DE
+		CARGA, DOCUMENTOS VINCULADOS Y MANIFIESTO DE CARGA DESCONSOLIDADO
+
+
+Del manifiesto de carga y del manifiesto de carga desconsolidado:
+
+
+1. El transportista o el agente de carga internacional transmite
+		o registra la siguiente información, según corresponda:
+a) los datos
+		generales del medio de transporte;
+b) los documentos de transporte de
+		la mercancía que constituye la carga manifestada para el lugar de
+		ingreso con el número de bultos, el peso, la identificación y
+		descripción general de las mercancías, la identificación del dueño o
+		consignatario, el flete, la identificación de mercancías peligrosas, la
+		valija diplomática, la relación de contenedores incluidos los vacíos y
+		los envíos postales.
+La descripción general de
+		la mercancía consignada en el documento de transporte se efectúa en
+		términos que permitan su identificación. No se aceptan expresiones tales
+		como: mercancías varias, mercancías según factura, mercancías
+		misceláneas, mercancías en general, mercancías a granel, partes y
+		piezas, repuestos, accesorios, provisiones u otros términos similares
+;
+
+
+
+(RS N°
+		286-2024/SUNAT - 20.12.2024)
+c) los documentos de
+		transporte de la carga en tránsito para otros destinos; o
+d) los
+		documentos de transporte de la carga no desembarcada en el destino
+		originalmente manifestado.
+La identificación del dueño o
+		consignatario comprende el nombre o razón social que figura en el
+		documento de transporte y el tipo y número del documento de
+		identificación. Cuando se trate de un no domiciliado solo se indica el
+		nombre o razón social. No se transmite la identificación del dueño o
+		consignatario cuando el documento de transporte se encuentre consignado
+		a la orden..
+De los documentos vinculados:
+
+
+2. El transportista transmite o registra la siguiente información,
+		cuando corresponda:
+a) lista de pasajeros y sus equipajes;
+b)
+		lista de tripulantes y sus efectos personales;
+c) lista de
+		provisiones de a bordo;
+d) lista de armas y municiones y
+e) lista
+		de narcóticos.
+A.2 TRANSMISIÓN DEL MANIFIESTO DE CARGA,
+		DOCUMENTOS VINCULADOS Y MANIFIESTO DE CARGA DESCONSOLIDADO
+
+		Numeración del manifiesto de carga y del manifiesto de carga
+		desconsolidado
+1.
+Los manifiestos
+		de carga son numerados correlativamente, de acuerdo con la vía de
+		transporte, en cada intendencia de aduana.
+
+
+La obligación de transmitir la
+		información del manifiesto de carga o del manifiesto de carga
+		desconsolidado se considera cumplida cuando se haya transmitido,
+		registrado o presentado la totalidad de los documentos de transporte que
+		lo conforman.
+
+
+En la vía marítima, cuando la tabla de sanciones
+		estipula que solo se aplica una sanción por manifiesto, esta es
+		aplicable al transportista que incurre en infracción por no transmitir
+		los datos generales del medio de transporte. De no presentarse este
+		supuesto y haberse efectuado la transmisión o registro de documentos de
+		transporte fuera de plazo:
+
+
+a) La sanción es aplicable al transportista
+		responsable de transmitir o registrar la información de los documentos
+		de transporte.
+b) Cuando
+		más de un transportista incurre en infracción, la sanción es aplicable
+		al último que efectuó la transmisión o registro fuera de plazo, hasta
+		antes de la llegada del medio de transporte.
+
+
+		(RS-172-2021-SUNAT-29.11.2021)
+
+
+Plazos de transmisión del manifiesto de carga
+2.
+		El transportista transmite o registra la información del manifiesto de
+		carga en los siguientes plazos:
+a) En la vía marítima:
+• Los datos
+		generales del medio de transporte, hasta ciento sesenta y ocho horas
+		antes de la llegada del medio de transporte;
+• La información de los
+		documentos de transporte que contienen carga contenerizada, hasta
+		setenta y dos horas antes de la llegada del medio de transporte.
+		Tratándose de medios que transporten exclusivamente carga no
+		contenerizada, la transmisión de los documentos de transporte se realiza
+		hasta veinticuatro horas antes de la llegada del medio de transporte.
+
+		b) En la vía aérea:
+• Los datos generales del medio de transporte,
+		hasta veinticuatro horas antes de la llegada del medio de transporte;
+
+• La información de los documentos de transporte, hasta cuatro horas
+		antes de la llegada del medio de transporte;
+c) En las demás vías,
+		la información de los datos generales y de sus documentos de transporte
+		hasta antes de la llegada del medio de transporte.
+Cuando se
+		trate de medios de transporte cuya travesía se inicia en lugares
+		cercanos o de vuelos no regulares, el transportista transmite la
+		información del manifiesto de carga, hasta antes de la llegada del medio
+		de transporte.
+Cuando se trate de medios de transporte cuya
+		travesía no se inicia en lugares cercanos, el transportista transmite la
+		información de los documentos de transporte en el plazo establecido en
+		los incisos a) y b) del presente numeral, con excepción de los
+		documentos de transporte de las mercancías embarcadas en lugares
+		cercanos que se transmiten hasta antes de la llegada del medio de
+		transporte.
+Excepcionalmente, en la vía
+		marítima, cuando por caso fortuito, fuerza mayor o congestión portuaria,
+		el medio de transporte haya efectuado descarga parcial en el primer
+		lugar de arribo y deba completar la descarga en un segundo lugar de
+		arribo, adicionalmente, se transmite la información del documento de
+		transporte para la descarga parcial en el segundo lugar de arribo, hasta
+		antes del inicio de la descarga
+.
+
+
+(RS N°
+		238-2025/SUNAT - 31.12.2025)
+Numeración del manifiesto de carga en el
+		marco de convenios internacionales
+3. En la vía
+		terrestre, para la numeración del manifiesto de carga el transportista
+		registra la información en base a la obtenida por la Administración
+		Aduanera en el marco de convenios internacionales.
+
+		Plazos de transmisión o registro de los documentos vinculados
+
+
+4. La transmisión de la información de los documentos vinculados se
+		realiza hasta antes de la llegada del medio de transporte.
+En la
+		vía aérea, la lista de pasajeros y sus equipajes, así como la lista de
+		tripulantes y sus efectos personales, con las que se cuenten, se
+		transmiten dentro de los quince minutos siguientes al momento de
+		despegue del medio de transporte,
+salvo cuando la
+		información ha sido transmitida a través del sistema APIS (Advanced
+		Passenger Information System), dándose por cumplida la obligación
+.
+
+
+		(RS-172-2021-SUNAT-29.11.2021)
+En la vía marítima, se da
+		por cumplida la obligación con la transmisión o registro del número del
+		DUE.
+
+
+Transmisión de documentos vinculados a través de la CEU
+
+5. En tanto no se implemente el sistema informático
+		para la transmisión de los documentos vinculados, el transportista
+		efectúa la transmisión de estos documentos desde su CEU a la CECA.
+
+
+Plazos de transmisión o registro del manifiesto de carga
+		desconsolidado
+6. El agente de carga internacional
+		transmite o registra la información del manifiesto de carga
+		desconsolidado, en los siguientes plazos:
+a) En la vía marítima,
+		hasta setenta y dos horas antes de la llegada del medio de transporte,
+		si es carga contenerizada. Tratándose de medios que transporten
+		exclusivamente carga no contenerizada, la transmisión de los documentos
+		de transporte se realiza hasta veinticuatro horas antes de la llegada
+		del medio de transporte;
+b) En la vía aérea, hasta cuatro horas antes
+		de la llegada del medio de transporte;
+c) En las demás vías, hasta
+		antes de la llegada del medio de transporte.
+Excepcionalmente,
+		cuando se trate de carga embarcada en lugares cercanos o de vuelos no
+		regulares, el agente de carga internacional transmite la información del
+		documento de transporte del manifiesto de carga desconsolidado hasta
+		antes de la llegada del medio de transporte.
+
+
+Asimismo, en la vía marítima, cuando por caso
+		fortuito, fuerza mayor o congestión portuaria, el medio de transporte
+		haya efectuado descarga parcial en el primer lugar de arribo y deba
+		completar la descarga en un segundo lugar de arribo distinto al
+		manifestado, adicionalmente, se transmite el manifiesto de carga
+		desconsolidado por el parcial de la carga a ser descargada en el segundo
+		lugar de arribo, hasta antes del inicio de la descarga
+.
+
+
+(RS N°
+		238-2025/SUNAT - 31.12.2025)
+7. Si en el momento
+		de la transmisión o registro del manifiesto de carga desconsolidado, el
+		agente de carga internacional no cuenta con el número del manifiesto de
+		carga, consigna:
+a) En las vías marítima y fluvial, el número de
+		matrícula del medio de transporte asignado por la Organización Marítima
+		Internacional - OMI;
+b) En la vía aérea, los datos de la empresa de
+		transporte, número de vuelo y fecha programada de llegada.
+8.
+		Cuando el sistema informático no efectúe la vinculación con el
+		manifiesto de carga para la desconsolidación, el agente de carga
+		internacional transmite o registra el número del manifiesto de carga
+		dentro de los siguientes plazos:
+a) En las vías marítima y fluvial,
+		hasta veinticuatro horas después de la transmisión o registro del
+		manifiesto de carga;
+b) En la vía aérea, hasta doce horas después de
+		la transmisión o registro del manifiesto de carga.
+Para el
+		cómputo de los plazos señalados en el párrafo precedente, se entiende
+		que la transmisión o registro del manifiesto de carga se produce con la
+		incorporación del último documento de transporte que ampara la carga
+		consolidada vinculado al agente de carga internacional.
+
+		Lugares cercanos
+9. Se consideran lugares cercanos:
+
+
+a)
+En la vía marítima:
+
+		a.1)
+Para la transmisión de los datos generales del
+		medio de transporte, a los puertos ubicados en:
+
+		i)
+El Océano Pacífico, desde el puerto Rosarito
+		Terminal en México por el lado norte, hasta el puerto de Punta Arenas en
+		Chile por el lado sur.
+ii)
+
+		El Océano Atlántico, desde el puerto Altamira en México por el lado
+		norte, hasta el puerto Vila do Conde en Brasil por el lado sur.
+
+		iii)
+Barbados, Cuba, Granada, Haití, Jamaica,
+		Puerto Rico, República Dominicana y Trinidad y Tobago.
+
+		a.2)
+Para la transmisión de la información de los
+		documentos de transporte a los puertos ubicados en el litoral del Océano
+		Pacífico, desde el puerto Armuelles en Panamá por el lado norte, hasta
+		el puerto de Puerto Montt en Chile por el lado sur.
+
+		a.3)
+Para la transmisión de los datos generales del
+		medio de transporte y la información de los documentos de transporte, a
+		las aguas internacionales y zonas económicas exclusivas contiguas a
+		Colombia, Ecuador, Chile y Perú.
+
+
+		(RS-172-2021-SUNAT-29.11.2021)
+b) En
+		la vía aérea:
+Para la transmisión de los datos generales del
+		medio de transporte y de la información de los documentos de transporte,
+		a los aeropuertos ubicados dentro del territorio de Brasil, Uruguay, El
+		Salvador, Argentina, Venezuela, Costa Rica, Panamá, Paraguay, Chile,
+		Colombia, Ecuador y Bolivia.
+A.3 TRANSMISIÓN DE LOS
+		ACTOS RELACIONADOS CON EL INGRESO DE MERCANCÍAS Y MEDIOS DE TRANSPORTE
+
+
+Llegada del medio de transporte y autorización de la
+		descarga
+1. Lista de mercancías a descargar, llegada del
+		medio de transporte y autorización de la descarga.
+1.1 Lista de
+		mercancías a descargar
+En las vías marítima y fluvial, el
+		administrador o concesionario de las instalaciones portuarias transmite
+		la lista de mercancías a descargar hasta antes de la llegada del medio
+		de transporte, para lo cual transmite el número del manifiesto de carga
+		o número del DUE.
+La obligación de transmitir la
+		información de la lista de mercancías a descargar se considera cumplida,
+		cuando se haya transmitido la totalidad de los documentos de transporte
+		que lo conforman
+.
+
+
+(RS N°
+		286-2024/SUNAT - 20.12.2024)
+
+En la
+		vía marítima, cuando por caso fortuito, fuerza mayor o congestión
+		portuaria, el medio de transporte haya efectuado descarga parcial en el
+		primer lugar de arribo y deba completar la descarga en un segundo lugar
+		de arribo, la lista de mercancías a descargar en el segundo lugar de
+		arribo se transmite hasta antes del inicio de su descarga
+.
+
+
+(RS N°
+		238-2025/SUNAT - 31.12.2025)
+1.2 Llegada del
+		medio de transporte y autorización de la descarga
+La llegada del
+		medio de transporte se produce:
+a) En las vías marítima y fluvial,
+		para naves que atraquen en muelle, con la fecha y hora del amarre del
+		último cabo de la nave. Para las naves que no atraquen, con la fecha y
+		hora del fondeo en el puerto.
+En la vía
+		marítima, en el caso de medios de transporte que completan la descarga
+		en un lugar de arribo distinto al manifestado, se considera como fecha
+		de llegada a la fecha y hora de atraque en el muelle del primer lugar de
+		arribo
+.
+
+
+(RS N°
+		286-2024/SUNAT - 20.12.2024)
+En la vía fluvial,
+		cuando el medio de transporte no pueda atracar en el muelle y se
+		produzca la transferencia de la carga a una u otras embarcaciones, la
+		llegada del medio de transporte se produce con el atraque de la primera
+		embarcación en el terminal portuario fluvial.
+b) En la vía aérea, con
+		la fecha y hora en que aterriza la aeronave en el aeropuerto.
+c) En
+		la vía terrestre, con la fecha y hora de presentación del medio de
+		transporte en el primer punto de control aduanero del país. El
+		funcionario aduanero registra esta información.
+
+
+2.
+La información de la llegada del medio de
+		transporte y autorización de la descarga se transmite o registra en los
+		siguientes plazos:
+a) En
+		las vías marítima, aérea y fluvial, el transportista que traslada
+		efectivamente las mercancías transmite o registra la información de la
+		llegada del medio de transporte y la solicitud de autorización de la
+		descarga, hasta sesenta minutos siguientes a su ocurrencia. Su
+		transmisión o registro autoriza la descarga.
+
+
+En la vía marítima y fluvial, al
+		momento de transmitir o registrar la llegada del medio de transporte el
+		transportista debe consignar el número del DUE.
+
+
+En la vía marítima, cuando la
+		nave transporte carga a granel con descarga directa y va a atracar en el
+		muelle, el transportista puede transmitir o registrar preliminarmente la
+		fecha y hora de fondeo en el puerto. En este caso, el transportista
+		transmite la llegada del medio de transporte con la fecha y hora de
+		atraque en el muelle, hasta sesenta minutos siguientes a su ocurrencia.
+
+
+		(RS-172-2021-SUNAT-29.11.2021)
+
+En
+		la vía marítima, cuando por caso fortuito, fuerza mayor o congestión
+		portuaria, el medio de transporte haya efectuado descarga parcial en el
+		primer lugar de arribo y deba completar la descarga en un segundo lugar
+		de arribo, la autorización de la descarga en este se otorga con la
+		procedencia de la solicitud de rectificación del manifiesto de carga con
+		la que se añade un nuevo lugar de llegada
+.
+
+
+(RS N°
+		238-2025/SUNAT - 31.12.2025)
+
+b) En la vía terrestre, la llegada del
+		medio de transporte es registrada por el funcionario aduanero en el
+		centro de atención en frontera, con lo cual se tiene por autorizada la
+		descarga en el punto de llegada.
+La autorización de la descarga
+		no exime al transportista de cumplir las demás obligaciones exigidas por
+		los sectores competentes, según correspondan.
+Cuando el medio de
+		transporte arribe sin carga para el puerto o aeropuerto de arribo, el
+		transportista indica tal condición.
+Descarga de la
+		mercancía
+3. Para la descarga:
+a) En zona
+		primaria, el transportista procede a descargar las mercancías dentro de
+		la zona primaria de la intendencia de aduana correspondiente, una vez
+		obtenida la autorización de la descarga.
+En las vías marítima y aérea,
+		cuando por caso fortuito, fuerza mayor o congestión portuaria, las
+		mercancías manifestadas para un lugar de arribo deban ser descargadas en
+		la zona primaria de una intendencia de aduana de otra circunscripción,
+		se rectifica el manifiesto de carga a fin de sustituir y considerar el
+		nuevo lugar de llegada y el RUC del operador del lugar de descarga
+.
+
+
+
+(RS N°
+		286-2024/SUNAT - 20.12.2024)
+En la
+		vía marítima, cuando con posterioridad al inicio de la descarga esta no
+		pueda culminar en el lugar de arribo inicialmente manifestado, por
+		razones de caso fortuito, fuerza mayor o congestión portuaria, y esta
+		deba continuar en un lugar de arribo diferente correspondiente a la
+		circunscripción de otra intendencia de aduana, se rectifica el
+		manifiesto de carga a fin de añadir el nuevo lugar de llegada y el RUC
+		del operador del lugar de descarga
+.
+
+
+
+(RS N°
+		286-2024/SUNAT - 31.12.2025)
+La
+		rectificación del manifiesto de carga se realiza conforme al
+		procedimiento específico “Rectificación del manifiesto de carga, actos
+		relacionados, documentos vinculados e incorporación” DESPA-PE.09.02
+.
+
+
+
+(RS N°
+		286-2024/SUNAT - 20.12.2024)
+b) En zona secundaria, el
+		transportista, dueño o consignatario solicita ante el intendente de
+		aduana o funcionario a quien este delegue la autorización para descargar
+		en zona secundaria, para lo cual adjunta copia del documento de
+		transporte, de la factura comercial en caso corresponda y de la
+		documentación adicional que requiera la autoridad aduanera. Esta
+		autorización es otorgada de manera excepcional.
+En la vía
+		fluvial, las siguientes mercancías pueden ser reconocidas físicamente en
+		el medio de transporte, sin ser descargadas:
+• Mercancía perecible;
+
+		• Maquinaria de gran peso o volumen;
+• Animales vivos;
+• Mercancía
+		a granel;
+• Mercancía con destino final diferente al de la aduana de
+		ingreso u
+• Otros que establezca la intendencia de aduana de la
+		circunscripción.
+4. La información de la descarga de la mercancía
+		se transmite o registra en los siguientes plazos:
+a) En las vías
+		marítima, aérea y fluvial, el transportista que traslada efectivamente
+		las mercancías transmite o registra la información de la descarga de las
+		mercancías que arriban, con la indicación del receptor de la carga,
+		desde su inicio hasta el plazo de ocho horas siguientes al término de la
+		descarga.
+Esta información sirve como constancia de su entrega al
+		dueño o consignatario, o del traslado al almacén aduanero.
+La
+		información de la descarga de la mercancía se transmite o registra por
+		documento de transporte, contenedor o por vehículo en caso de carga
+		rodante, conforme se recibe y se indica el receptor de la carga, quien
+		asume la responsabilidad de la mercancía,
+cuando se
+		trate del dueño o consignatario o del almacén aduanero
+.
+
+
+
+(RS N°
+		286-2024/SUNAT - 20.12.2024)
+En el caso de
+		contenedores vacíos se indica como receptor de carga al transportista.
+b) En la vía marítima y fluvial, los
+		administradores o concesionarios de las instalaciones portuarias
+		transmiten o registran la información de la descarga de la mercancía,
+		con la indicación del receptor de la carga, hasta el plazo de ocho horas
+		siguientes al término de la descarga.
+En el caso de contenedores
+		vacíos se indica como receptor de carga al transportista.
+c) En la
+		vía aérea, el transportista transmite la información de la descarga de
+		la mercancía, con la indicación del receptor de la carga, hasta el plazo
+		de ocho horas siguientes al término de la descarga.
+5. Cuando
+		ninguno de los bultos manifestados en un documento de transporte se haya
+		descargado, al momento de transmitir la información de la descarga de la
+		mercancía se consigna cero en peso y bultos, y se indica como receptor
+		al transportista.
+Esta información no se
+		transmite respecto de aquellos bultos que, por caso fortuito, fuerza
+		mayor o congestión portuaria, deban ser descargados en un lugar de
+		arribo correspondiente a la circunscripción de otra intendencia de
+		aduana, en cuyo caso la transmisión se realiza en el lugar de descarga
+		efectiva.
+
+
+(RS N°
+		286-2024/SUNAT - 31.12.2025)
+Cuando se realizan
+		operaciones de desconsolidación en el terminal portuario, al momento de
+		transmitir la información de la descarga de la mercancía se consigna
+		como receptor de la descarga al administrador o concesionario de las
+		instalaciones portuarias. (RS N° 286-2024/SUNAT - 20.12.2024)Para efectos de lo dispuesto en
+		el párrafo anterior, la responsabilidad aduanera del transportista o su
+		representante en el país cesa con la entrega de las mercancías al dueño
+		o consignatario en el terminal portuario.
+
+
+
+(RS N°
+		286-2024/SUNAT - 20.12.2024)
+
+
+
+Para efectos de lo
+						dispuesto en el párrafo anterior, la responsabilidad
+						aduanera del transportista o su representante en el país
+						cesa con la entrega de las mercancías al dueño o
+						consignatario en el terminal portuario
+.
+
+
+(RS N°
+		286-2024/SUNAT - 20.12.2024)
+
+
+Cuando las mercancías
+		desconsolidadas en el terminal portuario requieran ingresar a un almacén
+		aduanero, para culminar el proceso de despacho aduanero, previo a su
+		salida del terminal portuario, el administrador o concesionario de las
+		instalaciones portuarias transmite la información complementaria de la
+		descarga de la mercancía consignando como receptor al almacén aduanero,
+		quien asume la responsabilidad de la mercancía
+.
+
+
+(RS N°
+		286-2024/SUNAT - 20.12.2024)
+6. Para la salida de la
+		mercancía del terminal portuario o del terminal de carga del
+		transportista aéreo se debe contar con la transmisión o registro de la
+		descarga de la mercancía.
+En el caso de carga a granel, la
+		información que se transmite o registra es por el total de las
+		mercancías manifestadas; tratándose de un contenedor no consolidado que
+		traslada mercancía correspondiente a más de un documento de transporte,
+		la información es por cada uno de estos.
+En
+		las vías marítima y fluvial, el transportista o su representante en el
+		país está exceptuado de la transmisión de la descarga de la mercancía
+		cuando esta es descargada en el terminal portuario, en cuyo caso la
+		información es transmitida por el administrador o concesionario de la
+		instalación portuaria
+.
+
+
+
+(RS N°
+		286-2024/SUNAT - 31.12.2025)
+Término de la
+		descarga
+7. El término de la descarga corresponde a la
+		fecha y hora en que culmina la descarga efectiva del último bulto del
+		medio de transporte que arribó al país.
+En
+		la vía marítima, en el caso de medios de transporte que completan la
+		descarga en un lugar de arribo distinto al manifestado, se considera
+		como fecha del término de la descarga cuando culmina la descarga
+		efectiva del último bulto en el último lugar de arribo
+.
+
+
+
+
+(RS N°
+		286-2024/SUNAT - 31.12.2025)
+Cuando arribe un
+		medio de trasporte sin carga no será exigible la transmisión de la
+		información del término de la descarga. Para el caso de medios de
+		transporte que se constituyen como mercancías que van a ser destinadas
+		como tal, se considera como término de la descarga la fecha y hora de
+		llegada del medio de transporte.
+8. La información del
+		término de la descarga se transmite o registra en los siguientes plazos
+		por:
+a)
+El transportista que traslada
+		efectivamente las mercancías, en las vías marítima, fluvial y aérea,
+		dentro de las seis horas siguientes a su ocurrencia
+.
+
+
+		(RS-172-2021-SUNAT-29.11.2021)
+b) El
+		administrador o concesionario de las instalaciones portuarias, en la vía
+		marítima y fluvial, dentro de las seis horas siguientes a su ocurrencia.
+
+		c) El almacén aduanero, en la vía terrestre, dentro de las seis horas
+		siguientes a su ocurrencia.
+d) El funcionario aduanero, en la vía
+		terrestre, cuando la mercancía cuente con declaración aduanera y no
+		ingrese a un almacén aduanero, hasta antes del retiro del centro de
+		atención en frontera.
+9. En la vía fluvial, cuando el medio de
+		transporte no pueda atracar en el muelle y se produzca la transferencia
+		de la carga a una u otras embarcaciones, se computa como término de la
+		descarga la fecha y hora en que se culmina con la descarga de la última
+		embarcación en el muelle.
+Cuando se hace entrega de la carga al
+		dueño o consignatario sin descarga a tierra, se considera como fecha y
+		hora del término de la descarga cuando el transportista entrega el
+		último bulto.
+IVA a cargo del almacén aduanero
+
+
+10.
+El almacén aduanero transmite o
+		registra la información del IVA hasta treinta minutos siguientes a su
+		ocurrencia.
+
+
+Se exceptúa de la obligación prevista en el párrafo
+		precedente:
+a) Al depósito
+		temporal ubicado en el terminal portuario o en el terminal de carga
+		aéreo, cuando la descarga se efectúa en su recinto.
+
+
+b) Al almacén aduanero cuando la mercancía:
+
+
+b.1 es descargada directamente a su recinto por
+		medio de tuberías o
+b.2
+		corresponde a un manifiesto de carga numerado como consecuencia de la
+		conclusión de un tránsito aduanero internacional.
+
+
+Para el caso de carga rodante
+		que ingresa por sus propios medios, el IVA es transmitido o registrado
+		por documento de transporte, hasta treinta minutos siguientes al ingreso
+		del último vehículo al almacén aduanero.
+
+
+		(RS-172-2021-SUNAT-29.11.2021)
+IRM a cargo
+		del almacén aduanero
+11. El almacén aduanero transmite o
+		registra la información del IRM que contiene los pesos y bultos.
+
+		12. El IRM se transmite o registra en los siguientes plazos:
+a) En
+		las vías marítima, fluvial y terrestre, respecto de cada documento de
+		transporte, dentro de las veinticuatro horas siguientes a la transmisión
+		o registro del ingreso del último vehículo con la carga al almacén.
+
+
+En los casos de los depósitos temporales ubicados
+		en el terminal portuario, el plazo se computa desde el término de la
+		descarga
+.
+
+
+
+(RS N°
+		286-2024/SUNAT - 20.12.2024)
+b) En la vía aérea:
+		dentro de las doce horas siguientes al término de la descarga.
+
+		Está exceptuado de la obligación prevista en el párrafo precedente el
+		depósito aduanero que recibe mercancías procedentes de un depósito
+		temporal.
+13.
+Para el caso del manifiesto de
+		carga desconsolidado, cuando
+:
+a)
+
+Se trate de arribos parciales, el almacén aduanero
+		transmite el IRM por todos los documentos de transporte consignados en
+		el manifiesto de carga, y respecto de aquellos que amparan las
+		mercancías que no ha recibido, registra cero en peso y bultos
+.
+
+		b)
+No arribe la totalidad de la carga, el almacén
+		aduanero no tiene la obligación de transmitir el IRM de los documentos
+		de transporte asociados, siempre que en la descarga se haya consignado
+		cero en peso y bultos
+.
+
+
+
+(RS N°
+		286-2024/SUNAT - 20.12.2024)
+Inventario de la carga arribada en mala
+		condición exterior o con medidas de seguridad violentadas
+
+
+14. La información de la carga arribada en mala condición exterior o
+		con medidas de seguridad violentadas es transmitida o registrada en los
+		siguientes plazos por:
+a) El transportista, en todas las vías,
+		dentro de los dos días siguientes al término de la descarga.
+Si en
+		un medio de transporte arriban bultos correspondientes a distintos
+		transportistas, el acta de inventario la transmite el transportista que
+		realizó el transporte.
+b) El almacén aduanero, en todas las vías,
+		dentro de los dos días siguientes a la transmisión o registro del
+		ingreso del último vehículo con la carga al almacén. Cuando el depósito
+		temporal se encuentra eximido de transmitir la información del IVA, el
+		plazo se computa a partir del término de la descarga.
+
+		Salida del vehículo con la carga
+15. El almacén aduanero
+		transmite o registra la información de la salida del vehículo con la
+		carga, hasta treinta minutos siguientes a su ocurrencia.
+
+Esta obligación se da por cumplida conforme a lo
+		establecido en los procedimientos generales que regulan los regímenes
+		aduaneros
+.
+
+Se exime de esta
+		obligación cuando la mercancía
+cuenta con levante y
+		se encuentra en almacenamiento simple
+.
+
+
+
+(RS N°
+		286-2024/SUNAT - 20.12.2024)
+16.
+		Los administradores o concesionarios de las instalaciones portuarias
+		transmiten o registran la información de la salida del vehículo con la
+		carga del terminal portuario, hasta treinta minutos siguientes a su
+		ocurrencia. Con la transmisión de la información del ticket de salida se
+		da por cumplida la obligación.
+A.4 RETIRO DE LA CARGA
+
+
+1. Para la entrega de la mercancía en el terminal
+		portuario, terminal de carga del transportista aéreo o en el centro de
+		atención en frontera, o cuando se trate de mercancía descargada por
+		tuberías, ductos, cables u otros medios, el transportista entrega al
+		dueño o consignatario la mercancía en el punto de llegada designado
+		previamente al arribo de la carga, siempre que cuente con una
+		declaración aduanera de mercancía o con una resolución de autorización
+		especial de zona primaria.
+Para el retiro de la mercancía la
+		declaración aduanera debe contar con el levante o la autorización de
+		salida, siendo de aplicación lo dispuesto en el procedimiento del
+		régimen aduanero solicitado.
+A.5 TRASLADO DE LAS
+		MERCANCÍAS A UN ALMACÉN ADUANERO
+1. La mercancía que no
+		es entregada al dueño o consignatario en el terminal portuario, terminal
+		de carga del transportista aéreo o en el centro de atención en frontera
+		es trasladada a un almacén aduanero en los siguientes casos:
+a)
+		Constituye mercancía peligrosa y no puede permanecer en el puerto,
+		aeropuerto, centro de atención en frontera o terminal terrestre
+		internacional;
+b) No ha sido destinada hasta antes de su traslado;
+
+		c) Ha sido destinada y no se le ha concedido el levante hasta antes de
+		su traslado;
+d) Ha sido destinada al régimen de transbordo, con
+		modalidad de ingreso a un depósito temporal;
+e) Ha sido destinada al
+		régimen de depósito aduanero.
+El traslado de la mercancía al
+		almacén aduanero debe realizarse en contenedores precintados o en
+		unidades de transporte que cuenten con las medidas de seguridad
+
+o con sus respectivas etiquetas, marcas,
+		contramarcas, precintos, seguros u otros, que permitan su identificación
+		en caso de mercancías de gran peso o volumen
+, pudiendo la
+		Administración Aduanera disponer otras que considere conveniente para el
+		traslado de la carga.
+
+
+
+(RS N°
+		286-2024/SUNAT - 20.12.2024)
+A.6
+		TRASLADO DE LAS MERCANCÍAS DE UN DEPÓSITO TEMPORAL A OTRO
+
+
+1. Procede el traslado de las mercancías de un depósito temporal a
+		otro, siempre que se cumpla con las siguientes condiciones:
+a) Se
+		realice entre depósitos temporales ubicados en la misma circunscripción
+		aduanera,
+b) Sea por el total recibido de las mercancías amparadas en
+		un documento de transporte y
+c) Para el caso de carga contenerizada,
+		que cuente con precinto aduanero,
+d)
+Carga
+		suelta, en vehículos tipo furgón con precintos aduaneros y
+
+
+
+
+(RS N°
+		286-2024/SUNAT - 20.12.2024)
+e)
+
+Mercancías de gran peso o volumen, con sus
+		respectivas etiquetas, marcas, contramarcas, precintos, seguros u otros,
+		que permitan su identificación
+.
+
+
+
+(RS N°
+		286-2024/SUNAT - 20.12.2024)
+El traslado no
+		interrumpe ni suspende los plazos establecidos para solicitar una
+		destinación aduanera.
+2. No procede el traslado:
+a) De la
+		mercancía sujeta a una acción de control extraordinario.
+b) De la
+		mercancía que se encuentra en abandono legal o voluntario, salvo cuando
+		la mercancía es trasladada a un depósito temporal para su reembarque.
+
+		c) De un depósito temporal de envíos de entrega rápida a otro depósito
+		temporal de envíos de entrega rápida o de carga, salvo cuando la
+		mercancía es trasladada a un depósito temporal de carga para su
+		reembarque.
+d) De la mercancía que ha sido destinada,
+
+salvo que el régimen de destinación así lo permita
+.
+
+
+
+(RS N°
+		286-2024/SUNAT - 20.12.2024)
+3. Para el
+		retiro de la carga del depósito temporal de origen y su traslado al
+		depósito temporal de destino, este último transmite la solicitud de
+		traslado entre depósitos temporales. Esta transmisión la efectúa siempre
+		que cuente con la autorización del consignatario y la confirmación de la
+		recepción del depósito temporal de origen, debiendo mantener en sus
+		archivos dicha información.
+El depósito temporal de origen hasta
+		una hora antes de realizarse el traslado comunica al área de control
+		operativo de la aduana de la circunscripción, para las acciones de
+		control que correspondan. En tanto no se implemente en el sistema
+		informático la transmisión de la referida comunicación, el depósito
+		temporal de origen lo
+comunica
+ desde su CEU
+		a la CECA.
+(RS N°
+		286-2024/SUNAT - 20.12.2024)
+4. Realizado el traslado a cargo del depósito temporal
+		de destino, éste transmite o registra dentro del plazo establecido la
+		información del IVA y del IRM. La información del IRM solo será exigible
+		cuando el documento de transporte no cuente con una transmisión previa
+		de dicha información.
+El depósito temporal de destino asume toda
+		responsabilidad ante la SUNAT por las mercancías trasladadas y
+		recibidas.
+A.7 PRÓRROGA DE LA DESTINACIÓN ADUANERA
+
+
+1. El dueño o consignatario puede solicitar, a través del
+		anexo IV, la prórroga del plazo que establece el cuarto párrafo del
+		artículo 130 de la Ley General de Aduanas para el despacho diferido,
+		indicando el motivo del pedido. La solicitud se presenta ante el área
+		encargada del manifiesto de carga donde se encuentra la mercancía,
+		dentro del plazo de quince días calendario contados a partir del día
+		siguiente del término de la descarga.
+A.8 NUMERACIÓN DEL
+		MANIFIESTO DE CARGA DE MERCANCÍAS DEL ALMACÉN LIBRE (DUTY FREE)
+		TRASLADADAS DESDE LA INTENDENCIA DE ADUANA MARÍTIMA DEL CALLAO
+
+
+1. Para el traslado de mercancías desde la Intendencia de Aduana
+		Marítima del Callao a la Intendencia de Aduana Aérea y Postal al amparo
+		del procedimiento general “Duty Free” DESPA-PG.17, el área de
+		manifiestos de la Intendencia de Aduana Aérea y Postal registra el
+		manifiesto de carga aéreo, previa presentación del anexo V por el
+		depósito temporal aéreo. En tanto no se implemente el sistema
+		informático para la transmisión del citado anexo, el depósito temporal
+		lo
+presenta a través de la MPV-SUNAT
+ de la
+		Intendencia de Aduana Aérea y Postal.
+
+
+
+(RS N°
+		286-2024/SUNAT - 20.12.2024)
+El registro de
+		la información del manifiesto de carga es realizado en base a la
+		información del manifiesto de carga marítimo consultado en el portal de
+		la SUNAT; el registro de los pesos y bultos recibidos lo obtiene de los
+		datos del anexo V. Producido el registro, se notifica al depósito
+		temporal de carga aéreo el número de manifiesto de carga
+
+asignado
+.
+
+
+
+(RS N°
+		286-2024/SUNAT - 20.12.2024)
+A.9
+		MERCANCÍAS EN ABANDONO
+Abandono legal
+1. Dentro
+		de los cinco primeros días de cada mes, el almacén aduanero informa a la
+		Administración Aduanera, a través de la
+MPV-SUNAT
+,
+		la relación de las mercancías en abandono legal, conforme al anexo XI.
+		Este plazo no se aplica a los envíos postales, que se rigen por lo
+		dispuesto en el procedimiento general “Envíos postales transportados por
+		el servicio postal” DESPA-PG.13.
+
+
+
+(RS N°
+		286-2024/SUNAT - 20.12.2024)
+El control del
+		abandono legal de las mercancías sin destinación aduanera se efectúa a
+		través de la cuenta corriente de cada documento de transporte del
+		manifiesto de carga.
+El funcionario aduanero verifica si las
+		mercancías se encuentran en abandono legal, para lo cual concilia el
+		saldo de la cuenta corriente con la información brindada por el almacén.
+2. Las mercancías en
+		abandono legal ingresadas por las ZED y ZOFRATACNA se controlan de
+		acuerdo con los procedimientos generales “Zonas especiales de
+		desarrollo” DESPA-PG.22 y “Zofratacna” DESPA-PG.23, respectivamente.
+
+
+3. El documento que sustenta la disposición de la mercancía en
+		abandono legal se registra en cada documento de transporte del
+		manifiesto de carga.
+Abandono voluntario
+
+		4. El dueño o consignatario de la mercancía puede solicitar a la
+		Administración Aduanera el abandono voluntario de la mercancía siempre
+		que no se encuentre:
+a) Sometida a una acción de control
+		extraordinario;
+b) En situación de abandono legal.
+5. Para que
+		se configure el abandono voluntario de la mercancía, se debe cumplir de
+		manera conjunta con los siguientes requisitos:
+a) Debe existir la
+		manifestación de voluntad del dueño, consignatario o persona con poder
+		de disposición sobre la mercancía.
+b) Debe constar necesariamente por
+		escrito y tener carácter irrevocable.
+El abandono voluntario
+		surte efecto desde su aceptación por la Administración Aduanera.
+
+		6. El documento que sustenta la disposición de la mercancía en abandono
+		voluntario se registra en cada documento de transporte del manifiesto de
+		carga.
+B. INFORMACIÓN RELACIONADA CON LA SALIDA DE
+		MERCANCÍAS Y MEDIOS DE TRANSPORTE
+B.1 MANIFIESTO DE CARGA DE
+		SALIDA
+Datos generales del manifiesto de carga
+
+
+1. El transportista que traslada efectivamente las
+		mercancías obtiene el número del manifiesto de carga con la transmisión
+		o registro de los datos generales del medio de transporte, antes de
+		solicitar la autorización de la carga. La numeración del manifiesto de
+		carga es asignada por el sistema de manera correlativa, de acuerdo con
+		la vía de transporte.
+
+
+		(RS-172-2021-SUNAT-29.11.2021)
+2. En la vía marítima el
+		número del manifiesto de carga de salida se registra con el número del
+		manifiesto de carga de ingreso asignado al medio de transporte que
+		registró a su arribo al país. En aquellos casos en que no exista
+		manifiesto de carga de ingreso, el transportista
+
+		presenta a través de la MPV-SUNAT
+el anexo II, con el fin que la
+		autoridad aduanera efectúe la numeración del manifiesto de carga de
+		salida.
+
+
+
+(RS N°
+		286-2024/SUNAT - 20.12.2024)
+
+		Documentos vinculados al manifiesto de carga
+3.
+
+El transportista que traslada efectivamente las
+		mercancías registra la información de los documentos vinculados al
+		manifiesto de carga, en los siguientes plazos:
+
+		a)
+En las vías marítima, aérea y fluvial: Hasta dos
+		días calendario contados a partir del día siguiente del término del
+		embarque, salvo la lista de pasajeros y sus equipajes, y tripulantes y
+		sus efectos personales que en la vía aérea se transmite hasta sesenta
+		minutos antes de la fecha y hora estimada de salida del medio de
+		transporte.
+b)
+En la vía
+		terrestre: Hasta el momento de la salida del medio de transporte.
+
+
+		(RS-172-2021-SUNAT-29.11.2021)
+4.
+
+		En las vías marítima y fluvial, con el registro del número del DUE
+		correspondiente al medio de transporte se da por cumplida la obligación
+		del registro de la información de los documentos vinculados, siempre que
+		ésta se encuentre registrada en el componente de servicios portuarios de
+		la Ventanilla Única de Comercio Exterior.
+
+
+En la vía aérea, el
+		transportista indica si ha transmitido la lista de pasajeros y sus
+		equipajes, y la lista de tripulantes y sus efectos personales a través
+		del Sistema de información anticipada de pasajeros - APIS (Advanced
+		Passenger Information System), con lo que se da por cumplida la
+		obligación del registro de la información.
+
+
+		(RS-172-2021-SUNAT-30.11.2021)
+5. En las vías aérea y terrestre, con la transmisión
+		o registro de los datos generales del manifiesto de carga el
+		transportista puede adjuntar la información digitalizada de los
+		documentos vinculados a través del portal de la SUNAT, dentro de los
+		plazos establecidos en el numeral 3 del presente rubro.
+6. En la
+		vía marítima, en caso no exista manifiesto de carga de ingreso, el
+		transportista
+presenta a través de la MPV-SUNAT
+
+		los documentos vinculados.
+
+
+
+(RS N°
+		286-2024/SUNAT - 20.12.2024)
+Documentos de transporte del manifiesto de
+		carga
+7. El transportista registra o transmite la
+		información de los documentos de transporte con destino al exterior, que
+		corresponden al manifiesto de carga, en los siguientes plazos:
+a) En
+		las vías marítima, aérea y fluvial: Hasta dos días calendario contados a
+		partir del día siguiente del término del embarque.
+b) En la vía
+		terrestre: Hasta el momento de la salida del medio de transporte.
+
+
+B.2. ACTOS RELACIONADOS CON LA SALIDA DE MEDIOS DE
+		TRANSPORTE
+Autorización de la carga
+1.
+
+El transportista que traslada efectivamente las
+		mercancías transmite o registra la solicitud de autorización de la carga
+		antes del inicio del embarque, debiendo indicar si transporta o no carga
+		con destino al exterior, quedando autorizado automáticamente.
+
+
+		(RS-172-2021-SUNAT-29.11.2021)
+
+
+Término del embarque
+2. Se considera como
+		término del embarque:
+a) En las vías marítima, aérea y fluvial: la
+		fecha y hora en que se embarca el último bulto al medio de transporte.
+
+		b) En la vía terrestre: la fecha y hora de control de salida del último
+		bulto por parte de la autoridad aduanera.
+Tratándose de varios
+		medios de transporte pertenecientes a un mismo manifiesto de carga de
+		salida, la fecha y hora de control de salida del último bulto del último
+		medio de transporte.
+c) Cuando no exista mercancía a ser embarcada,
+		se considera como término del embarque:
+• En las vías marítima,
+		aérea y fluvial, la fecha y hora estimada de salida del medio de
+		transporte.
+• En la vía terrestre, la fecha y hora del control de
+		salida del medio de transporte por parte de la autoridad aduanera.
+
+
+Registro del término del embarque
+3.
+
+En las vías marítima, aérea y fluvial, el
+		transportista que traslada efectivamente las mercancías registra la
+		información del inicio y término del embarque dentro de las doce horas
+		siguientes a la ocurrencia del término del embarque.
+
+
+		(RS-172-2021-SUNAT-29.11.2021)
+4. En la vía terrestre,
+		la autoridad aduanera del puesto de control registra la fecha y hora del
+		control de salida del último bulto como término del embarque.
+
+
+Otros actos relacionados con la salida de mercancías
+
+
+5. Los demás actos relacionados con la salida de mercancías
+		que se detallan a continuación se regulan de acuerdo con lo señalado en
+		el Procedimiento Específico “Actos relacionados con la salida de
+		mercancías y medios de transporte” DESPA-PE.00.21:
+• Reserva de la
+		carga.
+• Recepción de la mercancía.
+• Relación de la carga a
+		embarcar.
+• Registro del ingreso del vehículo con la carga al
+		aeropuerto.
+• Registro del ingreso del vehículo con la carga al
+		puerto.
+• Carga a embarcarse.
+• Carga embarcada.
+• Salida del
+		vehículo con la carga no embarcada.
+B.3. MANIFIESTO DE
+		CARGA CONSOLIDADO
+1. El agente de carga internacional
+		transmite o registra la información del manifiesto de carga consolidado,
+		hasta tres días calendario contados a partir del día siguiente del
+		término del embarque.
+Cuando no cuenta con el número del
+		manifiesto de carga, adicionalmente registra la información
+		complementaria hasta las veinticuatro horas siguientes a la transmisión
+		del último registro del manifiesto de carga consolidado previo.
+
+
+C. OPERACIONES USUALES DURANTE EL ALMACENAMIENTO
+
+
+1. Durante el almacenamiento de las mercancías el dueño,
+		consignatario, despachador de aduana, exportador o consignante puede,
+		con la autorización del almacén aduanero y bajo su responsabilidad,
+		someterlas a operaciones usuales y necesarias para su conservación,
+		cuidado, traslado o correcta declaración.
+2. Estas operaciones no
+		implican modificación del estado, naturaleza o clasificación arancelaria
+		de la mercancía, o de la cantidad de bultos recibidos, salvo el
+		desdoblamiento.
+3. El almacén aduanero recibe la solicitud para
+		la realización de una operación usual y comunica su realización a la
+		autoridad aduanera a través del portal de la SUNAT, indicando la
+		ubicación de la mercancía, número de contenedor y de precinto de
+		corresponder, tipo de operación usual detallado en el anexo III, así
+		como la fecha y hora programada de la operación usual. La solicitud debe
+		indicar el número del manifiesto de carga, del documento de transporte o
+		de la declaración aduanera de mercancías.
+
+		El almacén aduanero espera una hora desde el envío de la comunicación,
+		antes de informar al solicitante la autorización para la operación usual
+		que corresponda, excepto en las operaciones usuales necesarias para la
+		inspección de las mercancías por parte del sector competente, así como
+		en el ingreso y en la salida del país de animales vivos en que no se
+		requiere dicha espera
+.
+
+
+		(RS-172-2021-SUNAT-29.11.2021)
+4. En tanto no se
+		implemente el sistema informático para su transmisión, el almacén
+		aduanero
+comunica
+ dicha información desde su
+		CEU a la CECA.
+
+
+
+(RS N°
+		286-2024/SUNAT - 20.12.2024)
+5. Culminada la operación usual, el
+		depósito temporal emite el “Acta de operaciones usuales” contenida en el
+		anexo III, la que es suscrita por los intervinientes y el funcionario
+		aduanero (cuando este último haya participado) y adjunta este documento
+		a través del portal de la SUNAT dentro del plazo de una hora desde su
+		culminación. Este plazo no es aplicable en la salida de mercancías, en
+		la que la transmisión del acta se efectúa hasta antes del envío de la
+		relación de carga a embarcar.
+C.1 EN EL INGRESO DE
+		MERCANCÍAS
+1. En el ingreso de
+		mercancías, se pueden realizar las siguientes operaciones usuales:
+
+		a) reconocimiento previo;
+
+		b) pesaje, medición o cuenta;
+
+		c) colocación de marcas o señales para la
+		identificación de bultos;
+d) desdoblamiento;
+e)
+		reagrupamiento;
+f)
+		extracción de muestras para análisis o registro;
+
+		g) reembalaje;
+
+		h) trasiego;
+
+		i) vaciado o descarga parcial de contenedores para
+		su devolución;
+j) control
+		de funcionamiento de maquinaria o su mantenimiento, siempre y cuando no
+		se modifique su estado o naturaleza;
+
+		k) cuidado de animales vivos;
+
+		l) las necesarias para la conservación de las
+		mercancías perecibles;
+m)
+		las que tengan que adoptarse en caso fortuito o de fuerza mayor; o
+
+n) las necesarias para la inspección de las mercancías por parte del
+		sector competente.
+o) Verificación de las
+		características de las mercancías en la modalidad de despacho anticipado
+		y urgente numerado antes de la llegada del medio de transporte
+.
+
+
+
+(RS N°
+		286-2024/SUNAT - 20.12.2024)
+
+		2. En el régimen de depósito aduanero las operaciones usuales se
+		realizan conforme a lo previsto en el anexo III.
+3. El retiro de
+		muestras se realiza conforme al procedimiento específico “Reconocimiento
+		físico - extracción y análisis de muestras” DESPA-PE.00.03.
+
+
+C.2 EN LA SALIDA DE MERCANCÍAS
+1.
+
+		En el régimen de exportación definitiva se pueden realizar las
+		siguientes operaciones usuales:
+
+
+a) trasiego por daño del contenedor,
+
+
+b) cuidado de animales vivos,
+
+
+c) las necesarias para la conservación de las
+		mercancías,
+d) las
+		necesarias para la inspección de las mercancías por parte del sector
+		competente.
+
+
+		(RS-172-2021-SUNAT-29.11.2021)
+2. En el
+		régimen de exportación definitiva, no procede una operación usual cuando
+		la mercancía cuenta con la relación de carga a embarcar o la declaración
+		cuenta con diligencia de reconocimiento físico o esté sujeta a una
+		acción de control extraordinaria, excepto cuando se trate del cuidado de
+		animales vivos.
+3. El depósito temporal recibe la solicitud para
+		la realización de una operación usual y comunica desde su CEU a la CECA
+		que va a efectuar una operación usual.
+Esta comunicación se
+		realiza hasta antes del inicio de la ejecución de la operación usual,
+		consignando el número de la declaración, la ubicación de la mercancía,
+		el número de contenedor y de precinto de corresponder, el motivo, así
+		como la fecha y hora programada para la ejecución.
+VIII.
+		VIGENCIA
+Las disposiciones contenidas en el presente
+		procedimiento entran en vigencia al día siguiente de su publicación.
+
+
+IX. ANEXOS
+Anexo I :
+
+Solicitud de uso
+		de la casilla electrónica
+Anexo II :
+
+Manifiesto de
+		carga
+
+
+
+(RS N°
+		286-2024/SUNAT - 20.12.2024)
+Anexo III :
+
+Acta de
+		operaciones usuales
+
+
+
+(RS N°
+		286-2024/SUNAT - 20.12.2024)
+Anexo IV :
+
+Solicitud de
+		prórroga de la destinación aduanera
+Anexo V :
+
+Ingreso y
+		recepción de la mercancía
+Anexo VI :
+
+Manifiesto de
+		carga desconsolidado / consolidado
+Anexo VII:
+
+Reporte del
+		término de la descarga / término del embarque
+Anexo VIII:
+
+Descarga de
+		la mercancía
+Anexo IX :
+
+Actas de
+		inventario de la carga arribada en mala condición exterior o con medidas
+		de seguridad violentadas
+Anexo X :
+
+Acta de traslado
+		entre depósitos temporales
+Anexo XI :
+
+Mercancías en
+		situación de abandono legal
+
+
+
+(RS N°
+		286-2024/SUNAT - 20.12.2024)

@@ -1,0 +1,915 @@
+Procedimientos de Recaudación
+
+
+RECAUDACIÓN
+
+
+PROCEDIMIENTO ESPECÍFICO
+RECA-PE.03.02:
+RECONOCIMIENTO DE CRÉDITOS TRIBUTARIOS
+
+
+ <-- Retroceder
+
+
+
+
+
+Proc:
+
+
+						RECA.PE.03.02
+
+
+(antes IFGRA-PE.27)
+
+
+RECONOCIMIENTO
+						DE CRÉDITOS TRIBUTARIOS
+
+
+Versión:
+
+ 1
+
+
+Publicación:
+
+ 04/01/2004
+
+
+Resolución:
+ 000581
+
+
+Fecha Res.:
+  19/12/2003
+
+
+Vigencia:
+ 05/01/2004
+
+
+
+Lista:
+
+
+Maestra
+
+
+Circulares Anexas
+
+
+Control de Cambios
+
+
+
+
+
+I. OBJETIVO
+
+
+Establecer el procedimiento
+
+para el
+ reconocimiento correcto y oportuno de la deuda tributaria aduanera a cargo de los deudores
+ tributarios sometidos al sistema
+
+concursal evaluado por
+
+la Comisión de Procedimientos Concursales de las Oficinas Delegadas
+ del INDECOPI ubicadas a nivel nacional o incluidos en los procesos de privatización conducido
+ por la Agencia de Promoción de la Inversión Privada – PROINVERSIÓN (antes COPRI)
+
+
+II. ALCANCE
+
+
+Intendencias de la Superintendencia Nacional Adjunta de Aduanas, personas
+ naturales o jurídicas sometidas a los procedimientos concursales conducido por las Oficinas
+ Delegadas del INDECOPI al amparo de la Ley N° 27809 – Ley General del Sistema Concursal
+ (LGSC) o incluidos en el proceso de promoción de la inversión privada, controlado por
+ PROINVERSIÓN; así como otras áreas o entidades que por su naturaleza tienen competencia en
+ el presente procedimiento.
+
+
+III. RESPONSABILIDAD
+
+
+Son responsables del cumplimiento del presente procedimiento, los
+ Intendentes en cuya jurisdicción el deudor concursal registra acogimiento al procedimiento
+ concursal y/o deuda tributaria aduanera pendiente de cancelación; así como el personal que
+ interviene en el presente procedimiento.
+Los Jefes de las áreas generadoras de adeudos
+ conjuntamente con el de Recaudación y Contabilidad que intervienen en este procedimiento, son
+ responsables de proporcionar a la Intendencia de Fiscalización y Gestión de Recaudación
+ Aduanera (IFGRA) – Gerencia de Gestión de Recaudación Aduanera (GGRA), así como a las
+ Intendencias que asumen competencia territorial en este proceso, la información y documentación
+ sustentatoria de la deuda concursal sometida a reconocimiento de créditos tributarios, dentro
+ de los plazos requeridos. Asimismo, son responsables de cautelar el ingreso correcto y
+ oportuno de la información en el Sistema Integrado de Gestión Aduanera – SIGAD, módulos
+ de Liquidación de Cobranzas, Cobranzas Coactivas, Fraccionamiento, Reconocimiento de Créditos
+ Tributarios y otros que tengan incidencia en el presente proceso.
+El Intendente
+ Nacional de Sistemas de Información (INSI), es responsable de la implementación y
+ mantenimiento de los módulos necesarios para la correcta aplicación del presente
+ procedimiento; así como de asegurar la trazabilidad de las documentos electrónicos
+ relacionados con el presente proceso.
+
+
+IV. VIGENCIA
+
+
+A partir del día siguiente de su publicación en el diario oficial El
+ Peruano.
+
+
+V. BASE LEGAL
+
+
+Ley N° 27444 – Ley del Procedimiento Administrativo General publicado el
+ 11.04.2001 y su modificatoria
+
+
+Ley N° 27681 – Ley de Reactivación a través del sinceramiento de las
+ deudas tributarias (RESIT) publicado el 08.03.2002.
+
+
+Ley N° 27809 – Ley General del Sistema Concursal publicado el
+ 08.08.2002.
+
+
+Decreto Ley Nº 25604 - Intangibilidad de los activos de las empresas que
+ conforman la actividad empresarial del Estado, publicado el 24.07.1992.
+
+
+Decreto Legislativo N° 674 - Ley de Promoción de la Inversión Privada en
+ las Empresas del Estado, publicado el 27.09.1991 y sus modificatorias.
+
+
+Decreto Legislativo N° 809 – Ley General de Aduanas publicado el
+ 19.04.1996 y sus modificatorias.
+
+
+Decreto Supremo N° 121-96-EF – Reglamento de la Ley General de Aduanas
+ publicado el 24.12.1996 y sus modificatorias.
+
+
+Decreto Supremo N° 135-99-EF - Texto Unico Ordenado del Código
+ Tributario, publicado el 19.08.1999 y sus modificatorias.
+
+
+Decreto Supremo N° 014-2002-PCM - Texto Unico de Procedimientos
+ Administrativos del INDECOPI publicado el 13.06.2002 y sus modificatorias.
+
+
+Decreto Supremo N° 064-2002-EF – Reglamento del RESIT publicado el
+ 10.04.2002.
+
+
+Resolución N° 072-96-TDC - Jurisprudencia de Observancia Obligatoria
+ publicado el 21.11.1996.
+
+
+Resolución N° 080-96-TDC - Jurisprudencia de Observancia Obligatoria
+ publicado el 30.11.1996
+
+
+Resolución N° 021-97-TDC - Jurisprudencia de Observancia Obligatoria
+ publicado el 19.02.1997
+
+
+Resolución N° 351-2000/TDC-INDECOPI - Jurisprudencia de Observancia
+ Obligatoria publicado el 02.09.2000
+
+
+VI. NORMAS GENERALES
+
+
+El Sistema Concursal, establecido mediante la Ley N° 27809 – Ley General
+ del Sistema Concursal (LGSC), comprende: el proceso concursal ordinario y proceso concursal
+ preventivo; los cuales están sujetos al pago por derecho de trámite de acuerdo a lo
+ dispuesto en el Texto Unico de Procedimientos Administrativos del INDECOPI, Decreto Supremo Nº
+ 014-2002-ITINCI y su modificatoria Decreto Supremo N° 110-2002-PCM
+
+
+Según lo establecido en la LGSC y Ley de Promoción de la Inversión
+ Privada en las Empresas del Estado, Decreto Legislativo Nº 674, el INDECOPI y sus Oficinas
+ Delegadas (ODI), Poder Judicial y PROINVERSIÓN, entre otros, están a cargo de la declaración
+ de insolvencia, aprobación de acuerdos/convenios, reconocimiento de créditos, disolución y
+ liquidación extrajudicial, quiebra y demás funciones establecidas según Ley.
+
+
+La IFGRA–GGRA, asume competencia a nivel nacional para la acreditación y
+ obtención del reconocimiento de las acreencias tributarias en los casos comprendidos en el
+ Decreto Legislativo N° 674 - Ley de Promoción de la Inversión Privada de las Empresas del
+ Estado.
+
+
+La IFGRA-GGRA asume competencia territorial en los procedimientos
+ establecidos en la LGSC, sólo cuando se realicen en los departamentos de Lima y Junín.
+Para
+ efectos del presente procedimiento, las áreas de Recaudación y Contabilidad de las
+ Intendencias ubicadas en Lima, conformada por las aduanas Marítima, Aérea y Postal,
+ consolidan la información y documentación sustentatoria proveniente de las áreas
+ generadoras de adeudos para su proceso como solicitud de reconocimiento de créditos por la
+ IFGRA-GGRA o las intendencias con competencia territorial.
+Las intendencias, según la
+ jurisdicción establecida en la Resolución de Superintendencia de Aduanas (RSA) N° 000980
+ del 11.03.1997, modificada mediante la RSA. N° 001290 del 25.08.1998, asumen competencia
+ territorial, de corresponder, para asumir el proceso del reconocimiento de créditos,
+ establecido en el presente procedimiento y en concordancia con el lugar de acogimiento del
+ deudor.
+
+
+En el sistema concursal, son objeto de reconocimiento de créditos, los
+ adeudos exigibles pendientes de cancelación a cargo del deudor concursal, que se hayan
+ originado hasta la fecha de publicación o de suspensión de exigibilidad de obligaciones,
+ efectuada semanalmente por el INDECOPI en el diario oficial El Peruano u otro diario de la
+ localidad de acogimiento del deudor, debiendo gestionarse dicho reconocimiento dentro de los
+ 30 días útiles siguientes a la publicación antes indicada.
+Los adeudos cuya fecha de
+ nacimiento de la obligación tributaria o de la fecha de comisión de la infracción sea hasta
+ la fecha de suspensión de su exigibilidad, se consideran como deuda concursal, aún cuando el
+ acto de determinación sea posterior a la fecha de suspensión precisada en el presente
+ numeral.
+
+
+La deuda tributaria aduanera inexigible (estados : fraccionamiento vigente,
+ impugnación, reclamo, apelación o demanda contenciosa administrativa), se considera como
+ deuda contingente siendo materia sólo de registro en el sistema concursal y de
+ reconocimiento, sólo si su estado varía a exigible.
+
+
+La deuda originada con posterioridad a la fecha de suspensión de
+ exigibilidad de las obligaciones, es susceptible de reconocimiento sólo en los procedimientos
+ de disolución y liquidación y cuando el proceso no se encuentre concluido; caso contrario
+ continúan su cobranza como deuda corriente, de acuerdo a los procedimientos IFGRA-PG.03,
+ Cobranzas Administrativas e IFGRA-PG.06 Apelaciones Tributarias.
+
+
+La deuda exigible a cargo de las empresas incluidas en el proceso de
+ privatización de promoción a la inversión privada, es objeto de reconocimiento ante
+ PROINVERSIÓN
+
+
+La solicitud de verificación de adeudos a nivel nacional, se efectúa vía
+ Lotus Notes mediante el formulario "Requerimiento de Verificación de Adeudos"
+ debiendo cumplirse con los plazos establecidos.
+
+
+La deuda concursal, es susceptible de acogimiento al aplazamiento y/o
+ fraccionamiento otorgado por la Superintendencia Nacional Adjunta de Aduanas, previa aprobación
+ de la junta de acreedores y/o en concordancia con la normatividad vigente.
+
+
+La deuda concursal no es materia de compensación.
+
+
+Si la deuda concursal exigible, está garantizada, el personal encargado en
+ las áreas de recaudación de las Intendencias operativas ejecuta la garantía otorgada por
+ terceros, y si ésta no cubriera el adeudo, comunica a la IFGRA-GGRA o intendencia con
+ competencia territorial, el saldo actualizado y remite copias de los documentos
+ sustentatorios, a efecto que proceda al reconocimiento de crédito respectivo.
+
+
+El seguimiento y control de la deuda concursal es contínuo y permanente
+ hasta la conclusión del proceso, debiendo las intendencias generadoras de adeudos informar a
+ la IFGRA-GGRA o intendencias con competencia territorial, en el caso de la existencia de
+ nuevos adeudos, sean estos exigibles o no exigibles.
+
+
+Los adeudos en proceso de reclamación, apelación, demanda contencioso
+ administrativa o fraccionamiento, deben proseguir con los trámites correspondientes hasta su
+ resolución; debiendo las Intendencias generadoras de adeudos remitir a la IFGRA-GGRA y/o
+ Intendencias según su competencia territorial, copia de la resolución firme o consentida que
+ declara Improcedente, procedente en parte o la pérdida del fraccionamiento, así como copia
+ de los documentos señalados en el numeral 4 del rubro VII.A, a efecto de solicitar el
+ reconocimiento respectivo.
+
+
+La IFGRA-GGRA e intendencias con competencia territorial, informan a las
+ Intendencias generadoras de adeudos, que correspondan, sobre los reconocimientos de créditos
+ efectuados, así como de los actos resolutivos emitidos por la autoridad concursal en relación
+ con los reconocimientos gestionados. Por otro lado, si la deuda concursal reconocida, hubiera
+ sido materia de extinción como obligación tributaria, el área de Recaudación y
+ Contabilidad o quién custodia los actuados de la deuda concursal, comunica al área que asume
+ competencia en el presente procedimiento, para su exclusión como deuda concursal.
+
+
+El pago parcial o total de la deuda concursal reconocida se efectúa ante
+ la Intendencia con competencia territorial, imputando el pago realizado – en primer lugar,
+ al capital, luego a gastos e intereses, en ese orden. Igualmente, aprobado el cronograma o
+ reprogramación de pagos por la autoridad concursal, se considera pago oportuno a la cancelación
+ efectuada antes del vencimiento de la siguiente cuota. En el caso del primer incumplimiento
+ del cronograma de pagos, y/o condiciones establecidas en el Plan de Reestructuración,
+ Convenio de Liquidación o Acuerdo Global de Refinanciación, corresponde reiniciar la
+ cobranza administrativa y/o coactiva.
+
+
+Los jefes de las áreas involucradas en la ejecución del presente
+ procedimiento son responsables de enviar a la IFGRA, en forma permanente, las observaciones
+ y/o propuestas al mismo, para su mejor aplicación operativa. Asimismo, son responsables
+ directos de velar por el ingreso correcto y oportuno de la información a los diferentes módulos
+ del SIGAD.
+
+
+VII. DESCRIPCION
+
+
+A. VERIFICACIÓN DE ADEUDOS
+
+
+El personal encargado en la IFGRA-GGRA o intendencia con competencia
+ territorial
+,
+ toma conocimiento del nombre o la razón social de
+ la persona natural o jurídica (deudor tributario) sometido al sistema concursal, a través
+ del diario oficial "El Peruano", comunicación de la Comisión Supervisora de los Créditos
+ Tributarios y Financieros del Estado (CSCTFE) / Representante de Créditos Tributarios o por
+ el deudor tributario y verifica en los módulos del SIGAD, la existencia de adeudos exigibles
+ o inexigibles de dichos deudores, emitiendo los reportes correspondientes.
+
+
+El personal encargado en la IFGRA-GGRA o intendencia con competencia
+ territorial, en base a la información obtenida en el SIGAD, solicita mediante el Módulo
+ "Requerimiento de Verificación de Adeudos" (RVA) la verificación respectiva por
+ las áreas generadoras del adeudo.
+
+
+De existir adeudos, solicita a las intendencias generadoras de la deuda, la
+ documentación sustentatoria de los adeudos exigibles, así como la información sobre los
+ adeudos inexigibles, estén o no vencidos y/o impugnados, que tengan en su jurisdicción los
+ deudores concursales
+
+
+Las intendencias generadoras de la deuda dan respuesta por el mismo medio,
+ bajo responsabilidad, en el plazo de cuarenta y ocho (48) horas, computados desde el día hábil
+ siguiente del envío. Vencido este plazo, el órgano que efectuó el requerimiento, presume la
+ inexistencia de adeudos y comunica esta información mediante oficio a la Secretaría Técnica
+ de la CSCTFE.
+Sustentación de adeudos exigibles
+
+
+En el caso de la deuda exigible y no garantizada, la intendencia generadora
+ del adeudo o quién haga sus veces, verifica la exigibilidad de ésta y procede a remitir a la
+ unidad orgánica solicitante, en el plazo máximo de siete (7) días útiles de enviado el
+ RVA, dos (2)copias legibles de la documentación que se indica, recomendándose el orden
+ indicado a continuación, para facilitar su sustentación.
+
+
+Documento de cobranza
+ (Liquidación de Cobranza, Declaración de
+ Importación, etc.)
+
+
+Hoja de actualización del adeudo
+ calculado a la fecha de suspensión
+ de exigibilidad (fecha de publicación del inicio del proceso concursal), sólo cuando
+ registre pagos a cuenta (principal o por fraccionamiento)
+
+
+Documento de determinación
+ (Resolución de División/ Gerencia/
+ Intendencia, Cargo, Declaración de Importación, etc. que sustente la emisión del documento
+ de cobranza). En los casos de fraccionamiento, corresponde el envío del formato o solicitud
+ de acogimiento, firmado por el deudor concursal y la Resolución de declaratoria de pérdida,
+ debidamente notificada.
+
+
+Cédula de Notificación del documento de cobranza,
+ con el sello y
+ datos de recepción por el deudor concursal y/o entidad liquidadora, de corresponder.
+ Igualmente, de ser el caso, adjunta el Informe de la empresa de mensajería o publicación en
+ el diario oficial El Peruano u otro que pudiera corresponder.
+
+
+Si el adeudo tiene iniciada la cobranza coactiva, adjunta la Resolución de
+ Ejecución Coactiva, Cédula de Notificación con sello y datos de recepción por el deudor y
+ la Resolución de Aprobación de Costas, detallada y firmada por las autoridades competentes.
+
+
+Documentación e información complementaria, solicitada por el área
+ competente, de ser el caso.
+Igualmente, actualiza en el SIGAD, el proceso del adeudo a
+ Reestructuración (Reest)
+
+
+Las áreas de recaudación a nivel nacional o quien haga sus veces en la
+ intendencia generadora del adeudo, asumen la custodia de los antecedentes de la deuda
+ concursal, aún cuando esté iniciada la cobranza coactiva; verifican la suspensión de las
+ acciones de cobranza coactiva y efectúan el seguimiento permanente sobre la existencia de
+ adeudos con posterioridad a lo informado, debiendo proseguir según lo establecido en los
+ numerales 3 y 4.
+Por otro lado, si la deuda concursal reconocida, hubiera sido materia de
+ extinción como obligación tributaria, lo comunica al área competente para su exclusión
+ como deuda concursal.
+
+
+El personal encargado en las intendencias generadoras de la deuda que
+ registren adeudos dentro del procedimiento de Cobranzas Coactivas, consigna en el formato
+ Requerimiento de Verificación de Adeudos, el número del memorándum con el cual remitió los
+ actuados de los adeudos materia de reconocimiento de créditos tributarios.
+
+
+El personal encargado de las intendencias generadoras del adeudo, ingresa
+ al módulo de Liquidaciones de Cobranza, opción procesos, el estado del procedimiento
+ concursal según corresponda, detallando la fecha de suspensión de la exigibilidad (fecha de
+ actualización de la deuda), número y fecha del memorándum y/o informe de remisión de los
+ documentos sustentatorios, debiendo registrar en el campo "Obs. Adic." el nombre del
+ deudor concursal, de ser el caso. En los otros módulos, actualiza el proceso en la opción
+ correspondiente.
+
+
+El personal encargado en la IFGRA-GGRA o intendencia con competencia
+ territorial, evalúa la información y documentación sustentatoria de los adeudos remitidos
+ por las Intendencias generadoras de la deuda. De no estar conforme, solicita la información
+ y/o documentación complementaria para su atención en el plazo máximo de cuarenta y ocho
+ (48) horas, computado desde el día hábil siguiente a la comunicación; caso contrario, se
+ procede a su devolución.
+
+
+B) RECONOCIMIENTO DE CRÉDITOS TRIBUTARIOS
+.
+B1)
+ INTENDENCIA DE FISCALIZACIÓN Y GESTIÓN DE RECAUDACIÓN ADUANERA (IFGRA)
+
+
+El personal encargado en la IFGRA-GGRA, procesa la hoja de actualización
+ del o los adeudo(s) en el Módulo de Recaudación-Caja/ Misceláneos/ Actualización del
+ Adeudo, cuando no se refieran a pagos a cuenta, saldos por cobrar, o adeudos que no se
+ encuentren registrados en el SIGAD, a la fecha en que se suspende la exigibilidad de éstos e
+ igualmente, consolida la información y documentación sustentatoria de las acreencias a nivel
+ nacional a cargo del deudor concursal y gestiona ante la Intendencia Nacional de Administración
+ (INA), efectúe el pago del derecho de trámite establecido por el INDECOPI.
+
+
+El personal encargado de la INA, realiza el pago, indicado en el numeral
+ anterior, en el plazo de setenta y dos (72) horas, computados a partir del día hábil
+ siguiente de recibida la solicitud, teniendo en cuenta la cuantía del derecho de trámite :
+
+
+Si es menor o igual a S/. 100,00, el original del
+ voucher de pago lo entrega al área solicitante a efecto de su canje ante la autoridad
+ concursal competente.
+
+
+Si es mayor a S/. 100,00 remite al área
+ solicitante copia de la factura que acredite el pago ante el INDECOPI
+
+
+El personal encargado en la IFGRA-GGRA, con conocimiento a la CSCTFE,
+ solicita a la autoridad concursal competente, el reconocimiento de créditos de los adeudos
+ exigibles, adjuntando en dos (2) ejemplares, lo siguiente :
+
+
+Detalle de la documentación sustentatoria.
+
+
+Original del voucher de pago o copia de la
+ factura, según sea el caso, que acredite el pago del derecho Reconocimiento de Créditos ante
+ INDECOPI.
+
+
+Anexo 1 : Hoja Resumen de los Adeudos Exigibles y
+ no Garantizados.
+
+
+Anexo 2 : Adeudos No Exigibles – Contingente
+ (requiere documentación sustentatoria).
+
+
+Copia de la documentación sustentatoria según
+ lo establecido en el acápite VII.A.4.
+
+
+De existir controversia en los reconocimientos de créditos, efectúa la
+ revisión, rectificación y/o ratificación de lo informado a la autoridad concursal. De ser
+ necesario, solicita pronunciamiento o información complementaria a la unidad generadora del
+ adeudo.
+
+
+El personal encargado toma conocimiento a través de la Comisión de
+ Procedimientos Concursales competente, CSCTFE, diario oficial El Peruano o website del
+ INDECOPI, sobre la resolución que declara la procedencia, procedencia en parte o
+ improcedencia de la solicitud de reconocimiento o de las decisiones adoptadas en la Junta de
+ Acreedores; así como de la aprobación del Plan de Reestructuración, Acuerdo Global de
+ Refinanciación, Convenio de Liquidación u otros que pudieran corresponder y efectúa el
+ requerimiento, mediante notificación al deudor, del cronograma de pagos aprobado, sin
+ perjuicio de solicitar la información a la CSCTFE / Representante de Créditos Tributarios
+ y/o verificar el expediente en el INDECOPI o autoridad concursal competente, para el
+ seguimiento y control de la deuda concursal.
+
+
+Cuando la resolución declara la procedencia del reconocimiento, el
+ personal encargado verifica la actualización de su proceso en el SIGAD y lo comunica a la(s)
+ Intendencia(s) generadora(s) de adeudo(s). En el caso que ésta se pronuncie por la
+ improcedencia o procedencia en parte del reconocimiento de crédito, el personal encargado
+ interpone recurso impugnatorio o ampliación del reconocimiento, según corresponda. De ser el
+ caso, solicita pronunciamiento o información complementaria a la unidad orgánica generadora
+ del adeudo.
+El deudor tributario cancela la deuda concursal en efectivo, cheque de
+ gerencia o certificado en las entidades bancarias autorizadas, mediante el documento liquidación
+ de cobranza, como pagos a cuenta.
+
+
+Los pagos a cuenta en ejecución del Plan de Reestructuración, Convenio de
+ Liquidación o Acuerdo Global de Refinanciación, se realiza ante la Intendencia con
+ competencia territorial, quien efectúa la imputación del pago, en primer lugar, a las deudas
+ por concepto de capital, luego a gastos e intereses, en ese orden, debiendo ser comunicado
+ dentro de los dos (2) días siguientes de su cancelación, al área generadora del adeudo para
+ su regularización y control respectivo.
+
+
+El personal encargado ante el primer incumplimiento de las condiciones de
+ pago establecidas en el Plan de Reestructuración, Convenio de Liquidación o Acuerdo Global
+ de Refinanciación, según corresponda, comunica a las Intendencias generadoras del adeudo
+ correspondiente para la prosecusión de la cobranza.
+
+
+El personal encargado comunica a la autoridad concursal, con conocimiento
+ de la CSCTFE, mediante oficio o correo electrónico, el incumplimiento de pago incurrido por
+ el deudor e igualmente, hace el seguimiento y control de acuerdo a las pautas establecidas en
+ el numeral 5 de la Sección VI.
+
+
+B2) INTENDENCIAS CON COMPETENCIA
+ TERRITORIAL
+
+
+Las Intendencias de Aduana: Chiclayo, Salaverry, Paita, Iquitos, Arequipa,
+ Cuzco, Tacna y Puno, según su jurisdicción, tienen competencia para solicitar directamente
+ el reconocimiento de créditos, a la autoridad concursal competente, con conocimiento de los
+ representantes de créditos tributarios de los departamentos de Lambayeque, Cajamarca, La
+ Libertad, Piura, Loreto, Arequipa, Cuzco, Tacna y Puno, así como remitir la información de
+ los adeudos inexigibles (contingente) y la documentación sustentatoria de los adeudos
+ exigibles correspondiente a los deudores tributarios comprendidos en el proceso concursal, que
+ se venga realizando o haya sido directamente informada de dicha situación jurídica por los
+ citados representantes de créditos tributarios o CSCTFE, por la autoridad concursal o
+ mediante la publicación en el diario oficial u otro de mayor circulación de la localidad
+ respectiva, salvo las Intendencias de Aduana Marítima, Aérea y Postal.
+
+
+Cada intendencia con competencia territorial que conozca del acogimiento de
+ un deudor tributario a alguno de los procedimientos concursales, solicita información de
+ adeudos a todas las demás Intendencias, a fin de consolidar la información y seguir con el
+ procedimiento señalado en el acápite A y rubro B.1 de la presente sección.
+
+
+El deudor tributario cancela la deuda concursal en efectivo, cheque de
+ gerencia o certificado en las entidades bancarias autorizadas mediante el documento liquidación
+ de cobranza, en la modalidad de pago a cuenta.
+
+
+El personal encargado ante el primer incumplimiento de las condiciones de
+ pago establecidas en el Plan de Reestructuración, Convenio de Liquidación o Acuerdo Global
+ de Refinanciación, según corresponda, comunica a las Intendencias generadoras del adeudo
+ correspondiente para la prosecusión de la cobranza.
+
+
+El personal encargado comunica a la autoridad concursal, con conocimiento
+ de la CSCTFE, mediante oficio o correo electrónico, el incumplimiento de pago incurrido por
+ el deudor e igualmente, hace el seguimiento y control de acuerdo a las pautas establecidas en
+ el numeral 5 de la Sección VI.
+
+
+C) SUSPENSION DE LA EXIGIBILIDAD DE ADEUDOS
+.
+
+
+
+El personal encargado en las intendencias generadoras de adeudos, procede a
+ suspender la cobranza de los adeudos exigibles de acuerdo a lo señalado en el acápite VI.5.
+
+
+El ejecutor coactivo, suspende bajo responsabilidad, la ejecución de los
+ embargos y de las demás medidas cautelares trabadas sobre bienes, dinero o derechos del
+ mismo. En ningún caso levanta los embargos ya trabados, en forma de inscripción, contra el
+ deudor tributario acogido al sistema concursal, los mismos que continúan inscritos no siendo
+ materia de ejecución. Asimismo, en el caso que las medidas de embargo estén ordenadas, pero
+ no trabadas, prosigue con su trámite siempre que se trate de medidas pasibles de registro u
+ otras que no signifiquen la desposesión de bienes del deudor o afecten el funcionamiento de
+ su negocio.
+En el caso de procesos de cobranza coactiva ya iniciados contra el deudor
+ sometido al Sistema Concursal, el ejecutor coactivo emite la resolución de suspensión de la
+ cobranza.
+
+
+El personal encargado de la cobranza administrativa y/o coactiva – de
+ corresponder - debe dirigirse contra los responsables solidarios del deudor tributario acogido
+ al Sistema Concursal de acuerdo a lo establecido en la Ley General de Aduanas, o contra el
+ patrimonio de terceros que hubieran constituido garantías reales o personales a favor del
+ mismo. En caso que el deudor tributario sea una agencia de aduana debe proseguir con la
+ ejecución de la carta fianza que garantiza sus actividades, de acuerdo a lo dispuesto en el
+ procedimiento IFGRA-PE.20, Garantías de Subcontratistas.
+
+
+El personal encargado en el área de Recaudación y Contabilidad o quién
+ haga sus veces en las Intendencias generadoras de adeudos, según corresponda, custodian físicamente
+ los actuados de los adeudos que hayan quedado suspendidos como consecuencia de su acogimiento
+ al Sistema Concursal o de su inclusión en el proceso de promoción de la inversión privada,
+ previa verificación de su inexigibilidad y actualización en el SIGAD, para su seguimiento y
+ control, según lo señalado en el acápite A numeral
+5
+ y acápite
+ C numeral 1 de la presente sección.
+
+
+En los casos de las Intendencias de Aduana Marítima y Aérea del Callao,
+ la custodia física de los actuados la efectúa el Departamento de Recaudación.
+
+
+
+D. LEVANTAMIENTO DE LA SUSPENSIÓN DE LA
+ EXIGIBILIDAD DEL ADEUDO
+
+
+Son causales:
+
+
+La resolución del levante de insolvencia, la resolución por conclusión
+ del proceso u otras que incidan en el mismo, comunicada por la autoridad concursal, por los
+ representantes de créditos tributarios o por la CSCTFE a la IFGRA-GGRA o Intendencias con
+ competencia territorial.
+
+
+Por el incumplimiento de pago de las condiciones determinadas en el Plan de
+ Reestructuración, Convenio de Liquidación o Acuerdo Global de Refinanciación; determinado
+ en forma directa por la IFGRA-GGRA o por las Intendencias con competencia territorial, quienes
+ en el plazo de cuarenta y ocho (48) horas, deben proceder a lo establecido en los numerales 9
+ y 10 del rubro B.1; salvo que el deudor tributario acredite alguna condición excepcional que
+ conste como acuerdo de la Junta de Acreedores.
+
+
+El personal encargado en la IFGRA-GGRA, informa:
+
+
+Lo establecido en el numeral anterior, a las
+ intendencias generadoras de adeudo, para el reinicio de la cobranza administrativa o coactiva
+ según corresponda; así como para la actualización del proceso correspondiente en el SIGAD
+
+
+Lo establecido en el literal b) del numeral
+ anterior, a la autoridad concursal competente y/o los representantes de créditos tributarios
+ o la CSCTFE, sin perjuicio de asumir otras acciones relacionadas al Sistema Concursal.
+
+
+E. DISOLUCION Y LIQUIDACION EXTRAJUDICIAL
+
+
+El personal encargado en la IFGRA-GGRA o de las
+ intendencias con competencia territorial, toma conocimiento del inicio de la disolución o
+ liquidación del deudor concursal, mediante la publicación en el diario oficial u otro de
+ mayor circulación en la localidad respectiva, así como vía la website del INDECOPI y
+ realiza las siguientes acciones:
+
+
+
+Continúa con el procedimiento establecido en los
+ acápites A, B y C, según corresponda, teniendo en consideración que los requisitos
+ establecidos en el numeral 4 del acápite A, se aplica para la totalidad de adeudos (exigibles
+ o no exigibles), determinados y notificados antes de la conclusión del proceso.
+
+
+Actualiza en el SIGAD el inicio del proceso, de
+ corresponder.
+
+
+QUIEBRA
+
+
+El área con competencia territorial, solicita a la Comisión de
+ Procedimientos Concursales del INDECOPI o la que haga sus veces, la información que permita
+ identificar a los deudores tributarios que hubieran ingresado al procedimiento de quiebra.
+ También, toma conocimiento mediante la sección Boletín Oficial – Edicto Judicial del
+ diario oficial El Peruano sobre la resolución que declara la quiebra, extinción de la
+ empresa e incobrabilidad de las deudas, así como del Juzgado Especializado a cargo del auto
+ de quiebra, verifica la baja de oficio del RUC por quiebra judicial y lo comunica a las áreas
+ generadoras del adeudo, de corresponder.
+En aquellos casos que exista resolución judicial
+ de quiebra, el área con competencia territorial que haya asumido el trámite de
+ reconocimiento de créditos, solicita al Poder Judicial copia certificada de la resolución
+ judicial que declara la quiebra del insolvente, que esté consentida o ejecutoriada o que
+ cuente con el certificado de incobrabilidad emitido por el Juzgado Especializado a cargo del
+ auto de quiebra o Comisión Concursal – artículo 99.5° de la LGSC, según corresponda. De
+ no haberse gestionado el reconocimiento, la Intendencia generadora del adeudo asume el
+ presente trámite.
+Simultáneamente, el área con competencia territorial o Intendencia
+ generadora del adeudo puede obtener
+
+de la Superintendencia
+ Nacional de Registros Públicos – SUNARP (físico o por medios electrónicos), la información
+ respecto de la inscripción del auto que declara la quiebra.
+
+
+Con la información obtenida, el área con competencia territorial, de
+ corresponder, genera el documento electrónico informando a la intendencia generadora del
+ adeudo respecto de los deudores que cuenten con Resolución Judicial de Quiebra expedida y
+ consentida o ejecutoriada y/o mediante el Certificado de Incobrabilidad emitido por el Juzgado
+ Especializado a cargo del auto de quiebra o Comisión Concursal que emite el Certificado de
+ Incobrabilidad.
+El área generadora del adeudo y/o área de recaudación y contabilidad que
+ custodia los actuados, verifica la existencia de deudas pendientes de cancelación a cargo de
+ los deudores comprendidos en el acápite F.1), a efecto de proceder a la extinción de las
+ obligaciones tributarias que correspondan.
+
+
+El área generadora del adeudo y/o área de Recaudación y Contabilidad que
+ custodia los actuados, verifica la existencia y titularidad de deudas pendientes de cancelación
+ a cargo de los deudores tributarios comprendidos en el literal anterior, proyecta la Resolución
+ de Intendencia que extingue la deuda tributaria, debiendo precisar, además de los datos
+ tributarios del deudor, el detalle de los documentos de determinación y de cobranza, así
+ como la cuantía de la deuda, según modelo del anexo del presente procedimiento. La deuda que
+ se extingue comprende todos los actos administrativos que se encuentren en el estado
+ "Pendiente", cualquiera fuera la etapa de los mismos.
+De existir un procedimiento
+ de reclamación respecto de la deuda extinguida, éste podrá ser culminado con la resolución
+ de intendencia respectiva. Asimismo, de existir una apelación en trámite, respecto de la
+ deuda extinta, el área competente en cada Intendencia de Aduana, informa al Tribunal Fiscal.
+
+
+Una vez emitida la Resolución de Intendencia el área generadora del
+ adeudo o área que custodia los actuados, procede a su actualización en el sistema, a fin de
+ mantener confiable y actualizado el estado de las cuentas por cobrar.
+
+
+La Resolución de Intendencia que declara la extinción de la deuda
+ tributaria se notifica de acuerdo al artículo 104° del TUO de Código Tributario, debiendo
+ el área que emite la resolución efectuar lo siguiente:
+
+
+Comunica al área de recaudación y
+ contabilidad, cuando corresponda, mediante copia de la resolución de Intendencia que declara
+ la extinción de la deuda tributaria, para su respectivo registro y control contable, así
+ como para el archivo definitivo de los documentos de cobranza bajo su custodia.
+
+
+Comunica al área de Cobranza Coactiva sobre
+ la emisión y notificación de la resolución que extingue la deuda a fin que el ejecutor
+ coactivo proceda, de corresponder, a suspender definitivamente el procedimiento de cobranza
+ coactiva en virtud de lo señalado en el artículo 119° del TUO del Código Tributario.
+
+
+EMPRESAS SUJETAS A LA LEY DE PROMOCIÓN DE LA INVERSIÓN PRIVADA –
+ PROINVERSIÓN (ANTES COPRI.)
+
+
+El personal encargado en la IFGRA-GGRA, verifica los adeudos de las
+ empresas comprendidas en la Ley de Promoción de la Inversión Privada de las Empresas del
+ Estado, a nivel nacional, de acuerdo a lo dispuesto en el acápite A, teniendo en consideración
+ que la actualización de los adeudos será a la fecha de respuesta del requerimiento efectuado
+ por la IFGRA-GGRA, no pagando tasa alguna. La custodia de los actuados se efectúa de acuerdo
+ a lo establecido en el acápite C numeral 4.
+
+
+El mencionado personal, comunica a la Junta Liquidadora o en forma directa
+ a PROINVERSIÓN, sobre la deuda tributaria aduanera pendiente de cancelación, debidamente
+ sustentada y actualizada.
+
+
+De ser el caso PROINVERSIÓN, mediante acuerdo, puede extinguir las
+ obligaciones tributarias de las empresas acogidas al presente beneficio, aplicando lo
+ dispuesto en los incisos a), b), c) y d) del artículo 27º del Código Tributario en
+ coordinación con el Ministerio de Economía y Finanzas (MEF), el deudor y
+ SUNAT-Superintendencia Nacional Adjunta de Aduanas, acción que debe ser comunicada a las
+ Intendencias generadoras de adeudos para la extinción de las obligaciones tributarias que
+ corresponda(n).
+
+
+Igualmente, remite por medios electrónicos el Acta de Conciliación
+ suscrito entre el MEF, SUNAT-Aduanas y/o el deudor a las Intendencias generadoras de adeudos,
+ quienes proceden a la extinción de la obligación tributaria y/o regularización contable
+ respectiva.
+
+
+REGISTRO Y CONTROL
+
+
+.La IFGRA-GGRA e Intendencias con competencia territorial, registra en el
+ SIGAD a los deudores acogidos al Sistema Concursal o proceso de promoción de la inversión
+ privada, identificando los adeudos de cada una de ellos, el cambio situacional de las mismas y
+ los datos complementarios que permita el seguimiento y control de la deuda concursal. Sin
+ perjuicio de ello, la Intendencia generadora del adeudo, puede consultar el estado del deudor
+ acogido al Sistema Concursal, mediante el acceso a la website del INDECOPI (e-value).
+
+
+Las Intendencias generadoras del adeudo asumen responsabilidad directa en
+ la actualización oportuna de los procesos de la deuda concursal en el SIGAD.
+
+
+VIII.  FLUJOGRAMA
+
+
+Ver documento
+
+
+IX. INFRACCIONES, SANCIONES Y DELITOS
+
+
+No aplica
+
+
+X.  REGISTROS
+
+
+Estado de deudores tributarios acogidos al Sistema Concursal
+
+
+Estado de empresas acogidas a la Ley de Promoción de la lnversión Privada
+
+
+Estado de Créditos Tributarios Reconocidos.
+
+
+Estado de deudores tributarios con incumplimiento de pago según Cronograma
+ de Pagos aprobado.
+
+
+XI.  DEFINICIONES
+
+
+AUTORIDAD CONCURSAL
+: Comprende a las Comisiones de Procedimientos
+ Concursales de las Oficinas Delegada del INDECOPI el deudor registra acogimiento a este
+ proceso.
+
+
+CAPITAL
+.- Conformado por los tributos y/o multa liquidados en el
+ documento de cobranza.
+
+
+COMPETENCIA TERRITORIAL
+.- Atendiendo al domicilio o la ubicación de
+ la sede principal del emplazado o del solicitante, la competencia territorial está vinculado
+ al lugar de acogimiento del deudor concursal y según lo establecido en el artículo 6° de la
+ Ley General del Sistema Concursal.
+
+
+CRÉDITO EXIGIBLE
+.- Para el presente procedimiento crédito exigible
+ es aquel adeudo vencido pasible de ser cobrado coactivamente.
+
+
+CRÉDITO NO EXIGIBLE, INEXIGIBLE (CONTINGENTE)
+.- Aquel adeudo que se
+ encuentra en los estados pendientes de reclamo (impugnación), apelación, demanda contenciosa
+ administrativa, fraccionamiento, notificada o liquidada.
+
+
+CSCTFE
+ – Comisión Supervisora de los Créditos Tributarios y
+ Financieros del Estado, incluye los Representantes de Créditos Tributarios del MEF.
+
+
+DEUDA CONCURSAL
+.- Deuda acogida al Sistema Concursal, cuyo acto o
+ infracción haya sido cometido hasta la fecha de suspensión de exigibilidad del adeudo.
+
+
+DEUDA CORRIENTE
+.- Deuda cuyo acto o infracción es posterior a la
+ fecha de suspensión de exigibilidad del adeudo. Continúa su cobranza administrativa o
+ coactiva dentro de los plazos legales vigentes.
+
+
+DEUDOR TRIBUTARIO (DEUDOR CONCURSAL)
+.- Entiéndase en el presente
+ como deudor tributario a aquella persona natural o jurídica que se acoge al Sistema Concursal
+ o promoción de la inversión privada.
+
+
+INDECOPI
+ . - Instituto Nacional de la Defensa de la Competencia y la
+ Protección de la Propiedad Intelectual
+
+
+PROINVERSIÓN
+ .- Agencia de Promoción de la Inversión Privada
+
+
+SISTEMA CONCURSAL
+ .- Cuando en el presente procedimiento se hace
+ mención al Sistema Concursal, debe entenderse al mismo haciendo referencia al Procedimiento
+ Concursal Ordinario y Procedimiento Concursal Preventivo.
+
+
+WEBSITE
+: Página web del INDECOPI
+www.indecopi.gob.pe
+
+
+ANEXOS
+
+
+Modelo
+ de Resolución de Intendencia
+ (VII. F. 3).
+
+
+Hoja
+ Resumen de Adeudos Exigibles y No Garantizados
+
+
+Adeudos No Exigibles
+ - Contingente

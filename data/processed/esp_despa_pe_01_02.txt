@@ -1,0 +1,669 @@
+Procedimientos - IMPORTACION DEFINITIVA
+
+
+
+IMPORTACION PARA EL CONSUMO
+
+
+PROCEDIMIENTO ESPECIFICO: DONACIONES PROVENIENTES DEL
+EXTERIOR
+
+
+Proc:
+
+
+ DESPA-PE.01.02
+
+
+Donaciones
+					  Provenientes del Exterior
+
+
+Versión:
+
+ 3
+
+
+Publicación:
+
+ 28/07/2017
+
+
+Resolución:
+
+ 18-2017
+
+
+Fecha Res.:
+25/07/2017
+
+
+Vigencia:
+
+ 29/07/2017
+
+
+
+Lista:
+
+
+ Maestra
+
+
+Circulares
+ Anexas
+
+
+Control de Cambios
+
+
+
+
+I. OBJETIVO
+Establecer las pautas a
+				  seguir para el despacho de mercancías donadas provenientes del
+				  exterior, con la finalidad de lograr el debido cumplimiento de
+				  las normas que lo regulan.
+II. ALCANCE
+Todas
+				  las dependencias de la SUNAT, operadores del comercio
+				  exterior, entidades y dependencias públicas y privadas,
+				  entidades religiosas, entidades receptoras de donaciones y
+				  demás personas que intervienen en el despacho de mercancías
+				  donadas provenientes del exterior.
+III. RESPONSABILIDAD
+
+
+
+La aplicación, cumplimiento y seguimiento de lo
+				  establecido en el presente procedimiento es de responsabilidad
+				  de los intendentes de aduana de la República, del Intendente
+				  de Gestión y Control Aduanero, del Intendente Nacional de
+				  Sistemas de Información y del Intendente Nacional de
+				  Desarrollo Estratégico Aduanero.
+IV. DEFINICIONES
+
+
+Para los fines del presente procedimiento, se entiende
+				  por:
+Autorización:
+ Permiso, licencia, registro,
+				  certificado, u otro documento similar expedido por el sector
+				  competente para el ingreso al país de mercancía restringida.
+
+
+Donante
+: Gobierno extranjero, organización u organismo
+				  internacional, persona, entidad o dependencia pública o
+				  privada establecida en el exterior, así como la persona
+				  natural o jurídica establecida en el país que efectúa una
+				  donación a favor de un donatario.
+Donatario:
+ Persona
+				  que recibe una donación de mercancía proveniente del exterior;
+				  son donatarios:
+1. Entidades y dependencias del sector
+				  público, excepto empresas, correspondientes a los niveles de
+				  Gobierno Nacional, Regional y Local, Poder Judicial, Poder
+				  Legislativo, organismos constitucionalmente autónomos,
+				  instituciones públicas descentralizadas y demás entidades que
+				  cuentan con una asignación presupuestaria en la ley anual de
+				  presupuesto.
+2. Entidades e Instituciones Extranjeras de
+				  Cooperación Técnica Internacional - ENIEX, las Organizaciones
+				  No Gubernamentales de Desarrollo Nacionales - ONGD-PERU, y las
+				  Instituciones Privadas sin fines de lucro receptoras de
+				  donaciones de carácter asistencial o educacional - IPREDA,
+				  inscritas en el registro correspondiente que tiene a su cargo
+				  la Agencia Peruana de Cooperación Internacional - APCI
+				  adscrita al Ministerio de Relaciones Exteriores y que se
+				  encuentren calificadas previamente por la SUNAT como entidades
+				  perceptoras de donaciones.
+3. Entidades religiosas y
+				  fundaciones conforme a su normativa específica.
+
+
+Mercancía restringida
+: Mercancía que para su ingreso al país
+				  requiere de una autorización.
+Misión profesional
+				  humanitaria
+: Conjunto de profesionales, técnicos y personal de
+				  apoyo que arriba al país para llevar a cabo actividades
+				  humanitarias y sanitarias de carácter asistencial.
+
+
+Sector competente:
+ Entidad o dependencia del sector que
+				  autoriza o deniega el ingreso al país de la mercancía
+				  restringida.
+Sector correspondiente
+: Entidad o
+				  dependencia del sector público, excepto empresas, que acepta o
+				  deniega el ingreso de la mercancía donada proveniente del
+				  exterior.
+V. BASE LEGAL
+- Ley de Facilitación
+				  del Despacho de Mercancías Donadas provenientes del exterior,
+				  Ley N.º 28905, publicada el 24.11.2006, en adelante la Ley.
+
+				  - Ley que establece Disposiciones para el Despacho de
+				  Mercancías en casos de Estado de Emergencia por Desastre
+				  Natural y modifica la Ley General de Aduanas, Ley N.º 29077,
+				  publicada el 23.8.2007.
+- Ley General de Aduanas, Decreto
+				  Legislativo N.º 1053, publicada el 27.6.2008 y modificatorias.
+
+				  - Texto Único Ordenado de la Ley del Impuesto General a las
+				  Ventas e Impuesto Selectivo al Consumo, Decreto Supremo N.º
+				  055-99-EF, publicado el 15.4.1999 y modificatorias.
+- Norma
+				  que aprueba el Acuerdo entre la Santa Sede y la República del
+				  Perú, Decreto Ley N.º 23211, publicado el 25.7.1980.
+- Ley
+				  de Libertad Religiosa, Ley N.º 29635, publicada el 21.12.2010.
+
+				  - Reglamento de la Ley General de Aduanas, Decreto Supremo N.º
+				  010-2009-EF, publicado el 16.1.2009 y modificatorias.
+-
+				  Reglamento de la Ley N.° 28905, Decreto Supremo N.º
+				  021-2008-EF, publicado el 8.2.2008, en adelante el Reglamento.
+
+				  - Reglamento para la Inafectación del IGV, ISC y Derechos
+				  Arancelarios a las donaciones, Decreto Supremo N.º
+				  096-2007-EF, publicado el 12.7.2007 y modificatoria.
+-
+				  Dictan disposiciones para agilizar el despacho aduanero de
+				  mercancías en caso de estado de emergencia por desastre
+				  natural, Decreto Supremo N.º 060-2017-EF, publicado el
+				  23.3.2017.
+- Reglamento de la Ley N.° 29635, Ley de
+				  Libertad Religiosa, Decreto Supremo N.º 006-2016-JUS,
+				  publicado el 19.7.2016.
+- Resolución de Contraloría N.º
+				  122-98-CG, Directiva sobre información a ser recibida por la
+				  Contraloría con relación a donaciones provenientes del
+				  exterior, publicado el 8.10.1998.
+VI. NORMAS GENERALES
+
+
+1. No están comprendidos en el presente procedimiento los
+				  despachos aduaneros amparados en:
+a) Los tratados o
+				  convenios de cooperación técnica internacional.
+b) La Ley
+				  N.º 29081, para la ayuda humanitaria como consecuencia de la
+				  declaración de un estado de emergencia por desastre natural.
+
+				  c) La Ley N.º 30479, para el mecenazgo deportivo.
+2.
+				  Los procesos de registro, recepción, revisión documentaria,
+				  reconocimiento físico y solicitud de rectificación electrónica
+				  de la declaración se rigen por lo establecido en los
+				  procedimientos aduaneros correspondientes.
+3. Para el
+				  ingreso de donaciones para fines asistenciales que lleguen al
+				  país junto con el equipaje acompañado de los miembros de una
+				  misión profesional humanitaria, se presenta la documentación
+				  señalada en los incisos a), b), d) y e) del artículo 14 del
+				  Reglamento. Cuando no se cuenta con los documentos señalados
+				  en los incisos b) y d) se formula el Comprobante de Custodia.
+
+
+VII. DESCRIPCIÓN
+A. TRÁMITE DEL DESPACHO
+1.
+				  El despacho aduanero de las donaciones se realiza ante la
+				  intendencia de aduana de ingreso con una declaración aduanera
+				  de mercancías (DAM):
+a) Declaración simplificada de
+				  importación (DSI), independientemente del valor de la
+				  mercancía, conforme al procedimiento específico “Despacho
+				  Simplificado de Importación”, DESPA-PE.01.01; o
+b)
+				  Declaración única de aduanas (DUA) de acuerdo al procedimiento
+				  general “Importación para el Consumo”, DESPA-PG.01 o
+				  DESPA-PG.01-A.
+2. Para el despacho se requiere los
+				  siguientes documentos:
+a) Carta o certificado de
+				  donación dirigida al donatario, suscrita por el titular o
+				  representante legal del donante, en la que consta la voluntad
+				  de efectuar la donación y su destino, especificando además:
+
+
+- identificación del donante,
+- lugar de origen o
+				  procedencia de la donación,
+- descripción y características
+				  de la mercancía,
+- cantidad y valor estimado de la
+				  mercancía,
+- finalidad de la donación,
+- estado de la
+				  mercancía, y
+- otra información que considere relevante,
+				  tal como la identificación del beneficiario final (ejemplo:
+				  comunidad, asociación, organización, comedor popular, junta,
+				  programa o proyecto registrado en la APCI, etc.) y su
+				  ubicación geográfica, según corresponda.
+La carta o el
+				  certificado de donación en idioma distinto al castellano es
+				  acompañado de una traducción simple con carácter de
+				  declaración jurada.
+b) Documento de aceptación de la
+				  donación emitido por el sector correspondiente, solo cuando se
+				  trata de entidades y dependencias del sector público, excepto
+				  empresas. Este documento se presenta dentro del plazo de
+				  treinta días hábiles computado desde el día siguiente del
+				  ingreso de la mercancía al país.
+Cuando el donatario no
+				  cuenta con este documento procede conforme a los numerales 4 y
+				  6 subsiguientes.
+c) La autorización, si se trata de
+				  mercancía restringida.
+Cuando el donatario no cuenta
+				  con este documento presenta una declaración jurada conforme al
+				  Anexo 1 y la copia simple de la constancia de recepción con la
+				  fecha de presentación de la solicitud de autorización; en caso
+				  de observaciones, el cargo de subsanación del citado
+				  documento.
+d) Solicitud de emisión de la liquidación de
+				  cobranza por los tributos no inafectos, en caso corresponda.
+
+
+e) Otros, exigidos para el régimen de importación para el
+				  consumo.
+En el caso de una fundación se presenta los
+				  documentos señalados en los incisos a), c), d) y e), y copia
+				  simple del estatuto inscrito en la Superintendencia Nacional
+				  de los Registros Públicos que indique alguno de los siguientes
+				  fines: educación, cultura, ciencia, beneficencia, asistencia
+				  social y hospitalaria.
+En el caso de una entidad
+				  religiosa católica se presenta los documentos señalados en los
+				  incisos a), c) y e).
+En el caso de una entidad
+				  religiosa distinta a la católica se presenta los documentos
+				  señalados en los incisos a), c) y e), y copia de la resolución
+				  de su inscripción en el registro de entidades religiosas del
+				  Ministerio de Justicia y Derechos Humanos.
+3. Cuando se
+				  numera una DUA y se cuenta con toda la documentación, el
+				  agente de aduana o el despachador oficial transmite:
+-
+				  en el campo tipo de tratamiento el código 4 (donación),
+-
+				  en el campo de documentos asociados o de soporte el número y
+				  fecha de la resolución de inscripción en el registro de
+				  entidades perceptoras de donaciones o de la resolución de
+				  inscripción en el registro de entidades exoneradas del
+				  impuesto a la renta de la SUNAT o del documento de aceptación
+				  de la donación, según corresponda,
+- en cada serie el
+				  código liberatorio aplicable, conforme al Anexo 2, y
+- en
+				  el casillero 7.37 información complementaria: identificación
+				  del donante (nombre, dirección y correo electrónico, etc.).
+
+
+4. Cuando se numera una DUA y no se cuenta con toda la
+				  documentación, el agente de aduana o el despachador oficial
+				  transmite en el campo tipo de tratamiento el código 4
+				  (donación).
+En las intendencias de aduana vía marítima,
+				  se transmite en el campo del tipo indicador el código 07
+				  (impugnación total donación) y en las demás intendencias de
+				  aduana, en el campo impugnación de donaciones el código 2
+				  (impugnación total donación). El código liberatorio se
+				  consigna en la regularización de la donación.
+Efectuada la
+				  transmisión, el sistema registra la DUA con el tipo de
+				  cancelación: impugnada sin garantía - donación.
+El
+				  agente de aduana o el despachador oficial presenta un
+				  expediente y adjunta los documentos que correspondan señalados
+				  en el numeral 2 del literal A.
+5. Cuando el donatario,
+				  agente de aduana o el despachador oficial numera una DSI y
+				  cuenta con toda la documentación, consigna o transmite:
+
+
+- en la casilla 1 “tipo de operación” el código 11
+				  (donación),
+- en la casilla 6.1 “Descripción de la
+				  Mercancía” el número y la fecha de la resolución de
+				  inscripción en el registro de entidades perceptoras de
+				  donaciones, de la resolución de inscripción en el registro de
+				  entidades exoneradas del impuesto a la renta de la SUNAT o del
+				  documento de aceptación de la donación, según corresponda, y
+
+				  - en la casilla 6.7 de cada serie el código liberatorio según
+				  el Anexo 2.
+6. Cuando se numera una DSI y no se cuenta
+				  con toda la documentación, el agente de aduana o el
+				  despachador oficial transmite el código 11 (donación) en la
+				  casilla 1 (tipo de operación) y el código 2 (impugnación total
+				  donación) en el campo impugnación de donaciones. El código
+				  liberatorio se consigna en la regularización de la donación.
+
+
+Efectuada la transmisión se presenta un expediente y se
+				  adjunta los documentos que correspondan señalados en el
+				  numeral 2 del literal A.
+Si el donatario presenta la
+				  DSI sin la intervención de un agente de aduana o un
+				  despachador oficial y no cuenta con toda la documentación,
+				  presenta un expediente y adjunta los documentos que
+				  correspondan señalados en el numeral 2 del literal A. La
+				  autoridad aduanera evalúa la documentación y registra, en el
+				  Módulo de Despacho Simplificado de Importación, el código 11
+				  (donación) en la casilla 1 de la DSI (tipo de operación) y el
+				  código 2 (impugnación total donación) en el campo impugnación
+				  de donaciones. El código liberatorio se consigna en la
+				  regularización de la donación.
+Efectuada la transmisión
+				  o registro del código 2, el sistema registra la DSI con el
+				  tipo de cancelación: impugnada sin garantía donación.
+
+				  7. Cuando la fundación numera una DUA, el agente de aduana o
+				  el despachador oficial transmite el código 4 (donación) en el
+				  campo tipo de tratamiento, adjunta los documentos señalados en
+				  el numeral 2 del literal A y consigna en cada serie el código
+				  liberatorio que corresponda.
+Si no se cuenta con toda
+				  la documentación, en las intendencias de aduana vía marítima,
+				  el agente de aduana o el despachador oficial transmite el
+				  código 4 (donación) en el campo tipo de tratamiento y el
+				  código 06 (impugnación parcial donación) en el campo del tipo
+				  indicador; y presenta un expediente solicitando la emisión de
+				  la liquidación de cobranza por los tributos no inafectos
+				  (tributos no impugnados), y adjunta los documentos que
+				  correspondan señalados en el numeral 2 del literal A. El
+				  código liberatorio se consigna en la regularización de la
+				  donación.
+En las demás intendencias de aduana, el
+				  agente de aduana o el despachador oficial transmite el código
+				  4 (donación) en el campo tipo de tratamiento y el código 1
+				  (impugnación parcial donación) en el campo impugnación de
+				  donaciones, presenta un expediente con el cual solicita la
+				  emisión de la liquidación de cobranza por los tributos no
+				  inafectos (tributos no impugnados) y adjunta los documentos
+				  que correspondan señalados en el numeral 2 del literal A. El
+				  código liberatorio se consigna en la regularización de la
+				  donación.
+La autoridad aduanera evalúa la documentación
+				  y emite la liquidación de cobranza tipo 0006: tributos no
+				  impugnados.
+Cancelada la liquidación de cobranza, el
+				  sistema automáticamente registra en la DUA el tipo de
+				  cancelación: impugnada sin garantía donación.
+8. Cuando
+				  se trata de una fundación y opta por transmitir una DSI a
+				  través de un agente de aduana o el despachador oficial,
+				  consigna el código 11 (donación) en la casilla 1 (tipo de
+				  operación) y el código liberatorio por cada serie y adjunta
+				  los documentos que correspondan señalados en el numeral 2 del
+				  literal A.
+Si no se cuenta con toda la documentación,
+				  el agente de aduana o el despachador oficial numera la DSI,
+				  consigna el código 11 (donación) en la casilla 1 (tipo de
+				  operación) y el código 1 (impugnación parcial donación) en el
+				  campo impugnación de donaciones; y con expediente, solicita la
+				  emisión de la liquidación de cobranza por los tributos no
+				  inafectos (tributos no impugnados) y adjunta los documentos
+				  que correspondan señalados en el numeral 2 del literal A. El
+				  código liberatorio se consigna en la regularización de la
+				  donación.
+La autoridad aduanera evalúa la documentación
+				  y emite la liquidación de cobranza tipo 006 - tributos no
+				  impugnados.
+Cancelada la liquidación de cobranza, el
+				  sistema registra en la DSI el tipo de cancelación: impugnada
+				  sin garantía donación.
+Si la fundación presenta la DSI
+				  sin la intervención de un agente de aduana o un despachador
+				  oficial y no cuenta con toda la documentación, presenta un
+				  expediente y adjunta los documentos que correspondan señalados
+				  en el numeral 2 del literal A. El código liberatorio se
+				  consigna en la regularización de la donación.
+La
+				  autoridad aduanera evalúa la documentación y emite la
+				  liquidación de cobranza tipo 006 – tributos no impugnados por
+				  los tributos no inafectos y registra en el Módulo de Despacho
+				  Simplificado de Importación el código 11 (donación) en la
+				  casilla 1 de la DSI (tipo de operación) y el código 1
+				  (impugnación parcial donación) en el campo impugnación de
+				  donaciones.
+Cancelada la liquidación de cobranza, el
+				  sistema registra en la DSI el tipo de cancelación: impugnada
+				  sin garantía donación.
+9. Cuando el donatario es una
+				  ENIEX, ONGD-PERU o IPREDA el funcionario aduanero verifica que
+				  figura en el registro de entidades perceptoras de donaciones
+				  de la SUNAT y revisa la vigencia de la inscripción en el
+				  portal de la APCI (www.apci.gob.pe); si se trata de una
+				  entidad religiosa o fundación verifica que figure en el
+				  registro de entidades exoneradas del impuesto a la renta de la
+				  SUNAT.
+B. MERCANCÍA RESTRINGIDA
+1. El donatario,
+				  previa a la numeración de la DAM, presenta una solicitud al
+				  sector competente para que autorice el ingreso de la
+				  mercancía.
+El sector competente autoriza o deniega el
+				  ingreso de la mercancía en un plazo de siete días hábiles
+				  computado desde la fecha de presentación de la solicitud, y
+				  remite la resolución por vía electrónica a la intendencia de
+				  aduana donde se tramitó el despacho dentro de las veinticuatro
+				  horas de expedida.
+Transcurridos treinta días
+				  calendario desde la fecha de presentación de la solicitud sin
+				  que haya pronunciamiento, se considera otorgada la
+				  autorización, sin perjuicio de la responsabilidad y acciones
+				  administrativas, civiles, penales o las que hubiera lugar.
+
+
+2. Cuando se numera una DAM dentro del plazo de siete días
+				  para expedir la autorización, el funcionario aduanero verifica
+				  que esté consignado el código de impugnación y la constancia
+				  de recepción de la solicitud de autorización.
+El
+				  levante de la mercancía se otorga recibida la autorización o
+				  vencido el plazo antes señalado, lo que la autoridad aduanera
+				  comunica al funcionario que figura en el portal del sector
+				  competente dentro de las veinticuatro horas, mediante correo
+				  electrónico corporativo, e informa el nombre del donatario, su
+				  domicilio, número de expediente de ingreso de la solicitud,
+				  documento de transporte y número de la DAM.
+3. Si las
+				  mercancías donadas arriban como equipaje de un miembro de una
+				  misión profesional humanitaria, la autorización es expedida
+				  por el sector competente y entregada al solicitante en un
+				  plazo no mayor de tres días hábiles, computados desde la fecha
+				  de presentada la solicitud.
+Transcurridos siete días
+				  calendario de la presentación de la solicitud sin que el
+				  sector competente emita la autorización, se considera otorgada
+				  la autorización, sin perjuicio de la responsabilidad y
+				  acciones administrativas, civiles, penales o las que hubiera
+				  lugar.
+C. REGULARIZACIÓN DEL DESPACHO
+1. Cuando
+				  el donatario, el agente de aduana o el despachador oficial
+				  numera una DAM y no cuenta con toda la documentación, presenta
+				  dentro del plazo de treinta días hábiles computado desde el
+				  día siguiente del levante de la mercancía, los documentos
+				  faltantes a la intendencia de aduana con el código liberatorio
+				  al que se acoge conforme al Anexo 2.
+2. De ser conforme
+				  la documentación, el funcionario aduanero regulariza la DUA o
+				  DSI, para lo cual:
+a) registra en el sistema el código
+				  liberatorio aplicable en cada serie, conforme al Anexo 2.
+
+				  b) registra en el campo respectivo el número y fecha del
+				  documento de aceptación del sector correspondiente, los
+				  códigos de los documentos de autorización, según corresponda,
+				  y
+c) reliquida el monto de los tributos en la DAM. Si
+				  existe deuda pendiente de pago se comunica al declarante para
+				  su cancelación.
+3. Si no está conforme la
+				  documentación, el funcionario aduanero notifica al donatario
+				  para que en el plazo de diez días hábiles computado desde el
+				  día siguiente de notificado subsane las deficiencias. Vencido
+				  este plazo, sin subsanar las observaciones y de existir deuda
+				  pendiente de pago, se emite la resolución de determinación
+				  correspondiente.
+4. Transcurrido el plazo de treinta
+				  días hábiles, computado desde la fecha del levante de la
+				  mercancía, sin que la intendencia de aduana reciba
+				  comunicación escrita o electrónica del sector correspondiente
+				  sobre la aceptación o denegación de la donación, se regulariza
+				  el despacho.
+5. De no presentarse autorización para el
+				  ingreso de mercancía restringida, la autoridad aduanera
+				  notifica al donatario para que en un plazo de cinco días
+				  hábiles computados a partir del día siguiente de recibida la
+				  notificación, informe si el sector competente no ha denegado
+				  su solicitud. La autoridad aduanera, regulariza la DAM, y da
+				  cuenta al sector competente de este hecho para las acciones
+				  pertinentes.
+6. La intendencia de aduana dentro de los
+				  diez días calendario posteriores a cada trimestre comunica a
+				  la Contraloría General de la República, conforme a su
+				  normativa, la información relativa a las donaciones cuyos
+				  donatarios no han cumplido con presentar la documentación
+				  dentro del plazo.
+La Intendencia de Gestión y Control
+				  Aduanero remite bimestralmente a la APCI la siguiente
+				  información sobre la importación de donaciones efectuadas por
+				  las ENIEX, ONGD-PERÚ e IPREDA:
+a) Número de la DAM.
+
+				  b) RUC.
+c) Razón social.
+d) Carta o certificado de
+				  donación.
+7. En caso corresponda el pago de tributos
+				  diferenciales, se aplica las normas del Acuerdo sobre
+				  Valoración en Aduanas de la Organización Mundial de Comercio -
+				  OMC. Si se detecta indicios de delito, se aplican las reglas
+				  de valoración contempladas en el Reglamento de la Ley de
+				  Delitos Aduaneros.
+D. DONACIONES EN CASO DE ESTADO DE
+				  EMERGENCIA POR DESASTRE NATURAL
+1. Las entidades y
+				  dependencias del sector público, excepto empresas; y las
+				  ENIEX, ONGD-PERÚ e IPREDA inscritas en la APCI y calificadas
+				  por la SUNAT como entidades perceptoras de donaciones pueden
+				  solicitar el ingreso de donaciones para las zonas afectadas
+				  por desastres naturales declaradas en estado de emergencia.
+
+
+2. Pueden ingresar como donaciones, para las zonas
+				  afectadas por desastres naturales declaradas en estado de
+				  emergencia, las siguientes mercancías: material médico,
+				  medicamentos, vacunas, equipos médicos o afines, alimentos,
+				  prendas de vestir, textiles para abrigo, calzado, colchones,
+				  menaje de casa y cocina, útiles de aseo y limpieza, artículos
+				  y materiales de construcción, materiales y artículos de
+				  plástico, carpas, toldos, bolsas de dormir y herramientas, u
+				  otras necesarias para las zonas afectadas.
+3. Para el
+				  despacho de estas donaciones se transmite o presenta una DUA o
+				  DSI, independientemente de su valor, y se consigna en cada
+				  serie la subpartida nacional 9805.00.00.00 y el código 4458
+				  conforme al Anexo 2.
+4. Para numerar una DUA o DSI no
+				  es obligatorio la presentación de la carta de donación,
+				  autorizaciones ni documentos de aceptación de la donación de
+				  las entidades y dependencias del sector público, excepto
+				  empresas, los que se presentan en vía de regularización, en el
+				  plazo de noventa días hábiles de culminada la declaratoria de
+				  estado de emergencia.
+5. Si en la regularización no se
+				  cuenta con la autorización o el documento de aceptación de la
+				  donación, se presenta copia de las solicitudes respectivas
+				  ante el sector competente o el sector correspondiente.
+
+				  6. El sector competente expide en vía de regularización la
+				  autorización en el plazo de quince días hábiles computado a
+				  partir de la fecha de ingreso de la mercancía.
+7.
+				  Cuando la mercancía señalada en el numeral 2 precedente arriba
+				  como equipaje acompañado del viajero, se presenta, además de
+				  la declaración jurada de equipaje, una declaración jurada con
+				  la relación de las donaciones. El donatario numera la DAM
+				  dentro del plazo de sesenta días hábiles, computado a partir
+				  de la fecha de ingreso de las mercancías.
+VIII.
+				  FLUJOGRAMA
+
+No aplica.
+IX. INFRACCIONES,
+				  SANCIONES Y DELITOS
+Conforme a la Ley General de
+				  Aduanas, su Reglamento, la Tabla de Sanciones, la Ley de los
+				  Delitos Aduaneros, su Reglamento y otras normas aplicables.
+
+
+X. REGISTROS
+
+- Relación de declaraciones con
+				  código liberatorio:
+Código : RC-01-DESPA-PE.01.02
+Tipo
+				  de almacenamiento : electrónico
+Tiempo de conservación :
+				  permanente
+Ubicación : SIGAD
+Responsable : Intendencia
+				  de aduana.
+- Relación de declaraciones regularizadas
+				  con silencio administrativo positivo:
+Código :
+				  RC-02-DESPA-PE.01.02
+Tipo de almacenamiento : electrónico
+
+				  Tiempo de conservación : permanente
+Ubicación : SIGAD
+
+				  Responsable : Intendencia de aduana.
+- Relación de
+				  declaraciones regularizadas sin silencio administrativo
+				  positivo:
+Código : RC-03-DESPA-PE.01.02
+Tipo de
+				  almacenamiento : electrónico
+Tiempo de conservación :
+				  permanente
+Ubicación : SIGAD
+Responsable : Intendencia
+				  de aduana.
+- Relación de declaraciones donadas
+				  pendientes de regularización:
+Código : RC-04-DESPA-PE.01.02
+
+				  Tipo de almacenamiento : electrónico
+Tiempo de conservación
+				  : permanente
+Ubicación : SIGAD
+Responsable : Intendencia
+				  de aduana.
+XI. VIGENCIA
+A partir del día
+				  siguiente de su publicación.
+XII. ANEXOS
+
+				  Publicados en el portal web de la SUNAT (www.sunat.gob.pe)
+
+
+Anexo 1:
+
+Declaración jurada en caso de mercancía
+				  restringida que no cuenta con autorización.
+Anexo 2:
+
+Códigos liberatorios

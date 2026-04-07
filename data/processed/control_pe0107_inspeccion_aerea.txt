@@ -1,0 +1,681 @@
+Procedimientos de Prevención del Contrabando y Control Fronterizo - LEGISLACION
+
+
+FISCALIZACIÓN Y PREVENCIÓN DEL CONTRABANDO Y CONTROL FRONTERIZO
+PROCEDIMIENTO ESPECIFICO:
+
+ CONTROL-PE.01.07 : INSPECCIÓN NO INTRUSIVA EN LA INTENDENCIA DE ADUANA AÉREA Y
+POSTAL
+
+
+ <-- Retroceder
+
+
+
+
+
+Proc:
+
+
+
+CONTROL-PE.01.07
+
+
+INSPECCIÓN NO INTRUSIVA EN LA
+						INTENDENCIA DE ADUANA AÉRA Y POSTAL
+
+
+Versión:
+
+ 1
+
+
+Publicación:
+
+ 26/08/2017
+
+
+Resolución:
+
+					  00200/2014
+
+
+Fecha Res.:
+  22/08/2017
+
+
+Vigencia:
+
+ 18/09/2017
+
+
+
+Lista:
+ Maestra
+
+
+Circulares Anexas
+
+
+Control de
+ Cambios
+
+
+
+
+
+I.   OBJETIVO
+
+		  Establecer las pautas a seguir para la inspección no intrusiva de
+		  mercancías que ingresan o salen del país a través del Aeropuerto
+		  Internacional Jorge Chávez.
+
+
+I
+I
+.
+
+
+
+
+ALCANCE
+
+		  Está dirigido a la Intendencia Nacional de Desarrollo e Innovación
+		  Aduanera - INDIA, Intendencia Nacional de Sistemas de Información -
+		  INSI, Intendencia Nacional de Control Aduanero - INCA, Intendencia de
+		  Aduana Aérea y Postal - IAAP, al administrador o concesionario del
+		  Aeropuerto Internacional Jorge Chávez y a los operadores de comercio
+		  exterior que intervienen en el presente procedimiento.
+
+
+I
+II
+.
+
+
+
+
+RESPONSABILIDAD
+
+
+  La aplicación, cumplimiento y seguimiento de lo establecido en
+		  el presente procedimiento es de responsabilidad del Intendente
+		  Nacional de Desarrollo e Innovación Aduanera, Intendente Nacional de
+		  Control Aduanero, Intendente Nacional de Sistemas de Información,
+		  Intendente de la Aduana Aérea y Postal, las jefaturas y el personal de
+		  las distintas unidades organizacionales que participan el presente
+		  procedimiento.
+
+
+I
+V
+.
+
+
+
+
+DEFINICIONES
+
+		  Y ABREVIATURAS
+
+
+Para efectos del presente
+		  procedimiento se entiende por:
+
+
+-
+AIJCH.-
+ Aeropuerto
+		  Internacional Jorge Chávez.
+
+
+-
+Complejo.-
+ Recinto
+		  considerado como zona primaria ubicado dentro de la circunscripción de
+		  la IAAP, habilitado para efectuar la inspección no intrusiva o la
+		  inspección física de las mercancías.
+
+
+-
+Inspección no intrusiva.-
+
+		  Acción de control extraordinario realizada por la autoridad aduanera
+		  mediante la utilización de sistemas tecnológicos que permiten
+		  visualizar y analizar las mercancías a través de imágenes.
+
+
+-
+SIGEDA.-
+ Sistema de
+		  Gestión de Delitos e Infracciones Aduaneras y Tráfico Ilícito de
+		  Mercancías.
+
+
+-
+SISCA.-
+ Sistema
+		  Integrado de Control de Carga.
+
+
+-
+ULD (Unit Load Device).-
+
+		  Contenedor o pallet usado para transportar diferentes tipos de carga
+		  por la vía aérea.
+
+
+-
+Unidad de Control.-
+
+		  Unidad orgánica de la IAAP responsable del monitoreo y control
+		  electrónico de la mercancía que es programada para ser sometida a
+		  inspección no intrusiva en el Complejo.
+
+
+-
+Unidad de Programación.-
+
+		  Unidad orgánica de la INCA o de la IAAP encargada de la programación
+		  de las acciones de control aduanero.
+
+
+
+
+
+V
+.
+
+
+
+
+BASE LEGAL
+
+
+ - Ley
+		  General de Aduanas, Decreto Legislativo N.° 1053, publicada el
+		  27.6.2008 y modificatorias.
+
+
+- Reglamento de la Ley General de
+		  Aduanas, aprobado por el Decreto Supremo N.° 010-2009-EF, publicado el
+		  16.1.2009 y modificatorias.
+
+
+- Tabla de Sanciones aplicables a las
+		  infracciones previstas en la Ley General de Aduanas, aprobada por el
+		  Decreto Supremo N.° 031-2009-EF, publicada el 11.2.2009 y
+		  modificatorias.
+
+
+- Ley de los Delitos Aduaneros, Ley N.° 28008,
+		  publicada el 19.6.2003 y modificatorias.
+
+
+- Reglamento de la Ley de
+		  los Delitos Aduaneros, aprobado por el Decreto Supremo N.°
+		  121-2003-EF, publicado el 27.8.2003 y modificatorias.
+
+
+-
+		  Procedimiento general “Acciones de Control Aduanero”, CONTROL-PG.01
+		  (versión 2), aprobado con Resolución de de Intendencia Nacional Nº
+		  43-2016/SUNAT/5F0000, publicada el 23.11.2016.
+
+
+
+VI
+.
+
+
+
+DISPOSICIONES GENERALES
+
+
+1.
+		  Para el ejercicio del control aduanero, la Administración Aduanera
+		  emplea técnicas de gestión de riesgo y tiene en cuenta aspectos
+		  referidos al tráfico aéreo de mercancías y la capacidad operativa de
+		  la IAAP y de la INCA.
+
+
+2. La Administración Aduanera dispone la
+		  ejecución de la inspección no intrusiva de las mercancías, contenidas
+		  o no en un ULD, que ingresan o salen del país por el AIJCH. La
+		  inspección se realiza en el Complejo.
+
+
+3. La programación a
+		  inspección no intrusiva se realiza:
+
+
+a. En el ingreso al país, sobre
+		  mercancías con o sin destinación aduanera.
+b. En la salida del
+		  país, sobre mercancías destinadas con levante autorizado.
+
+
+La
+		  autoridad aduanera determina los ULD que deben ser sometidos a
+		  inspección no intrusiva por cada guía aérea o declaración programada.
+
+
+4. No se realiza la inspección no intrusiva cuando:
+
+
+a. Exista un
+		  corte de fluido eléctrico en el Complejo.
+b. El escáner se
+		  encuentre en mantenimiento o presente fallas técnicas.
+c. La
+		  naturaleza, tipo o características de la mercancía o del ULD, no lo
+		  permitan.
+d. Lo disponga la autoridad aduanera.
+
+
+En los casos
+		  antes mencionados el funcionario aduanero designado deja sin efecto la
+		  programación a inspección no intrusiva y registra el sustento
+		  correspondiente en el Portal del Funcionario Aduanero, opción
+		  “Inspección no Intrusiva Aérea” o en el SISCA, lo que se comunica al
+		  transportista y a los funcionarios aduaneros designados de la IAAP
+		  para la adopción de otras acciones de control, de corresponder.
+
+
+5.
+		  El transportista es el responsable de someter la mercancía a
+		  inspección no intrusiva en el Complejo:
+
+
+a. Al ingreso, antes de su
+		  retiro del AIJCH.
+b. A la salida, antes de su embarque.
+
+
+6. Para
+		  el envío de la comunicación prevista en el inciso a del numeral 2 del
+		  literal A.1 y en el inciso a del numeral 3 del literal B.1 de la
+		  Sección VII, el transportista debe señalar un correo electrónico,
+		  mediante expediente presentado a la IAAP:
+
+
+a. Dentro de los cinco
+		  días siguientes a la publicación de este procedimiento.
+b. Dentro
+		  de los cinco días siguientes de concedida la autorización para operar,
+		  tratándose de nuevos operadores de comercio exterior.
+c. Hasta un
+		  día antes de la modificación del correo electrónico señalado.
+
+
+7. El
+		  transportista debe consultar periódicamente su buzón electrónico SOL a
+		  efectos de tomar conocimiento de las comunicaciones de las acciones de
+		  control extraordinario previstas en este procedimiento.
+
+
+VII
+.
+
+
+
+
+DESCRIPCIÓN
+
+
+A. DE LA INSPECCIÓN NO INTRUSIVA EN EL INGRESO DE MERCANCÍAS
+		  AL PAÍS
+
+
+A.1 De la programación y comunicación
+
+
+1. El funcionario de la Unidad de Programación de la IAAP o el
+		  funcionario encargado del control en el AIJCH programa la mercancía
+		  que debe ser sometida a inspección no intrusiva. Esta programación se
+		  registra en el Portal del Funcionario Aduanero, opción “Inspección no
+		  Intrusiva Aérea”, antes de ejecutar la inspección.
+
+
+2. La
+		  Administración Aduanera deposita en el buzón electrónico SOL del
+		  transportista la comunicación de la acción de control extraordinario
+		  de inspección no intrusiva.
+Adicionalmente, el funcionario aduanero
+		  designado de la IAAP puede comunicar la inspección no intrusiva con
+		  un:
+
+
+a. Correo electrónico dirigido a la dirección señalada por el
+		  transportista según lo indicado en el numeral 6 de la sección VI.
+
+		  b. Aviso de Inspección No Intrusiva mediante el formato del Anexo I.
+
+
+A.2. Del traslado al Complejo y de la inspección no intrusiva
+
+
+1. El
+		  transportista traslada el ULD que contiene la mercancía sujeta a
+		  inspección no intrusiva al Complejo. En los casos que la mercancía
+		  haya arribado como carga suelta, el transportista acondiciona la
+		  mercancía en un ULD para su paso por el escáner.
+
+
+2. Al momento del
+		  ingreso del ULD al Complejo, el transportista entrega al funcionario
+		  aduanero designado la relación de todas las guías aéreas asociadas al
+		  ULD para su registro en el Portal del Funcionario Aduanero, opción
+		  “Inspección no Intrusiva Aérea”.
+
+
+3. El funcionario aduanero
+		  designado del Complejo dispone la ubicación del vehículo que traslada
+		  el ULD para su paso por el escáner y toma las imágenes.
+
+
+4. El
+		  funcionario aduanero designado evalúa las imágenes, y dispone el
+		  retiro de la mercancía del Complejo, para una de las siguientes
+		  acciones:
+
+
+a. Inspección física en el terminal de carga aéreo o
+		  depósito temporal.
+b. Continuación del trámite aduanero.
+
+
+5. El
+		  funcionario aduanero designado registra el resultado de la inspección
+		  no intrusiva en el Portal del Funcionario Aduanero, opción “Inspección
+		  no Intrusiva Aérea”, y emite la “Constancia de Inspección No
+		  Intrusiva” (Anexo II), que debe ser suscrita por los intervinientes.
+
+		  De disponerse la inspección física el sistema deposita en el buzón
+		  electrónico SOL del transportista y del depósito temporal la
+		  comunicación de la acción de control extraordinario de inspección
+		  física.
+Adicionalmente, el funcionario aduanero designado puede
+		  comunicar la inspección física mediante correo electrónico dirigido a
+		  la dirección señalada por el transportista según lo indicado en el
+		  numeral 6 de la sección VI.
+
+
+6. El transportista retira la mercancía
+		  del Complejo y la traslada al terminal de carga aéreo.
+
+
+A.3. De la
+		  inspección física
+
+
+1. El funcionario aduanero designado de la IAAP
+		  para la inspección física, coordina con el terminal de carga aéreo
+		  para su ejecución. Cuando la inspección física no pueda ser efectuada
+		  en el terminal de carga aéreo, el funcionario aduanero puede disponer
+		  su realización en el depósito temporal o depósito temporal para envíos
+		  de entrega rápida, según corresponda.
+
+
+2. La inspección física se
+		  realiza según lo dispuesto en el procedimiento específico “Inspección
+		  de Mercancías en Zona Primaria” CONTROL-PE.01.03 y demás normas
+		  aplicables.
+
+
+B. DE LA INSPECCIÓN NO INTRUSIVA EN LA SALIDA DE
+		  MERCANCÍAS DEL PAÍS
+
+
+B.1. De la programación y comunicación
+
+
+1. El
+		  funcionario designado de la Unidad de Programación de la INCA programa
+		  la inspección no intrusiva de las mercancías a través del SISCA.
+
+
+2.
+		  En las zonas de control de ingreso de las mercancías al AIJCH para su
+		  embarque, el funcionario aduanero de la IAAP consulta en el SISCA si
+		  la mercancía ha sido programada a inspección no intrusiva, en base a
+		  la relación de carga a embarcarse.
+
+
+3. De constatar que la mercancía ha
+		  sido programada activa la comunicación en el SISCA y el sistema
+		  deposita en el buzón electrónico SOL del transportista la comunicación
+		  de la acción de control extraordinario de inspección no intrusiva.
+
+		  Adicionalmente, el funcionario aduanero de la IAAP puede comunicar la
+		  inspección no intrusiva con un:
+
+
+a. Correo electrónico dirigido a la
+		  dirección señalada por el transportista según lo indicado en el
+		  numeral 6 de la sección VI.
+b. Aviso de Inspección No Intrusiva
+		  mediante el formato del Anexo I.
+
+
+B.2. Del traslado al Complejo y de
+		  la inspección no intrusiva
+
+
+1. El transportista traslada el ULD que
+		  contiene las mercancías sujetas a inspección no intrusiva al Complejo
+		  antes de su embarque.
+
+
+2. El funcionario aduanero designado del
+		  Complejo dispone la ubicación del vehículo que traslada el ULD para su
+		  paso por el escáner y toma las imágenes.
+
+
+3. El funcionario aduanero
+		  designado evalúa las imágenes y da cuenta de ello al Coordinador de
+		  Grupo del Complejo, quien, en base a dicha evaluación, dispone una de
+		  las siguientes acciones:
+
+
+a. Inspección física de la mercancía en el
+		  Complejo.
+b. Autorización del retiro de la mercancía del Complejo.
+
+
+4. El funcionario aduanero designado registra el resultado de la
+		  inspección en el SISCA y emite la “Constancia de Inspección No
+		  Intrusiva” (Anexo II), que debe ser suscrita por los intervinientes.
+
+		  De disponerse la inspección física el sistema deposita en el buzón
+		  electrónico SOL del transportista la comunicación de la acción de
+		  control extraordinario de inspección física.
+Adicionalmente, el
+		  funcionario aduanero designado puede comunicar la inspección física
+		  mediante correo electrónico dirigido a la dirección señalada por el
+		  transportista según lo indicado en el numeral 6 de la sección VI.
+
+
+B.3. De la inspección física
+
+
+1. La inspección física se realiza en
+		  el Complejo por funcionarios designados de la INCA. El transportista
+		  es responsable del despaletizado y paletizado del ULD.
+Tratándose
+		  de mercancías que requieran condiciones especiales de temperatura para
+		  su conservación, el funcionario aduanero responsable de la inspección
+		  física puede disponer, en coordinación con el transportista, la
+		  apertura del ULD en el Complejo, su retorno al depósito temporal para
+		  su inspección o la adopción de otras acciones de control.
+
+
+2. El
+		  transportista retira la mercancía del Complejo cuando la autoridad
+		  aduanera autorice su retiro en la “Constancia de Inspección No
+		  Intrusiva”.
+
+
+3. Si el funcionario designado de la INCA encuentra
+		  indicios que hagan presumir que las mercancías objeto de control están
+		  vinculadas al Tráfico Ilícito de Mercancías adopta las acciones
+		  correspondientes, según lo dispuesto en el procedimiento general
+		  “Acciones en caso de Tráfico Ilícito de Mercancías” CONTROL-PG.12.
+
+
+V
+III
+.
+
+
+
+
+FLUJOGRAMA
+
+
+		  -
+
+
+
+Flujogramas
+
+
+
+Inspeccion
+
+
+No
+
+
+
+Intrusiva
+
+
+en
+
+
+
+la
+
+
+
+IAAP
+
+
+		  Publicado en el portal web SUNAT (www.sunat.gob.pe)
+
+
+I
+X
+.
+
+
+
+
+INFRACCIONES,
+		  SANCIONES Y DELITOS
+
+
+
+Es aplicable lo dispuesto en la Ley General de
+		  Aduanas y su Reglamento, la Tabla de Sanciones, la Ley de los Delitos
+		  Aduaneros y su Reglamento, y otras normas aplicables.
+
+
+X
+.
+
+
+
+
+REGISTROS
+
+
+Archivo de imágenes
+
+
+- Código
+		  : RC-01-CONTROL-PE.01.07
+- Tipo de Almacenamiento  :
+		  Electrónico
+- Tiempo de Conservación : Cinco años
+
+		  - Ubicación
+		  : SIGAD-SINI/SISCA
+- Responsable
+		  : IAAP
+
+
+Guías-Pallets programados a Inspección no Intrusiva
+
+
+- Código                              : RC-02-CONTROL-PE.01.07
+
+		  - Tipo de Almacenamiento  :
+		  Electrónico
+- Tiempo de Conservación : Cinco años
+- Ubicación                         :
+		  SIGAD-SINI/SISCA
+- Responsable                    : IAAP, INCA
+
+
+Aviso de Inspección No Intrusiva
+
+
+- Código                              : RC-03-CONTROL-PE.01.07
+
+		  - Tipo de Almacenamiento  : Físico
+- Tiempo de Conservación : Cinco años
+
+		  - Ubicación                         : IAAP
+
+		  -
+		  Responsable                    : IAAP
+
+
+Constancia de Inspección No Intrusiva
+
+
+- Código                             : RC-04-CONTROL-PE.01.07
+
+		  - Tipo de Almacenamiento : Físico
+- Tiempo
+		  de Conservación: Cinco años
+- Ubicación                        : IAAP
+
+		  - Responsable                   : IAAP
+
+
+
+XI
+.
+
+
+
+
+VIGENCIA
+
+
+El presente procedimiento entra en vigencia el dieciocho de
+		  setiembre de 2017, a excepción de lo dispuesto en el literal a del
+		  numeral 6 de la sección VI, que entra en vigencia al día siguiente de
+		  su publicación.
+
+
+
+XII
+.
+
+
+
+
+ANEXOS
+
+		  -
+Anexo I: Aviso de Inspección No Intrusiva
+
+
+-
+
+Anexo II: Constancia de Inspección No
+		  Intrusiva.
