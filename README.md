@@ -8,7 +8,8 @@
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1.1.6-green)
 ![Llama](https://img.shields.io/badge/Llama-3.3_70B-orange)
-![Chunks](https://img.shields.io/badge/Chunks-3%2C861-purple)
+![Nodos](https://img.shields.io/badge/Nodos_LangGraph-7-purple)
+![Chunks](https://img.shields.io/badge/Chunks-3%2C861-teal)
 ![Costo](https://img.shields.io/badge/Costo_total-S/._0.00-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
@@ -26,34 +27,49 @@ El agente responde con cita exacta del artículo y documento fuente, orientando 
 
 ## 🏗️ Arquitectura
 
+El agente implementa un grafo LangGraph con **7 nodos** y **aristas condicionales** alineadas a los 5 macroprocesos del negocio aduanero peruano:
+
 ```
-Consulta usuario
-      │
-      ▼
-┌─────────────────────────────────────┐
-│  Nodo 1 — Clasificador de intención │  → 9 categorías: DELITO, FISCALIZACION,
-│          LangGraph                  │    DESPACHO, ARANCEL, PROHIBICION,
-└──────────────────┬──────────────────┘    SANCION, VIAJERO, RECAUDACION, GENERAL
-                   │
-                   ▼
-┌─────────────────────────────────────┐
-│  Nodo 2 — Recuperación especializada│  → BGE-M3 embeddings (k=10 candidatos)
-│  RAG + BGE-Reranker-v2-m3           │  → Reranker selecciona k=3 mejores
-│  11 herramientas · 9 colecciones    │  → Herramientas asignadas por intención
-└──────────────────┬──────────────────┘
-                   │
-                   ▼
-┌─────────────────────────────────────┐
-│  Nodo 3 — Síntesis                  │  → Llama 3.3 70B via Groq API
-│          Llama 3.3 70B              │  → Respuesta estructurada con artículos
-└──────────────────┬──────────────────┘
-                   │
-                   ▼
-┌─────────────────────────────────────┐
-│  Langfuse self-hosted               │  → Trazabilidad completa (Docker)
-│  Observabilidad                     │  → Dashboard: http://localhost:3000
-└─────────────────────────────────────┘
+Consulta del usuario
+         │
+         ▼
+┌─────────────────────┐
+│  Nodo 1             │
+│  CLASIFICADOR       │  → identifica el dominio aduanero
+└──────────┬──────────┘
+           │  aristas condicionales
+     ┌─────┴──────────────────────────────────┐
+     │         │          │         │         │
+     ▼         ▼          ▼         ▼         ▼
+  DELITOS   CONTROL   DESPACHO  RECAUDAC. ORIENTAC.
+  Nodo 2A   Nodo 2B   Nodo 2C   Nodo 2D   Nodo 2E
+     │         │          │         │         │
+     └─────────┴──────────┴─────────┴─────────┘
+                          │
+                          ▼
+              ┌───────────────────────┐
+              │  Nodo 3 — SÍNTESIS    │
+              │  Llama 3.3 70B        │
+              └───────────┬───────────┘
+                          │
+                          ▼
+              ┌───────────────────────┐
+              │  Langfuse             │
+              │  Trazabilidad         │
+              └───────────┬───────────┘
+                          │
+                         END
 ```
+
+### Los 5 dominios del negocio aduanero
+
+| Dominio | Nodo | Herramientas RAG activadas |
+|---|---|---|
+| **Delitos** | 2A | buscar_ley_28008 · buscar_sanciones_multas |
+| **Control** | 2B | buscar_procedimientos_fiscalizacion · buscar_ley_general_aduanas |
+| **Despacho** | 2C | buscar_procedimientos_despacho · buscar_arancel · buscar_mercancias_prohibidas |
+| **Recaudación** | 2D | buscar_procedimientos_recaudacion · buscar_sanciones_multas · buscar_ley_general_aduanas |
+| **Orientación** | 2E | buscar_equipaje_viajeros · buscar_normas_asociadas · buscar_normas_generales |
 
 ---
 
@@ -63,7 +79,7 @@ Consulta usuario
 |---|---|---|---|
 | LLM | Llama 3.3 70B via Groq API | — | Gratuito |
 | Framework agente | LangGraph + LangChain | 1.1.6 / 0.3.7 | Gratuito |
-| Clasificador intención | LangGraph StateGraph | 9 nodos | Gratuito |
+| Grafo | LangGraph StateGraph | 7 nodos, aristas condicionales | Gratuito |
 | Embeddings | BGE-M3 (BAAI) | — | Gratuito |
 | Reranker | BGE-Reranker-v2-m3 (BAAI) | — | Gratuito |
 | Vector store | ChromaDB | 0.5.20 | Gratuito |
@@ -191,14 +207,20 @@ Resultados guardados en `data/evaluacion_resultados.json`
 
 ## 💬 Ejemplos de consultas
 
-**Especialista de Aduanas:**
+**Especialista de Aduanas (dominio CONTROL):**
 > *"¿Cuál es el procedimiento para inmovilizar una mercancía durante una ACE?"*
 
-**Operador de Comercio Exterior:**
+**Operador de Comercio Exterior (dominio DESPACHO):**
 > *"¿Cuánto pago de arancel por importar laptops desde China?"*
 
-**Ciudadano:**
+**Ciudadano (dominio ORIENTACIÓN):**
 > *"¿Cuánto equipaje puedo traer del extranjero sin pagar impuestos?"*
+
+**Especialista SUNAT (dominio DELITOS):**
+> *"¿Cuáles son las modalidades del contrabando según la Ley 28008?"*
+
+**Operador OCE (dominio RECAUDACIÓN):**
+> *"¿Qué es el abandono legal y en qué plazo se produce?"*
 
 ---
 
@@ -214,12 +236,12 @@ aduana_gpt/
 ├── scripts/
 │   ├── descargar_todo.py          # Descarga 148 documentos SUNAT
 │   ├── extraer_texto.py           # Extracción de texto HTML/PDF
-│   ├── indexar_chromadb.py        # Indexación con BGE-M3 + chunking inteligente
+│   ├── indexar_chromadb.py        # Indexación BGE-M3 + chunking inteligente
 │   └── evaluar_agente.py          # Evaluación RAGAS + manual experto
 ├── src/
-│   ├── agent/agente.py            # Grafo LangGraph (3 nodos)
+│   ├── agent/agente.py            # Grafo LangGraph 7 nodos + aristas condicionales
 │   ├── prompts/system_prompt.py   # System prompt con ejemplo de respuesta
-│   └── tools/herramientas_rag.py  # 11 herramientas RAG con reranker
+│   └── tools/herramientas_rag.py  # 11 herramientas RAG + BGE-Reranker-v2-m3
 └── data/
     ├── raw/                        # Documentos HTML/PDF (excluido del repo)
     ├── processed/                  # Texto extraído (excluido del repo)
