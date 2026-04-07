@@ -29,45 +29,46 @@ El agente responde con cita exacta del artículo y documento fuente, orientando 
 Consulta usuario
       │
       ▼
-┌─────────────────┐
-│  Clasificador   │  → 9 categorías: DELITO, FISCALIZACION, DESPACHO,
-│   LangGraph     │    ARANCEL, PROHIBICION, SANCION, VIAJERO,
-└────────┬────────┘    RECAUDACION, GENERAL
-         │
-         ▼
-┌─────────────────┐
-│  Recuperación   │  → BGE-M3 embeddings (k=10 candidatos)
-│  RAG + Reranker │  → BGE-Reranker-v2-m3 (k=3 mejores)
-│  11 herramientas│  → 9 colecciones ChromaDB especializadas
-└────────┬────────┘
-         │
-         ▼
-┌─────────────────┐
-│    Síntesis     │  → Llama 3.3 70B via Groq API
-│  Llama 3.3 70B  │  → Respuesta estructurada con artículos exactos
-└────────┬────────┘
-         │
-         ▼
-┌─────────────────┐
-│    Langfuse     │  → Trazabilidad completa self-hosted
-│  Observabilidad │  → Dashboard en http://localhost:3000
-└─────────────────┘
+┌─────────────────────────────────────┐
+│  Nodo 1 — Clasificador de intención │  → 9 categorías: DELITO, FISCALIZACION,
+│          LangGraph                  │    DESPACHO, ARANCEL, PROHIBICION,
+└──────────────────┬──────────────────┘    SANCION, VIAJERO, RECAUDACION, GENERAL
+                   │
+                   ▼
+┌─────────────────────────────────────┐
+│  Nodo 2 — Recuperación especializada│  → BGE-M3 embeddings (k=10 candidatos)
+│  RAG + BGE-Reranker-v2-m3           │  → Reranker selecciona k=3 mejores
+│  11 herramientas · 9 colecciones    │  → Herramientas asignadas por intención
+└──────────────────┬──────────────────┘
+                   │
+                   ▼
+┌─────────────────────────────────────┐
+│  Nodo 3 — Síntesis                  │  → Llama 3.3 70B via Groq API
+│          Llama 3.3 70B              │  → Respuesta estructurada con artículos
+└──────────────────┬──────────────────┘
+                   │
+                   ▼
+┌─────────────────────────────────────┐
+│  Langfuse self-hosted               │  → Trazabilidad completa (Docker)
+│  Observabilidad                     │  → Dashboard: http://localhost:3000
+└─────────────────────────────────────┘
 ```
 
 ---
 
 ## 🛠️ Stack Tecnológico
 
-| Componente | Herramienta | Costo |
-|---|---|---|
-| LLM | Llama 3.3 70B via Groq API | Gratuito |
-| Framework agente | LangGraph + LangChain | Gratuito |
-| Embeddings | BGE-M3 (BAAI) | Gratuito |
-| Reranker | BGE-Reranker-v2-m3 (BAAI) | Gratuito |
-| Vector store | ChromaDB | Gratuito |
-| Observabilidad | Langfuse self-hosted (Docker) | Gratuito |
-| Interfaz | Streamlit | Gratuito |
-| Evaluación | RAGAS | Gratuito |
+| Componente | Herramienta | Versión | Costo |
+|---|---|---|---|
+| LLM | Llama 3.3 70B via Groq API | — | Gratuito |
+| Framework agente | LangGraph + LangChain | 1.1.6 / 0.3.7 | Gratuito |
+| Clasificador intención | LangGraph StateGraph | 9 nodos | Gratuito |
+| Embeddings | BGE-M3 (BAAI) | — | Gratuito |
+| Reranker | BGE-Reranker-v2-m3 (BAAI) | — | Gratuito |
+| Vector store | ChromaDB | 0.5.20 | Gratuito |
+| Observabilidad | Langfuse self-hosted (Docker) | 2.x | Gratuito |
+| Interfaz | Streamlit | 1.40.2 | Gratuito |
+| Evaluación | RAGAS | 0.2.6 | Gratuito |
 
 ---
 
@@ -128,6 +129,8 @@ LANGFUSE_HOST=http://localhost:3000
 
 Obtén tu API key gratuita en: https://console.groq.com
 
+Para obtener las keys de Langfuse, primero levanta el servidor (Paso 5) y crea un proyecto en http://localhost:3000
+
 ### Paso 4 — Construir la base de conocimiento
 
 ```bash
@@ -146,39 +149,34 @@ python scripts/indexar_chromadb.py
 ### Paso 5 — Arrancar la aplicación
 
 ```bash
-# Terminal 1: Langfuse (observabilidad)
+# Terminal 1: Langfuse (observabilidad) — arrancar primero
 docker compose up -d
 
-# Terminal 2: Aplicación
+# Terminal 2: Aplicación Streamlit
 streamlit run app.py
 ```
 
-Abre tu navegador en: **http://localhost:8501**
-
-Dashboard Langfuse en: **http://localhost:3000**
+- Aplicación: **http://localhost:8501**
+- Dashboard Langfuse: **http://localhost:3000**
 
 ---
 
 ## 📊 Evaluación
 
-El agente es evaluado con **RAGAS** (automático) y **evaluación manual experta**:
+El agente se evalúa con **RAGAS** (automático) y **evaluación manual experta** en 20 casos de prueba distribuidos en 3 perfiles: Especialista SUNAT, Operador de Comercio Exterior y Ciudadano.
+
 ```bash
 python scripts/evaluar_agente.py
 ```
 
 Selecciona el modo:
-- `1` → Solo RAGAS (faithfulness + answer relevancy automático)
+- `1` → Solo RAGAS automático (faithfulness + answer relevancy)
 - `2` → Solo evaluación manual experto (precisión, relevancia, utilidad, alucinación)
 - `3` → Ambos — evaluación completa para la bitácora
 
 Resultados guardados en `data/evaluacion_resultados.json`
 
-### Dependencias adicionales para evaluación
-```bash
-pip install ragas==0.2.6 datasets==2.19.0 langchain-huggingface==1.2.1
-```
-
-> ⚠️ La evaluación con RAGAS usa Groq como LLM juez — requiere saldo disponible en el plan gratuito (100K tokens/día). Se recomienda ejecutar con pausas entre consultas para evitar rate limit.
+> ⚠️ RAGAS usa Groq como LLM juez — requiere saldo disponible (100K tokens/día en plan gratuito).
 
 ---
 
@@ -199,23 +197,23 @@ pip install ragas==0.2.6 datasets==2.19.0 langchain-huggingface==1.2.1
 
 ```
 aduana_gpt/
-├── app.py                          # Interfaz Streamlit
+├── app.py                          # Interfaz Streamlit con panel de métricas
 ├── docker-compose.yml              # Langfuse self-hosted
 ├── requirements.txt                # Dependencias
-├── .env                            # Variables de entorno (no subir)
+├── .env                            # Variables de entorno (no subir a git)
 ├── scripts/
-│   ├── descargar_todo.py          # Descarga normativa SUNAT
-│   ├── extraer_texto.py           # Extracción de texto
-│   ├── indexar_chromadb.py        # Indexación vectorial
-│   └── evaluar_agente.py          # Evaluación RAGAS + manual
+│   ├── descargar_todo.py          # Descarga 148 documentos SUNAT
+│   ├── extraer_texto.py           # Extracción de texto HTML/PDF
+│   ├── indexar_chromadb.py        # Indexación con BGE-M3
+│   └── evaluar_agente.py          # Evaluación RAGAS + manual experto
 ├── src/
-│   ├── agent/agente.py            # Grafo LangGraph
-│   ├── prompts/system_prompt.py   # System prompt
-│   └── tools/herramientas_rag.py  # 11 herramientas RAG
+│   ├── agent/agente.py            # Grafo LangGraph (3 nodos)
+│   ├── prompts/system_prompt.py   # System prompt con ejemplo de respuesta
+│   └── tools/herramientas_rag.py  # 11 herramientas RAG con reranker
 └── data/
-    ├── raw/                        # Documentos HTML/PDF (no en repo)
-    ├── processed/                  # Texto extraído (no en repo)
-    └── vectorstore/                # ChromaDB (no en repo)
+    ├── raw/                        # Documentos HTML/PDF (excluido del repo)
+    ├── processed/                  # Texto extraído (excluido del repo)
+    └── vectorstore/                # ChromaDB (excluido del repo)
 ```
 
 ---
@@ -223,13 +221,18 @@ aduana_gpt/
 ## 🔧 Comandos útiles
 
 ```bash
-# Re-indexar desde cero
+# Arrancar Langfuse
+docker compose up -d
+
+# Arrancar aplicación
+streamlit run app.py
+
+# Re-indexar vectorstore desde cero
+# Windows:
+Remove-Item data\vectorstore\ -Recurse -Force
+# Linux/Mac:
 rm -rf data/vectorstore/
 python scripts/indexar_chromadb.py
-
-# Ver trazas en Langfuse
-docker compose up -d
-# Abrir http://localhost:3000
 
 # Detener Langfuse
 docker compose down
