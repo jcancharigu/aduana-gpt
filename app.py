@@ -340,6 +340,30 @@ def prog_bar(label, val, unit="%", mx=100):
 </div>"""
 
 
+# Colores por dominio
+COLORES_DOMINIO = {
+    "DELITOS":     ("#EF4444", "⚖️"),
+    "CONTROL":     ("#F59E0B", "🔍"),
+    "DESPACHO":    ("#10B981", "📦"),
+    "RECAUDACION": ("#3B82F6", "💰"),
+    "ORIENTACION": ("#8B5CF6", "👤"),
+    "ERROR":       ("#6B7A99", "⚠️"),
+}
+
+color, icono = COLORES_DOMINIO.get(intencion, ("#6B7A99", "📋"))
+st.markdown(f"""
+<div style="display:flex;align-items:center;gap:10px;margin-bottom:10px">
+    <span style="background:{color}22;border:1px solid {color}44;color:{color};
+                 padding:3px 10px;border-radius:20px;font-family:'DM Mono',monospace;
+                 font-size:11px;font-weight:600;letter-spacing:1px">
+        {icono} {intencion}
+    </span>
+    <span style="color:#4A5568;font-family:'DM Mono',monospace;font-size:11px">
+        ⏱ {tiempo:.1f}s
+    </span>
+</div>
+""", unsafe_allow_html=True)
+
 def render_metrics(m):
     sg = m["score_global"]
     cls = sc(sg)
@@ -368,7 +392,8 @@ def render_metrics(m):
 
 
 # Estado
-for k, v in [("messages", []), ("historia", []), ("pregunta_rapida", None)]:
+import uuid
+for k, v in [("messages", []), ("historia", []), ("pregunta_rapida", None), ("thread_id", str(uuid.uuid4()))]:
     if k not in st.session_state:
         st.session_state[k] = v
 
@@ -513,6 +538,7 @@ with col_chat:
             st.session_state.messages = []
             st.session_state.historia = []
             st.session_state.pregunta_rapida = None
+            st.session_state.thread_id = str(uuid.uuid4())
             st.rerun()
         st.markdown("---")
         st.markdown("""
@@ -522,11 +548,34 @@ with col_chat:
   <span style="color:#10B981">Costo total: S/. 0.00</span>
 </div>""", unsafe_allow_html=True)
 
-    for msg in st.session_state.messages:
-        with st.chat_message(msg["role"], avatar="🛃" if msg["role"] == "assistant" else "👤"):
-            st.markdown(limpiar_respuesta(msg["content"]), unsafe_allow_html=True)
-            if msg["role"] == "assistant" and "metricas" in msg:
-                render_metrics(msg["metricas"])
+        COLORES_DOMINIO = {
+            "DELITOS":     ("#EF4444", "⚖️"),
+            "CONTROL":     ("#F59E0B", "🔍"),
+            "DESPACHO":    ("#10B981", "📦"),
+            "RECAUDACION": ("#3B82F6", "💰"),
+            "ORIENTACION": ("#8B5CF6", "👤"),
+            "ERROR":       ("#6B7A99", "⚠️"),
+        }
+
+        for msg in st.session_state.messages:
+            with st.chat_message(msg["role"], avatar="🛃" if msg["role"] == "assistant" else "👤"):
+                if msg["role"] == "assistant" and "intencion" in msg:
+                    color, icono = COLORES_DOMINIO.get(msg["intencion"], ("#6B7A99", "📋"))
+                    st.markdown(f"""
+        <div style="display:flex;align-items:center;gap:10px;margin-bottom:10px">
+            <span style="background:{color}22;border:1px solid {color}44;color:{color};
+                        padding:3px 10px;border-radius:20px;font-family:'DM Mono',monospace;
+                        font-size:11px;font-weight:600;letter-spacing:1px">
+                {icono} {msg["intencion"]}
+            </span>
+            <span style="color:#4A5568;font-family:'DM Mono',monospace;font-size:11px">
+                ⏱ {msg.get("tiempo", 0):.1f}s
+            </span>
+        </div>""", unsafe_allow_html=True)
+                st.markdown(msg["content"].replace("$", r"\$"))
+                if msg["role"] == "assistant" and "metricas" in msg:
+                    render_metrics(msg["metricas"])
+
 
     if not st.session_state.messages:
         with st.chat_message("assistant", avatar="🛃"):
@@ -556,7 +605,7 @@ Escribe tu consulta o usa los ejemplos del panel izquierdo.
         with st.chat_message("assistant", avatar="🛃"):
             with st.spinner("Consultando normativa..."):
                 t0 = time.time()
-                respuesta = consultar(pregunta)
+                respuesta, intencion = consultar(pregunta, thread_id=st.session_state.thread_id)
                 tiempo = time.time() - t0
             respuesta_limpia = limpiar_respuesta(respuesta)
             st.markdown(respuesta_limpia, unsafe_allow_html=True)
@@ -568,6 +617,6 @@ Fuentes: Ley 28008 · DL 1053 · DS 010-2009-EF · DS 418-2019-EF · Procedimien
 <a href="https://www.sunat.gob.pe/legislacion/aduanera/index.html" target="_blank">Ver normativa oficial →</a>
 </div>""", unsafe_allow_html=True)
 
-        st.session_state.messages.append({"role":"assistant","content":respuesta_limpia,"metricas":m})
+        st.session_state.messages.append({"role":"assistant","content":respuesta_limpia,"metricas":m,"intencion":intencion,"tiempo":tiempo})
         st.session_state.historia.append(m)
         st.rerun()
