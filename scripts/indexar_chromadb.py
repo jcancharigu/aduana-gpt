@@ -35,20 +35,45 @@ def asignar_coleccion(nombre: str) -> str:
         return "procedimientos_despacho"
 
 def hacer_chunks(texto: str, tamano: int, overlap: int) -> list:
-    patron = r'(?=Art[ií]culo\s+\d+|ARTICULO\s+\d+|Cap[ií]tulo\s+[IVX\d]+)'
+    """
+    Chunking inteligente por estructura legal y procedimental.
+    Respeta artículos, capítulos, secciones y numerales SUNAT.
+    """
+    # Patrones de separación para normativa legal peruana
+    patron = r'(?='\
+        r'Art[ií]culo\s+\d+|'\
+        r'ARTICULO\s+\d+|'\
+        r'Art\.\s*\d+[°º]?|'\
+        r'Cap[ií]tulo\s+[IVXivx\d]+|'\
+        r'CAPITULO\s+[IVXivx\d]+|'\
+        r'SECCION\s+[IVXivx\d]+|'\
+        r'Secci[oó]n\s+[IVXivx\d]+|'\
+        r'TITULO\s+[IVXivx\d]+|'\
+        r'T[ií]tulo\s+[IVXivx\d]+|'\
+        r'DISPOSICION\s+|'\
+        r'Literal\s+[A-Z]\.|'\
+        r'LITERAL\s+[A-Z]\.|'\
+        r'Numeral\s+\d+\.|'\
+        r'NUMERAL\s+\d+\.'\
+        r')'
+
     partes = re.split(patron, texto)
-    partes = [p.strip() for p in partes if len(p.strip()) > 100]
+    partes = [p.strip() for p in partes if len(p.strip()) > 80]
+
     chunks = []
     for parte in partes:
         palabras = parte.split()
         if len(palabras) <= tamano:
+            # El artículo cabe en un solo chunk — ideal
             chunks.append(parte)
         else:
+            # Artículo muy largo — dividir con overlap
             i = 0
             while i < len(palabras):
                 chunk = " ".join(palabras[i:i + tamano])
                 chunks.append(chunk)
                 i += tamano - overlap
+
     return chunks if chunks else [texto]
 
 print("=" * 60)
