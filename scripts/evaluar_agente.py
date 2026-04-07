@@ -213,6 +213,10 @@ for caso in CASOS:
         tiempo = round(time.time() - inicio, 1)
         print(f"RESPUESTA ({tiempo}s):\n{respuesta}")
         estado = "OK"
+        if "⚠️ Límite de tokens" in respuesta:
+            estado = "RATE_LIMIT"
+        else:
+            estado = "OK"
     except Exception as e:
         respuesta = f"ERROR: {str(e)[:100]}"
         tiempo = round(time.time() - inicio, 1)
@@ -232,7 +236,30 @@ for caso in CASOS:
     # Obtener contextos para RAGAS
     if estado == "OK" and modo in ["1", "3"]:
         try:
-            col = "procedimientos_fiscalizacion" if "ACE" in caso["tema"] or "Inmo" in caso["tema"] else "procedimientos_despacho"
+            # Asignar colección correcta según perfil y tema
+            COLECCION_POR_TEMA = {
+                "ACE":                    "procedimientos_fiscalizacion",
+                "Inmovilizacion":         "procedimientos_fiscalizacion",
+                "Inmovilizacion vs Incautacion": "procedimientos_fiscalizacion",
+                "Contrabando":            "ley_28008",
+                "Defraudacion":           "ley_28008",
+                "Sanciones":              "ley_general_aduanas",
+                "Drawback":               "procedimientos_despacho",
+                "Arancel":                "arancel",
+                "Canales de control":     "procedimientos_despacho",
+                "Despacho anticipado":    "procedimientos_despacho",
+                "Exportacion":            "procedimientos_despacho",
+                "Agente de Aduana":       "ley_general_aduanas",
+                "Abandono Legal":         "ley_general_aduanas",
+                "Equipaje":               "normas_asociadas",
+                "Drone":                  "arancel",
+                "No declaracion":         "normas_asociadas",
+                "Medicamentos":           "normas_asociadas",
+                "Courier":                "normas_asociadas",
+                "Compras online":         "normas_asociadas",
+                "Declaracion dinero":     "normas_asociadas",
+            }
+            col = COLECCION_POR_TEMA.get(caso["tema"], "procedimientos_despacho")
             contextos = [_buscar(col, caso["pregunta"], k=2)]
         except:
             contextos = [respuesta]
@@ -257,7 +284,11 @@ for caso in CASOS:
     # Guardar progreso
     with open("data/evaluacion_resultados.json", "w", encoding="utf-8") as f:
         json.dump(resultados, f, ensure_ascii=False, indent=2)
-
+        
+    # Pausa entre consultas para evitar rate limit de Groq
+    if caso["id"] < len(CASOS):
+        print(f"\n⏳ Esperando 35 segundos para evitar rate limit...")
+        time.sleep(35)
 # ═══════════════════════════════════════════════════════════════
 # RESUMEN FINAL
 # ═══════════════════════════════════════════════════════════════
