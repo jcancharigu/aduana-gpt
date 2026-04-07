@@ -2,7 +2,7 @@ import os
 import warnings
 warnings.filterwarnings("ignore")
 os.environ["ANONYMIZED_TELEMETRY"] = "False"
-
+from langgraph.checkpoint.memory import MemorySaver
 from dotenv import load_dotenv
 load_dotenv()
 
@@ -174,25 +174,40 @@ PROMPT_SINTESIS = """{system_prompt}
 
 DOMINIO IDENTIFICADO: {intencion}
 
+HISTORIAL DE CONVERSACION:
+{historial}
+
 CONTEXTO NORMATIVO RECUPERADO:
 {contexto}
 
-CONSULTA DEL USUARIO:
+CONSULTA ACTUAL:
 {pregunta}
 
-Genera una respuesta estructurada siguiendo el formato del system prompt.
-Cita artículos exactos del contexto normativo."""
+Genera una respuesta estructurada. Si el historial tiene contexto relevante, 
+úsalo para dar una respuesta más precisa y coherente."""
 
 def nodo_sintesis(estado: EstadoAgente) -> EstadoAgente:
+    historial_texto = ""
+    for msg in estado.get("historial", []):
+        rol = "Usuario" if msg["rol"] == "user" else "Agente"
+        historial_texto += f"{rol}: {msg['contenido']}\n"
+
     prompt = PROMPT_SINTESIS.format(
         system_prompt=SYSTEM_PROMPT,
         intencion=estado["intencion"],
+        historial=historial_texto if historial_texto else "Sin historial previo.",
         contexto=estado["contexto"],
         pregunta=estado["pregunta"]
     )
     resp = llm.invoke([HumanMessage(content=prompt)])
     respuesta = resp.content.strip()
-    return {**estado, "respuesta": respuesta}
+
+    # Actualizar historial
+    historial = estado.get("historial", [])
+    historial.append({"rol": "user",      "contenido": estado["pregunta"]})
+    historial.append({"rol": "assistant", "contenido": respuesta[:200]})
+
+    return {**estado, "respuesta": respuesta, "historial": historial}
 
 # ══════════════════════════════════════════════════════════
 # CONSTRUCCIÓN DEL GRAFO CON ARISTAS CONDICIONALES
@@ -229,28 +244,30 @@ for nodo in ["delitos", "control", "despacho", "recaudacion", "orientacion"]:
     grafo.add_edge(nodo, "sintesis")
 grafo.add_edge("sintesis", END)
 
-agente_compilado = grafo.compile()
+memory = MemorySaver()
+agente_compilado = grafo.compile(checkpointer=memory)
 
 # ══════════════════════════════════════════════════════════
 # FUNCIÓN PRINCIPAL
 # ══════════════════════════════════════════════════════════
-def consultar(pregunta: str) -> str:
-    """Consulta al agente ADUANA-GPT con grafo LangGraph + aristas condicionales."""
+def consultar(pregunta: str, thread_id: str = "default") -> str:
+    """Consulta al agente ADUANA-GPT con memoria conversacional."""
     try:
         estado_inicial = {
             "pregunta":  pregunta,
             "intencion": "",
             "contexto":  "",
             "respuesta": "",
+            "historial": [],
         }
-        resultado = agente_compilado.invoke(estado_inicial)
+        config = {"configurable": {"thread_id": thread_id}}
+        resultado = agente_compilado.invoke(estado_inicial, config=config)
         respuesta = resultado["respuesta"]
         _trace(pregunta, resultado["intencion"], respuesta)
-        return respuesta
+        return respuesta, resultado["intencion"]
 
     except Exception as e:
         error = str(e)
         if "413" in error or "rate_limit" in error.lower():
-            return ("⚠️ Límite de tokens de Groq alcanzado. "
-                    "Por favor espera unos segundos e intenta de nuevo.")
-        return f"Error al procesar la consulta: {error[:200]}"
+            return ("⚠️ Límite de tokens..."), "ERROR"                    
+        return f"Error al procesar...", "ERROR"
