@@ -161,16 +161,24 @@ Dashboard Langfuse en: **http://localhost:3000**
 
 ## 📊 Evaluación
 
+El agente es evaluado con **RAGAS** (automático) y **evaluación manual experta**:
 ```bash
 python scripts/evaluar_agente.py
 ```
 
 Selecciona el modo:
-- `1` → Solo RAGAS (automático)
-- `2` → Solo evaluación manual experto
-- `3` → Ambos (evaluación completa)
+- `1` → Solo RAGAS (faithfulness + answer relevancy automático)
+- `2` → Solo evaluación manual experto (precisión, relevancia, utilidad, alucinación)
+- `3` → Ambos — evaluación completa para la bitácora
 
 Resultados guardados en `data/evaluacion_resultados.json`
+
+### Dependencias adicionales para evaluación
+```bash
+pip install ragas==0.2.6 datasets==2.19.0 langchain-huggingface==1.2.1
+```
+
+> ⚠️ La evaluación con RAGAS usa Groq como LLM juez — requiere saldo disponible en el plan gratuito (100K tokens/día). Se recomienda ejecutar con pausas entre consultas para evitar rate limit.
 
 ---
 
