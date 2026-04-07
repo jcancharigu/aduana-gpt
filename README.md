@@ -8,6 +8,7 @@
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1.1.6-green)
 ![Llama](https://img.shields.io/badge/Llama-3.3_70B-orange)
+![Chunks](https://img.shields.io/badge/Chunks-3%2C861-purple)
 ![Costo](https://img.shields.io/badge/Costo_total-S/._0.00-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
@@ -76,15 +77,17 @@ Consulta usuario
 
 | Colección | Documentos | Chunks |
 |---|---|---|
-| Ley 28008 + Reglamento | 2 | 100 |
-| Ley General de Aduanas (DL 1053) | 3 | 347 |
-| Procedimientos de despacho | 95 | 1,464 |
-| Procedimientos de fiscalización | 13 | 128 |
-| Procedimientos de recaudación | 16 | 176 |
-| Normas asociadas | 11 | 202 |
-| Normas generales | 6 | 461 |
-| Arancel de Aduanas 2022 | 2 | 769 |
-| **TOTAL** | **148** | **3,647** |
+| Ley 28008 + Reglamento | 2 | 102 |
+| Ley General de Aduanas (DL 1053) | 3 | 452 |
+| Procedimientos de despacho | 95 | 1,486 |
+| Procedimientos de fiscalización | 13 | 136 |
+| Procedimientos de recaudación | 16 | 181 |
+| Normas asociadas | 11 | 203 |
+| Normas generales | 6 | 465 |
+| Arancel de Aduanas 2022 | 2 | 836 |
+| **TOTAL** | **148** | **3,861** |
+
+> Chunking inteligente por estructura legal: respeta artículos, capítulos, secciones y numerales SUNAT. Cada artículo se almacena como una unidad semántica completa.
 
 ---
 
@@ -118,7 +121,13 @@ pip install -r requirements.txt
 
 ### Paso 3 — Configurar variables de entorno
 
-Crea un archivo `.env` en la raíz del proyecto:
+Copia el archivo de ejemplo y completa tus keys:
+
+```bash
+cp .env.example .env
+```
+
+Edita `.env` con tus credenciales:
 
 ```env
 GROQ_API_KEY=tu_api_key_de_groq
@@ -129,7 +138,7 @@ LANGFUSE_HOST=http://localhost:3000
 
 Obtén tu API key gratuita en: https://console.groq.com
 
-Para obtener las keys de Langfuse, primero levanta el servidor (Paso 5) y crea un proyecto en http://localhost:3000
+Para las keys de Langfuse, primero levanta el servidor (Paso 5) y crea un proyecto en http://localhost:3000
 
 ### Paso 4 — Construir la base de conocimiento
 
@@ -140,7 +149,7 @@ python scripts/descargar_todo.py
 # Extraer texto de HTML y PDF
 python scripts/extraer_texto.py
 
-# Indexar en ChromaDB con BGE-M3
+# Indexar en ChromaDB con BGE-M3 (chunking inteligente por artículo)
 python scripts/indexar_chromadb.py
 ```
 
@@ -149,7 +158,7 @@ python scripts/indexar_chromadb.py
 ### Paso 5 — Arrancar la aplicación
 
 ```bash
-# Terminal 1: Langfuse (observabilidad) — arrancar primero
+# Terminal 1: Langfuse (arrancar primero)
 docker compose up -d
 
 # Terminal 2: Aplicación Streamlit
@@ -200,11 +209,12 @@ aduana_gpt/
 ├── app.py                          # Interfaz Streamlit con panel de métricas
 ├── docker-compose.yml              # Langfuse self-hosted
 ├── requirements.txt                # Dependencias
+├── .env.example                    # Plantilla de variables de entorno
 ├── .env                            # Variables de entorno (no subir a git)
 ├── scripts/
 │   ├── descargar_todo.py          # Descarga 148 documentos SUNAT
 │   ├── extraer_texto.py           # Extracción de texto HTML/PDF
-│   ├── indexar_chromadb.py        # Indexación con BGE-M3
+│   ├── indexar_chromadb.py        # Indexación con BGE-M3 + chunking inteligente
 │   └── evaluar_agente.py          # Evaluación RAGAS + manual experto
 ├── src/
 │   ├── agent/agente.py            # Grafo LangGraph (3 nodos)
