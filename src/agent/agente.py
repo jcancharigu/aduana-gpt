@@ -6,7 +6,7 @@ from langgraph.checkpoint.memory import MemorySaver
 from dotenv import load_dotenv
 load_dotenv()
 
-from langfuse.callback import CallbackHandler
+from langfuse.langchain import CallbackHandler
 
 _LANGFUSE_CFG = dict(
     public_key=os.getenv("LANGFUSE_PUBLIC_KEY"),
