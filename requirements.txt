@@ -1,6 +1,6 @@
 # %% LLM y Agente %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 langchain==0.3.7
-langchain-core==0.3.55
+langchain-core>=0.3.75,<0.4.0
 langchain-groq==0.2.1
 langgraph==1.1.6
 
