@@ -6,27 +6,15 @@ from langgraph.checkpoint.memory import MemorySaver
 from dotenv import load_dotenv
 load_dotenv()
 
-from langfuse import Langfuse
-langfuse = Langfuse(
+from langfuse.callback import CallbackHandler
+
+_LANGFUSE_CFG = dict(
     public_key=os.getenv("LANGFUSE_PUBLIC_KEY"),
     secret_key=os.getenv("LANGFUSE_SECRET_KEY"),
     host=os.getenv("LANGFUSE_HOST", "http://localhost:3000"),
 )
 
-def _trace(pregunta: str, intencion: str, respuesta: str):
-    try:
-        trace = langfuse.trace(
-            name="aduana-gpt-consulta",
-            input=pregunta,
-            output=respuesta,
-            metadata={"intencion": intencion}
-        )
-        trace.span(name="clasificador", input=pregunta, output=intencion)
-        trace.span(name="sintesis",     input=pregunta, output=respuesta)
-        langfuse.flush()
-    except Exception:
-        pass
-
+from concurrent.futures import ThreadPoolExecutor
 from typing import TypedDict
 from langchain_groq import ChatGroq
 from langchain_core.messages import HumanMessage, SystemMessage
@@ -51,7 +39,7 @@ llm = ChatGroq(
     model=os.getenv("LLM_MODEL", "llama-3.3-70b-versatile"),
     api_key=os.getenv("GROQ_API_KEY"),
     temperature=0.1,
-    max_tokens=1500,
+    max_tokens=1200,
 )
 
 # ── Estado del grafo ───────────────────────────────────────
@@ -60,6 +48,7 @@ class EstadoAgente(TypedDict):
     intencion: str
     contexto:  str
     respuesta: str
+    historial: list
 
 # ══════════════════════════════════════════════════════════
 # NODO 1 — CLASIFICADOR DE INTENCIÓN
@@ -112,8 +101,11 @@ def enrutar(estado: EstadoAgente) -> str:
 # Ley 28008: contrabando, defraudación, receptación
 # ══════════════════════════════════════════════════════════
 def nodo_delitos(estado: EstadoAgente) -> EstadoAgente:
-    r1 = buscar_ley_28008.invoke(estado["pregunta"])
-    r2 = buscar_sanciones_multas.invoke(estado["pregunta"])
+    p = estado["pregunta"]
+    with ThreadPoolExecutor(max_workers=2) as ex:
+        f1 = ex.submit(buscar_ley_28008.invoke, p)
+        f2 = ex.submit(buscar_sanciones_multas.invoke, p)
+        r1, r2 = f1.result(), f2.result()
     contexto = f"=== Ley 28008 Delitos Aduaneros ===\n{r1}\n\n=== Sanciones ===\n{r2}"
     return {**estado, "contexto": contexto}
 
@@ -122,8 +114,11 @@ def nodo_delitos(estado: EstadoAgente) -> EstadoAgente:
 # ACE, aforo, inmovilización, incautación, fiscalización
 # ══════════════════════════════════════════════════════════
 def nodo_control(estado: EstadoAgente) -> EstadoAgente:
-    r1 = buscar_procedimientos_fiscalizacion.invoke(estado["pregunta"])
-    r2 = buscar_ley_general_aduanas.invoke(estado["pregunta"])
+    p = estado["pregunta"]
+    with ThreadPoolExecutor(max_workers=2) as ex:
+        f1 = ex.submit(buscar_procedimientos_fiscalizacion.invoke, p)
+        f2 = ex.submit(buscar_ley_general_aduanas.invoke, p)
+        r1, r2 = f1.result(), f2.result()
     contexto = f"=== Procedimientos Control y Fiscalización ===\n{r1}\n\n=== Ley General de Aduanas ===\n{r2}"
     return {**estado, "contexto": contexto}
 
@@ -132,9 +127,12 @@ def nodo_control(estado: EstadoAgente) -> EstadoAgente:
 # Regímenes, arancel, valoración, prohibidas, restringidas
 # ══════════════════════════════════════════════════════════
 def nodo_despacho(estado: EstadoAgente) -> EstadoAgente:
-    r1 = buscar_procedimientos_despacho.invoke(estado["pregunta"])
-    r2 = buscar_arancel.invoke(estado["pregunta"])
-    r3 = buscar_mercancias_prohibidas_restringidas.invoke(estado["pregunta"])
+    p = estado["pregunta"]
+    with ThreadPoolExecutor(max_workers=3) as ex:
+        f1 = ex.submit(buscar_procedimientos_despacho.invoke, p)
+        f2 = ex.submit(buscar_arancel.invoke, p)
+        f3 = ex.submit(buscar_mercancias_prohibidas_restringidas.invoke, p)
+        r1, r2, r3 = f1.result(), f2.result(), f3.result()
     contexto = (f"=== Procedimientos de Despacho ===\n{r1}\n\n"
                 f"=== Arancel de Aduanas 2022 ===\n{r2}\n\n"
                 f"=== Mercancías Prohibidas y Restringidas ===\n{r3}")
@@ -145,9 +143,12 @@ def nodo_despacho(estado: EstadoAgente) -> EstadoAgente:
 # Tributos, deuda, garantías, sanciones administrativas
 # ══════════════════════════════════════════════════════════
 def nodo_recaudacion(estado: EstadoAgente) -> EstadoAgente:
-    r1 = buscar_procedimientos_recaudacion.invoke(estado["pregunta"])
-    r2 = buscar_sanciones_multas.invoke(estado["pregunta"])
-    r3 = buscar_ley_general_aduanas.invoke(estado["pregunta"])
+    p = estado["pregunta"]
+    with ThreadPoolExecutor(max_workers=3) as ex:
+        f1 = ex.submit(buscar_procedimientos_recaudacion.invoke, p)
+        f2 = ex.submit(buscar_sanciones_multas.invoke, p)
+        f3 = ex.submit(buscar_ley_general_aduanas.invoke, p)
+        r1, r2, r3 = f1.result(), f2.result(), f3.result()
     contexto = (f"=== Procedimientos de Recaudación ===\n{r1}\n\n"
                 f"=== Sanciones y Multas ===\n{r2}\n\n"
                 f"=== Ley General de Aduanas ===\n{r3}")
@@ -158,9 +159,12 @@ def nodo_recaudacion(estado: EstadoAgente) -> EstadoAgente:
 # Viajeros, equipaje, ciudadanos, normas generales
 # ══════════════════════════════════════════════════════════
 def nodo_orientacion(estado: EstadoAgente) -> EstadoAgente:
-    r1 = buscar_equipaje_viajeros.invoke(estado["pregunta"])
-    r2 = buscar_normas_asociadas.invoke(estado["pregunta"])
-    r3 = buscar_normas_generales.invoke(estado["pregunta"])
+    p = estado["pregunta"]
+    with ThreadPoolExecutor(max_workers=3) as ex:
+        f1 = ex.submit(buscar_equipaje_viajeros.invoke, p)
+        f2 = ex.submit(buscar_normas_asociadas.invoke, p)
+        f3 = ex.submit(buscar_normas_generales.invoke, p)
+        r1, r2, r3 = f1.result(), f2.result(), f3.result()
     contexto = (f"=== Reglamentos para Viajeros y Ciudadanos ===\n{r1}\n\n"
                 f"=== Normas Asociadas ===\n{r2}\n\n"
                 f"=== Normas Generales ===\n{r3}")
@@ -202,10 +206,12 @@ def nodo_sintesis(estado: EstadoAgente) -> EstadoAgente:
     resp = llm.invoke([HumanMessage(content=prompt)])
     respuesta = resp.content.strip()
 
-    # Actualizar historial
-    historial = estado.get("historial", [])
+    # Actualizar historial — cap de 10 mensajes (5 turnos) para evitar overflow
+    historial = list(estado.get("historial", []))
     historial.append({"rol": "user",      "contenido": estado["pregunta"]})
-    historial.append({"rol": "assistant", "contenido": respuesta[:200]})
+    historial.append({"rol": "assistant", "contenido": respuesta[:500]})
+    if len(historial) > 10:
+        historial = historial[-10:]
 
     return {**estado, "respuesta": respuesta, "historial": historial}
 
@@ -250,24 +256,94 @@ agente_compilado = grafo.compile(checkpointer=memory)
 # ══════════════════════════════════════════════════════════
 # FUNCIÓN PRINCIPAL
 # ══════════════════════════════════════════════════════════
-def consultar(pregunta: str, thread_id: str = "default") -> str:
+def consultar(
+    pregunta: str,
+    thread_id: str = "default",
+    user_id: str | None = None,
+) -> tuple[str, str]:
     """Consulta al agente ADUANA-GPT con memoria conversacional."""
     try:
+        handler = CallbackHandler(
+            **_LANGFUSE_CFG,
+            session_id=thread_id,
+            user_id=user_id or thread_id,
+            trace_name="aduana-gpt-consulta",
+        )
         estado_inicial = {
             "pregunta":  pregunta,
             "intencion": "",
             "contexto":  "",
             "respuesta": "",
-            "historial": [],
+            # historial se omite: MemorySaver preserva el valor del checkpoint
         }
-        config = {"configurable": {"thread_id": thread_id}}
+        config = {
+            "configurable": {"thread_id": thread_id},
+            "callbacks": [handler],
+        }
         resultado = agente_compilado.invoke(estado_inicial, config=config)
         respuesta = resultado["respuesta"]
-        _trace(pregunta, resultado["intencion"], respuesta)
-        return respuesta, resultado["intencion"]
+        trace_id = handler.get_trace_id()
+        handler.flush()
+        return respuesta, resultado["intencion"], trace_id, resultado.get("contexto", "")
 
     except Exception as e:
         error = str(e)
         if "413" in error or "rate_limit" in error.lower():
-            return ("⚠️ Límite de tokens..."), "ERROR"                    
-        return f"Error al procesar...", "ERROR"
+            return "⚠️ Límite de tokens...", "ERROR", None, ""
+        return "Error al procesar...", "ERROR", None, ""
+
+
+def consultar_stream(
+    pregunta: str,
+    thread_id: str = "default",
+    user_id: str | None = None,
+):
+    """Versión streaming: yield {'type':'token','content':str} por cada chunk
+    del nodo síntesis, y {'type':'done', intencion, trace_id, contexto, respuesta}
+    al finalizar. Usado por app.py para mostrar texto token a token."""
+    try:
+        handler = CallbackHandler(
+            **_LANGFUSE_CFG,
+            session_id=thread_id,
+            user_id=user_id or thread_id,
+            trace_name="aduana-gpt-consulta",
+        )
+        estado_inicial = {
+            "pregunta":  pregunta,
+            "intencion": "",
+            "contexto":  "",
+            "respuesta": "",
+        }
+        config = {
+            "configurable": {"thread_id": thread_id},
+            "callbacks": [handler],
+        }
+
+        for msg, metadata in agente_compilado.stream(
+            estado_inicial,
+            config=config,
+            stream_mode="messages",
+        ):
+            if (metadata.get("langgraph_node") == "sintesis"
+                    and hasattr(msg, "content")
+                    and msg.content):
+                yield {"type": "token", "content": msg.content}
+
+        state    = agente_compilado.get_state(config)
+        trace_id = handler.get_trace_id()
+        handler.flush()
+        vals = state.values
+        yield {
+            "type":      "done",
+            "intencion": vals.get("intencion", "DESPACHO"),
+            "trace_id":  trace_id,
+            "contexto":  vals.get("contexto", ""),
+            "respuesta": vals.get("respuesta", ""),
+        }
+
+    except Exception as e:
+        error = str(e)
+        msg = ("⚠️ Límite de tokens..." if ("413" in error or "rate_limit" in error.lower())
+               else "Error al procesar...")
+        yield {"type": "done", "intencion": "ERROR",
+               "trace_id": None, "contexto": "", "respuesta": msg}

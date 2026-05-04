@@ -18,7 +18,7 @@ _modelo   = SentenceTransformer("BAAI/bge-m3")
 _reranker = FlagReranker("BAAI/bge-reranker-v2-m3", use_fp16=True)
 _cliente  = chromadb.PersistentClient(path=str(CHROMA_DIR))
 
-def _buscar(coleccion: str, consulta: str, k_retrieval: int = 10, k_final: int = 3) -> str:
+def _buscar(coleccion: str, consulta: str, k_retrieval: int = 5, k_final: int = 3) -> str:
     """
     Retrieval + Reranking pipeline:
     1. Recupera k_retrieval chunks por similitud coseno (BGE-M3)
@@ -107,7 +107,7 @@ def buscar_normas_asociadas(consulta: str) -> str:
     """Busca en normas asociadas vigentes: DS 182-2013-EF equipaje y menaje,
     DS 195-2013-EF declaracion dinero, DS 192-2020-EF courier,
     DS 244-2013-EF postales, DS 184-2016-EF OEA, DS 104-95-EF drawback."""
-    return _buscar("normas_asociadas", consulta, k_retrieval=10, k_final=3)
+    return _buscar("normas_asociadas", consulta, k_retrieval=5, k_final=3)
 
 @tool
 def buscar_normas_generales(consulta: str) -> str:

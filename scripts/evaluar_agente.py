@@ -7,8 +7,18 @@ warnings.filterwarnings("ignore")
 os.environ["ANONYMIZED_TELEMETRY"] = "False"
 sys.path.append(".")
 
+from dotenv import load_dotenv
+load_dotenv()
+
+import re
 from src.agent.agente import consultar
-from src.tools.herramientas_rag import _buscar
+from langfuse import Langfuse
+
+_lf = Langfuse(
+    public_key=os.getenv("LANGFUSE_PUBLIC_KEY"),
+    secret_key=os.getenv("LANGFUSE_SECRET_KEY"),
+    host=os.getenv("LANGFUSE_HOST", "http://localhost:3000"),
+)
 
 # ═══════════════════════════════════════════════════════════════
 # 20 CASOS DE PRUEBA CON RESPUESTA ESPERADA (ground truth)
@@ -121,6 +131,10 @@ CASOS = [
     },
 ]
 
+# Los 20 casos están definidos arriba; aquí se eligen los 5 a ejecutar
+IDS_EVALUAR = {1, 3, 8, 14, 20}   # 1 por dominio: CONTROL, DELITOS, DESPACHO, ORIENTACION, ORIENTACION
+CASOS_EVALUAR = [c for c in CASOS if c["id"] in IDS_EVALUAR]
+
 # ═══════════════════════════════════════════════════════════════
 # EVALUACION AUTOMATICA CON RAGAS
 # ═══════════════════════════════════════════════════════════════
@@ -128,7 +142,7 @@ def evaluar_con_ragas(pregunta, respuesta, contextos, respuesta_esperada):
     """Evalua con RAGAS usando Groq como LLM judge."""
     try:
         from ragas import evaluate
-        from ragas.metrics import faithfulness, answer_relevancy
+        from ragas.metrics import faithfulness, answer_relevancy, context_recall, context_precision
         from datasets import Dataset
         from langchain_groq import ChatGroq
         from langchain_huggingface import HuggingFaceEmbeddings
@@ -145,16 +159,28 @@ def evaluar_con_ragas(pregunta, respuesta, contextos, respuesta_esperada):
         dataset = Dataset.from_dict(data)
         result = evaluate(
             dataset,
-            metrics=[faithfulness, answer_relevancy],
+            metrics=[faithfulness, answer_relevancy, context_recall, context_precision],
             llm=llm,
             embeddings=embeddings,
         )
+
+        def _val(key):
+            v = result[key]
+            return round(float(v[0] if isinstance(v, list) else v), 3)
+
         return {
-            "faithfulness": round(float(result["faithfulness"]), 3),
-            "answer_relevancy": round(float(result["answer_relevancy"]), 3),
+            "faithfulness":       _val("faithfulness"),
+            "answer_relevancy":   _val("answer_relevancy"),
+            "context_recall":     _val("context_recall"),
+            "context_precision":  _val("context_precision"),
         }
+
     except Exception as e:
-        return {"faithfulness": None, "answer_relevancy": None, "error": str(e)[:50]}
+        return {
+            "faithfulness": None, "answer_relevancy": None,
+            "context_recall": None, "context_precision": None,
+            "error": str(e)[:50],
+        }
 
 # ═══════════════════════════════════════════════════════════════
 # EVALUACION MANUAL (tu criterio como experto SUNAT)
@@ -200,19 +226,20 @@ modo = input("\n¿Modo de evaluacion?\n  1 = Solo RAGAS (automatico)\n  2 = Solo
 
 resultados = []
 
-for caso in CASOS:
+for caso in CASOS_EVALUAR:
     print(f"\n{'='*70}")
-    print(f"CASO {caso['id']:02d}/20 | {caso['perfil']} | {caso['tema']}")
+    print(f"CASO {caso['id']:02d}/{len(CASOS_EVALUAR)} | {caso['perfil']} | {caso['tema']}")
     print(f"PREGUNTA: {caso['pregunta']}")
     print(f"{'─'*70}")
 
     # Obtener respuesta del agente
     inicio = time.time()
+    trace_id = None
+    contexto_real = ""
     try:
-        respuesta = consultar(caso["pregunta"])
+        respuesta, _, trace_id, contexto_real = consultar(caso["pregunta"])
         tiempo = round(time.time() - inicio, 1)
         print(f"RESPUESTA ({tiempo}s):\n{respuesta}")
-        estado = "OK"
         if "⚠️ Límite de tokens" in respuesta:
             estado = "RATE_LIMIT"
         else:
@@ -233,36 +260,13 @@ for caso in CASOS:
         "estado": estado,
     }
 
-    # Obtener contextos para RAGAS
+    # Obtener contextos para RAGAS — usa el contexto real que el agente recuperó
     if estado == "OK" and modo in ["1", "3"]:
-        try:
-            # Asignar colección correcta según perfil y tema
-            COLECCION_POR_TEMA = {
-                "ACE":                    "procedimientos_fiscalizacion",
-                "Inmovilizacion":         "procedimientos_fiscalizacion",
-                "Inmovilizacion vs Incautacion": "procedimientos_fiscalizacion",
-                "Contrabando":            "ley_28008",
-                "Defraudacion":           "ley_28008",
-                "Sanciones":              "ley_general_aduanas",
-                "Drawback":               "procedimientos_despacho",
-                "Arancel":                "arancel",
-                "Canales de control":     "procedimientos_despacho",
-                "Despacho anticipado":    "procedimientos_despacho",
-                "Exportacion":            "procedimientos_despacho",
-                "Agente de Aduana":       "ley_general_aduanas",
-                "Abandono Legal":         "ley_general_aduanas",
-                "Equipaje":               "normas_asociadas",
-                "Drone":                  "arancel",
-                "No declaracion":         "normas_asociadas",
-                "Medicamentos":           "normas_asociadas",
-                "Courier":                "normas_asociadas",
-                "Compras online":         "normas_asociadas",
-                "Declaracion dinero":     "normas_asociadas",
-            }
-            col = COLECCION_POR_TEMA.get(caso["tema"], "procedimientos_despacho")
-            contextos = [_buscar(col, caso["pregunta"], k=2)]
-        except:
-            contextos = [respuesta]
+        # Dividir por secciones (=== Título ===) para dar granularidad a RAGAS
+        secciones = re.split(r'=== .+? ===\n?', contexto_real)
+        contextos = [s.strip() for s in secciones if len(s.strip()) > 30]
+        if not contextos:
+            contextos = [contexto_real or respuesta]
 
         print("\n🤖 Evaluando con RAGAS...")
         scores_ragas = evaluar_con_ragas(
@@ -270,14 +274,24 @@ for caso in CASOS:
             contextos, caso["respuesta_esperada"]
         )
         resultado.update(scores_ragas)
-        print(f"   Faithfulness:      {scores_ragas.get('faithfulness', 'N/A')}")
-        print(f"   Answer Relevancy:  {scores_ragas.get('answer_relevancy', 'N/A')}")
+        print(f"   Faithfulness:       {scores_ragas.get('faithfulness', 'N/A')}")
+        print(f"   Answer Relevancy:   {scores_ragas.get('answer_relevancy', 'N/A')}")
+        print(f"   Context Recall:     {scores_ragas.get('context_recall', 'N/A')}")
+        print(f"   Context Precision:  {scores_ragas.get('context_precision', 'N/A')}")
+        if trace_id:
+            for nombre in ["faithfulness", "answer_relevancy", "context_recall", "context_precision"]:
+                if scores_ragas.get(nombre) is not None:
+                    _lf.score(trace_id=trace_id, name=nombre, value=scores_ragas[nombre])
 
     # Evaluacion manual
     if estado == "OK" and modo in ["2", "3"]:
         scores_manual = evaluar_manualmente(caso, respuesta)
         resultado.update(scores_manual)
         print(f"   Promedio manual:   {scores_manual['promedio_manual']}/5")
+        if trace_id:
+            for k in ["precision", "relevancia", "utilidad", "alucinacion"]:
+                if k in scores_manual:
+                    _lf.score(trace_id=trace_id, name=k, value=scores_manual[k] / 5)
 
     resultados.append(resultado)
 
@@ -286,7 +300,7 @@ for caso in CASOS:
         json.dump(resultados, f, ensure_ascii=False, indent=2)
         
     # Pausa entre consultas para evitar rate limit de Groq
-    if caso["id"] < len(CASOS):
+    if caso != CASOS_EVALUAR[-1]:
         print(f"\n⏳ Esperando 35 segundos para evitar rate limit...")
         time.sleep(35)
 # ═══════════════════════════════════════════════════════════════
@@ -299,7 +313,7 @@ print("=" * 70)
 ok = [r for r in resultados if r["estado"] == "OK"]
 errores = [r for r in resultados if r["estado"] == "ERROR"]
 
-print(f"\nTotal evaluados:    {len(resultados)}/20")
+print(f"\nTotal evaluados:    {len(resultados)}/{len(CASOS_EVALUAR)}")
 print(f"Exitosos:           {len(ok)}")
 print(f"Errores:            {len(errores)}")
 
@@ -307,13 +321,12 @@ if ok:
     tiempo_prom = sum(r["tiempo_seg"] for r in ok) / len(ok)
     print(f"Tiempo promedio:    {tiempo_prom:.1f}s")
 
-    if "faithfulness" in ok[0] and ok[0]["faithfulness"] is not None:
-        faith = [r["faithfulness"] for r in ok if r.get("faithfulness") is not None]
-        relev = [r["answer_relevancy"] for r in ok if r.get("answer_relevancy") is not None]
-        if faith:
-            print(f"Faithfulness prom:  {sum(faith)/len(faith):.3f}")
-        if relev:
-            print(f"Answer Relevancy:   {sum(relev)/len(relev):.3f}")
+    metricas_ragas = ["faithfulness", "answer_relevancy", "context_recall", "context_precision"]
+    if any(ok[0].get(m) is not None for m in metricas_ragas):
+        for m in metricas_ragas:
+            vals = [r[m] for r in ok if r.get(m) is not None]
+            if vals:
+                print(f"{m:<22} {sum(vals)/len(vals):.3f}")
 
     if "promedio_manual" in ok[0]:
         manual = [r["promedio_manual"] for r in ok if r.get("promedio_manual") is not None]
@@ -327,4 +340,5 @@ for perfil in ["Especialista SUNAT", "Operador OCE", "Ciudadano"]:
     print(f"  {perfil:35} -> {ok_perfil}/{len(casos_perfil)} OK")
 
 print(f"\nResultados guardados en: data/evaluacion_resultados.json")
+_lf.flush()
 print("\nEVALUACION COMPLETADA")

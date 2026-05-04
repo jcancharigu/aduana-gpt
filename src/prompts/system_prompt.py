@@ -24,6 +24,8 @@ Responde SIEMPRE con esta estructura. NUNCA copies los corchetes ni escribas
 
 **Sanción aplicable:** [monto exacto o rango — omitir sección si no aplica]
 
+**Fuentes:** [CODIGO_DOC_1] [CODIGO_DOC_2]
+
 EJEMPLO DE RESPUESTA CORRECTA para "¿Cuánto equipaje puedo traer?":
 
 El reglamento de equipaje (DS 182-2013-EF) establece una franquicia de USD 500
@@ -40,6 +42,8 @@ arancel solo por el exceso.
 3. Pagar el arancel correspondiente solo sobre el monto que excede la franquicia
 
 **Autoridad competente:** SUNAT — Intendencia de Aduana del punto de ingreso
+
+**Fuentes:** [DS-182-2013-EF] [DESPA-PG.13]
 
 ═══════════════════════════════════════════════════════
 FUENTES NORMATIVAS DISPONIBLES — ÚSALAS SIEMPRE
@@ -88,4 +92,42 @@ REGLAS DE CALIDAD
 6. NUNCA inventes artículos — si no encuentras la info, dilo explícitamente
 7. Para bienes específicos, CONSULTA el arancel y da la partida y tasa exacta
 8. Adapta el tono: técnico para SUNAT, profesional para OCE, simple para ciudadanos
+9. SIEMPRE termina con sección **Fuentes:** listando los códigos entre corchetes:
+   Ejemplos: [LEY-28008] [DL-1053] [DS-182-2013-EF] [DESPA-PG.01] [CONTROL-PG.02]
 """
+
+# Mapa de códigos a URLs oficiales SUNAT
+URLS_DOCUMENTOS = {
+    # Normas principales — URLs verificadas
+    "LEY-28008":        "https://www.sunat.gob.pe/legislacion/procedim/normasadua/gja-05.htm",
+    "DL-1053":          "https://www.sunat.gob.pe/legislacion/procedim/normasadua/gja-03.htm",
+    "ARANCEL-2022":     "https://www.sunat.gob.pe/legislacion/procedim/normasadua/gja-04.htm",
+
+    # Normas asociadas — página índice general
+    "DS-121-2003-EF":   "https://www.sunat.gob.pe/legislacion/aduanera/index.html",
+    "DS-010-2009-EF":   "https://www.sunat.gob.pe/legislacion/aduanera/index.html",
+    "DS-418-2019-EF":   "https://www.sunat.gob.pe/legislacion/aduanera/index.html",
+    "DS-182-2013-EF":   "https://www.sunat.gob.pe/legislacion/aduanera/index.html",
+    "DS-195-2013-EF":   "https://www.sunat.gob.pe/legislacion/aduanera/index.html",
+    "DS-192-2020-EF":   "https://www.sunat.gob.pe/legislacion/aduanera/index.html",
+    "DS-104-95-EF":     "https://www.sunat.gob.pe/legislacion/aduanera/index.html",
+    "DS-184-2016-EF":   "https://www.sunat.gob.pe/legislacion/aduanera/index.html",
+    "DS-244-2013-EF":   "https://www.sunat.gob.pe/legislacion/aduanera/index.html",
+
+    # Procedimientos de despacho — URLs verificadas (descargadas)
+    "DESPA-PG.01":      "https://www.sunat.gob.pe/legislacion/procedim/despacho/importacion/importac/despa-pg.01.htm",
+    "DESPA-PG.02":      "https://www.sunat.gob.pe/legislacion/procedim/despacho/exportacion/exportac/despa-pg.02.htm",
+    "DESPA-PG.07":      "https://www.sunat.gob.pe/legislacion/procedim/despacho/especiales/drawback/despa-pg.07.htm",
+    "DESPA-PG.13":      "https://www.sunat.gob.pe/legislacion/procedim/despacho/especiales/consecPostal/despa-pg.13.htm",
+    "DESPA-PG.28":      "https://www.sunat.gob.pe/legislacion/procedim/despacho/especiales/mensajeria/despa-pg.28.htm",
+    "DESPA-PE.01.10a":  "https://www.sunat.gob.pe/legislacion/procedim/despacho/importacion/importac/procEspecif/despa-pe.01.10a.htm",
+
+    # Procedimientos de fiscalización — URLs verificadas
+    "CONTROL-PG.01":    "https://www.sunat.gob.pe/legislacion/procedim/pcontrab/procGeneral/control-pg.01.htm",
+    "CONTROL-PG.02":    "https://www.sunat.gob.pe/legislacion/procedim/pcontrab/procGeneral/control-pg.02.htm",
+    "CONTROL-PE.00.01": "https://www.sunat.gob.pe/legislacion/procedim/pcontrab/procEspecif/control-pe.00.01.htm",
+
+    # Procedimientos de recaudación — URLs verificadas
+    "RECA-PG.03":       "https://www.sunat.gob.pe/legislacion/procedim/recauda/procGeneral/reca-pg.03.htm",
+    "RECA-PG.04":       "https://www.sunat.gob.pe/legislacion/procedim/recauda/procGeneral/reca-pg.04.htm",
+}

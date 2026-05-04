@@ -10,6 +10,7 @@
 ![Llama](https://img.shields.io/badge/Llama-3.3_70B-orange)
 ![Nodos](https://img.shields.io/badge/Nodos_LangGraph-7-purple)
 ![Chunks](https://img.shields.io/badge/Chunks-3%2C861-teal)
+![Streaming](https://img.shields.io/badge/Streaming-token_a_token-cyan)
 ![Costo](https://img.shields.io/badge/Costo_total-S/._0.00-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
@@ -20,6 +21,13 @@
 ADUANA-GPT es un agente de IA especializado en normativa aduanera peruana que permite a especialistas de aduanas, operadores de comercio exterior y ciudadanos realizar consultas en lenguaje natural sobre leyes, reglamentos y procedimientos aduaneros vigentes.
 
 El agente responde con cita exacta del artículo y documento fuente, orientando sobre sanciones, multas, inmovilizaciones e incautaciones según corresponda.
+
+**Características principales:**
+- 🔴 **Streaming token a token** — la respuesta aparece en ~0.5s en lugar de esperar 5–10s
+- 🧠 **Memoria conversacional** — historial de 5 turnos preservado por sesión (MemorySaver)
+- 🔍 **RAG paralelo** — búsquedas simultáneas con `ThreadPoolExecutor` por dominio
+- 📊 **Observabilidad completa** — tokens, costos y latencia capturados automáticamente en Langfuse
+- ✅ **Evaluación RAGAS** — 4 métricas: faithfulness, answer relevancy, context recall, context precision
 
 **Stack 100% gratuito y open source — Costo total: S/. 0.00**
 
@@ -43,19 +51,21 @@ Consulta del usuario
      ▼         ▼          ▼         ▼         ▼
   DELITOS   CONTROL   DESPACHO  RECAUDAC. ORIENTAC.
   Nodo 2A   Nodo 2B   Nodo 2C   Nodo 2D   Nodo 2E
+  (2 RAGs)  (2 RAGs)  (3 RAGs)  (3 RAGs)  (3 RAGs)
+ paralelos  paralelos paralelos paralelos paralelos
      │         │          │         │         │
      └─────────┴──────────┴─────────┴─────────┘
                           │
                           ▼
               ┌───────────────────────┐
-              │  Nodo 3 — SÍNTESIS    │
-              │  Llama 3.3 70B        │
+              │  Nodo 3 — SÍNTESIS    │  → streaming token a token
+              │  Llama 3.3 70B        │     (max_tokens: 1200)
               └───────────┬───────────┘
                           │
                           ▼
               ┌───────────────────────┐
-              │  Langfuse             │
-              │  Trazabilidad         │
+              │  Langfuse             │  → tokens, costo, latencia
+              │  CallbackHandler      │     + scores RAGAS
               └───────────┬───────────┘
                           │
                          END
@@ -80,12 +90,14 @@ Consulta del usuario
 | LLM | Llama 3.3 70B via Groq API | — | Gratuito |
 | Framework agente | LangGraph + LangChain | 1.1.6 / 0.3.7 | Gratuito |
 | Grafo | LangGraph StateGraph | 7 nodos, aristas condicionales | Gratuito |
+| Memoria | LangGraph MemorySaver | — | Gratuito |
+| Paralelismo RAG | Python ThreadPoolExecutor | stdlib | Gratuito |
 | Embeddings | BGE-M3 (BAAI) | — | Gratuito |
 | Reranker | BGE-Reranker-v2-m3 (BAAI) | — | Gratuito |
 | Vector store | ChromaDB | 0.5.20 | Gratuito |
-| Observabilidad | Langfuse self-hosted (Docker) | 2.x | Gratuito |
-| Interfaz | Streamlit | 1.40.2 | Gratuito |
-| Evaluación | RAGAS | 0.2.6 | Gratuito |
+| Observabilidad | Langfuse self-hosted (Docker) + CallbackHandler | 2.60.0 | Gratuito |
+| Interfaz | Streamlit (streaming token a token) | 1.40.2 | Gratuito |
+| Evaluación | RAGAS (4 métricas) | 0.2.6 | Gratuito |
 
 ---
 
@@ -195,13 +207,22 @@ python scripts/evaluar_agente.py
 ```
 
 Selecciona el modo:
-- `1` → Solo RAGAS automático (faithfulness + answer relevancy)
+- `1` → Solo RAGAS automático (4 métricas)
 - `2` → Solo evaluación manual experto (precisión, relevancia, utilidad, alucinación)
 - `3` → Ambos — evaluación completa para la bitácora
 
-Resultados guardados en `data/evaluacion_resultados.json`
+**Métricas RAGAS evaluadas:**
 
-> ⚠️ RAGAS usa Groq como LLM juez — requiere saldo disponible (100K tokens/día en plan gratuito).
+| Métrica | Qué mide |
+|---|---|
+| **faithfulness** | La respuesta está sustentada en el contexto recuperado |
+| **answer_relevancy** | La respuesta responde directamente la pregunta |
+| **context_recall** | El contexto cubre la respuesta de referencia |
+| **context_precision** | El contexto recuperado es preciso y sin ruido |
+
+Los scores se envían automáticamente a Langfuse para trazabilidad. Resultados guardados en `data/evaluacion_resultados.json`
+
+> ⚠️ RAGAS usa Groq como LLM juez — requiere saldo disponible (100K tokens/día en plan gratuito). Se evalúan 5 casos representativos de los 20 totales.
 
 ---
 
@@ -247,6 +268,19 @@ aduana_gpt/
     ├── processed/                  # Texto extraído (excluido del repo)
     └── vectorstore/                # ChromaDB (excluido del repo)
 ```
+
+---
+
+## 🔧 Parámetros clave del agente
+
+| Parámetro | Valor | Descripción |
+|---|---|---|
+| `max_tokens` | 1 200 | Longitud máxima de respuesta del LLM |
+| `k_retrieval` | 5 | Candidatos por búsqueda vectorial (BGE-M3) |
+| `k_final` | 3 | Chunks seleccionados tras reranking |
+| Historial | 5 turnos (10 msgs) | Memoria conversacional por sesión |
+| Caché SQLite | 1 mes | Consultas idénticas no generan nueva inferencia |
+| Streaming | `stream_mode="messages"` | Tokens del nodo síntesis enviados en tiempo real |
 
 ---
 
