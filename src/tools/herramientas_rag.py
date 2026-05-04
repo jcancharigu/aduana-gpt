@@ -3,62 +3,80 @@ import warnings
 warnings.filterwarnings("ignore")
 os.environ["ANONYMIZED_TELEMETRY"] = "False"
 
-import logging
-logging.getLogger("chromadb").setLevel(logging.ERROR)
-
-from pathlib import Path
-from sentence_transformers import SentenceTransformer
-from FlagEmbedding import FlagReranker
+import requests
 from langchain.tools import tool
-import chromadb
+from qdrant_client import QdrantClient
 
-# ── Modelos ────────────────────────────────────────────────
-CHROMA_DIR = Path("data/vectorstore")
-_modelo   = SentenceTransformer("BAAI/bge-m3")
-_reranker = FlagReranker("BAAI/bge-reranker-v2-m3", use_fp16=True)
-_cliente  = chromadb.PersistentClient(path=str(CHROMA_DIR))
+_JINA_KEY  = os.getenv("JINA_API_KEY")
+_JINA_EMBD = "https://api.jina.ai/v1/embeddings"
+_JINA_RANK = "https://api.jina.ai/v1/rerank"
+
+_cliente = QdrantClient(
+    url=os.getenv("QDRANT_URL"),
+    api_key=os.getenv("QDRANT_API_KEY"),
+)
+
+def _embed(texto: str) -> list:
+    resp = requests.post(
+        _JINA_EMBD,
+        headers={"Authorization": f"Bearer {_JINA_KEY}", "Content-Type": "application/json"},
+        json={
+            "model": "jina-embeddings-v3",
+            "input": [texto],
+            "task": "retrieval.query",
+            "dimensions": 1024,
+        },
+        timeout=10,
+    )
+    resp.raise_for_status()
+    return resp.json()["data"][0]["embedding"]
+
+def _rerank(consulta: str, docs: list, k_final: int) -> list:
+    resp = requests.post(
+        _JINA_RANK,
+        headers={"Authorization": f"Bearer {_JINA_KEY}", "Content-Type": "application/json"},
+        json={
+            "model": "jina-reranker-v2-base-multilingual",
+            "query": consulta,
+            "documents": docs,
+            "top_n": k_final,
+        },
+        timeout=15,
+    )
+    resp.raise_for_status()
+    return resp.json()["results"]
 
 def _buscar(coleccion: str, consulta: str, k_retrieval: int = 5, k_final: int = 3) -> str:
-    """
-    Retrieval + Reranking pipeline:
-    1. Recupera k_retrieval chunks por similitud coseno (BGE-M3)
-    2. BGE-Reranker-v2-m3 reordena y selecciona los k_final mejores
-    """
     try:
-        col = _cliente.get_collection(coleccion)
-        emb = _modelo.encode(consulta, normalize_embeddings=True).tolist()
+        emb = _embed(consulta)
 
-        # Paso 1: Recuperar candidatos
-        k_real = min(k_retrieval, col.count())
-        res = col.query(query_embeddings=[emb], n_results=k_real)
-        docs  = res["documents"][0]
-        metas = res["metadatas"][0]
+        hits = _cliente.search(
+            collection_name=coleccion,
+            query_vector=emb,
+            limit=k_retrieval,
+        )
 
-        if not docs:
+        if not hits:
             return "No se encontró información relevante."
 
-        # Paso 2: Reranking con BGE-Reranker-v2-m3
+        docs  = [h.payload.get("text", "") for h in hits]
+        metas = [h.payload for h in hits]
+
         if len(docs) > 1:
-            pares = [[consulta, doc] for doc in docs]
-            scores = _reranker.compute_score(pares, normalize=True)
-            ranked = sorted(
-                zip(scores, docs, metas),
-                key=lambda x: x[0],
-                reverse=True
-            )
-            top = ranked[:k_final]
+            ranked = _rerank(consulta, docs, k_final)
+            top = [(r["relevance_score"], docs[r["index"]], metas[r["index"]]) for r in ranked]
         else:
             top = [(1.0, docs[0], metas[0])]
 
-        # Paso 3: Formatear resultado
         out = ""
-        for i, (score, doc, meta) in enumerate(top):
+        for score, doc, meta in top:
             fuente = meta.get("fuente", "desconocido")
             out += f"[Fuente: {fuente} | Relevancia: {score:.2f}]\n{doc}\n\n"
         return out.strip()
 
     except Exception as e:
         return f"Error al buscar en '{coleccion}': {str(e)}"
+
 
 @tool
 def buscar_ley_28008(consulta: str) -> str:

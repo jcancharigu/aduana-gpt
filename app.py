@@ -367,7 +367,7 @@ st.markdown("""
     <span class="hbadge">148 documentos</span>
     <span class="hbadge">3,861 chunks</span>
     <span class="hbadge">7 nodos LangGraph</span>
-    <span class="hbadge">BGE-M3 + Reranker</span>
+    <span class="hbadge">Jina AI + Reranker</span>
     <span class="hbadge">Memoria conversacional</span>
   </div>
 </div>""", unsafe_allow_html=True)
@@ -515,7 +515,7 @@ with col_chat:
 <div style="font-size:11px;color:#2D3748;font-family:'DM Mono',monospace;line-height:1.8">
   LangGraph 7 nodos · aristas condicionales<br>
   Llama 3.3 70B · Groq API<br>
-  BGE-M3 + Reranker · ChromaDB<br>
+  Jina AI + Reranker · Qdrant Cloud<br>
   Memoria conversacional · Caché SQLite<br>
   <span style="color:#10B981">Costo total: S/. 0.00</span>
 </div>""", unsafe_allow_html=True)

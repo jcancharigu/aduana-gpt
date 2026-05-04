@@ -1,0 +1,14 @@
+# Dependencias adicionales para desarrollo local y evaluación.
+# Instalar con: pip install -r requirements.txt -r requirements-dev.txt
+
+# %% Embeddings y Reranker locales (solo para indexar con indexar_chromadb.py) %%
+sentence-transformers==3.3.1
+FlagEmbedding==1.3.2
+torch==2.11.0
+transformers==4.44.2
+chromadb==0.5.20
+
+# %% Evaluación RAGAS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ragas==0.2.6
+datasets==2.19.0
+langchain-huggingface==1.2.1
