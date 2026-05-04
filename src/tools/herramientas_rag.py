@@ -4,7 +4,7 @@ warnings.filterwarnings("ignore")
 os.environ["ANONYMIZED_TELEMETRY"] = "False"
 
 import requests
-from langchain.tools import tool
+from langchain_core.tools import tool
 from qdrant_client import QdrantClient
 
 _JINA_KEY  = os.getenv("JINA_API_KEY")
