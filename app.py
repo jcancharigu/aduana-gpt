@@ -14,53 +14,45 @@ import streamlit as st
 import plotly.graph_objects as go
 from src.agent.agente import consultar, consultar_stream
 from src.prompts.system_prompt import URLS_DOCUMENTOS
-try:
-    from langfuse import Langfuse as _LangfuseClass
-    _lf = _LangfuseClass(
-        public_key=os.getenv("LANGFUSE_PUBLIC_KEY"),
-        secret_key=os.getenv("LANGFUSE_SECRET_KEY"),
-        host=os.getenv("LANGFUSE_HOST", "https://cloud.langfuse.com"),
-    ) if (os.getenv("LANGFUSE_PUBLIC_KEY") and os.getenv("LANGFUSE_SECRET_KEY")) else None
-except Exception:
-    _lf = None
+
+_LF_HOST = os.getenv("LANGFUSE_HOST", "https://cloud.langfuse.com").rstrip("/")
+_LF_AUTH = (os.getenv("LANGFUSE_PUBLIC_KEY", ""), os.getenv("LANGFUSE_SECRET_KEY", ""))
+_lf      = bool(_LF_AUTH[0] and _LF_AUTH[1])
+
+def _lf_post(endpoint: str, data: dict):
+    if not _lf:
+        return
+    try:
+        import requests as _req
+        _req.post(f"{_LF_HOST}/api/public/{endpoint}", auth=_LF_AUTH, json=data, timeout=8)
+    except Exception as e:
+        print(f"[Langfuse] {endpoint}: {e}", flush=True)
 
 def _lf_score(trace_id, value: float, name: str = "user_feedback", comment: str = ""):
-    if not trace_id or not _lf:
+    if not trace_id:
         return
-    try:
-        _lf.score(trace_id=trace_id, name=name, value=value, comment=comment)
-    except Exception:
-        pass
+    _lf_post("scores", {"traceId": trace_id, "name": name, "value": value, "comment": comment})
 
 def _lf_crear_trace(thread_id: str, pregunta: str, respuesta: str, intencion: str) -> str | None:
-    """Crea un trace directamente si el CallbackHandler no generó uno."""
-    if not _lf:
-        return None
-    try:
-        trace = _lf.trace(
-            name="aduana-gpt-consulta",
-            session_id=thread_id,
-            input=pregunta,
-            output=respuesta,
-            metadata={"intencion": intencion},
-        )
-        _lf.flush()
-        return trace.id
-    except Exception:
-        return None
+    tid = str(uuid.uuid4())
+    _lf_post("traces", {
+        "id": tid, "name": "aduana-gpt-consulta",
+        "sessionId": thread_id, "input": pregunta,
+        "output": respuesta, "metadata": {"intencion": intencion},
+    })
+    return tid if _lf else None
 
-def _lf_score_metricas(trace_id, m: dict):
-    if not trace_id or not _lf:
+def _lf_score_metricas(trace_id: str, m: dict):
+    if not trace_id:
         return
-    try:
-        _lf.score(trace_id=trace_id, name="score_global",  value=m["score_global"])
-        _lf.score(trace_id=trace_id, name="relevancia",    value=round(m["relevancia"]   / 100, 4))
-        _lf.score(trace_id=trace_id, name="referencias",   value=round(m["referencias"]  / 100, 4))
-        _lf.score(trace_id=trace_id, name="estructura",    value=round(m["estructura"]   / 100, 4))
-        _lf.score(trace_id=trace_id, name="fluidez",       value=round(m["fluidez"]      / 100, 4))
-        _lf.flush()
-    except Exception:
-        pass
+    for name, val in [
+        ("score_global", m["score_global"]),
+        ("relevancia",   round(m["relevancia"]  / 100, 4)),
+        ("referencias",  round(m["referencias"] / 100, 4)),
+        ("estructura",   round(m["estructura"]  / 100, 4)),
+        ("fluidez",      round(m["fluidez"]     / 100, 4)),
+    ]:
+        _lf_post("scores", {"traceId": trace_id, "name": name, "value": val})
 
 st.set_page_config(
     page_title="ADUANA-GPT · SUNAT Perú",

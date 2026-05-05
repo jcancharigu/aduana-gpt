@@ -22,16 +22,18 @@ _LANGFUSE_CFG = dict(
 def _get_trace_id(handler) -> str | None:
     if handler is None:
         return None
-    try:
-        return handler.get_trace_id()
-    except AttributeError:
-        pass
-    try:
-        url = handler.get_trace_url()
-        if url:
-            return url.rstrip("/").split("/")[-1]
-    except Exception:
-        pass
+    for attr in ("get_trace_id", "get_trace_url"):
+        fn = getattr(handler, attr, None)
+        if fn:
+            try:
+                val = fn()
+                if val:
+                    print(f"[Langfuse] {attr}() = {val}", flush=True)
+                    return val.rstrip("/").split("/")[-1]
+            except Exception:
+                pass
+    props = [a for a in dir(handler) if "trace" in a.lower() and not a.startswith("_")]
+    print(f"[Langfuse] handler trace-attrs: {props}", flush=True)
     return None
 
 def _crear_handler(thread_id: str, user_id: str | None):
