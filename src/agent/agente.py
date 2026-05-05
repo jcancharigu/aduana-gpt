@@ -67,10 +67,18 @@ from src.tools.herramientas_rag import (
     buscar_sanciones_multas,
 )
 
-# ── LLM ───────────────────────────────────────────────────
+# ── LLM principal + fallback ──────────────────────────────
+_GROQ_KEY = os.getenv("GROQ_API_KEY")
 llm = ChatGroq(
     model=os.getenv("LLM_MODEL", "llama-3.3-70b-versatile"),
-    api_key=os.getenv("GROQ_API_KEY"),
+    api_key=_GROQ_KEY,
+    temperature=0.1,
+    max_tokens=1200,
+)
+# llama-3.1-8b-instant: límite diario 500K tokens (vs 100K del 70B)
+llm_fallback = ChatGroq(
+    model="llama-3.1-8b-instant",
+    api_key=_GROQ_KEY,
     temperature=0.1,
     max_tokens=1200,
 )
@@ -259,22 +267,33 @@ def nodo_sintesis(estado: EstadoAgente) -> EstadoAgente:
     )
 
     import time as _time
-    ultimo_error = None
+
+    def _es_limite_diario(err: str) -> bool:
+        return "tokens per day" in err.lower() or "tpd" in err.lower()
+
+    def _es_rate_limit(err: str) -> bool:
+        return "rate_limit" in err.lower() or "429" in err
+
+    # Intento con modelo principal; si agota límite diario, usa fallback
+    modelo_activo = llm
     for intento in range(_MAX_REINTENTOS + 1):
         try:
-            resp = llm.invoke([HumanMessage(content=prompt)])
+            resp = modelo_activo.invoke([HumanMessage(content=prompt)])
             break
         except Exception as e:
-            ultimo_error = e
             err = str(e)
-            if "rate_limit" in err.lower() or "429" in err:
+            if _es_limite_diario(err) and modelo_activo is llm:
+                print("[Groq] límite diario alcanzado, usando modelo fallback.", flush=True)
+                modelo_activo = llm_fallback
+                continue
+            elif _es_rate_limit(err):
                 espera = 20 * (intento + 1)
                 print(f"[Groq] rate limit, esperando {espera}s...", flush=True)
                 _time.sleep(espera)
             else:
                 raise
     else:
-        raise ultimo_error
+        raise Exception("Límite de tokens de Groq alcanzado. Intenta en unos minutos.")
 
     respuesta = resp.content.strip()
 
