@@ -309,7 +309,7 @@ def consultar(
         resultado = agente_compilado.invoke(estado_inicial, config=config)
         respuesta = resultado["respuesta"]
         trace_id = _get_trace_id(handler)
-        if handler:
+        if handler and hasattr(handler, "flush"):
             handler.flush()
         return respuesta, resultado["intencion"], trace_id, resultado.get("contexto", "")
 
@@ -353,7 +353,7 @@ def consultar_stream(
 
         state    = agente_compilado.get_state(config)
         trace_id = _get_trace_id(handler)
-        if handler:
+        if handler and hasattr(handler, "flush"):
             handler.flush()
         vals = state.values
         yield {
