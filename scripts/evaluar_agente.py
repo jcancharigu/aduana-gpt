@@ -234,34 +234,29 @@ CASOS_EVALUAR = [c for c in CASOS if c["id"] in IDS_EVALUAR]
 # ═══════════════════════════════════════════════════════════════
 # EVALUACION RAGAS
 # ═══════════════════════════════════════════════════════════════
-def _get_llm_ragas():
-    """Devuelve el primer LLM disponible para RAGAS (mismo orden de fallback que el agente)."""
-    from langchain_groq import ChatGroq
+def _candidatos_ragas():
+    """Para RAGAS: Gemini primero (límite separado de Groq), luego 8B, 70B al final."""
     candidatos = []
-    if os.getenv("GROQ_API_KEY"):
-        candidatos.append(ChatGroq(model="llama-3.3-70b-versatile", temperature=0))
-        candidatos.append(ChatGroq(model="llama-3.1-8b-instant",    temperature=0))
     if os.getenv("GOOGLE_API_KEY"):
         try:
             from langchain_google_genai import ChatGoogleGenerativeAI
-            candidatos.append(ChatGoogleGenerativeAI(
+            candidatos.append(("gemini-1.5-flash", ChatGoogleGenerativeAI(
                 model="gemini-1.5-flash",
                 google_api_key=os.getenv("GOOGLE_API_KEY"),
                 temperature=0,
-            ))
+            )))
         except ImportError:
             pass
-    for llm in candidatos:
-        try:
-            llm.invoke([{"role": "user", "content": "hi"}])
-            return llm
-        except Exception as e:
-            err = str(e)
-            if "tokens per day" in err.lower() or "rate_limit" in err.lower():
-                print(f"   [RAGAS LLM] {getattr(llm, 'model', 'modelo')} no disponible, probando siguiente...")
-                continue
-            return llm  # otro tipo de error, devolver igual para que RAGAS lo maneje
-    return candidatos[0] if candidatos else None
+    if os.getenv("GROQ_API_KEY"):
+        from langchain_groq import ChatGroq
+        candidatos.append(("llama-3.1-8b-instant",    ChatGroq(model="llama-3.1-8b-instant",    temperature=0)))
+        candidatos.append(("llama-3.3-70b-versatile", ChatGroq(model="llama-3.3-70b-versatile", temperature=0)))
+    return candidatos
+
+def _todos_nan(scores: dict) -> bool:
+    import math
+    vals = [scores.get(m) for m in ["faithfulness","answer_relevancy","context_recall","context_precision"]]
+    return all(v is None or (isinstance(v, float) and math.isnan(v)) for v in vals)
 
 
 def evaluar_con_ragas(pregunta, respuesta, contextos, respuesta_esperada):
@@ -270,43 +265,57 @@ def evaluar_con_ragas(pregunta, respuesta, contextos, respuesta_esperada):
         from ragas.metrics import faithfulness, answer_relevancy, context_recall, context_precision
         from datasets import Dataset
 
-        llm = _get_llm_ragas()
         emb = JinaEmbeddings()
-
         dataset = Dataset.from_dict({
-            "question":    [pregunta],
-            "answer":      [respuesta],
-            "contexts":    [contextos],
-            "ground_truth":[respuesta_esperada],
+            "question":     [pregunta],
+            "answer":       [respuesta],
+            "contexts":     [contextos],
+            "ground_truth": [respuesta_esperada],
         })
 
-        try:
-            from ragas.llms import LangchainLLMWrapper
-            from ragas.embeddings import LangchainEmbeddingsWrapper
-            result = evaluate(
-                dataset,
-                metrics=[faithfulness, answer_relevancy, context_recall, context_precision],
-                llm=LangchainLLMWrapper(llm),
-                embeddings=LangchainEmbeddingsWrapper(emb),
-            )
-        except (ImportError, TypeError):
-            result = evaluate(
-                dataset,
-                metrics=[faithfulness, answer_relevancy, context_recall, context_precision],
-                llm=llm,
-                embeddings=emb,
-            )
+        for nombre, llm_juez in _candidatos_ragas():
+            print(f"   [RAGAS] usando {nombre}...")
+            try:
+                try:
+                    from ragas.llms import LangchainLLMWrapper
+                    from ragas.embeddings import LangchainEmbeddingsWrapper
+                    result = evaluate(
+                        dataset,
+                        metrics=[faithfulness, answer_relevancy, context_recall, context_precision],
+                        llm=LangchainLLMWrapper(llm_juez),
+                        embeddings=LangchainEmbeddingsWrapper(emb),
+                    )
+                except (ImportError, TypeError):
+                    result = evaluate(
+                        dataset,
+                        metrics=[faithfulness, answer_relevancy, context_recall, context_precision],
+                        llm=llm_juez,
+                        embeddings=emb,
+                    )
+            except Exception as e:
+                print(f"   [RAGAS] {nombre} error: {str(e)[:80]}")
+                continue
 
-        def _v(key):
-            v = result[key]
-            return round(float(v[0] if isinstance(v, (list, tuple)) else v), 3)
+            def _v(key):
+                v = result[key]
+                return round(float(v[0] if isinstance(v, (list, tuple)) else v), 3)
 
-        return {
-            "faithfulness":      _v("faithfulness"),
-            "answer_relevancy":  _v("answer_relevancy"),
-            "context_recall":    _v("context_recall"),
-            "context_precision": _v("context_precision"),
-        }
+            scores = {
+                "faithfulness":      _v("faithfulness"),
+                "answer_relevancy":  _v("answer_relevancy"),
+                "context_recall":    _v("context_recall"),
+                "context_precision": _v("context_precision"),
+            }
+
+            if _todos_nan(scores):
+                print(f"   [RAGAS] {nombre} devolvió nan — probando siguiente modelo...")
+                continue
+
+            return scores
+
+        return {"faithfulness": None, "answer_relevancy": None,
+                "context_recall": None, "context_precision": None,
+                "error": "Todos los modelos LLM agotados para RAGAS"}
 
     except Exception as e:
         import traceback
@@ -315,6 +324,7 @@ def evaluar_con_ragas(pregunta, respuesta, contextos, respuesta_esperada):
         return {"faithfulness": None, "answer_relevancy": None,
                 "context_recall": None, "context_precision": None,
                 "error": str(e)[:120]}
+
 
 
 # ═══════════════════════════════════════════════════════════════
