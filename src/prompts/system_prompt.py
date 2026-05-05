@@ -97,37 +97,45 @@ REGLAS DE CALIDAD
 """
 
 # Mapa de códigos a URLs oficiales SUNAT
+_BASE_NA = "https://www.sunat.gob.pe/legislacion/procedim/normasadua/normasociada/"
 URLS_DOCUMENTOS = {
-    # Normas principales — URLs verificadas
+    # Normas principales
     "LEY-28008":        "https://www.sunat.gob.pe/legislacion/procedim/normasadua/gja-05.htm",
     "DL-1053":          "https://www.sunat.gob.pe/legislacion/procedim/normasadua/gja-03.htm",
     "ARANCEL-2022":     "https://www.sunat.gob.pe/legislacion/procedim/normasadua/gja-04.htm",
 
-    # Normas asociadas — página índice general
-    "DS-121-2003-EF":   "https://www.sunat.gob.pe/legislacion/aduanera/index.html",
-    "DS-010-2009-EF":   "https://www.sunat.gob.pe/legislacion/aduanera/index.html",
-    "DS-418-2019-EF":   "https://www.sunat.gob.pe/legislacion/aduanera/index.html",
-    "DS-182-2013-EF":   "https://www.sunat.gob.pe/legislacion/aduanera/index.html",
-    "DS-195-2013-EF":   "https://www.sunat.gob.pe/legislacion/aduanera/index.html",
-    "DS-192-2020-EF":   "https://www.sunat.gob.pe/legislacion/aduanera/index.html",
-    "DS-104-95-EF":     "https://www.sunat.gob.pe/legislacion/aduanera/index.html",
-    "DS-184-2016-EF":   "https://www.sunat.gob.pe/legislacion/aduanera/index.html",
-    "DS-244-2013-EF":   "https://www.sunat.gob.pe/legislacion/aduanera/index.html",
+    # Normas asociadas — URLs específicas por documento
+    "DS-121-2003-EF":   _BASE_NA + "gja-00.09.htm",
+    "DS-010-2009-EF":   _BASE_NA + "gja-00.04.htm",
+    "DS-418-2019-EF":   _BASE_NA + "gja-00.05.htm",
+    "DS-182-2013-EF":   _BASE_NA + "gja-00.06.htm",
+    "DS-195-2013-EF":   _BASE_NA + "gja-00.22.htm",
+    "DS-192-2020-EF":   _BASE_NA + "gja-00.19.htm",
+    "DS-104-95-EF":     _BASE_NA + "gja-00-08.htm",
+    "DS-184-2016-EF":   _BASE_NA + "gja-00.21.htm",
+    "DS-244-2013-EF":   _BASE_NA + "gja-00.07.htm",
 
-    # Procedimientos de despacho — URLs verificadas (descargadas)
-    "DESPA-PG.01":      "https://www.sunat.gob.pe/legislacion/procedim/despacho/importacion/importac/despa-pg.01.htm",
-    "DESPA-PG.02":      "https://www.sunat.gob.pe/legislacion/procedim/despacho/exportacion/exportac/despa-pg.02.htm",
-    "DESPA-PG.07":      "https://www.sunat.gob.pe/legislacion/procedim/despacho/especiales/drawback/despa-pg.07.htm",
-    "DESPA-PG.13":      "https://www.sunat.gob.pe/legislacion/procedim/despacho/especiales/consecPostal/despa-pg.13.htm",
-    "DESPA-PG.28":      "https://www.sunat.gob.pe/legislacion/procedim/despacho/especiales/mensajeria/despa-pg.28.htm",
-    "DESPA-PE.01.10a":  "https://www.sunat.gob.pe/legislacion/procedim/despacho/importacion/importac/procEspecif/despa-pe.01.10a.htm",
+    # Procedimientos de despacho
+    "DESPA-PG.01":      "https://www.sunat.gob.pe/legislacion/procedim/despacho/importacion/importac/procGeneral/despa-pg.01.htm",
+    "DESPA-PG.02":      "https://www.sunat.gob.pe/legislacion/procedim/despacho/exportacion/exportac/procGeneral/despa-pg.02.htm",
+    "DESPA-PG.07":      "https://www.sunat.gob.pe/legislacion/procedim/despacho/perfeccionam/drawback/procGeneral/despa-pg.07.htm",
+    "DESPA-PG.13":      "https://www.sunat.gob.pe/legislacion/procedim/despacho/especiales/consecPostal/procGeneral/despa-pg.13.htm",
+    "DESPA-PG.28":      "https://www.sunat.gob.pe/legislacion/procedim/despacho/especiales/envioEntRap/procGeneral/despa-pg.28.htm",
+    "DESPA-PE.01.10a":  "https://www.sunat.gob.pe/legislacion/procedim/despacho/importacion/importac/procEspecif/despa-pe-01-10a.htm",
+    "DESPA-PE.00.03":   "https://www.sunat.gob.pe/legislacion/procedim/despacho/procAsociados/despa-pe.00.03.htm",
+    "DESPA-PE.00.06":   "https://www.sunat.gob.pe/legislacion/procedim/despacho/procAsociados/despa-pe.00.06.htm",
 
-    # Procedimientos de fiscalización — URLs verificadas
-    "CONTROL-PG.01":    "https://www.sunat.gob.pe/legislacion/procedim/pcontrab/procGeneral/control-pg.01.htm",
-    "CONTROL-PG.02":    "https://www.sunat.gob.pe/legislacion/procedim/pcontrab/procGeneral/control-pg.02.htm",
+    # Procedimientos de fiscalización
+    "CONTROL-PG.01":    "https://www.sunat.gob.pe/legislacion/procedim/fiscalizacion/procGeneral/control-pg.01.htm",
+    "CONTROL-PG.02":    "https://www.sunat.gob.pe/legislacion/procedim/fiscalizacion/procGeneral/control-pg.02.htm",
     "CONTROL-PE.00.01": "https://www.sunat.gob.pe/legislacion/procedim/pcontrab/procEspecif/control-pe.00.01.htm",
+    "CONTROL-PE.00.08": "https://www.sunat.gob.pe/legislacion/procedim/pcontrab/procEspecif/control-pe.00.08.htm",
+    "CONTROL-PE.00.10": "https://www.sunat.gob.pe/legislacion/procedim/pcontrab/procEspecif/control-pe.00.10.htm",
+    "CONTROL-PE.01.09": "https://www.sunat.gob.pe/legislacion/procedim/pcontrab/procEspecif/control-pe.01.09.htm",
 
-    # Procedimientos de recaudación — URLs verificadas
+    # Procedimientos de recaudación
     "RECA-PG.03":       "https://www.sunat.gob.pe/legislacion/procedim/recauda/procGeneral/reca-pg.03.htm",
     "RECA-PG.04":       "https://www.sunat.gob.pe/legislacion/procedim/recauda/procGeneral/reca-pg.04.htm",
+    "RECA-PG.05":       "https://www.sunat.gob.pe/legislacion/procedim/recauda/procGeneral/reca-pg.05.htm",
+    "RECA-PE.02.05":    "https://www.sunat.gob.pe/legislacion/procedim/recauda/procEspecif/reca-pe.02.05.htm",
 }
