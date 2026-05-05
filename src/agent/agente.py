@@ -96,6 +96,30 @@ try:
 except ImportError:
     llm_fallback2 = None
 
+# ── Helper: invocar con fallback automático ───────────────
+_CADENA_LLM = [m for m in [llm, llm_fallback, llm_fallback2] if m is not None]
+
+def _invocar(mensajes: list) -> object:
+    """Intenta cada modelo en orden; pasa al siguiente si se agota el límite diario."""
+    import time as _t
+    ultimo_error = None
+    for modelo in _CADENA_LLM:
+        try:
+            return modelo.invoke(mensajes)
+        except Exception as e:
+            err = str(e)
+            if "tokens per day" in err.lower() or ("rate_limit" in err.lower() and "tokens per day" in err.lower()):
+                nombre = getattr(modelo, "model", getattr(modelo, "model_name", "modelo"))
+                print(f"[LLM] límite diario en {nombre}, probando siguiente...", flush=True)
+                ultimo_error = e
+                continue
+            elif "rate_limit" in err.lower() or "429" in err:
+                _t.sleep(20)
+                ultimo_error = e
+                continue
+            raise
+    raise ultimo_error or Exception("Todos los modelos LLM han alcanzado su límite diario.")
+
 # ── Estado del grafo ───────────────────────────────────────
 class EstadoAgente(TypedDict):
     pregunta:  str
@@ -136,7 +160,7 @@ Responde SOLO con la palabra del dominio, sin explicación.
 Consulta: {pregunta}"""
 
 def nodo_clasificador(estado: EstadoAgente) -> EstadoAgente:
-    resp = llm.invoke([
+    resp = _invocar([
         SystemMessage(content="Eres un clasificador de consultas aduaneras. Responde solo con el dominio."),
         HumanMessage(content=PROMPT_CLASIFICADOR.format(pregunta=estado["pregunta"]))
     ])
@@ -279,42 +303,7 @@ def nodo_sintesis(estado: EstadoAgente) -> EstadoAgente:
         pregunta=estado["pregunta"]
     )
 
-    import time as _time
-
-    def _es_limite_diario(err: str) -> bool:
-        return "tokens per day" in err.lower() or "tpd" in err.lower()
-
-    def _es_rate_limit(err: str) -> bool:
-        return "rate_limit" in err.lower() or "429" in err
-
-    # Cadena de fallbacks: 70B → 8B → Gemini 1.5 Flash
-    cadena = [m for m in [llm, llm_fallback, llm_fallback2] if m is not None]
-    modelo_activo = cadena[0]
-    idx_modelo = 0
-
-    for intento in range(_MAX_REINTENTOS + 1):
-        try:
-            resp = modelo_activo.invoke([HumanMessage(content=prompt)])
-            break
-        except Exception as e:
-            err = str(e)
-            if _es_limite_diario(err) or (_es_rate_limit(err) and "tokens per day" in err.lower()):
-                idx_modelo += 1
-                if idx_modelo < len(cadena):
-                    modelo_activo = cadena[idx_modelo]
-                    nombre = getattr(modelo_activo, "model", getattr(modelo_activo, "model_name", "fallback"))
-                    print(f"[LLM] límite diario, cambiando a: {nombre}", flush=True)
-                    continue
-                raise Exception("Límite diario alcanzado en todos los modelos. Intenta mañana.")
-            elif _es_rate_limit(err):
-                espera = 20 * (intento + 1)
-                print(f"[LLM] rate limit, esperando {espera}s...", flush=True)
-                _time.sleep(espera)
-            else:
-                raise
-    else:
-        raise Exception("Límite de tokens alcanzado. Intenta en unos minutos.")
-
+    resp = _invocar([HumanMessage(content=prompt)])
     respuesta = resp.content.strip()
 
     # Actualizar historial — cap de 10 mensajes (5 turnos) para evitar overflow
