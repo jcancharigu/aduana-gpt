@@ -6,13 +6,33 @@ from langgraph.checkpoint.memory import MemorySaver
 from dotenv import load_dotenv
 load_dotenv()
 
-from langfuse.langchain import CallbackHandler
+try:
+    from langfuse.langchain import CallbackHandler as _LFHandler
+    _LANGFUSE_AVAILABLE = True
+except ImportError:
+    _LFHandler = None
+    _LANGFUSE_AVAILABLE = False
 
 _LANGFUSE_CFG = dict(
     public_key=os.getenv("LANGFUSE_PUBLIC_KEY"),
     secret_key=os.getenv("LANGFUSE_SECRET_KEY"),
-    host=os.getenv("LANGFUSE_HOST", "http://localhost:3000"),
+    host=os.getenv("LANGFUSE_HOST", "https://cloud.langfuse.com"),
 )
+
+def _crear_handler(thread_id: str, user_id: str | None):
+    if not _LANGFUSE_AVAILABLE:
+        return None
+    if not (_LANGFUSE_CFG["public_key"] and _LANGFUSE_CFG["secret_key"]):
+        return None
+    try:
+        return _LFHandler(
+            **_LANGFUSE_CFG,
+            session_id=thread_id,
+            user_id=user_id or thread_id,
+            trace_name="aduana-gpt-consulta",
+        )
+    except Exception:
+        return None
 
 from concurrent.futures import ThreadPoolExecutor
 from typing import TypedDict
@@ -263,12 +283,7 @@ def consultar(
 ) -> tuple[str, str]:
     """Consulta al agente ADUANA-GPT con memoria conversacional."""
     try:
-        handler = CallbackHandler(
-            **_LANGFUSE_CFG,
-            session_id=thread_id,
-            user_id=user_id or thread_id,
-            trace_name="aduana-gpt-consulta",
-        )
+        handler = _crear_handler(thread_id, user_id)
         estado_inicial = {
             "pregunta":  pregunta,
             "intencion": "",
@@ -278,19 +293,20 @@ def consultar(
         }
         config = {
             "configurable": {"thread_id": thread_id},
-            "callbacks": [handler],
+            "callbacks": [handler] if handler else [],
         }
         resultado = agente_compilado.invoke(estado_inicial, config=config)
         respuesta = resultado["respuesta"]
-        trace_id = handler.get_trace_id()
-        handler.flush()
+        trace_id = handler.get_trace_id() if handler else None
+        if handler:
+            handler.flush()
         return respuesta, resultado["intencion"], trace_id, resultado.get("contexto", "")
 
     except Exception as e:
         error = str(e)
         if "413" in error or "rate_limit" in error.lower():
             return "⚠️ Límite de tokens...", "ERROR", None, ""
-        return "Error al procesar...", "ERROR", None, ""
+        return f"Error al procesar: {error[:300]}", "ERROR", None, ""
 
 
 def consultar_stream(
@@ -302,12 +318,7 @@ def consultar_stream(
     del nodo síntesis, y {'type':'done', intencion, trace_id, contexto, respuesta}
     al finalizar. Usado por app.py para mostrar texto token a token."""
     try:
-        handler = CallbackHandler(
-            **_LANGFUSE_CFG,
-            session_id=thread_id,
-            user_id=user_id or thread_id,
-            trace_name="aduana-gpt-consulta",
-        )
+        handler = _crear_handler(thread_id, user_id)
         estado_inicial = {
             "pregunta":  pregunta,
             "intencion": "",
@@ -316,7 +327,7 @@ def consultar_stream(
         }
         config = {
             "configurable": {"thread_id": thread_id},
-            "callbacks": [handler],
+            "callbacks": [handler] if handler else [],
         }
 
         for msg, metadata in agente_compilado.stream(
@@ -330,8 +341,9 @@ def consultar_stream(
                 yield {"type": "token", "content": msg.content}
 
         state    = agente_compilado.get_state(config)
-        trace_id = handler.get_trace_id()
-        handler.flush()
+        trace_id = handler.get_trace_id() if handler else None
+        if handler:
+            handler.flush()
         vals = state.values
         yield {
             "type":      "done",
@@ -343,7 +355,9 @@ def consultar_stream(
 
     except Exception as e:
         error = str(e)
-        msg = ("⚠️ Límite de tokens..." if ("413" in error or "rate_limit" in error.lower())
-               else "Error al procesar...")
+        if "413" in error or "rate_limit" in error.lower():
+            msg = "⚠️ Límite de tokens alcanzado. Intenta con una pregunta más corta."
+        else:
+            msg = f"Error al procesar: {error[:300]}"
         yield {"type": "done", "intencion": "ERROR",
                "trace_id": None, "contexto": "", "respuesta": msg}
