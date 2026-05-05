@@ -19,6 +19,21 @@ _LANGFUSE_CFG = dict(
     host=os.getenv("LANGFUSE_HOST", "https://cloud.langfuse.com"),
 )
 
+def _get_trace_id(handler) -> str | None:
+    if handler is None:
+        return None
+    try:
+        return handler.get_trace_id()
+    except AttributeError:
+        pass
+    try:
+        url = handler.get_trace_url()
+        if url:
+            return url.rstrip("/").split("/")[-1]
+    except Exception:
+        pass
+    return None
+
 def _crear_handler(thread_id: str, user_id: str | None):
     if not _LANGFUSE_AVAILABLE:
         return None
@@ -293,7 +308,7 @@ def consultar(
         }
         resultado = agente_compilado.invoke(estado_inicial, config=config)
         respuesta = resultado["respuesta"]
-        trace_id = handler.get_trace_id() if handler else None
+        trace_id = _get_trace_id(handler)
         if handler:
             handler.flush()
         return respuesta, resultado["intencion"], trace_id, resultado.get("contexto", "")
@@ -337,7 +352,7 @@ def consultar_stream(
                 yield {"type": "token", "content": msg.content}
 
         state    = agente_compilado.get_state(config)
-        trace_id = handler.get_trace_id() if handler else None
+        trace_id = _get_trace_id(handler)
         if handler:
             handler.flush()
         vals = state.values
