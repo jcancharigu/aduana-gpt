@@ -67,21 +67,34 @@ from src.tools.herramientas_rag import (
     buscar_sanciones_multas,
 )
 
-# ── LLM principal + fallback ──────────────────────────────
-_GROQ_KEY = os.getenv("GROQ_API_KEY")
+# ── LLM principal + fallbacks ─────────────────────────────
+_GROQ_KEY   = os.getenv("GROQ_API_KEY")
+_GOOGLE_KEY = os.getenv("GOOGLE_API_KEY")
+
 llm = ChatGroq(
     model=os.getenv("LLM_MODEL", "llama-3.3-70b-versatile"),
     api_key=_GROQ_KEY,
     temperature=0.1,
     max_tokens=1200,
 )
-# llama-3.1-8b-instant: límite diario 500K tokens (vs 100K del 70B)
+# Fallback 1 — llama-3.1-8b-instant: 500K TPD en Groq
 llm_fallback = ChatGroq(
     model="llama-3.1-8b-instant",
     api_key=_GROQ_KEY,
     temperature=0.1,
     max_tokens=1200,
 )
+# Fallback 2 — Gemini 1.5 Flash: 1M tokens/día en Google AI Studio
+try:
+    from langchain_google_genai import ChatGoogleGenerativeAI as _ChatGemini
+    llm_fallback2 = _ChatGemini(
+        model="gemini-1.5-flash",
+        google_api_key=_GOOGLE_KEY,
+        temperature=0.1,
+        max_output_tokens=1200,
+    ) if _GOOGLE_KEY else None
+except ImportError:
+    llm_fallback2 = None
 
 # ── Estado del grafo ───────────────────────────────────────
 class EstadoAgente(TypedDict):
@@ -274,26 +287,33 @@ def nodo_sintesis(estado: EstadoAgente) -> EstadoAgente:
     def _es_rate_limit(err: str) -> bool:
         return "rate_limit" in err.lower() or "429" in err
 
-    # Intento con modelo principal; si agota límite diario, usa fallback
-    modelo_activo = llm
+    # Cadena de fallbacks: 70B → 8B → Gemini 1.5 Flash
+    cadena = [m for m in [llm, llm_fallback, llm_fallback2] if m is not None]
+    modelo_activo = cadena[0]
+    idx_modelo = 0
+
     for intento in range(_MAX_REINTENTOS + 1):
         try:
             resp = modelo_activo.invoke([HumanMessage(content=prompt)])
             break
         except Exception as e:
             err = str(e)
-            if _es_limite_diario(err) and modelo_activo is llm:
-                print("[Groq] límite diario alcanzado, usando modelo fallback.", flush=True)
-                modelo_activo = llm_fallback
-                continue
+            if _es_limite_diario(err) or (_es_rate_limit(err) and "tokens per day" in err.lower()):
+                idx_modelo += 1
+                if idx_modelo < len(cadena):
+                    modelo_activo = cadena[idx_modelo]
+                    nombre = getattr(modelo_activo, "model", getattr(modelo_activo, "model_name", "fallback"))
+                    print(f"[LLM] límite diario, cambiando a: {nombre}", flush=True)
+                    continue
+                raise Exception("Límite diario alcanzado en todos los modelos. Intenta mañana.")
             elif _es_rate_limit(err):
                 espera = 20 * (intento + 1)
-                print(f"[Groq] rate limit, esperando {espera}s...", flush=True)
+                print(f"[LLM] rate limit, esperando {espera}s...", flush=True)
                 _time.sleep(espera)
             else:
                 raise
     else:
-        raise Exception("Límite de tokens de Groq alcanzado. Intenta en unos minutos.")
+        raise Exception("Límite de tokens alcanzado. Intenta en unos minutos.")
 
     respuesta = resp.content.strip()
 
