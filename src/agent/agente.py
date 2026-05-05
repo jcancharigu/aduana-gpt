@@ -223,20 +223,59 @@ CONSULTA ACTUAL:
 Genera una respuesta estructurada. Si el historial tiene contexto relevante, 
 úsalo para dar una respuesta más precisa y coherente."""
 
+_MAX_CONTEXTO = 3800   # chars — ~950 tokens, deja margen para prompt+respuesta
+_MAX_REINTENTOS = 2
+
+def _truncar_contexto(ctx: str) -> str:
+    if len(ctx) <= _MAX_CONTEXTO:
+        return ctx
+    # Recortar cada sección proporcionalmente en vez de cortar a mitad
+    import re as _re
+    partes = _re.split(r'(=== .+? ===\n?)', ctx)
+    resultado, budget = "", _MAX_CONTEXTO
+    for p in partes:
+        if len(p) <= budget:
+            resultado += p
+            budget -= len(p)
+        else:
+            resultado += p[:budget] + "\n[...contexto truncado]"
+            break
+    return resultado
+
 def nodo_sintesis(estado: EstadoAgente) -> EstadoAgente:
     historial_texto = ""
     for msg in estado.get("historial", []):
         rol = "Usuario" if msg["rol"] == "user" else "Agente"
         historial_texto += f"{rol}: {msg['contenido']}\n"
 
+    contexto_seguro = _truncar_contexto(estado["contexto"])
+
     prompt = PROMPT_SINTESIS.format(
         system_prompt=SYSTEM_PROMPT,
         intencion=estado["intencion"],
         historial=historial_texto if historial_texto else "Sin historial previo.",
-        contexto=estado["contexto"],
+        contexto=contexto_seguro,
         pregunta=estado["pregunta"]
     )
-    resp = llm.invoke([HumanMessage(content=prompt)])
+
+    import time as _time
+    ultimo_error = None
+    for intento in range(_MAX_REINTENTOS + 1):
+        try:
+            resp = llm.invoke([HumanMessage(content=prompt)])
+            break
+        except Exception as e:
+            ultimo_error = e
+            err = str(e)
+            if "rate_limit" in err.lower() or "429" in err:
+                espera = 20 * (intento + 1)
+                print(f"[Groq] rate limit, esperando {espera}s...", flush=True)
+                _time.sleep(espera)
+            else:
+                raise
+    else:
+        raise ultimo_error
+
     respuesta = resp.content.strip()
 
     # Actualizar historial — cap de 10 mensajes (5 turnos) para evitar overflow
