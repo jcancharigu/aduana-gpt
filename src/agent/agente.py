@@ -25,10 +25,7 @@ def _crear_handler(thread_id: str, user_id: str | None):
     if not (_LANGFUSE_CFG["public_key"] and _LANGFUSE_CFG["secret_key"]):
         return None
     try:
-        return _LFHandler(
-            session_id=thread_id,
-            user_id=user_id or thread_id,
-        )
+        return _LFHandler()
     except Exception as e:
         print(f"[Langfuse] handler error: {e}", flush=True)
         return None
