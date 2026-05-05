@@ -29,9 +29,9 @@ def _crear_handler(thread_id: str, user_id: str | None):
             **_LANGFUSE_CFG,
             session_id=thread_id,
             user_id=user_id or thread_id,
-            trace_name="aduana-gpt-consulta",
         )
-    except Exception:
+    except Exception as e:
+        print(f"[Langfuse] handler error: {e}", flush=True)
         return None
 
 from concurrent.futures import ThreadPoolExecutor

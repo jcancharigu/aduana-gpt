@@ -32,6 +32,23 @@ def _lf_score(trace_id, value: float, name: str = "user_feedback", comment: str 
     except Exception:
         pass
 
+def _lf_crear_trace(thread_id: str, pregunta: str, respuesta: str, intencion: str) -> str | None:
+    """Crea un trace directamente si el CallbackHandler no generó uno."""
+    if not _lf:
+        return None
+    try:
+        trace = _lf.trace(
+            name="aduana-gpt-consulta",
+            session_id=thread_id,
+            input=pregunta,
+            output=respuesta,
+            metadata={"intencion": intencion},
+        )
+        _lf.flush()
+        return trace.id
+    except Exception:
+        return None
+
 def _lf_score_metricas(trace_id, m: dict):
     if not trace_id or not _lf:
         return
@@ -41,6 +58,7 @@ def _lf_score_metricas(trace_id, m: dict):
         _lf.score(trace_id=trace_id, name="referencias",   value=round(m["referencias"]  / 100, 4))
         _lf.score(trace_id=trace_id, name="estructura",    value=round(m["estructura"]   / 100, 4))
         _lf.score(trace_id=trace_id, name="fluidez",       value=round(m["fluidez"]      / 100, 4))
+        _lf.flush()
     except Exception:
         pass
 
@@ -653,6 +671,10 @@ Escribe tu consulta o usa los ejemplos del panel izquierdo.
             m = calcular_metricas(pregunta, respuesta, tiempo)
             m["intencion"] = intencion
             render_metrics(m)
+
+            # Si el CallbackHandler no generó trace, crear uno directo
+            if not trace_id and not desde_cache:
+                trace_id = _lf_crear_trace(st.session_state.thread_id, pregunta, respuesta, intencion)
 
             # Enviar métricas automáticas a Langfuse
             _lf_score_metricas(trace_id, m)
