@@ -14,19 +14,33 @@ import streamlit as st
 import plotly.graph_objects as go
 from src.agent.agente import consultar, consultar_stream
 from src.prompts.system_prompt import URLS_DOCUMENTOS
-from langfuse import Langfuse
+try:
+    from langfuse import Langfuse as _LangfuseClass
+    _lf = _LangfuseClass(
+        public_key=os.getenv("LANGFUSE_PUBLIC_KEY"),
+        secret_key=os.getenv("LANGFUSE_SECRET_KEY"),
+        host=os.getenv("LANGFUSE_HOST", "https://cloud.langfuse.com"),
+    ) if (os.getenv("LANGFUSE_PUBLIC_KEY") and os.getenv("LANGFUSE_SECRET_KEY")) else None
+except Exception:
+    _lf = None
 
-_lf = Langfuse(
-    public_key=os.getenv("LANGFUSE_PUBLIC_KEY"),
-    secret_key=os.getenv("LANGFUSE_SECRET_KEY"),
-    host=os.getenv("LANGFUSE_HOST", "http://localhost:3000"),
-)
-
-def _lf_score(trace_id, value: float, comment: str = ""):
-    if not trace_id:
+def _lf_score(trace_id, value: float, name: str = "user_feedback", comment: str = ""):
+    if not trace_id or not _lf:
         return
     try:
-        _lf.score(trace_id=trace_id, name="user_feedback", value=value, comment=comment)
+        _lf.score(trace_id=trace_id, name=name, value=value, comment=comment)
+    except Exception:
+        pass
+
+def _lf_score_metricas(trace_id, m: dict):
+    if not trace_id or not _lf:
+        return
+    try:
+        _lf.score(trace_id=trace_id, name="score_global",  value=m["score_global"])
+        _lf.score(trace_id=trace_id, name="relevancia",    value=round(m["relevancia"]   / 100, 4))
+        _lf.score(trace_id=trace_id, name="referencias",   value=round(m["referencias"]  / 100, 4))
+        _lf.score(trace_id=trace_id, name="estructura",    value=round(m["estructura"]   / 100, 4))
+        _lf.score(trace_id=trace_id, name="fluidez",       value=round(m["fluidez"]      / 100, 4))
     except Exception:
         pass
 
@@ -636,6 +650,9 @@ Escribe tu consulta o usa los ejemplos del panel izquierdo.
             m["intencion"] = intencion
             render_metrics(m)
 
+            # Enviar métricas automáticas a Langfuse
+            _lf_score_metricas(trace_id, m)
+
             # Guardar en DB y obtener ID
             db_id = guardar_consulta(pregunta, respuesta, intencion, tiempo, m["score_global"])
 
@@ -644,11 +661,11 @@ Escribe tu consulta o usa los ejemplos del panel izquierdo.
             with col1:
                 if st.button("👍", key=f"fb_pos_new", help="Respuesta útil"):
                     guardar_feedback(db_id, 1)
-                    _lf_score(trace_id, 1.0, comment="👍")
+                    _lf_score(trace_id, 1.0, name="user_feedback", comment="👍")
             with col2:
                 if st.button("👎", key=f"fb_neg_new", help="Respuesta incorrecta"):
                     guardar_feedback(db_id, 0)
-                    _lf_score(trace_id, 0.0, comment="👎")
+                    _lf_score(trace_id, 0.0, name="user_feedback", comment="👎")
 
         st.session_state.messages.append({
             "role":        "assistant",
