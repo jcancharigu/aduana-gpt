@@ -240,8 +240,8 @@ def _candidatos_ragas():
     if os.getenv("GOOGLE_API_KEY"):
         try:
             from langchain_google_genai import ChatGoogleGenerativeAI
-            candidatos.append(("gemini-1.5-flash", ChatGoogleGenerativeAI(
-                model="gemini-1.5-flash",
+            candidatos.append(("gemini-2.0-flash", ChatGoogleGenerativeAI(
+                model="gemini-2.0-flash",
                 google_api_key=os.getenv("GOOGLE_API_KEY"),
                 temperature=0,
             )))

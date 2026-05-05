@@ -88,7 +88,7 @@ llm_fallback = ChatGroq(
 try:
     from langchain_google_genai import ChatGoogleGenerativeAI as _ChatGemini
     llm_fallback2 = _ChatGemini(
-        model="gemini-1.5-flash",
+        model="gemini-2.0-flash",
         google_api_key=_GOOGLE_KEY,
         temperature=0.1,
         max_output_tokens=1200,
