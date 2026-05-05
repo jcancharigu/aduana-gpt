@@ -26,7 +26,6 @@ def _crear_handler(thread_id: str, user_id: str | None):
         return None
     try:
         return _LFHandler(
-            **_LANGFUSE_CFG,
             session_id=thread_id,
             user_id=user_id or thread_id,
         )
