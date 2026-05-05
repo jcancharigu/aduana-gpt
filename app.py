@@ -518,6 +518,10 @@ with col_chat:
 </div>""", unsafe_allow_html=True)
 
         st.markdown("---")
+        lf_color = "#10B981" if _lf else "#EF4444"
+        lf_label = "Langfuse activo" if _lf else "Langfuse: sin claves"
+        st.markdown(f'<div style="font-size:11px;color:{lf_color};font-family:\'DM Mono\',monospace;margin-bottom:8px">● {lf_label}</div>', unsafe_allow_html=True)
+        st.markdown("---")
         if st.button("🗑 Limpiar conversación", use_container_width=True):
             st.session_state.messages = []
             st.session_state.historia = []
