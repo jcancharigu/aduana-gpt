@@ -249,8 +249,8 @@ def _candidatos_ragas():
             pass
     if os.getenv("GROQ_API_KEY"):
         from langchain_groq import ChatGroq
-        candidatos.append(("llama-3.1-8b-instant",    ChatGroq(model="llama-3.1-8b-instant",    temperature=0)))
-        candidatos.append(("llama-3.3-70b-versatile", ChatGroq(model="llama-3.3-70b-versatile", temperature=0)))
+        candidatos.append(("llama-3.1-8b-instant",    ChatGroq(model="llama-3.1-8b-instant",    temperature=0, max_tokens=4096)))
+        candidatos.append(("llama-3.3-70b-versatile", ChatGroq(model="llama-3.3-70b-versatile", temperature=0, max_tokens=4096)))
     return candidatos
 
 def _todos_nan(scores: dict) -> bool:
