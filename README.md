@@ -12,6 +12,7 @@
 ![Nodos](https://img.shields.io/badge/Nodos_LangGraph-7-purple)
 ![Chunks](https://img.shields.io/badge/Chunks-3%2C861-teal)
 ![Streaming](https://img.shields.io/badge/Streaming-token_a_token-cyan)
+![Evaluacion](https://img.shields.io/badge/Evaluaci%C3%B3n-BLEU·ROUGE·Ground-orange)
 ![Costo](https://img.shields.io/badge/Costo_total-S/._0.00-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
@@ -64,7 +65,7 @@ El agente responde con **cita exacta del artículo y documento fuente**, orienta
 | **Fallback automático de LLM** | Si el modelo principal agota su límite diario, el sistema cambia automáticamente a llama-3.1-8b-instant y luego a gemini-2.0-flash. Sin interrupciones para el usuario. |
 | **Caché SQLite** | Consultas idénticas se sirven en <0.5 s sin consumir tokens. Validez de 1 mes por entrada. Hash MD5 normalizado (minúsculas + trim). |
 | **Observabilidad completa** | Trazas, latencia y scores automáticos enviados a Langfuse Cloud. Feedback explícito del usuario (👍 / 👎) también registrado. |
-| **Evaluación RAGAS** | Métricas automáticas de recuperación y relevancia sobre 20 casos de prueba + evaluación manual experta en 4 dimensiones. |
+| **Evaluación grounding** | Métricas BLEU-1, ROUGE-1 F1 y similitud coseno (Jina embeddings) sobre 20 casos de prueba con ground truths basados en procedimientos SUNAT reales + evaluación manual experta en 4 dimensiones. |
 | **Panel de métricas en tiempo real** | Score global, relevancia, referencias normativas, estructura y fluidez calculados en cada respuesta. Gráfica de evolución de sesión con Plotly. |
 | **Historial persistente SQLite** | Todas las consultas, respuestas, dominios, tiempos y feedback se almacenan en `data/historial.db`. Exportable a JSON. |
 | **Chips de fuente con enlace** | Los códigos de documentos citados en la respuesta (ej. `[DS-182-2013-EF]`) se convierten en chips clicables que enlazan al portal oficial SUNAT. |
@@ -415,7 +416,7 @@ def calcular_metricas(pregunta, respuesta, tiempo) -> dict:
 | Vector store | Qdrant Cloud | — | 1 cluster + 1GB |
 | Observabilidad | Langfuse Cloud | 3.x | Trazas ilimitadas |
 | Interfaz | Streamlit Community Cloud | 1.40.2 | Deploy público |
-| Evaluación | RAGAS | 0.2.6 | Gratuito (open source) |
+| Evaluación | BLEU-1 · ROUGE-1 · Ground coseno (Jina) | — | Gratuito (nltk · rouge-score) |
 | Historial/Caché | SQLite (stdlib Python) | — | Gratuito |
 | Gráficas | Plotly | 6.6.0 | Gratuito (open source) |
 
@@ -647,11 +648,11 @@ aduana_gpt/
 │   ├── descargar_todo.py          # Descarga los 148 documentos SUNAT (HTML + PDF)
 │   ├── extraer_texto.py           # Extracción y limpieza de texto de HTML y PDF
 │   ├── indexar_qdrant.py          # Chunking por artículo + indexación en Qdrant Cloud
-│   └── evaluar_agente.py          # Evaluación RAGAS + evaluación manual experta
+│   └── evaluar_agente.py          # Evaluación grounding: BLEU-1, ROUGE-1, Ground coseno (Jina) + manual experta
 │
 ├── data/                           # Generado en tiempo de ejecución (no versionado)
 │   ├── historial.db               # SQLite: consultas + caché de respuestas
-│   └── evaluacion_resultados.json # Resultados de la evaluación RAGAS + manual
+│   └── evaluacion_resultados.json # Resultados de la evaluación grounding + manual
 │
 └── ADUANA_GPT_Presentacion_v2.pptx  # Presentación del proyecto (10 diapositivas)
 ```
@@ -689,13 +690,22 @@ aduana_gpt/
 
 ## 📊 Evaluación
 
-El agente se evalúa con dos métodos complementarios sobre **20 casos de prueba** distribuidos en 3 perfiles de usuario:
+El agente se evalúa con dos métodos complementarios sobre **20 casos de prueba** distribuidos en 3 perfiles de usuario. Los ground truths están basados directamente en los procedimientos y leyes oficiales de SUNAT (CONTROL-PG.01/02, DESPA-PG.01/02, Ley 28008, DL 1053 y normas asociadas).
 
 | Perfil | Casos | Temas cubiertos |
 |---|---|---|
-| **Especialista SUNAT** | 7 | ACE, inmovilización, contrabando, sanciones, defraudación |
-| **Operador de Comercio Exterior** | 7 | Drawback, arancel, canales de control, despacho anticipado, exportación, agente de aduana, abandono legal |
-| **Ciudadano** | 6 | Equipaje, drone, no declaración, medicamentos, courier, compras online, dinero en efectivo |
+| **Especialista SUNAT** | 6 | ACE (etapas reales), inmovilización, contrabando (Arts. 1/3/10), sanciones/comiso, defraudación de rentas |
+| **Operador de Comercio Exterior** | 7 | Drawback (requisitos + 3% FOB), arancel, canales de control, despacho anticipado (15 días), exportación definitiva, agente de aduana, abandono legal (15/30 días) |
+| **Ciudadano** | 7 | Equipaje (USD 500 franquicia), drone (partida 8806), no declaración, medicamentos, courier (USD 200 exento), compras online, dinero en efectivo (USD 10 000) |
+
+Los casos se clasifican por tipo de pregunta:
+
+| Tipo | Prefijo ID | Ejemplos |
+|---|---|---|
+| `definition` | `D` | ¿Qué es una ACE? ¿Qué es el abandono legal? |
+| `procedure` | `P` | ¿Cómo se inmoviliza? ¿Cuál es el plazo de regularización? |
+| `scenario` | `E` | ¿Cuánto pago por laptops? ¿Puedo traer medicamentos? |
+| `comparison` | `C` | ¿Diferencia entre inmovilización e incautación? |
 
 ### Ejecutar la evaluación
 
@@ -706,28 +716,43 @@ python scripts/evaluar_agente.py
 Selecciona el modo al iniciarse:
 
 ```
-¿Modo?
-  1 = Solo RAGAS automático
+Modo?
+  1 = Solo BLEU/ROUGE/Ground
   2 = Solo evaluación manual experto
   3 = Ambos
 ```
 
-### Evaluación automática RAGAS
+### Evaluación automática — Métricas de grounding
 
-| Métrica | Qué mide |
+Se calculan **3 métricas** por caso, sin consumir tokens de LLM:
+
+| Métrica | Tipo | Qué mide |
+|---|---|---|
+| `ground` | Semántica (coseno) | Similitud coseno entre embeddings Jina de la respuesta y el ground truth. Captura alineación conceptual. |
+| `bleu1` | Léxica (precisión) | Fracción de unigramas de la respuesta que aparecen en el ground truth. Bajo si la respuesta es más larga/verbosa que el GT. |
+| `rouge1_f` | Léxica (F1) | F1 de unigramas entre respuesta y ground truth. Balance entre precisión y cobertura léxica. |
+
+El **veredicto** se determina por el score `ground`:
+
+| Veredicto | Umbral |
 |---|---|
-| `context_recall` | El contexto recuperado cubre la respuesta de referencia |
-| `context_precision` | El contexto recuperado es preciso y sin ruido |
-| `answer_relevancy` | La respuesta responde directamente la pregunta |
-| `faithfulness` | La respuesta es fiel al contexto (sin alucinaciones) |
+| `✓ FUNDAMENTADO` | ground ≥ 0.80 |
+| `~ PARCIAL` | ground ≥ 0.65 |
+| `✗ NO FUNDAMENTADO` | ground < 0.65 |
 
-Los scores se envían automáticamente a Langfuse. Resultados guardados en `data/evaluacion_resultados.json` como checkpoint (se guarda tras cada caso).
+**Salida de ejemplo:**
 
-La evaluación incluye un **sleep de 35 s entre casos** para respetar los rate limits de Groq.
+```
+ID    Tipo         Ground    BLEU    ROUGE  Veredicto
+--------------------------------------------------------------------
+D01   definition   0.8421  0.1190  0.2260  ✓ FUNDAMENTADO
+P02   procedure    0.8115  0.1320  0.2390  ✓ FUNDAMENTADO
+D03   definition   0.8330  0.1200  0.2440  ✓ FUNDAMENTADO
+```
 
-#### Nota metodológica importante
+> **Nota metodológica:** BLEU-1 y ROUGE-1 son bajos por diseño — los ground truths son frases densas de ~50 palabras mientras el agente responde con ~150 palabras incluyendo base legal y contexto. El score relevante es `ground` (coseno semántico), que mide si la respuesta cubre los conceptos clave aunque use paráfrasis.
 
-> RAGAS fue diseñado originalmente para inglés y requiere un LLM juez de alta capacidad (GPT-4 o equivalente) para funcionar correctamente. En este proyecto se usa Llama 3.1 8B como juez por ser el único disponible con suficiente cuota, lo que puede subestimar los scores reales. Los resultados RAGAS deben interpretarse como **referencia relativa**, no como medición absoluta. La evaluación manual experta complementa esta limitación.
+Los scores se envían automáticamente a Langfuse. Resultados guardados en `data/evaluacion_resultados.json` como checkpoint tras cada caso.
 
 ### Evaluación manual experta
 
@@ -782,7 +807,7 @@ El evaluador humano puntúa cada respuesta en 4 dimensiones (escala 1–5):
 ### Operador OCE — Dominio RECAUDACIÓN
 > *"¿Qué es el abandono legal y en qué plazo se produce?"*
 
-**Respuesta esperada:** Cita Art. 178° del DL 1053, indica plazo de 30 días hábiles desde la numeración de la DAM sin destinación a régimen, menciona consecuencias y DESPA-PE.00.03.
+**Respuesta esperada:** Cita DESPA-PG.01, indica dos supuestos: 15 días calendario post-descarga sin destinación a régimen, o 30 días desde el vencimiento de la numeración sin culminar el trámite. Menciona que las mercancías pasan a disposición de SUNAT.
 
 ---
 
